@@ -4,11 +4,12 @@ import random
 #TO DO
 #Leduc with random agent and player agent
 #Maximum bets per round
+#Add CFR Chance Sampling
 #Check setup
 #Add Kuhn and make Poker class
-#Add CFR Chance Sampling
 #Add other CFR variations
 #Add NL Leduc
+#===================
 #Get working with AAAI poker thing
 #Get working with 2 players on different computers
 #Think about more interesting small games
@@ -23,8 +24,6 @@ class LimitLeduc:
 		self.num_players = len(players) #should be 2 or 3
 		self.pot = self.num_players * ante 
 		self.round = 1
-		self.players[0] = players[0]
-		self.players[1] = players[1]
 		self.r1history = []
 		self.r2history = []
 		self.cards = [1,1,2,2,3,3]
@@ -140,10 +139,12 @@ class Player:
 	def __init__(self, name, chips = 100):
 		self.chips = chips
 		self.name = name
+		self.hands = 0
+		self.profit = 0
 
 class Human(Player):
-	def __init__(self, name, chips = 100):
-		pass
+	# def __init__(self, name, chips = 100):
+	# 	pass
 	def select_move(betoptions, betsize):
 		print('Enter your bet')
 		if betoptions[0]: print('FOLD: f')
