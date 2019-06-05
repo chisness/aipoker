@@ -52,16 +52,49 @@ class Tictactoe:
 class MinimaxAgent:
 	def __init__(self):
 		self.memo = {} #state, value
+		#returns value, action
 
-	def select_move(self, game_state):
-		if game_state not in self.memo:
-			val = game_state.check_result()
-			if val is None: #game not over
-				val = max(self.select_move(possible_state) * game_state.acting_player for possible_state in game_state.next_states())
-				self.memo[game_state] = val * game_state.acting_player
-			else: #game is over
-				self.memo[game_state] = val 
-		return self.memo[game_state]
+	def minimax(self, game_state):#, depth = 12):
+		if game_state.acting_player not in self.memo:
+			self.memo[player] = {}
+
+		if game_state not in self.memo[player]: #already visited this state?
+
+			result = game_state.check_result()
+			if result not None:# or depth == 0: #leaf node or end of search
+				best_move = None
+				best_val = result #return 0 for tie or 1 for maximizing win or -1 for minimizing win
+
+			if game_state.acting_player == 1: #maximizing node
+				v = []
+				best_val = float('-inf')
+				for i in game_state.available_moves():
+					print('available moves max', i)
+					t = game_state.board
+					t[i] = game_state.acting_player
+					new_state = Tictactoe(t, 0-game_state.acting_player)
+					print('max state\n',new_state)
+					v[i] = self.minimax(new_state)#, depth-1)
+					if v[i] > best_val:
+						best_val = v[i]
+						best_action = i
+				return best_val, best_action
+
+			if game_state.acting_player == -1: #minimizing node
+				v = []
+				best_val = float('inf')
+				for i in game_state.available_moves():
+					print('available moves min', i)
+					t = game_state.board
+					t[i] = game_state.acting_player
+					new_state = Tictactoe(t, 0-game_state.acting_player)
+					print('min state\n',new_state)
+					v[i] = self.minimax(new_state)#, depth-1)
+					if v[i] < best_val:
+						best_val = v[i] 
+						best_action = i
+			self.memo[player][game_state] = (best_move, best_val)
+		return self.memo[player][game_state]
 
 
 class MinimaxDepthAgent:
@@ -72,6 +105,7 @@ class MinimaxDepthAgent:
 		if game_state not in self.memo:
 			val = game_state.check_result()
 			if val is None and depth>=1: #game not over and depth not reached
+			#if depth reached, then 
 				val = max(self.select_move(possible_state, depth-1) * game_state.acting_player for possible_state in game_state.next_states())
 				self.memo[game_state] = val * game_state.acting_player
 			else: #game is over
@@ -79,10 +113,10 @@ class MinimaxDepthAgent:
 		return self.memo[game_state]
 
 class AlphaBetaAgent:
-	def __init__(self):
+	def __init__(self, alpha, beta):
 		self.memo = {} #state, value
 
-	def select_move(self, game_state, alpha = , beta = ):
+	def select_move(self, game_state, alpha = -float('inf'), beta = float('inf')):
 		if game_state not in self.memo:
 			val = game_state.check_result()
 			if val is None: #game not over
@@ -157,7 +191,7 @@ if __name__ == "__main__":
 	ttt = Tictactoe()
 	print(ttt)
 	mms = MinimaxAgent()
-	print(mms.select_move(ttt))
+	print(mms.minimax(ttt))
 	#agent = MinimaxAgent()
 	#print(agent.select_move(ttt, 1))
 
