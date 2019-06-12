@@ -2,6 +2,7 @@ from math import *
 import numpy as np
 import copy
 import random
+import math
 
 #minimax, negamax
 #alpha beta
@@ -18,6 +19,12 @@ class Tictactoe:
 		if move in self.available_moves():
 			self.board[move] = self.acting_player
 			self.acting_player = 0 - self.acting_player #players are 1 or -1
+
+	def new_state_with_move(self, move): #return new ttt state with move, but don't change this state
+		if move in self.available_moves():
+			board_copy = copy.deepcopy(self.board)
+			board_copy[move] = self.acting_player
+			return Tictactoe(board_copy, 0 - self.acting_player)
 			
 	def available_moves(self):
 		return [i for i in range(9) if self.board[i] == 0]
@@ -66,197 +73,113 @@ class NegamaxAgent:
 		return self.memo[game_state]
 
 
-class MinimaxAgent:
-	def __init__(self):
-		self.memo = {} #move, value
+class MCTSNode:
+	def __init__(self, game_state, parent = None, move = None):
+		self.parent = parent
+		self.move = move
+		self.game_state = game_state
+		self.children = []
+		self.win_counts = {1: 0, -1: 0}
+		self.num_rollouts = 0
+		self.unvisited_moves = game_state.available_moves()
 
-	def minimax(self, game_state):
-		if game_state not in self.memo: #already visited this state?
-			result = game_state.check_result()
-			if result is not None: #leaf node or end of search
-				best_move = None
-				best_val = result * game_state.acting_player #return 0 for tie or 1 for maximizing win or -1 for minimizing win
-			else:
-				best_val = float('-inf')
-				for i in game_state.available_moves():
-					clone_state = copy.deepcopy(game_state)
-					clone_state.make_move(i) #makes move and switches to next player
-					_, val = self.minimax(clone_state)
-					val *= -1 
-					if val > best_val:
-						best_move = i
-						best_val = val	
-			self.memo[game_state] = (best_move, best_val)
-		return self.memo[game_state]
+	def add_random_child(self):
+		move_index = random.randint(0, len(self.unvisited_moves)-1) #inclusive
+		new_move = self.unvisited_moves.pop(move_index)
+		new_node = MCTSNode(self.game_state.new_state_with_move(new_move), self, new_move)
+		self.children.append(new_node)
+		return new_node
 
+	def can_add_child(self):
+		return len(self.unvisited_moves) > 0
 
-class AlphaBetaAgent:
-	#Initialize alpha = -inf and beta = inf
-	#Prune when alpha >= beta
-	#Alpha min score for maximzier
-	#Beta max score for minimizer, first minimizer score will = new beta
+	def is_terminal(self):
+		return self.game_state.check_result() is not None
 
-	def __init__(self):
-		self.memo = {} #state, value
-		#returns value, action
+	def update(self, result):
+		if result == 1:
+			self.win_counts[1] += 1
+			self.win_counts[-1] -= 1
+		elif result == -1:
+			self.win_counts[-1] += 1
+			self.win_counts[1] -= 1
+		self.num_rollouts += 1
 
-	def minimax(self, game_state, alpha, beta):
-		if game_state not in self.memo: #already visited this state?
-
-			result = game_state.check_result()
-			if result is not None: #leaf node or end of search
-				best_move = None
-				best_val = result * game_state.acting_player #return 0 for tie or 1 for maximizing win or -1 for minimizing win
-
-			else:
-				print(game_state)
-				best_val = float('-inf')
-				for i in game_state.available_moves():
-					clone_state = copy.deepcopy(game_state)
-					clone_state.make_move(i) #makes move and switches to next player
-					print(clone_state)
-					_, val = self.minimax(clone_state)
-					val *= -1 #$clone_state.acting_player
-					if val > best_val:
-						best_move = i
-						best_val = val	
-
-			self.memo[game_state] = (best_move, best_val)
-		return self.memo[game_state]
+	def winning_frac(self, player):
+		return float(self.win_counts[player]) / float(self.num_rollouts)
 
 
-class MinimaxAgentTEST1:
-	def __init__(self):
-		self.memo = {} #state, value
-		#returns value, action
+class MCTSAgent:
+	def __init__(self, num_rounds = 10000, temperature = 2):
+		self.num_rounds = num_rounds
+		self.temperature = temperature
 
-	def minimax(self, game_state):
-		if game_state not in self.memo: #already visited this state?
+	def uct_select_child(self, node):
+		best_score = -float('inf')
+		best_child = None
+		total_rollouts = sum(child.num_rollouts for child in node.children)
+		log_rollouts = math.log(total_rollouts)
 
-			result = game_state.check_result()
-			if result is not None: #leaf node or end of search
-				best_move = None
-				best_val = result * game_state.acting_player #return 0 for tie or 1 for maximizing win or -1 for minimizing win
-				print('acting player endstate', game_state.acting_player)
-				print('endstate val', best_val)
+		for child in node.children:
+			win_pct = child.winning_frac(node.game_state.acting_player)
+			exploration_factor = math.sqrt(log_rollouts / child.num_rollouts)
+			uct_score = win_pct + self.temperature * exploration_factor
+			if uct_score > best_score:
+				best_score = uct_score
+				best_child = child
+		return best_child
 
-			else:
-				print('game state')
-				print(game_state)
-				best_val = float('-inf')
-				for i in game_state.available_moves():
-					clone_state = copy.deepcopy(game_state)
-					clone_state.make_move(i) #makes move and switches to next player
-					print('clone state')
-					print(clone_state)
-					_, val = self.minimax(clone_state)
-					val *= -1 #$clone_state.acting_player
-					print('best val', best_val)
-					print('val', val)
-					print('action', i)		
-					print('player', clone_state.acting_player)
-					if val > best_val:
-						best_move = i
-						best_val = val	
+	def select_move(self, game_state):
+		root = MCTSNode(game_state)
 
-			self.memo[game_state] = (best_move, best_val)
-		return self.memo[game_state]
+		for i in range(self.num_rounds):
+			node = root
+			print(i)
+			print(node.game_state)
 
-class MinimaxAgentTEST:
-	def __init__(self):
-		self.memo = {} #state, value
-		#returns value, action
+			#selection -- UCT select child until we get to a node that can be expanded
+			while (not node.can_add_child()) and (not node.is_terminal()):
+				node = self.uct_select_child(node)
+				print(node.game_state)
+				print('selection')
 
-	def minimax(self, game_state):
-		winning_moves = {}
-		drawing_moves = {}
-		losing_moves = {}
-		if game_state not in self.memo: #already visited this state?
+			#expansion -- expand from leaf unless leaf is end of game
+			if node.can_add_child():
+				node = node.add_random_child()
+				print('expansion')
+				print(node.game_state)
 
-			result = game_state.check_result()
-			if result is not None: #leaf node or end of search
-				best_move = None
-				best_val = result * game_state.acting_player #return 0 for tie or 1 for maximizing win or -1 for minimizing win
-				print('acting player', game_state.acting_player)
-				print(best_val)
+			#simulation -- complete a random playout from the newly expanded node
+			gs_temp = copy.deepcopy(node.game_state)
+			while gs_temp.check_result() is None:
+				print('simulation')
+				gs_temp.make_move(random.choice(gs_temp.available_moves()))
+				print(gs_temp)
 
-			else:
-				#best_val = float('-inf')
-				for i in game_state.available_moves():
-					clone_state = copy.deepcopy(game_state)
-					clone_state.make_move(i) #makes move and switches to next player
-					print(clone_state)
-					_, val = self.minimax(clone_state)
-					val *= -1 #$clone_state.acting_player
-					print(val)
-					if val == 1:
-						winning_moves[i] = val
-					elif val == 0:
-						drawing_moves[i] = val
-					elif val == -1:
-						losing_moves[i] = val					
-					# if val > best_val:
-					# 	best_move = i
-					# 	best_val = val
+			# while gs.available_moves() != []:
+			# 	gs.make_move(random.choice(gs.available_moves()))
 
-			if winning_moves:
-				print('win', winning_moves)
-				best_move = random.choice(list(winning_moves))
-				best_val = winning_moves[best_move]
-			elif drawing_moves:
-				print('draw', drawing_moves)
-				best_move = random.choice(list(drawing_moves))
-				best_val = drawing_moves[best_move]
-			elif losing_moves:
-				print('lose', losing_moves)
-				best_move = random.choice(list(losing_moves))
-				best_val = losing_moves[best_move]
-			self.memo[game_state] = (best_move, best_val)
-		return self.memo[game_state]
+			#backpropagation -- update all nodes from the selection to leaf stage
+			while node is not None:
+				print('backprop')
+				print(gs_temp.check_result())
+				node.update(gs_temp.check_result())
+				node = node.parent
 
-# class MinimaxAgentR:
-# 	def __init__(self):
-# 		self.memo = {} #state, value
+		scored_moves = [(child.winning_frac(game_state.acting_player), child.move, child.num_rollouts) for child in root.children]
+		scored_moves.sort(key = lambda x: x[0], reverse=True)
+		for s, m, n in scored_moves[:10]:
+			print('%s - %.3f (%d)' % (m, s, n))
 
-# 	def select_move(self, game_state, depth = 9):
-# 		winning_moves = []
-# 		draw_moves = []
-# 		losing_moves = []
-
-# 		if game_state not in self.memo:
-# 			val = state.check_result()
-# 			if val is None: #game not over
-# 				for possible_move in game_state.available_moves():	
-# 					val = max(self.select_move() * game_state.player())
-# 					self.memo[state] = val * game_state.player()
-# 			else: #game is over
-# 				self.memo[state] = val 
-# 		return self.memo[state]
-
-# 		#if depth == 0:
-# 		#	return 
-
-# 		# for possible_move in game_state.available_moves():
-# 		# 	clone = copy.copy(game_state)
-# 		# 	clone.make_move(possible_move)
-# 		# 	best_result = self.best_result(clone, player)#, depth-1)
-
-# 		# 	if best_result == player:
-# 		# 		winning_moves.append(possible_move)
-# 		# 	elif best_result == 0.5:
-# 		# 		draw_moves.append(possible_move)
-# 		# 	else:
-# 		# 		losing_moves.append(possible_move)
-
-# 		# print('winning', winning_moves)
-# 		# print('draw', draw_moves)
-# 		# print('losing', losing_moves)
-
-# 		# if winning_moves:
-# 		# 	return random.choice(winning_moves)
-# 		# if draw_moves:
-# 		# 	return random.choice(draw_moves)
-# 		# return random.choice(losing_moves)
+		best_pct = -1.0
+		best_move = None
+		for child in root.children:
+			child_pct = child.winning_frac(game_state.acting_player)
+			if child_pct > best_pct:
+				best_pct = child_pct
+				best_move = child.move
+		print('Select move %s with avg val %.3f' % (best_move, best_pct))
+		return best_move
 
 
 class HumanAgent:
@@ -284,33 +207,35 @@ if __name__ == "__main__":
 	#ttt = Tictactoe([-1,1,-1,-1,1,1,0,-1,0])
 	#ttt = Tictactoe([0,0,-1,1,0,0,0,0,0],-1)
 	#ttt = Tictactoe([1,0,0,0,0,0,0,0,-1])
-	#print(ttt)
-	mms = MinimaxAgent()
-	h = HumanAgent()
+	print(ttt)
+	#mms = MinimaxAgent()
+	#h = HumanAgent()
+	mctsa = MCTSAgent(num_rounds = 1000)
+	print(mctsa.select_move(ttt))
 	#print(mms.minimax(ttt))
 	#agent = MinimaxAgent()
 	#print(agent.select_move(ttt, 1))
-	moves = 0
-	while ttt.available_moves():
-		print(ttt)
-		print('\n')
-		print('move', moves)
-		print('acting player', ttt.acting_player)
-		if moves % 2 == 0:
-			print(ttt.board)
-			move, _ = mms.minimax(ttt)
-			print('minimax move', move)
-		else:
-			move = h.select_move(ttt)
-		ttt.make_move(move)
-		if ttt.check_result() == 0:
-			print('Draw game')
-			break
-		elif ttt.check_result() == 1:
-			print('Player 1 wins')
-		elif ttt.check_result() == -1:
-			print('Player 2 wins')
-		moves+=1
+	# moves = 0
+	# while ttt.available_moves():
+	# 	print(ttt)
+	# 	print('\n')
+	# 	print('move', moves)
+	# 	print('acting player', ttt.acting_player)
+	# 	if moves % 2 == 0:
+	# 		print(ttt.board)
+	# 		move, _ = mms.minimax(ttt)
+	# 		print('minimax move', move)
+	# 	else:
+	# 		move = h.select_move(ttt)
+	# 	ttt.make_move(move)
+	# 	if ttt.check_result() == 0:
+	# 		print('Draw game')
+	# 		break
+	# 	elif ttt.check_result() == 1:
+	# 		print('Player 1 wins')
+	# 	elif ttt.check_result() == -1:
+	# 		print('Player 2 wins')
+	# 	moves+=1
 
 
 

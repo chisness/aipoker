@@ -28,13 +28,14 @@ from itertools import permutations
 #class LimitLeduc(Poker):
 
 class Kuhn:
-	def __init__(self, players, dealer_player = 0, ante = 1, shuffled_deck = [1,2,3]):
+	def __init__(self, players, dealer_player = 0, ante = 1, shuffled_deck = [1,2,3], buckets = 0):
 		self.dealer_player = dealer_player
 		self.num_players = len(players)
 		self.pot = self.num_players * ante
 		self.history = []
 		self.cards = shuffled_deck
 		self.betsize = 1
+		self.buckets = 0
 		if self.num_players == 2:
 			self.player0cards = self.cards[1 - dealer_player]
 			self.player1cards = self.cards[dealer_player]
@@ -134,12 +135,13 @@ class Node:
 		return avg_strategy
 
 class KuhnCFR:
-	def __init__(self, iterations, decksize):
+	def __init__(self, iterations, decksize, buckets):
 		self.iterations = iterations
 		self.decksize = decksize
 		self.cards = np.arange(decksize)
 		self.nodes = {}
 		self.bet_options = 2
+		self.buckets = buckets
 
 	def cfr_iterations_chance(self):
 		util = 0
@@ -176,7 +178,13 @@ class KuhnCFR:
 		#print('infoset history: {}'.format(history))
 		num_actions = 2
 
-		infoset = str(cards[acting_player]) + history
+		
+		if self.buckets > 0:
+			bucket = int(cards[acting_player] * self.buckets/self.decksize)
+			infoset = str(bucket) + history
+
+		else:
+			infoset = str(cards[acting_player]) + history
 
 		if infoset not in self.nodes:
 			self.nodes[infoset] = Node(num_actions)
@@ -387,7 +395,7 @@ class NLLeducCFR:
 
 		if history == '':
 			poss_bets = arange(acting_stack)
-			bets_for_array = str(i) + 'b' for i in poss_bets
+			#bets_for_array = str(i) + 'b' for i in poss_bets
 			return np.concatenate(('k',  bets_for_array)) #check or bet after check or when first to act
 
 	def do_cfr(self, cards, history, p0, p1, pot, round, p0stack, p1stack):
@@ -743,8 +751,8 @@ if __name__ == "__main__":
 	# 	p.game()
 	# 	print('PLAYER 0 PROFIT: {}'.format(p0.profit))
 	# 	print('PLAYER 1 PROFIT: {}'.format(p1.profit))
-	#k = KuhnCFR(10000, 3)
+	k = KuhnCFR(10000, 100, 10)
 	#k.cfr_iterations_vanilla()
 
-	k = LimitLeducCFR(100000, 3)
+	#k = LimitLeducCFR(100000, 3)
 	k.cfr_iterations_chance()
