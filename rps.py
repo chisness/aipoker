@@ -152,9 +152,9 @@ class RPSSwitchPlayer:
 
 class RPSFixedPlayer:
 	def __init__(self):
-		self.strategy = [0.9, 0.05, 0.05]
+		#self.strategy = [0.9, 0.05, 0.05]
 		#self.strategy = [0.2, 0.6, 0.2]
-		#self.strategy = [1/3, 1/3, 1/3]
+		self.strategy = [1/3, 1/3, 1/3]
 		self.winnings = 0
 
 	def get_strategy(self):
@@ -401,7 +401,7 @@ class RPS:
 
 			#p2_strategy = p2.get_strategy()
 			#p2_strategy = p2.get_strategy(p2_move, result, epsilon = 0.25)
-			p2_strategy = p2.get_strategy(counter)#last_moves[1])#(counter)#last_moves[1])
+			p2_strategy = p2.get_strategy()#p2.get_strategy(counter)#last_moves[1])#(counter)#last_moves[1])
 			if p2_strategy == -1:
 				print('Quit game')
 				break
@@ -521,13 +521,13 @@ class RPS:
 if __name__ == "__main__":
 	p1 = RPSCFRPlayer()
 	#p2 = Human()
-	p2 = RPSSwitchPlayer()
+	#p2 = RPSSwitchPlayer()
 	#p2 = RPSCFRPlayer()
-	#p2 = RPSFixedPlayer()
+	p2 = RPSFixedPlayer()
 	#p2 = RPSExploitPlayer()
 	#p2 = Yoni()
 	game = RPS(p1, p2)
-	game.play_games(num_games = 20000)
+	game.play_games(num_games = 25)
 
 	#vs opponent
 	#fixed opponent changes strategy

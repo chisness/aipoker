@@ -1,0 +1,120 @@
+\title{Kuhn Poker (AKQ Game) }
+\author{Max Chiswick}
+%\date{\today}
+
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+
+
+
+\begin{document}
+\maketitle
+
+%\begin{abstract}
+%This is the paper's abstract \ldots
+%\end{abstract}
+
+\section{The Game}
+
+\subsection{Rules}
+\begin{itemize}
+\item 2 players, each is dealt a card in {A, K, Q}
+\item Each antes 1 at the start of the hand
+\item Each has 1 remaining for betting
+\item There is one betting round
+\item The highest card is the best (i.e., A $>$ K $>$ Q)
+\end{itemize}
+
+\subsection{Betting Sequences}
+\begin{itemize}
+\item Action starts with P1, who can Bet 1 or Check
+\item If P1 bets, P2 can either Call or Fold
+\item If P1 checks, P2 can either Bet or Check
+\item If P2 bets after P1 checks, P1 can then Call or Fold
+\end{itemize}
+
+\subsection{Payoffs}
+\begin{itemize}
+\item If a player folds to a bet, the other player wins the pot of 2 (profit of 1)
+\item If both players check, the highest card player wins the pot of 2 (profit of 1)
+\item If there is a bet and call, the highest card player wins the pot of 4 (profit of 2)
+\end{itemize}
+
+\section{Variables}
+
+\subsection{P1 opening action}
+P1 should never bet the K card here because if he bets the K, P2 with Q will always fold (since the lowest card can never win) and P2 with A will always call (since the best card will always win). 
+By checking the K always, P1 can try to induce a bluff from P2 when P2 has the Q. 
+
+Therefore we assign P1's strategy:
+\begin{itemize}
+\item Bet Q: $x$
+\item Bet K: $0$
+\item Bet A: $y$
+\end{itemize}
+
+\subsection{P2 after P1 bet}
+After P1 bets, P2 should always call with the A and always fold the Q as explained above. 
+
+Therefore we assign P2's strategy after P1 bet:
+\begin{itemize}
+\item Call Q: $0$
+\item Call K: $a$
+\item Call A: $1$
+\end{itemize}
+
+\subsection{P2 after P1 check}
+After P1 checks, P2 should never bet with the K for the same reason as P1 should never initially bet with the K. 
+P2 should always bet with the A because it is the best hand and there is no bluff to induce by checking. 
+
+Therefore we assign P2's strategy after P1 check:
+\begin{itemize}
+\item Bet Q: $b$
+\item Bet K: $0$
+\item Bet A: $1$
+\end{itemize}
+
+\subsection{P1 after P1 check and P2 bet}
+This case is similar to P2's actions after P1's bet. P1 can never call here with the worst hand (Q) and must always call with the best hand (A). 
+
+Therefore we assign P1's strategy after P1 check and P2 bet:
+\begin{itemize}
+\item Call Q: $0$
+\item Call K: $z$
+\item Call A: $1$
+\end{itemize}
+
+
+So we now have 5 different variables $x, y, z, a, b$ to represent the unknown probabilities. 
+
+\section{Solving}
+
+\subsection{Solving for $a$}
+We start by solving for $a$, how often P2 should call with a K facing a bet from P1. 
+P2 should call $a$ to make P1 indifferent to bluffing (i.e., betting or checking) with card Q. 
+
+\par If P1 checks with card Q, he will always fold afterwards (because it is the worst card and can never win). 
+
+\begin{align}
+   u(\textrm{P1 check with Q}) &= 0      
+\end{align}
+
+
+\par If P1 bets with card Q, 
+
+\begin{align}
+u(\textrm{P1 bet with Q}) &= (\textrm{P2 has A and always calls/wins}) + \\ (\textrm{P2 has K and folds}) + (\textrm{P2 has K and calls/wins}) \\
+&= (1/2)(-1) + (1/2)[(a)(-1) + (1-a)(2)] \\
+&= -1/2 - 1/2 * a + (1-a) \\
+&= 1/2 - 3/2 * a
+\end{align}
+
+Setting the probabilities of betting with Q and checking with Q equal, we have:
+\begin{align}
+   0 &= \frac{1}{2} - \frac{3}{2} * a \\        
+   \frac{3}{2} * a  &= \frac{1}{2} \\
+    a &= \frac{1}{3}
+\end{align}
+
+
+\end{document}

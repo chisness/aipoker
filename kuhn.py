@@ -743,6 +743,347 @@ class KuhnCFR:
 				pot += 1
 			return self.deep_cfr(cards, next_history, pot, nodes_touched, traversing_player, theta_0, theta_1, m_v, m_pi, t)
 
+
+class Kuhn3CFR:
+	def __init__(self, iterations, decksize):
+		self.iterations = iterations
+		self.decksize = decksize
+		self.cards = np.arange(decksize)
+		self.nodes = {}
+		self.bet_options = 2
+		self.counter = 0
+
+	def cfr_iterations_external(self):
+		util = np.zeros(3)
+		for i in range(self.iterations): #start with the chance node sampling
+			random.shuffle(self.cards)
+			for i in range(3):
+				util[i] += self.external_cfr(self.cards[:3], '', 3, 0, i)
+		print('Average value 0: {}'.format(util[0]/self.iterations))
+		print('Average value 1: {}'.format(util[1]/self.iterations))
+		print('Average value 2: {}'.format(util[2]/self.iterations))
+		for i in sorted(self.nodes):
+			print(i, self.nodes[i].get_average_strategy())
+
+	# def cfr_iterations_chance(self):
+	# 	util = 0
+	# 	opens = []
+	# 	opens_st = []
+	# 	kb = []
+	# 	kb_st = []
+	# 	b = []
+	# 	b_st = []
+	# 	k = []
+	# 	k_st = []
+
+	# 	for i in range(self.iterations):
+	# 		random.shuffle(self.cards)
+	# 		util += self.do_cfr(self.cards[:3], '', 1, 1, 1, 2, 0)
+	# 	print('Average game value: {}'.format(util/self.iterations))
+	# 	for i in sorted(self.nodes):
+	# 		avg_st = self.nodes[i].get_average_strategy()
+	# 		print(i, avg_st)
+
+	# 		if len(i) == 1:
+	# 			opens.append(i)
+	# 			opens_st.append(avg_st[0])
+	# 		if len(i) == 3:
+	# 			kb.append(i)
+	# 			kb_st.append(avg_st[0])
+	# 		if i[1:] == 'b':
+	# 			b.append(i)
+	# 			b_st.append(avg_st[0])
+	# 		if i[1:] == 'k':
+	# 			k.append(i)
+	# 			k_st.append(avg_st[0])
+
+	# 	opens_st = np.array(opens_st)
+	# 	kb_st = np.array(kb_st)
+	# 	b_st = np.array(b_st)
+	# 	k_st = np.array(k_st)
+
+	# 	ind = np.arange(len(opens))
+
+	# 	#plt.figure()
+	# 	plt.subplot(221)
+	# 	plt.bar(ind, 1 - opens_st, label = 'Bet')
+	# 	plt.bar(ind, opens_st, bottom=(1-opens_st), label = 'Pass')
+	# 	plt.xticks(ind, opens)
+	# 	plt.legend()
+	# 	plt.xlabel('Information set')
+	# 	plt.ylabel('Strategy percent')
+	# 	plt.title('Kuhn Strategy for Player 1 starting action with {} iterations'.format(self.iterations))
+
+	# 	plt.subplot(224)
+	# 	plt.bar(ind, 1 - kb_st, label = 'Bet')
+	# 	plt.bar(ind, kb_st, bottom=(1-kb_st), label = 'Pass')
+	# 	plt.xticks(ind, kb)
+	# 	plt.legend()
+	# 	plt.xlabel('Information set')
+	# 	plt.ylabel('Strategy percent')
+	# 	plt.title('Kuhn Strategy for Player 1 after check/bet action with {} iterations'.format(self.iterations))
+
+	# 	plt.subplot(223)
+	# 	plt.bar(ind, 1 - b_st, label = 'Bet')
+	# 	plt.bar(ind, b_st, bottom=(1-b_st), label = 'Pass')
+	# 	plt.xticks(ind, b)
+	# 	plt.legend()
+	# 	plt.xlabel('Information set')
+	# 	plt.ylabel('Strategy percent')
+	# 	plt.title('Kuhn Strategy for Player 2 after bet action with {} iterations'.format(self.iterations))
+
+	# 	plt.subplot(222)
+	# 	plt.bar(ind, 1 - k_st, label = 'Bet')
+	# 	plt.bar(ind, k_st, bottom=(1-k_st), label = 'Pass')
+	# 	plt.xticks(ind, k)
+	# 	plt.legend()
+	# 	plt.xlabel('Information set')
+	# 	plt.ylabel('Strategy percent')
+	# 	plt.title('Kuhn Strategy for Player 2 after check with {} iterations'.format(self.iterations))
+	# 	plt.show()
+
+	# 	expl_i = []
+	# 	expl = []
+	# 	for i in self.exploit:
+	# 		expl_i.append(i)
+	# 		expl.append(self.exploit[i])
+	# 	plt.plot(expl_i, expl)
+	# 	plt.show()
+
+
+	def external_cfr(self, cards, history, pot, nodes_touched, traversing_player):
+		plays = len(history)
+		acting_player = plays % 3
+		self.counter += 1
+
+		if plays >= 3:
+			
+			ct = cards[traversing_player]
+			
+			ca = cards[acting_player]
+			if acting_player == 0:
+				prev1 = 2
+				prev2 = 1
+			elif acting_player == 1:
+				prev1 = 0
+				prev2 = 2
+			elif acting_player == 2:
+				prev1 = 1
+				prev2 = 0
+			if traversing_player == 0:
+				other1 = 2
+				other2 = 1
+			elif traversing_player == 1:
+				other1 = 0
+				other2 = 2
+			elif traversing_player == 2:
+				other1 = 1
+				other2 = 0
+
+			if history[-3:] == 'kkk': #all check
+				print('history', history)
+				print('traversing player', traversing_player)
+				print('traversing player cards', ct)
+				print('other1 cards', cards[other1])
+				print('other2 cards', cards[other2])
+				if ct > cards[other1] and ct > cards[other2]:
+					print('return', 2)
+					return 2
+				else:
+					print('return', 1)
+					return -1
+
+			elif history[-3:] == 'bff': #acting player bet, others folded
+				print('history', history)
+				print('traversing player', traversing_player)
+				print('traversing player cards', ct)
+				print('other1 cards', cards[other1])
+				print('other2 cards', cards[other2])
+				if traversing_player == acting_player:
+					print('return', 2)
+					return 2
+				else:
+					print('return', -1)
+					return -1
+
+			elif history[-3:] == 'bcf': #acting player bet, 1 call, 1 fold
+				print('history', history)
+				print('traversing player', traversing_player)
+				print('traversing player cards', ct)
+				print('other1 cards', cards[other1])
+				print('other2 cards', cards[other2])
+				if traversing_player == acting_player:
+					if ct > cards[prev2]:
+						print('return', 3)
+						return 3
+					else:
+						print('return', -2)
+						return -2
+				elif traversing_player == prev2:
+					if ct > cards[acting_player]:
+						print('return', 3)
+						return 3
+					else:
+						print('return', -2)
+						return -2
+				elif traversing_player == prev1:
+					print('return', -1)
+					return -1
+
+			elif history[-3:] == 'bfc':
+				print('history', history)
+				print('traversing player', traversing_player)
+				print('traversing player cards', ct)
+				print('other1 cards', cards[other1])
+				print('other2 cards', cards[other2])
+				if traversing_player == acting_player:
+					if ct > cards[prev1]:
+						print('return', 3)
+						return 3
+					else:
+						print('return', -2)
+						return -2
+				elif traversing_player == prev1:
+					if ct > cards[acting_player]:
+						print('return', 3)
+						return 3
+					else:
+						print('return', -2)
+						return -2
+				elif traversing_player == prev2:
+					print('return', -1)
+					return -1
+
+			elif history[-3:] == 'bcc':
+				print('history', history)
+				print('traversing player', traversing_player)
+				print('traversing player cards', ct)
+				print('other1 cards', cards[other1])
+				print('other2 cards', cards[other2])
+				if ct > cards[other1] and ct > cards[other2]:
+					print('return', 4)
+					return 4
+				else:
+					print('return', -2)
+					return -2
+
+		num_actions = 2
+
+		infoset = str(cards[acting_player]) + history
+		if infoset not in self.nodes:
+			self.nodes[infoset] = Node(num_actions)
+
+		nodes_touched += 1
+
+
+		strategy = self.nodes[infoset].get_strategy()
+
+		if acting_player == traversing_player:
+			util = np.zeros(self.bet_options) #2 actions
+			node_util = 0
+
+			for a in range(num_actions):
+				if a == 0:
+					if 'b' in history:
+						next_history = history + 'f'
+					else:
+						next_history = history + 'k'
+				elif a == 1:
+					if 'b' in history:
+						next_history = history + 'c'
+					else:
+						next_history = history + 'b'
+					pot += 1
+				util[a] = self.external_cfr(cards, next_history, pot, nodes_touched, traversing_player)
+				node_util += strategy[a] * util[a]
+
+			for a in range(num_actions):
+				regret = util[a] - node_util
+				self.nodes[infoset].regret_sum[a] += regret
+			return node_util
+
+		else: #acting_player != traversing_player
+			util = 0
+			if random.random() < strategy[0]:
+					if 'b' in history:
+						next_history = history + 'f'
+					else:
+						next_history = history + 'k'
+			else: 
+					if 'b' in history:
+						next_history = history + 'c'
+					else:
+						next_history = history + 'b'
+					pot += 1
+			util = self.external_cfr(cards, next_history, pot, nodes_touched, traversing_player)
+			for a in range(num_actions):
+				self.nodes[infoset].strategy_sum[a] += strategy[a]
+			return util
+
+	# def do_cfr(self, cards, history, p0, p1, p2, pot, nodes_touched):
+	# 	plays = len(history)
+	# 	acting_player = plays % 3
+	# 	opponent_player = 1 - acting_player
+	# 	self.counter += 1
+
+	# 	if plays >= 3:
+	# 		if history[-1] == 'f': #bet fold
+	# 			return 1
+	# 		if (history[-1] == history[-2] == 'k') or (history[-1] == 'c'): #check check or bet call, go to showdown
+	# 			if cards[acting_player] > cards[opponent_player]:
+	# 				return pot/2 #profit
+	# 			else:
+	# 				return -pot/2
+
+	# 	num_actions = 2
+	# 	infoset = str(cards[acting_player]) + history
+
+	# 	if infoset not in self.nodes:
+	# 		self.nodes[infoset] = Node(num_actions)
+
+	# 	if acting_player == 0:
+	# 		realization_weight = p0
+	# 	elif acting_player == 1:
+	# 		realization_weight = p1
+	# 	else:
+	# 		realization_weight = p2
+
+	# 	strategy = self.nodes[infoset].get_strategy(realization_weight)
+	# 	util = np.zeros(self.bet_options) #2 actions
+	# 	node_util = 0
+
+	# 	for a in range(num_actions):
+	# 		#print('a is: {}'.format(a))
+	# 		if a == 0:
+	# 			if 'b' in history:
+	# 				next_history = history + 'f'
+	# 			else:
+	# 				next_history = history + 'k'
+	# 		elif a == 1:
+	# 			if 'b' in history:
+	# 				next_history = history + 'c'
+	# 			else:
+	# 				next_history = history + 'b'
+	# 			pot += 1
+	# 		if acting_player == 0:
+	# 			util[a] = -self.do_cfr(cards, next_history, p0*strategy[a], p1, p2, pot, nodes_touched)
+	# 		elif acting_player == 1: 
+	# 			util[a] = -self.do_cfr(cards, next_history, p0, p1*strategy[a], p2, pot, nodes_touched)
+	# 		elif acting_player == 2:
+	# 			util[a] = -self.do_cfr(cards, next_history, p0, p1, p2*strategy[a], pot, nodes_touched)
+	# 		node_util += strategy[a] * util[a]
+
+	# 	for a in range(num_actions):
+	# 		regret = util[a] - node_util
+	# 		if acting_player == 0:
+	# 			self.nodes[infoset].regret_sum[a] += p1 * p2 * regret
+	# 		elif acting_player == 1:
+	# 			self.nodes[infoset].regret_sum[a] += p0 * p2 * regret
+	# 		elif acting_player == 2:
+	# 			self.nodes[infoset].regret_sum[a] += p0 * p1 * regret
+
+	# 	return node_util
+
 class LimitLeducCFR:
 	def __init__(self, iterations, decksize):
 		self.iterations = iterations
@@ -1261,9 +1602,12 @@ if __name__ == "__main__":
 	# 	p.game()
 	# 	print('PLAYER 0 PROFIT: {}'.format(p0.profit))
 	# 	print('PLAYER 1 PROFIT: {}'.format(p1.profit))
-	k = KuhnCFR(100000, 10, 0)
+	k = KuhnCFR(100000, 3, 0)
 	#k.cfr_iterations_vanilla()
 
 	#k = LimitLeducCFR(100000, 3)
 	k.cfr_iterations_chance()
+	#k.cfr_iterations_external()
+
+	#k = Kuhn3CFR(100000, 4)
 	#k.cfr_iterations_external()
