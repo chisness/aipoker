@@ -153,7 +153,20 @@ class RPSSwitchPlayer:
 class RPSFixedPlayer:
 	def __init__(self):
 		#self.strategy = [0.9, 0.05, 0.05]
-		#self.strategy = [0.2, 0.6, 0.2]
+		#self.strategy = [0.4, 0.3, 0.3]
+		self.strategy = [1/3, 1/3, 1/3]
+		self.winnings = 0
+
+	def get_strategy(self):
+		return self.strategy
+
+	def get_average_strategy(self):
+		return self.strategy
+
+class RPSFixedPlayer2:
+	def __init__(self):
+		#self.strategy = [0.9, 0.05, 0.05]
+		#self.strategy = [0, 1, 0]
 		self.strategy = [1/3, 1/3, 1/3]
 		self.winnings = 0
 
@@ -396,12 +409,13 @@ class RPS:
 
 			last_moves = [last_moves[1], p1_move]
 
-			p1_strategy_noneg = p1.get_strategy_noneg()
-			p1_move_noneg = np.random.choice(ACTIONS, p=p1_strategy_noneg)
+			# p1_strategy_noneg = p1.get_strategy_noneg()
+			# p1_move_noneg = np.random.choice(ACTIONS, p=p1_strategy_noneg)
 
 			#p2_strategy = p2.get_strategy()
-			#p2_strategy = p2.get_strategy(p2_move, result, epsilon = 0.25)
-			p2_strategy = p2.get_strategy()#p2.get_strategy(counter)#last_moves[1])#(counter)#last_moves[1])
+			#p2_strategy = p2.get_strategy(p2_move, result)#, epsilon = 0.25)
+			#p2_strategy = p2.get_strategy()#p2.get_strategy(counter)#last_moves[1])#(counter)#last_moves[1])
+			p2_strategy = p2.get_strategy()#(counter)#last_moves[1])
 			if p2_strategy == -1:
 				print('Quit game')
 				break
@@ -409,7 +423,7 @@ class RPS:
 				p2_move = np.random.choice(ACTIONS, p=p2_strategy)
 
 				result = self.check_result(p1_move, p2_move)
-				result_nn = self.check_result(p1_move_noneg, p2_move)
+				#result_nn = self.check_result(p1_move_noneg, p2_move)
 				print('Computer move is: {}'.format(p1_move))
 				if result == 0:
 					print('Tie game')
@@ -418,23 +432,24 @@ class RPS:
 				elif result == -1:
 					print('Human player wins')
 				p1.winnings += result
-				p1.winnings_noneg += result_nn
+				#p1.winnings_noneg += result_nn
 				p2.winnings -= result
 				rewards1.append(p1.winnings)
-				rewards2.append(p1.winnings_noneg)
+				#rewards2.append(p1.winnings_noneg)
 				print(p1.winnings)
 
 				if counter % 1 == 0 and counter > -1:
+					#print(p1.regret_sum)
 					current_strat_graph.append(np.array(p1.get_strategy()[:]))
 					average_strat_graph.append(p1.get_average_strategy()[:])
-					current_strat_graph_noneg.append(np.array(p1.get_strategy_noneg()[:]))
-					average_strat_graph_noneg.append(p1.get_average_strategy_noneg()[:])
+					#current_strat_graph_noneg.append(np.array(p1.get_strategy_noneg()[:]))
+					#average_strat_graph_noneg.append(p1.get_average_strategy_noneg()[:])
 					current_strat_graph2.append(np.array(p1.get_strategy()[:]))
 					average_strat_graph2.append(p2.get_average_strategy()[:])
 					#avg_rewards.append(p1.winnings/counter)
 					ticks_graph.append(counter)
 
-				result_noneg = self.check_result(p1_move_noneg, p2_move)
+				#result_noneg = self.check_result(p1_move_noneg, p2_move)
 
 				for a in range(NUM_ACTIONS):
 						utility[a] = self.check_result(a, p2_move)
@@ -443,7 +458,7 @@ class RPS:
 				for a in range(NUM_ACTIONS):
 					#print(utility[a] - utility[p1_move])
 					p1.regret_sum[a] += (utility[a] - utility[p1_move])
-					p1.regret_sum_noneg[a] += (utility[a] - utility[p1_move_noneg])
+					#p1.regret_sum_noneg[a] += (utility[a] - utility[p1_move_noneg])
 					#p2.regret_sum[a] += (utility[a] - utility[p2_move])
 					#regret is other move minus our move, i.e., alternative compared to move we took
 
@@ -460,8 +475,8 @@ class RPS:
 		current_strat_graph = np.array(current_strat_graph)
 		average_strat_graph = np.array(average_strat_graph)
 		average_strat_graph2 = np.array(average_strat_graph2)
-		current_strat_graph_noneg = np.array(current_strat_graph_noneg)
-		average_strat_graph_noneg = np.array(average_strat_graph_noneg)
+		#current_strat_graph_noneg = np.array(current_strat_graph_noneg)
+		#average_strat_graph_noneg = np.array(average_strat_graph_noneg)
 		rewards1 = np.array(rewards1)
 		rewards2 = np.array(rewards2)
 		#avg_rewards1 = avg_rewards1 / counter
@@ -482,28 +497,27 @@ class RPS:
 		ax1.plot(ticks_graph, average_strat_graph[:,1], label='P Average P1', color='mediumorchid')
 		ax1.plot(ticks_graph, average_strat_graph[:,2], label='S Average P1', color='royalblue')
 		ax2.plot(ticks_graph, rewards1, label = 'Rewards', color='black')
-		ax1.set_title('Regular regret matching')
-		ax1.set_xlabel('100 iteration increments')
+		ax1.set_title('Regret matching')
+		ax1.set_xlabel('Games')
 		ax1.set_ylabel('Strategy percentage')
 		ax2.set_ylabel('Rewards')
 		ax1.legend(loc='upper right')
 		ax2.legend(loc='lower right')
-		ax1 = fig.add_subplot(222)
-		ax2 = ax1.twinx()
-		#for a in range(NUM_ACTIONS):
-		ax1.plot(ticks_graph, current_strat_graph_noneg[:,0], label='R Current P1', color='green')
-		ax1.plot(ticks_graph, current_strat_graph_noneg[:,1], label='P Current P1', color='purple')
-		ax1.plot(ticks_graph, current_strat_graph_noneg[:,2], label='S Current P1', color='navy')
-		ax1.plot(ticks_graph, average_strat_graph_noneg[:,0], label='R Average P1', color='lightgreen')
-		ax1.plot(ticks_graph, average_strat_graph_noneg[:,1], label='P Average P1', color='mediumorchid')
-		ax1.plot(ticks_graph, average_strat_graph_noneg[:,2], label='S Average P1', color='royalblue')
-		ax2.plot(ticks_graph, rewards2, label = 'Rewards', color='black')
-		ax1.set_title('Regret matching with negative regret resetting')
-		ax1.set_xlabel('100 iteration increments')
-		ax1.set_ylabel('Strategy percentage')
-		ax2.set_ylabel('Rewards')
-		ax1.legend(loc='upper right')
-		ax2.legend(loc='lower right')
+		# ax1 = fig.add_subplot(222)
+		# ax2 = ax1.twinx()
+		# ax1.plot(ticks_graph, current_strat_graph_noneg[:,0], label='R Current P1', color='green')
+		# ax1.plot(ticks_graph, current_strat_graph_noneg[:,1], label='P Current P1', color='purple')
+		# ax1.plot(ticks_graph, current_strat_graph_noneg[:,2], label='S Current P1', color='navy')
+		# ax1.plot(ticks_graph, average_strat_graph_noneg[:,0], label='R Average P1', color='lightgreen')
+		# ax1.plot(ticks_graph, average_strat_graph_noneg[:,1], label='P Average P1', color='mediumorchid')
+		# ax1.plot(ticks_graph, average_strat_graph_noneg[:,2], label='S Average P1', color='royalblue')
+		# ax2.plot(ticks_graph, rewards2, label = 'Rewards', color='black')
+		# ax1.set_title('Regret matching with negative regret resetting')
+		# ax1.set_xlabel('100 iteration increments')
+		# ax1.set_ylabel('Strategy percentage')
+		# ax2.set_ylabel('Rewards')
+		# ax1.legend(loc='upper right')
+		# ax2.legend(loc='lower right')
 		plt.subplot(223)
 		plt.plot(ticks_graph, average_strat_graph[:,0], label='R Average P1', color='green')
 		plt.plot(ticks_graph, average_strat_graph[:,1], label='P Average P1', color='purple')
@@ -512,7 +526,7 @@ class RPS:
 		plt.plot(ticks_graph, average_strat_graph2[:,1], label='P Average P2', color='mediumorchid')
 		plt.plot(ticks_graph, average_strat_graph2[:,2], label='S Average P2', color='royalblue')
 		plt.title('Regret matching P1 vs P2 average strategies')
-		plt.xlabel('100 iteration increments')
+		plt.xlabel('Games')
 		plt.ylabel('Strategy percentage')
 		plt.legend(loc='upper right')
 		plt.show()
@@ -523,11 +537,12 @@ if __name__ == "__main__":
 	#p2 = Human()
 	#p2 = RPSSwitchPlayer()
 	#p2 = RPSCFRPlayer()
+	#p1 = RPSFixedPlayer2()
 	p2 = RPSFixedPlayer()
 	#p2 = RPSExploitPlayer()
 	#p2 = Yoni()
 	game = RPS(p1, p2)
-	game.play_games(num_games = 25)
+	game.play_games(num_games = 10000)
 
 	#vs opponent
 	#fixed opponent changes strategy

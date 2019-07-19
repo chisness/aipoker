@@ -1602,7 +1602,7 @@ if __name__ == "__main__":
 	# 	p.game()
 	# 	print('PLAYER 0 PROFIT: {}'.format(p0.profit))
 	# 	print('PLAYER 1 PROFIT: {}'.format(p1.profit))
-	k = KuhnCFR(100000, 3, 0)
+	k = KuhnCFR(100000, 10, 0)
 	#k.cfr_iterations_vanilla()
 
 	#k = LimitLeducCFR(100000, 3)
