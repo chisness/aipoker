@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te olduak juan
+
+Seed: 0
+starting position: te olduak juan
+SCORE:308|-502|194:te|olduak|juan
+starting position: te juan olduak
+SCORE:333|24|-357:te|juan|olduak
+starting position: olduak te juan
+SCORE:-173|-2|175:olduak|te|juan
+starting position: olduak juan te
+SCORE:-85|-9|94:olduak|juan|te
+starting position: juan olduak te
+SCORE:452|-564|112:juan|olduak|te
+starting position: juan te olduak
+SCORE:369|-78|-291:juan|te|olduak
+
+seed score
+{'te': 767, 'olduak': -1972, 'juan': 1205}
+accumulated score
+{'te': 767, 'olduak': -1972, 'juan': 1205}
+
+Seed: 1
+starting position: te olduak juan
+SCORE:40|-301|261:te|olduak|juan
+starting position: te juan olduak
+SCORE:41|241|-282:te|juan|olduak
+starting position: olduak te juan
+SCORE:-425|146|279:olduak|te|juan
+starting position: olduak juan te
+SCORE:-414|235|179:olduak|juan|te
+starting position: juan olduak te
+SCORE:50|-309|259:juan|olduak|te
+starting position: juan te olduak
+SCORE:94|121|-215:juan|te|olduak
+
+seed score
+{'te': 786, 'olduak': -1946, 'juan': 1160}
+accumulated score
+{'te': 1553, 'olduak': -3918, 'juan': 2365}
+
+Seed: 2
+starting position: te olduak juan
+SCORE:28|-168|140:te|olduak|juan
+starting position: te juan olduak
+SCORE:27|361|-388:te|juan|olduak
+starting position: olduak te juan
+SCORE:-463|306|157:olduak|te|juan
+starting position: olduak juan te
+SCORE:-457|364|93:olduak|juan|te
+starting position: juan olduak te
+SCORE:115|-202|87:juan|olduak|te
+starting position: juan te olduak
+SCORE:56|288|-344:juan|te|olduak
+
+seed score
+{'te': 829, 'olduak': -2022, 'juan': 1193}
+accumulated score
+{'te': 2382, 'olduak': -5940, 'juan': 3558}
+
+Seed: 3
+starting position: te olduak juan
+SCORE:241|-422|181:te|olduak|juan
+starting position: te juan olduak
+SCORE:244|155|-399:te|juan|olduak
+starting position: olduak te juan
+SCORE:-248|60|188:olduak|te|juan
+starting position: olduak juan te
+SCORE:-221|149|72:olduak|juan|te
+starting position: juan olduak te
+SCORE:324|-464|140:juan|olduak|te
+starting position: juan te olduak
+SCORE:284|74|-358:juan|te|olduak
+
+seed score
+{'te': 831, 'olduak': -2112, 'juan': 1281}
+accumulated score
+{'te': 3213, 'olduak': -8052, 'juan': 4839}
+
+Seed: 4
+starting position: te olduak juan
+SCORE:196|-329|133:te|olduak|juan
+starting position: te juan olduak
+SCORE:214|200|-414:te|juan|olduak
+starting position: olduak te juan
+SCORE:-301|139|162:olduak|te|juan
+starting position: olduak juan te
+SCORE:-231|171|60:olduak|juan|te
+starting position: juan olduak te
+SCORE:267|-358|91:juan|olduak|te
+starting position: juan te olduak
+SCORE:213|96|-309:juan|te|olduak
+
+seed score
+{'te': 796, 'olduak': -1942, 'juan': 1146}
+accumulated score
+{'te': 4009, 'olduak': -9994, 'juan': 5985}
+
+Seed: 5
+starting position: te olduak juan
+SCORE:140|-315|175:te|olduak|juan
+starting position: te juan olduak
+SCORE:154|181|-335:te|juan|olduak
+starting position: olduak te juan
+SCORE:-359|90|269:olduak|te|juan
+starting position: olduak juan te
+SCORE:-253|114|139:olduak|juan|te
+starting position: juan olduak te
+SCORE:287|-393|106:juan|olduak|te
+starting position: juan te olduak
+SCORE:193|79|-272:juan|te|olduak
+
+seed score
+{'te': 708, 'olduak': -1927, 'juan': 1219}
+accumulated score
+{'te': 4717, 'olduak': -11921, 'juan': 7204}
+
+Seed: 6
+starting position: te olduak juan
+SCORE:-32|-281|313:te|olduak|juan
+starting position: te juan olduak
+SCORE:-44|289|-245:te|juan|olduak
+starting position: olduak te juan
+SCORE:-541|185|356:olduak|te|juan
+starting position: olduak juan te
+SCORE:-526|244|282:olduak|juan|te
+starting position: juan olduak te
+SCORE:54|-318|264:juan|olduak|te
+starting position: juan te olduak
+SCORE:85|114|-199:juan|te|olduak
+
+seed score
+{'te': 769, 'olduak': -2110, 'juan': 1341}
+accumulated score
+{'te': 5486, 'olduak': -14031, 'juan': 8545}
+
+Seed: 7
+starting position: te olduak juan
+SCORE:153|-344|191:te|olduak|juan
+starting position: te juan olduak
+SCORE:188|158|-346:te|juan|olduak
+starting position: olduak te juan
+SCORE:-314|82|232:olduak|te|juan
+starting position: olduak juan te
+SCORE:-359|166|193:olduak|juan|te
+starting position: juan olduak te
+SCORE:305|-444|139:juan|olduak|te
+starting position: juan te olduak
+SCORE:246|62|-308:juan|te|olduak
+
+seed score
+{'te': 817, 'olduak': -2115, 'juan': 1298}
+accumulated score
+{'te': 6303, 'olduak': -16146, 'juan': 9843}
+
+Seed: 8
+starting position: te olduak juan
+SCORE:285|-454|169:te|olduak|juan
+starting position: te juan olduak
+SCORE:322|41|-363:te|juan|olduak
+starting position: olduak te juan
+SCORE:-167|-59|226:olduak|te|juan
+starting position: olduak juan te
+SCORE:-175|4|171:olduak|juan|te
+starting position: juan olduak te
+SCORE:386|-567|181:juan|olduak|te
+starting position: juan te olduak
+SCORE:331|-37|-294:juan|te|olduak
+
+seed score
+{'te': 863, 'olduak': -2020, 'juan': 1157}
+accumulated score
+{'te': 7166, 'olduak': -18166, 'juan': 11000}
+
+Seed: 9
+starting position: te olduak juan
+SCORE:190|-370|180:te|olduak|juan
+starting position: te juan olduak
+SCORE:208|207|-415:te|juan|olduak
+starting position: olduak te juan
+SCORE:-281|92|189:olduak|te|juan
+starting position: olduak juan te
+SCORE:-277|135|142:olduak|juan|te
+starting position: juan olduak te
+SCORE:281|-425|144:juan|olduak|te
+starting position: juan te olduak
+SCORE:219|52|-271:juan|te|olduak
+
+seed score
+{'te': 828, 'olduak': -2039, 'juan': 1211}
+accumulated score
+{'te': 7994, 'olduak': -20205, 'juan': 12211}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin bayes juan
+
+Seed: 0
+starting position: kevin bayes juan
+SCORE:-639|313|326:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-474|27|447:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:656|-809|153:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:712|157|-869:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:408|244|-652:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:550|-1014|464:juan|kevin|bayes
+
+seed score
+{'kevin': -4457, 'bayes': 2836, 'juan': 1621}
+accumulated score
+{'kevin': -4457, 'bayes': 2836, 'juan': 1621}
+
+Seed: 1
+starting position: kevin bayes juan
+SCORE:-869|482|387:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-751|205|546:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:313|-599|286:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:354|361|-715:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:116|438|-554:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:283|-903|620:juan|kevin|bayes
+
+seed score
+{'kevin': -4391, 'bayes': 2753, 'juan': 1638}
+accumulated score
+{'kevin': -8848, 'bayes': 5589, 'juan': 3259}
+
+Seed: 2
+starting position: kevin bayes juan
+SCORE:-1039|704|335:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-757|345|412:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:319|-481|162:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:365|555|-920:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:102|647|-749:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:250|-683|433:juan|kevin|bayes
+
+seed score
+{'kevin': -4629, 'bayes': 2880, 'juan': 1749}
+accumulated score
+{'kevin': -13477, 'bayes': 8469, 'juan': 5008}
+
+Seed: 3
+starting position: kevin bayes juan
+SCORE:-741|418|323:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-496|59|437:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:562|-743|181:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:604|210|-814:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:281|403|-684:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:429|-894|465:juan|kevin|bayes
+
+seed score
+{'kevin': -4372, 'bayes': 2889, 'juan': 1483}
+accumulated score
+{'kevin': -17849, 'bayes': 11358, 'juan': 6491}
+
+Seed: 4
+starting position: kevin bayes juan
+SCORE:-812|494|318:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-518|133|385:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:504|-700|196:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:570|280|-850:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:156|482|-638:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:340|-760|420:juan|kevin|bayes
+
+seed score
+{'kevin': -4278, 'bayes': 2855, 'juan': 1423}
+accumulated score
+{'kevin': -22127, 'bayes': 14213, 'juan': 7914}
+
+Seed: 5
+starting position: kevin bayes juan
+SCORE:-767|417|350:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-578|129|449:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:483|-673|190:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:527|304|-831:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:213|430|-643:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:335|-823|488:juan|kevin|bayes
+
+seed score
+{'kevin': -4315, 'bayes': 2794, 'juan': 1521}
+accumulated score
+{'kevin': -26442, 'bayes': 17007, 'juan': 9435}
+
+Seed: 6
+starting position: kevin bayes juan
+SCORE:-1093|555|538:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-840|246|594:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:250|-658|408:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:268|328|-596:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:81|487|-568:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:238|-863|625:juan|kevin|bayes
+
+seed score
+{'kevin': -4618, 'bayes': 2779, 'juan': 1839}
+accumulated score
+{'kevin': -31060, 'bayes': 19786, 'juan': 11274}
+
+Seed: 7
+starting position: kevin bayes juan
+SCORE:-805|442|363:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-558|94|464:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:527|-748|221:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:545|198|-743:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:164|387|-551:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:354|-862|508:juan|kevin|bayes
+
+seed score
+{'kevin': -4267, 'bayes': 2873, 'juan': 1394}
+accumulated score
+{'kevin': -35327, 'bayes': 22659, 'juan': 12668}
+
+Seed: 8
+starting position: kevin bayes juan
+SCORE:-609|221|388:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-489|-20|509:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:631|-881|250:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:695|172|-867:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:423|207|-630:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:524|-1071|547:juan|kevin|bayes
+
+seed score
+{'kevin': -4547, 'bayes': 2810, 'juan': 1737}
+accumulated score
+{'kevin': -39874, 'bayes': 25469, 'juan': 14405}
+
+Seed: 9
+starting position: kevin bayes juan
+SCORE:-786|423|363:kevin|bayes|juan
+starting position: kevin juan bayes
+SCORE:-630|172|458:kevin|juan|bayes
+starting position: bayes kevin juan
+SCORE:504|-673|169:bayes|kevin|juan
+starting position: bayes juan kevin
+SCORE:553|317|-870:bayes|juan|kevin
+starting position: juan bayes kevin
+SCORE:249|345|-594:juan|bayes|kevin
+starting position: juan kevin bayes
+SCORE:452|-929|477:juan|kevin|bayes
+
+seed score
+{'kevin': -4482, 'bayes': 2760, 'juan': 1722}
+accumulated score
+{'kevin': -44356, 'bayes': 28229, 'juan': 16127}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark bayes juan
+
+Seed: 0
+starting position: kuhnshark bayes juan
+SCORE:255|-420|165:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:327|3|-330:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-146|32|114:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-77|-5|82:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:329|-489|160:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:319|-29|-290:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 827, 'bayes': -1752, 'juan': 925}
+accumulated score
+{'kuhnshark': 827, 'bayes': -1752, 'juan': 925}
+
+Seed: 1
+starting position: kuhnshark bayes juan
+SCORE:45|-275|230:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:53|173|-226:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-429|230|199:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-370|231|139:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:48|-302|254:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:72|73|-145:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 794, 'bayes': -1747, 'juan': 953}
+accumulated score
+{'kuhnshark': 1621, 'bayes': -3499, 'juan': 1878}
+
+Seed: 2
+starting position: kuhnshark bayes juan
+SCORE:-9|-101|110:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:111|259|-370:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-422|306|116:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-374|337|37:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:66|-175|109:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:95|218|-313:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 772, 'bayes': -1755, 'juan': 983}
+accumulated score
+{'kuhnshark': 2393, 'bayes': -5254, 'juan': 2861}
+
+Seed: 3
+starting position: kuhnshark bayes juan
+SCORE:179|-327|148:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:255|77|-332:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-259|123|136:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-168|113|55:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:215|-348|133:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:267|23|-290:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 768, 'bayes': -1724, 'juan': 956}
+accumulated score
+{'kuhnshark': 3161, 'bayes': -6978, 'juan': 3817}
+
+Seed: 4
+starting position: kuhnshark bayes juan
+SCORE:122|-245|123:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:205|162|-367:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-255|134|121:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-197|135|62:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:199|-318|119:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:256|40|-296:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 682, 'bayes': -1678, 'juan': 996}
+accumulated score
+{'kuhnshark': 3843, 'bayes': -8656, 'juan': 4813}
+
+Seed: 5
+starting position: kuhnshark bayes juan
+SCORE:100|-310|210:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:237|86|-323:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-314|181|133:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-219|158|61:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:156|-342|186:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:237|44|-281:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 809, 'bayes': -1789, 'juan': 980}
+accumulated score
+{'kuhnshark': 4652, 'bayes': -10445, 'juan': 5793}
+
+Seed: 6
+starting position: kuhnshark bayes juan
+SCORE:-23|-219|242:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:3|219|-222:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-471|170|301:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-440|176|264:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:-22|-267|289:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:-15|171|-156:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 874, 'bayes': -1775, 'juan': 901}
+accumulated score
+{'kuhnshark': 5526, 'bayes': -12220, 'juan': 6694}
+
+Seed: 7
+starting position: kuhnshark bayes juan
+SCORE:114|-321|207:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:188|116|-304:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-272|90|182:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-228|98|130:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:153|-383|230:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:245|-5|-240:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 747, 'bayes': -1748, 'juan': 1001}
+accumulated score
+{'kuhnshark': 6273, 'bayes': -13968, 'juan': 7695}
+
+Seed: 8
+starting position: kuhnshark bayes juan
+SCORE:294|-489|195:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:310|-34|-276:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-177|-7|184:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-111|-53|164:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:331|-544|213:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:292|-77|-215:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 897, 'bayes': -1812, 'juan': 915}
+accumulated score
+{'kuhnshark': 7170, 'bayes': -15780, 'juan': 8610}
+
+Seed: 9
+starting position: kuhnshark bayes juan
+SCORE:135|-337|202:kuhnshark|bayes|juan
+starting position: kuhnshark juan bayes
+SCORE:226|98|-324:kuhnshark|juan|bayes
+starting position: bayes kuhnshark juan
+SCORE:-263|107|156:bayes|kuhnshark|juan
+starting position: bayes juan kuhnshark
+SCORE:-206|146|60:bayes|juan|kuhnshark
+starting position: juan bayes kuhnshark
+SCORE:201|-377|176:juan|bayes|kuhnshark
+starting position: juan kuhnshark bayes
+SCORE:235|2|-237:juan|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 706, 'bayes': -1744, 'juan': 1038}
+accumulated score
+{'kuhnshark': 7876, 'bayes': -17524, 'juan': 9648}
+

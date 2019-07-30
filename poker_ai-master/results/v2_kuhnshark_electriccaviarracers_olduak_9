@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark electriccaviarracers olduak
+
+Seed: 0
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:289|-78|-211:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:327|-281|-46:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:117|-25|-92:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:298|-409|111:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:39|-115|76:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:14|-55|41:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 723, 'electriccaviarracers': 217, 'olduak': -940}
+accumulated score
+{'kuhnshark': 723, 'electriccaviarracers': 217, 'olduak': -940}
+
+Seed: 1
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:81|1|-82:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:59|-157|98:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:-93|116|-23:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:-14|-164|178:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-177|-32|209:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-327|144|183:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 787, 'electriccaviarracers': 143, 'olduak': -930}
+accumulated score
+{'kuhnshark': 1510, 'electriccaviarracers': 360, 'olduak': -1870}
+
+Seed: 2
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:19|220|-239:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:16|-19|3:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:-136|294|-158:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:12|-115|103:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-175|102|73:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-305|241|64:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 746, 'electriccaviarracers': 265, 'olduak': -1011}
+accumulated score
+{'kuhnshark': 2256, 'electriccaviarracers': 625, 'olduak': -2881}
+
+Seed: 3
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:213|46|-259:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:203|-158|-45:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:24|81|-105:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:120|-196|76:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-20|-43|63:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-119|55|64:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 691, 'electriccaviarracers': 166, 'olduak': -857}
+accumulated score
+{'kuhnshark': 2947, 'electriccaviarracers': 791, 'olduak': -3738}
+
+Seed: 4
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:150|19|-169:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:152|-76|-76:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:86|113|-199:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:105|-199|94:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-73|-45|118:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-174|141|33:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 768, 'electriccaviarracers': 122, 'olduak': -890}
+accumulated score
+{'kuhnshark': 3715, 'electriccaviarracers': 913, 'olduak': -4628}
+
+Seed: 5
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:172|35|-207:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:177|-90|-87:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:4|95|-99:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:84|-186|102:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-50|-92|142:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-143|95|48:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 783, 'electriccaviarracers': -8, 'olduak': -775}
+accumulated score
+{'kuhnshark': 4498, 'electriccaviarracers': 905, 'olduak': -5403}
+
+Seed: 6
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:9|134|-143:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:-3|-49|52:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:-136|170|-34:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:-70|-198|268:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-337|96|241:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-355|202|153:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 887, 'electriccaviarracers': 229, 'olduak': -1116}
+accumulated score
+{'kuhnshark': 5385, 'electriccaviarracers': 1134, 'olduak': -6519}
+
+Seed: 7
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:99|91|-190:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:113|-96|-17:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:-10|62|-52:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:91|-256|165:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-114|-51|165:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-181|84|97:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 688, 'electriccaviarracers': 201, 'olduak': -889}
+accumulated score
+{'kuhnshark': 6073, 'electriccaviarracers': 1335, 'olduak': -7408}
+
+Seed: 8
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:327|-125|-202:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:275|-241|-34:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:122|-86|-36:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:253|-453|200:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:31|-186|155:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-50|-40|90:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 831, 'electriccaviarracers': 120, 'olduak': -951}
+accumulated score
+{'kuhnshark': 6904, 'electriccaviarracers': 1455, 'olduak': -8359}
+
+Seed: 9
+starting position: kuhnshark electriccaviarracers olduak
+SCORE:174|2|-176:kuhnshark|electriccaviarracers|olduak
+starting position: kuhnshark olduak electriccaviarracers
+SCORE:142|-147|5:kuhnshark|olduak|electriccaviarracers
+starting position: electriccaviarracers kuhnshark olduak
+SCORE:-16|66|-50:electriccaviarracers|kuhnshark|olduak
+starting position: electriccaviarracers olduak kuhnshark
+SCORE:109|-208|99:electriccaviarracers|olduak|kuhnshark
+starting position: olduak electriccaviarracers kuhnshark
+SCORE:-61|-54|115:olduak|electriccaviarracers|kuhnshark
+starting position: olduak kuhnshark electriccaviarracers
+SCORE:-126|98|28:olduak|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 694, 'electriccaviarracers': 74, 'olduak': -768}
+accumulated score
+{'kuhnshark': 7598, 'electriccaviarracers': 1529, 'olduak': -9127}
+

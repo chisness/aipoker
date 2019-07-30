@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: electriccaviarracers efs juan
+
+Seed: 0
+starting position: electriccaviarracers efs juan
+SCORE:350|-325|-25:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:192|11|-203:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-7|-191|198:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:1|-181|180:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:389|-354|-35:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:215|19|-234:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 515, 'efs': -1122, 'juan': 607}
+accumulated score
+{'electriccaviarracers': 515, 'efs': -1122, 'juan': 607}
+
+Seed: 1
+starting position: electriccaviarracers efs juan
+SCORE:93|-164|71:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:-257|247|10:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-256|-15|271:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-269|5|264:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:123|-199|76:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:-143|176|-33:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 337, 'efs': -911, 'juan': 574}
+accumulated score
+{'electriccaviarracers': 852, 'efs': -2033, 'juan': 1181}
+
+Seed: 2
+starting position: electriccaviarracers efs juan
+SCORE:84|-64|-20:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:-118|369|-251:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-273|118|155:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-263|132|131:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:102|-45|-57:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:-85|340|-255:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 498, 'efs': -1151, 'juan': 653}
+accumulated score
+{'electriccaviarracers': 1350, 'efs': -3184, 'juan': 1834}
+
+Seed: 3
+starting position: electriccaviarracers efs juan
+SCORE:248|-227|-21:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:18|133|-151:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-43|-107|150:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-10|-70|80:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:280|-230|-50:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:89|110|-199:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 299, 'efs': -860, 'juan': 561}
+accumulated score
+{'electriccaviarracers': 1649, 'efs': -4044, 'juan': 2395}
+
+Seed: 4
+starting position: electriccaviarracers efs juan
+SCORE:168|-86|-82:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:37|169|-206:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-157|-53|210:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-86|-42|128:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:261|-156|-105:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:10|159|-169:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 334, 'efs': -860, 'juan': 526}
+accumulated score
+{'electriccaviarracers': 1983, 'efs': -4904, 'juan': 2921}
+
+Seed: 5
+starting position: electriccaviarracers efs juan
+SCORE:194|-252|58:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:-33|141|-108:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-97|-90|187:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-122|-70|192:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:230|-246|16:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:-13|109|-96:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 388, 'efs': -921, 'juan': 533}
+accumulated score
+{'electriccaviarracers': 2371, 'efs': -5825, 'juan': 3454}
+
+Seed: 6
+starting position: electriccaviarracers efs juan
+SCORE:35|-171|136:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:-129|203|-74:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-352|0|352:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-322|36|286:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:19|-199|180:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:-123|212|-89:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 584, 'efs': -1207, 'juan': 623}
+accumulated score
+{'electriccaviarracers': 2955, 'efs': -7032, 'juan': 4077}
+
+Seed: 7
+starting position: electriccaviarracers efs juan
+SCORE:154|-176|22:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:-31|108|-77:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-113|-104|217:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-76|-100|176:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:147|-211|64:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:-16|133|-117:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 392, 'efs': -770, 'juan': 378}
+accumulated score
+{'electriccaviarracers': 3347, 'efs': -7802, 'juan': 4455}
+
+Seed: 8
+starting position: electriccaviarracers efs juan
+SCORE:439|-412|-27:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:178|-13|-165:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-68|-158|226:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-48|-171|219:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:447|-382|-65:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:170|-1|-169:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 612, 'efs': -1244, 'juan': 632}
+accumulated score
+{'electriccaviarracers': 3959, 'efs': -9046, 'juan': 5087}
+
+Seed: 9
+starting position: electriccaviarracers efs juan
+SCORE:194|-190|-4:electriccaviarracers|efs|juan
+starting position: electriccaviarracers juan efs
+SCORE:4|137|-141:electriccaviarracers|juan|efs
+starting position: efs electriccaviarracers juan
+SCORE:-114|-44|158:efs|electriccaviarracers|juan
+starting position: efs juan electriccaviarracers
+SCORE:-73|-61|134:efs|juan|electriccaviarracers
+starting position: juan efs electriccaviarracers
+SCORE:163|-140|-23:juan|efs|electriccaviarracers
+starting position: juan electriccaviarracers efs
+SCORE:9|120|-129:juan|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': 385, 'efs': -787, 'juan': 402}
+accumulated score
+{'electriccaviarracers': 4344, 'efs': -9833, 'juan': 5489}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark bayes olduak
+
+Seed: 0
+starting position: kuhnshark bayes olduak
+SCORE:458|-97|-361:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:546|-556|10:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:206|175|-381:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:313|-569|256:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-245|-113|358:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-213|137|76:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1930, 'bayes': 395, 'olduak': -2325}
+accumulated score
+{'kuhnshark': 1930, 'bayes': 395, 'olduak': -2325}
+
+Seed: 1
+starting position: kuhnshark bayes olduak
+SCORE:267|64|-331:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:273|-443|170:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:-66|352|-286:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:-31|-386|417:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-427|-4|431:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-461|297|164:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 2037, 'bayes': 297, 'olduak': -2334}
+accumulated score
+{'kuhnshark': 3967, 'bayes': 692, 'olduak': -4659}
+
+Seed: 2
+starting position: kuhnshark bayes olduak
+SCORE:184|275|-459:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:247|-222|-25:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:-105|469|-364:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:-42|-218|260:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-485|185|300:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-519|469|50:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1929, 'bayes': 338, 'olduak': -2267}
+accumulated score
+{'kuhnshark': 5896, 'bayes': 1030, 'olduak': -6926}
+
+Seed: 3
+starting position: kuhnshark bayes olduak
+SCORE:409|25|-434:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:445|-460|15:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:122|296|-418:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:216|-484|268:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-283|-24|307:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-291|235|56:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1960, 'bayes': 410, 'olduak': -2370}
+accumulated score
+{'kuhnshark': 7856, 'bayes': 1440, 'olduak': -9296}
+
+Seed: 4
+starting position: kuhnshark bayes olduak
+SCORE:337|134|-471:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:385|-391|6:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:87|322|-409:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:184|-427|243:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-348|40|308:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-348|338|10:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1933, 'bayes': 461, 'olduak': -2394}
+accumulated score
+{'kuhnshark': 9789, 'bayes': 1901, 'olduak': -11690}
+
+Seed: 5
+starting position: kuhnshark bayes olduak
+SCORE:315|106|-421:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:413|-420|7:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:71|329|-400:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:118|-396|278:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-348|0|348:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-346|251|95:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1934, 'bayes': 397, 'olduak': -2331}
+accumulated score
+{'kuhnshark': 11723, 'bayes': 2298, 'olduak': -14021}
+
+Seed: 6
+starting position: kuhnshark bayes olduak
+SCORE:151|121|-272:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:216|-352|136:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:-129|364|-235:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:-110|-337|447:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-530|47|483:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-566|326|240:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1987, 'bayes': 305, 'olduak': -2292}
+accumulated score
+{'kuhnshark': 13710, 'bayes': 2603, 'olduak': -16313}
+
+Seed: 7
+starting position: kuhnshark bayes olduak
+SCORE:308|26|-334:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:403|-462|59:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:39|272|-311:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:184|-508|324:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-354|-48|402:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-334|220|114:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1929, 'bayes': 374, 'olduak': -2303}
+accumulated score
+{'kuhnshark': 15639, 'bayes': 2977, 'olduak': -18616}
+
+Seed: 8
+starting position: kuhnshark bayes olduak
+SCORE:509|-156|-353:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:520|-606|86:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:210|203|-413:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:258|-578|320:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-190|-223|413:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-282|122|160:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 2087, 'bayes': 335, 'olduak': -2422}
+accumulated score
+{'kuhnshark': 17726, 'bayes': 3312, 'olduak': -21038}
+
+Seed: 9
+starting position: kuhnshark bayes olduak
+SCORE:392|35|-427:kuhnshark|bayes|olduak
+starting position: kuhnshark olduak bayes
+SCORE:391|-391|0:kuhnshark|olduak|bayes
+starting position: bayes kuhnshark olduak
+SCORE:80|321|-401:bayes|kuhnshark|olduak
+starting position: bayes olduak kuhnshark
+SCORE:114|-408|294:bayes|olduak|kuhnshark
+starting position: olduak bayes kuhnshark
+SCORE:-334|-26|360:olduak|bayes|kuhnshark
+starting position: olduak kuhnshark bayes
+SCORE:-315|208|107:olduak|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1966, 'bayes': 310, 'olduak': -2276}
+accumulated score
+{'kuhnshark': 19692, 'bayes': 3622, 'olduak': -23314}
+

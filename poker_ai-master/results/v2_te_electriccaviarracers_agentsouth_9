@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te electriccaviarracers agentsouth
+
+Seed: 0
+starting position: te electriccaviarracers agentsouth
+SCORE:87|-202|115:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-8|70|-62:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:78|-322|244:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:84|-68|-16:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:378|-192|-186:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:250|-188|-62:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -633, 'electriccaviarracers': -356, 'agentsouth': 989}
+accumulated score
+{'te': -633, 'electriccaviarracers': -356, 'agentsouth': 989}
+
+Seed: 1
+starting position: te electriccaviarracers agentsouth
+SCORE:-114|-94|208:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-244|257|-13:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:-187|-181|368:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:-174|107|67:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:188|-135|-53:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:16|-77|61:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -602, 'electriccaviarracers': -542, 'agentsouth': 1144}
+accumulated score
+{'te': -1235, 'electriccaviarracers': -898, 'agentsouth': 2133}
+
+Seed: 2
+starting position: te electriccaviarracers agentsouth
+SCORE:-132|78|54:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-285|380|-95:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:-115|-27|142:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:-153|233|-80:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:130|89|-219:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:-12|103|-91:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -640, 'electriccaviarracers': -287, 'agentsouth': 927}
+accumulated score
+{'te': -1875, 'electriccaviarracers': -1185, 'agentsouth': 3060}
+
+Seed: 3
+starting position: te electriccaviarracers agentsouth
+SCORE:9|-109|100:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-120|181|-61:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:11|-235|224:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:7|30|-37:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:345|-157|-188:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:211|-87|-124:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -658, 'electriccaviarracers': -433, 'agentsouth': 1091}
+accumulated score
+{'te': -2533, 'electriccaviarracers': -1618, 'agentsouth': 4151}
+
+Seed: 4
+starting position: te electriccaviarracers agentsouth
+SCORE:59|-120|61:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-93|257|-164:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:-39|-160|199:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:-29|124|-95:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:269|-22|-247:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:141|23|-164:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -513, 'electriccaviarracers': -538, 'agentsouth': 1051}
+accumulated score
+{'te': -3046, 'electriccaviarracers': -2156, 'agentsouth': 5202}
+
+Seed: 5
+starting position: te electriccaviarracers agentsouth
+SCORE:9|-131|122:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-134|218|-84:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:-100|-172|272:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:-55|80|-25:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:309|-117|-192:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:191|-50|-141:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -564, 'electriccaviarracers': -628, 'agentsouth': 1192}
+accumulated score
+{'te': -3610, 'electriccaviarracers': -2784, 'agentsouth': 6394}
+
+Seed: 6
+starting position: te electriccaviarracers agentsouth
+SCORE:-203|-55|258:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-292|261|31:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:-221|-163|384:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:-225|131|94:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:111|-73|-38:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:-21|19|2:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -583, 'electriccaviarracers': -541, 'agentsouth': 1124}
+accumulated score
+{'te': -4193, 'electriccaviarracers': -3325, 'agentsouth': 7518}
+
+Seed: 7
+starting position: te electriccaviarracers agentsouth
+SCORE:20|-131|111:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-119|199|-80:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:-25|-248|273:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:-40|35|5:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:258|-116|-142:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:122|-23|-99:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -507, 'electriccaviarracers': -491, 'agentsouth': 998}
+accumulated score
+{'te': -4700, 'electriccaviarracers': -3816, 'agentsouth': 8516}
+
+Seed: 8
+starting position: te electriccaviarracers agentsouth
+SCORE:124|-276|152:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-1|87|-86:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:45|-335|290:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:51|-48|-3:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:415|-270|-145:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:220|-178|-42:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -538, 'electriccaviarracers': -578, 'agentsouth': 1116}
+accumulated score
+{'te': -5238, 'electriccaviarracers': -4394, 'agentsouth': 9632}
+
+Seed: 9
+starting position: te electriccaviarracers agentsouth
+SCORE:20|-131|111:te|electriccaviarracers|agentsouth
+starting position: te agentsouth electriccaviarracers
+SCORE:-155|271|-116:te|agentsouth|electriccaviarracers
+starting position: electriccaviarracers te agentsouth
+SCORE:-69|-205|274:electriccaviarracers|te|agentsouth
+starting position: electriccaviarracers agentsouth te
+SCORE:-67|74|-7:electriccaviarracers|agentsouth|te
+starting position: agentsouth electriccaviarracers te
+SCORE:293|-138|-155:agentsouth|electriccaviarracers|te
+starting position: agentsouth te electriccaviarracers
+SCORE:162|-80|-82:agentsouth|te|electriccaviarracers
+
+seed score
+{'te': -582, 'electriccaviarracers': -603, 'agentsouth': 1185}
+accumulated score
+{'te': -5820, 'electriccaviarracers': -4997, 'agentsouth': 10817}
+

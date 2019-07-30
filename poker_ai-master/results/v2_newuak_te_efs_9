@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te efs
+
+Seed: 0
+starting position: newuak te efs
+SCORE:162|-1|-161:newuak|te|efs
+starting position: newuak efs te
+SCORE:399|-321|-78:newuak|efs|te
+starting position: te newuak efs
+SCORE:182|14|-196:te|newuak|efs
+starting position: te efs newuak
+SCORE:383|-343|-40:te|efs|newuak
+starting position: efs te newuak
+SCORE:-9|-196|205:efs|te|newuak
+starting position: efs newuak te
+SCORE:-15|-182|197:efs|newuak|te
+
+seed score
+{'newuak': 558, 'te': 487, 'efs': -1045}
+accumulated score
+{'newuak': 558, 'te': 487, 'efs': -1045}
+
+Seed: 1
+starting position: newuak te efs
+SCORE:-154|201|-47:newuak|te|efs
+starting position: newuak efs te
+SCORE:125|-197|72:newuak|efs|te
+starting position: te newuak efs
+SCORE:-175|237|-62:te|newuak|efs
+starting position: te efs newuak
+SCORE:61|-171|110:te|efs|newuak
+starting position: efs te newuak
+SCORE:-256|-11|267:efs|te|newuak
+starting position: efs newuak te
+SCORE:-300|16|284:efs|newuak|te
+
+seed score
+{'newuak': 601, 'te': 432, 'efs': -1033}
+accumulated score
+{'newuak': 1159, 'te': 919, 'efs': -2078}
+
+Seed: 2
+starting position: newuak te efs
+SCORE:-111|382|-271:newuak|te|efs
+starting position: newuak efs te
+SCORE:105|-57|-48:newuak|efs|te
+starting position: te newuak efs
+SCORE:-91|372|-281:te|newuak|efs
+starting position: te efs newuak
+SCORE:35|14|-49:te|efs|newuak
+starting position: efs te newuak
+SCORE:-226|34|192:efs|te|newuak
+starting position: efs newuak te
+SCORE:-197|66|131:efs|newuak|te
+
+seed score
+{'newuak': 575, 'te': 443, 'efs': -1018}
+accumulated score
+{'newuak': 1734, 'te': 1362, 'efs': -3096}
+
+Seed: 3
+starting position: newuak te efs
+SCORE:61|124|-185:newuak|te|efs
+starting position: newuak efs te
+SCORE:290|-240|-50:newuak|efs|te
+starting position: te newuak efs
+SCORE:22|170|-192:te|newuak|efs
+starting position: te efs newuak
+SCORE:226|-223|-3:te|efs|newuak
+starting position: efs te newuak
+SCORE:-168|-40|208:efs|te|newuak
+starting position: efs newuak te
+SCORE:-87|-75|162:efs|newuak|te
+
+seed score
+{'newuak': 651, 'te': 444, 'efs': -1095}
+accumulated score
+{'newuak': 2385, 'te': 1806, 'efs': -4191}
+
+Seed: 4
+starting position: newuak te efs
+SCORE:-12|257|-245:newuak|te|efs
+starting position: newuak efs te
+SCORE:246|-153|-93:newuak|efs|te
+starting position: te newuak efs
+SCORE:1|253|-254:te|newuak|efs
+starting position: te efs newuak
+SCORE:216|-151|-65:te|efs|newuak
+starting position: efs te newuak
+SCORE:-73|-69|142:efs|te|newuak
+starting position: efs newuak te
+SCORE:-75|-50|125:efs|newuak|te
+
+seed score
+{'newuak': 514, 'te': 437, 'efs': -951}
+accumulated score
+{'newuak': 2899, 'te': 2243, 'efs': -5142}
+
+Seed: 5
+starting position: newuak te efs
+SCORE:10|145|-155:newuak|te|efs
+starting position: newuak efs te
+SCORE:258|-263|5:newuak|efs|te
+starting position: te newuak efs
+SCORE:14|136|-150:te|newuak|efs
+starting position: te efs newuak
+SCORE:220|-249|29:te|efs|newuak
+starting position: efs te newuak
+SCORE:-178|-53|231:efs|te|newuak
+starting position: efs newuak te
+SCORE:-13|-102|115:efs|newuak|te
+
+seed score
+{'newuak': 562, 'te': 446, 'efs': -1008}
+accumulated score
+{'newuak': 3461, 'te': 2689, 'efs': -6150}
+
+Seed: 6
+starting position: newuak te efs
+SCORE:-149|210|-61:newuak|te|efs
+starting position: newuak efs te
+SCORE:79|-215|136:newuak|efs|te
+starting position: te newuak efs
+SCORE:-165|264|-99:te|newuak|efs
+starting position: te efs newuak
+SCORE:-43|-123|166:te|efs|newuak
+starting position: efs te newuak
+SCORE:-214|-114|328:efs|te|newuak
+starting position: efs newuak te
+SCORE:-339|-101|440:efs|newuak|te
+
+seed score
+{'newuak': 587, 'te': 464, 'efs': -1051}
+accumulated score
+{'newuak': 4048, 'te': 3153, 'efs': -7201}
+
+Seed: 7
+starting position: newuak te efs
+SCORE:-136|208|-72:newuak|te|efs
+starting position: newuak efs te
+SCORE:222|-228|6:newuak|efs|te
+starting position: te newuak efs
+SCORE:-101|167|-66:te|newuak|efs
+starting position: te efs newuak
+SCORE:132|-127|-5:te|efs|newuak
+starting position: efs te newuak
+SCORE:-65|-147|212:efs|te|newuak
+starting position: efs newuak te
+SCORE:-90|-118|208:efs|newuak|te
+
+seed score
+{'newuak': 342, 'te': 306, 'efs': -648}
+accumulated score
+{'newuak': 4390, 'te': 3459, 'efs': -7849}
+
+Seed: 8
+starting position: newuak te efs
+SCORE:175|-53|-122:newuak|te|efs
+starting position: newuak efs te
+SCORE:434|-421|-13:newuak|efs|te
+starting position: te newuak efs
+SCORE:125|36|-161:te|newuak|efs
+starting position: te efs newuak
+SCORE:326|-330|4:te|efs|newuak
+starting position: efs te newuak
+SCORE:-91|-199|290:efs|te|newuak
+starting position: efs newuak te
+SCORE:36|-171|135:efs|newuak|te
+
+seed score
+{'newuak': 768, 'te': 321, 'efs': -1089}
+accumulated score
+{'newuak': 5158, 'te': 3780, 'efs': -8938}
+
+Seed: 9
+starting position: newuak te efs
+SCORE:52|107|-159:newuak|te|efs
+starting position: newuak efs te
+SCORE:224|-233|9:newuak|efs|te
+starting position: te newuak efs
+SCORE:11|87|-98:te|newuak|efs
+starting position: te efs newuak
+SCORE:236|-220|-16:te|efs|newuak
+starting position: efs te newuak
+SCORE:-161|-2|163:efs|te|newuak
+starting position: efs newuak te
+SCORE:-161|-12|173:efs|newuak|te
+
+seed score
+{'newuak': 498, 'te': 534, 'efs': -1032}
+accumulated score
+{'newuak': 5656, 'te': 4314, 'efs': -9970}
+

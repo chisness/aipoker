@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak agentsouth juan
+
+Seed: 0
+starting position: newuak agentsouth juan
+SCORE:172|-180|8:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:168|-106|-62:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:43|-68|25:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:126|-97|-29:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:189|-219|30:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:194|-161|-33:juan|newuak|agentsouth
+
+seed score
+{'newuak': 112, 'agentsouth': -325, 'juan': 213}
+accumulated score
+{'newuak': 112, 'agentsouth': -325, 'juan': 213}
+
+Seed: 1
+starting position: newuak agentsouth juan
+SCORE:-96|-15|111:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:-36|41|-5:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:-156|13|143:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:-76|42|34:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:-104|-36|140:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:-136|16|120:juan|newuak|agentsouth
+
+seed score
+{'newuak': 71, 'agentsouth': -168, 'juan': 97}
+accumulated score
+{'newuak': 183, 'agentsouth': -493, 'juan': 310}
+
+Seed: 2
+starting position: newuak agentsouth juan
+SCORE:-67|111|-44:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:-102|251|-149:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:-147|135|12:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:-64|105|-41:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:-53|64|-11:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:-63|148|-85:juan|newuak|agentsouth
+
+seed score
+{'newuak': 62, 'agentsouth': -270, 'juan': 208}
+accumulated score
+{'newuak': 245, 'agentsouth': -763, 'juan': 518}
+
+Seed: 3
+starting position: newuak agentsouth juan
+SCORE:92|-11|-81:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:99|19|-118:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:30|-20|-10:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:50|-48|-2:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:148|-127|-21:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:116|-84|-32:juan|newuak|agentsouth
+
+seed score
+{'newuak': 64, 'agentsouth': -208, 'juan': 144}
+accumulated score
+{'newuak': 309, 'agentsouth': -971, 'juan': 662}
+
+Seed: 4
+starting position: newuak agentsouth juan
+SCORE:52|-30|-22:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:87|3|-90:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:-79|52|27:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:24|-10|-14:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:106|-77|-29:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:66|1|-67:juan|newuak|agentsouth
+
+seed score
+{'newuak': 149, 'agentsouth': -319, 'juan': 170}
+accumulated score
+{'newuak': 458, 'agentsouth': -1290, 'juan': 832}
+
+Seed: 5
+starting position: newuak agentsouth juan
+SCORE:42|-48|6:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:47|2|-49:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:9|4|-13:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:75|-45|-30:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:72|-112|40:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:29|-25|-4:juan|newuak|agentsouth
+
+seed score
+{'newuak': 78, 'agentsouth': -129, 'juan': 51}
+accumulated score
+{'newuak': 536, 'agentsouth': -1419, 'juan': 883}
+
+Seed: 6
+starting position: newuak agentsouth juan
+SCORE:-89|-29|118:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:-163|80|83:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:-216|29|187:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:-177|44|133:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:-65|-75|140:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:-141|42|99:juan|newuak|agentsouth
+
+seed score
+{'newuak': 92, 'agentsouth': -315, 'juan': 223}
+accumulated score
+{'newuak': 628, 'agentsouth': -1734, 'juan': 1106}
+
+Seed: 7
+starting position: newuak agentsouth juan
+SCORE:19|-29|10:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:58|2|-60:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:-85|11|74:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:-1|-13|14:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:59|-159|100:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:104|-107|3:juan|newuak|agentsouth
+
+seed score
+{'newuak': 95, 'agentsouth': -331, 'juan': 236}
+accumulated score
+{'newuak': 723, 'agentsouth': -2065, 'juan': 1342}
+
+Seed: 8
+starting position: newuak agentsouth juan
+SCORE:174|-161|-13:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:151|-118|-33:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:103|-136|33:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:144|-210|66:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:170|-210|40:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:95|-175|80:juan|newuak|agentsouth
+
+seed score
+{'newuak': 120, 'agentsouth': -77, 'juan': -43}
+accumulated score
+{'newuak': 843, 'agentsouth': -2142, 'juan': 1299}
+
+Seed: 9
+starting position: newuak agentsouth juan
+SCORE:67|-47|-20:newuak|agentsouth|juan
+starting position: newuak juan agentsouth
+SCORE:23|5|-28:newuak|juan|agentsouth
+starting position: agentsouth newuak juan
+SCORE:2|-8|6:agentsouth|newuak|juan
+starting position: agentsouth juan newuak
+SCORE:34|-80|46:agentsouth|juan|newuak
+starting position: juan agentsouth newuak
+SCORE:56|-78|22:juan|agentsouth|newuak
+starting position: juan newuak agentsouth
+SCORE:85|-98|13:juan|newuak|agentsouth
+
+seed score
+{'newuak': 52, 'agentsouth': -104, 'juan': 52}
+accumulated score
+{'newuak': 895, 'agentsouth': -2246, 'juan': 1351}
+

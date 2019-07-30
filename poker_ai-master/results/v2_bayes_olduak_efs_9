@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes olduak efs
+
+Seed: 0
+starting position: bayes olduak efs
+SCORE:669|-451|-218:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:507|-262|-245:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-7|126|-119:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-111|-278|389:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:106|-400|294:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:66|237|-303:efs|bayes|olduak
+
+seed score
+{'bayes': 2222, 'olduak': -1517, 'efs': -705}
+accumulated score
+{'bayes': 2222, 'olduak': -1517, 'efs': -705}
+
+Seed: 1
+starting position: bayes olduak efs
+SCORE:257|-181|-76:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:265|-128|-137:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-356|340|16:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-400|-127|527:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:-216|-240|456:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-272|420|-148:efs|bayes|olduak
+
+seed score
+{'bayes': 2265, 'olduak': -1462, 'efs': -803}
+accumulated score
+{'bayes': 4487, 'olduak': -2979, 'efs': -1508}
+
+Seed: 2
+starting position: bayes olduak efs
+SCORE:350|-116|-234:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:180|52|-232:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-277|448|-171:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-423|45|378:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:-200|-130|330:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-351|614|-263:efs|bayes|olduak
+
+seed score
+{'bayes': 2300, 'olduak': -1441, 'efs': -859}
+accumulated score
+{'bayes': 6787, 'olduak': -4420, 'efs': -2367}
+
+Seed: 3
+starting position: bayes olduak efs
+SCORE:529|-304|-225:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:415|-178|-237:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-42|244|-202:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-182|-206|388:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:31|-318|287:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-68|361|-293:efs|bayes|olduak
+
+seed score
+{'bayes': 2224, 'olduak': -1376, 'efs': -848}
+accumulated score
+{'bayes': 9011, 'olduak': -5796, 'efs': -3215}
+
+Seed: 4
+starting position: bayes olduak efs
+SCORE:480|-259|-221:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:367|-129|-238:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-84|276|-192:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-222|-127|349:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:-40|-258|298:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-59|414|-355:efs|bayes|olduak
+
+seed score
+{'bayes': 2184, 'olduak': -1416, 'efs': -768}
+accumulated score
+{'bayes': 11195, 'olduak': -7212, 'efs': -3983}
+
+Seed: 5
+starting position: bayes olduak efs
+SCORE:392|-253|-139:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:375|-133|-242:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-150|233|-83:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-206|-277|483:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:-66|-200|266:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-133|403|-270:efs|bayes|olduak
+
+seed score
+{'bayes': 2152, 'olduak': -1321, 'efs': -831}
+accumulated score
+{'bayes': 13347, 'olduak': -8533, 'efs': -4814}
+
+Seed: 6
+starting position: bayes olduak efs
+SCORE:232|-252|20:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:146|-81|-65:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-429|345|84:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-454|-160|614:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:-234|-225|459:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-350|458|-108:efs|bayes|olduak
+
+seed score
+{'bayes': 2254, 'olduak': -1533, 'efs': -721}
+accumulated score
+{'bayes': 15601, 'olduak': -10066, 'efs': -5535}
+
+Seed: 7
+starting position: bayes olduak efs
+SCORE:512|-358|-154:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:309|-193|-116:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-150|234|-84:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-190|-228|418:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:-14|-318|332:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-101|337|-236:efs|bayes|olduak
+
+seed score
+{'bayes': 2142, 'olduak': -1368, 'efs': -774}
+accumulated score
+{'bayes': 17743, 'olduak': -11434, 'efs': -6309}
+
+Seed: 8
+starting position: bayes olduak efs
+SCORE:554|-414|-140:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:513|-372|-141:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-39|91|-52:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-79|-415|494:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:47|-418|371:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:35|173|-208:efs|bayes|olduak
+
+seed score
+{'bayes': 2196, 'olduak': -1299, 'efs': -897}
+accumulated score
+{'bayes': 19939, 'olduak': -12733, 'efs': -7206}
+
+Seed: 9
+starting position: bayes olduak efs
+SCORE:499|-342|-157:bayes|olduak|efs
+starting position: bayes efs olduak
+SCORE:393|-162|-231:bayes|efs|olduak
+starting position: olduak bayes efs
+SCORE:-141|235|-94:olduak|bayes|efs
+starting position: olduak efs bayes
+SCORE:-161|-231|392:olduak|efs|bayes
+starting position: efs olduak bayes
+SCORE:-56|-242|298:efs|olduak|bayes
+starting position: efs bayes olduak
+SCORE:-126|375|-249:efs|bayes|olduak
+
+seed score
+{'bayes': 2192, 'olduak': -1366, 'efs': -826}
+accumulated score
+{'bayes': 22131, 'olduak': -14099, 'efs': -8032}
+

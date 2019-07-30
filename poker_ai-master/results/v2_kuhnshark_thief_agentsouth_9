@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark thief agentsouth
+
+Seed: 0
+starting position: kuhnshark thief agentsouth
+SCORE:398|-448|50:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:100|-97|-3:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:239|-270|31:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-72|-132|204:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:256|-156|-100:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:157|29|-186:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 361, 'thief': -626, 'agentsouth': 265}
+accumulated score
+{'kuhnshark': 361, 'thief': -626, 'agentsouth': 265}
+
+Seed: 1
+starting position: kuhnshark thief agentsouth
+SCORE:95|-249|154:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:-141|58|83:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:-100|-23|123:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-316|57|259:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:-3|36|-33:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:-17|199|-182:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 356, 'thief': -728, 'agentsouth': 372}
+accumulated score
+{'kuhnshark': 717, 'thief': -1354, 'agentsouth': 637}
+
+Seed: 2
+starting position: kuhnshark thief agentsouth
+SCORE:107|-132|25:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:-163|151|12:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:-183|114|69:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-373|213|160:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:-35|129|-94:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:-32|318|-286:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 442, 'thief': -833, 'agentsouth': 391}
+accumulated score
+{'kuhnshark': 1159, 'thief': -2187, 'agentsouth': 1028}
+
+Seed: 3
+starting position: kuhnshark thief agentsouth
+SCORE:259|-325|66:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:11|-36|25:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:100|-99|-1:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-130|-45|175:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:157|-52|-105:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:170|157|-327:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 398, 'thief': -709, 'agentsouth': 311}
+accumulated score
+{'kuhnshark': 1557, 'thief': -2896, 'agentsouth': 1339}
+
+Seed: 4
+starting position: kuhnshark thief agentsouth
+SCORE:253|-261|8:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:-59|49|10:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:55|-105|50:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-210|3|207:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:70|57|-127:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:26|188|-214:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 357, 'thief': -563, 'agentsouth': 206}
+accumulated score
+{'kuhnshark': 1914, 'thief': -3459, 'agentsouth': 1545}
+
+Seed: 5
+starting position: kuhnshark thief agentsouth
+SCORE:245|-339|94:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:-15|-26|41:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:10|-111|101:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-212|-28|240:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:73|-22|-51:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:53|201|-254:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 509, 'thief': -776, 'agentsouth': 267}
+accumulated score
+{'kuhnshark': 2423, 'thief': -4235, 'agentsouth': 1812}
+
+Seed: 6
+starting position: kuhnshark thief agentsouth
+SCORE:69|-265|196:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:-117|87|30:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:-155|-26|181:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-406|66|340:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:-80|-20|100:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:-81|250|-169:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 616, 'thief': -985, 'agentsouth': 369}
+accumulated score
+{'kuhnshark': 3039, 'thief': -5220, 'agentsouth': 2181}
+
+Seed: 7
+starting position: kuhnshark thief agentsouth
+SCORE:190|-276|86:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:-70|-37|107:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:174|-225|51:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-210|-43|253:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:-24|103|-79:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:13|168|-181:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 237, 'thief': -283, 'agentsouth': 46}
+accumulated score
+{'kuhnshark': 3276, 'thief': -5503, 'agentsouth': 2227}
+
+Seed: 8
+starting position: kuhnshark thief agentsouth
+SCORE:342|-470|128:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:59|-115|56:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:141|-248|107:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-145|-78|223:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:270|-252|-18:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:217|7|-224:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 365, 'thief': -894, 'agentsouth': 529}
+accumulated score
+{'kuhnshark': 3641, 'thief': -6397, 'agentsouth': 2756}
+
+Seed: 9
+starting position: kuhnshark thief agentsouth
+SCORE:245|-332|87:kuhnshark|thief|agentsouth
+starting position: kuhnshark agentsouth thief
+SCORE:-21|34|-13:kuhnshark|agentsouth|thief
+starting position: thief kuhnshark agentsouth
+SCORE:30|-115|85:thief|kuhnshark|agentsouth
+starting position: thief agentsouth kuhnshark
+SCORE:-236|-1|237:thief|agentsouth|kuhnshark
+starting position: agentsouth thief kuhnshark
+SCORE:122|-37|-85:agentsouth|thief|kuhnshark
+starting position: agentsouth kuhnshark thief
+SCORE:84|213|-297:agentsouth|kuhnshark|thief
+
+seed score
+{'kuhnshark': 474, 'thief': -885, 'agentsouth': 411}
+accumulated score
+{'kuhnshark': 4115, 'thief': -7282, 'agentsouth': 3167}
+

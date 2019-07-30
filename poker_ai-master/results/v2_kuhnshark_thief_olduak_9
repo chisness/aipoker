@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark thief olduak
+
+Seed: 0
+starting position: kuhnshark thief olduak
+SCORE:535|-507|-28:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:420|-298|-122:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:65|7|-72:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-132|-226|358:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:131|-234|103:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:188|157|-345:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1580, 'thief': -1275, 'olduak': -305}
+accumulated score
+{'kuhnshark': 1580, 'thief': -1275, 'olduak': -305}
+
+Seed: 1
+starting position: kuhnshark thief olduak
+SCORE:239|-265|26:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:105|-116|11:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:-199|234|-35:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-407|-39|446:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:-185|-93|278:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:-114|363|-249:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1665, 'thief': -1202, 'olduak': -463}
+accumulated score
+{'kuhnshark': 3245, 'thief': -2477, 'olduak': -768}
+
+Seed: 2
+starting position: kuhnshark thief olduak
+SCORE:276|-167|-109:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:77|32|-109:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:-264|346|-82:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-415|76|339:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:-222|64|158:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:-158|530|-372:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1726, 'thief': -1263, 'olduak': -463}
+accumulated score
+{'kuhnshark': 4971, 'thief': -3740, 'olduak': -1231}
+
+Seed: 3
+starting position: kuhnshark thief olduak
+SCORE:473|-426|-47:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:325|-258|-67:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:-34|80|-46:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-204|-117|321:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:19|-155|136:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:-5|370|-365:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1705, 'thief': -1251, 'olduak': -454}
+accumulated score
+{'kuhnshark': 6676, 'thief': -4991, 'olduak': -1685}
+
+Seed: 4
+starting position: kuhnshark thief olduak
+SCORE:372|-300|-72:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:168|-114|-54:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:21|156|-177:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-315|-58|373:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:-72|-101|173:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:-10|396|-386:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1638, 'thief': -1135, 'olduak': -503}
+accumulated score
+{'kuhnshark': 8314, 'thief': -6126, 'olduak': -2188}
+
+Seed: 5
+starting position: kuhnshark thief olduak
+SCORE:433|-358|-75:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:177|-129|-48:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:-22|85|-63:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-279|-148|427:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:-73|-162|235:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:-24|394|-370:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1751, 'thief': -1239, 'olduak': -512}
+accumulated score
+{'kuhnshark': 10065, 'thief': -7365, 'olduak': -2700}
+
+Seed: 6
+starting position: kuhnshark thief olduak
+SCORE:187|-302|115:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:71|-87|16:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:-296|223|73:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-440|-103|543:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:-333|-47|380:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:-268|407|-139:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1811, 'thief': -1208, 'olduak': -603}
+accumulated score
+{'kuhnshark': 11876, 'thief': -8573, 'olduak': -3303}
+
+Seed: 7
+starting position: kuhnshark thief olduak
+SCORE:359|-314|-45:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:106|-129|23:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:-77|102|-25:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-213|-161|374:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:-126|-117|243:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:-83|309|-226:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1493, 'thief': -924, 'olduak': -569}
+accumulated score
+{'kuhnshark': 13369, 'thief': -9497, 'olduak': -3872}
+
+Seed: 8
+starting position: kuhnshark thief olduak
+SCORE:602|-506|-96:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:315|-250|-65:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:62|34|-96:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-151|-234|385:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:91|-357|266:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:43|193|-236:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1795, 'thief': -1253, 'olduak': -542}
+accumulated score
+{'kuhnshark': 15164, 'thief': -10750, 'olduak': -4414}
+
+Seed: 9
+starting position: kuhnshark thief olduak
+SCORE:418|-438|20:kuhnshark|thief|olduak
+starting position: kuhnshark olduak thief
+SCORE:206|-122|-84:kuhnshark|olduak|thief
+starting position: thief kuhnshark olduak
+SCORE:30|149|-179:thief|kuhnshark|olduak
+starting position: thief olduak kuhnshark
+SCORE:-231|-164|395:thief|olduak|kuhnshark
+starting position: olduak thief kuhnshark
+SCORE:-48|-131|179:olduak|thief|kuhnshark
+starting position: olduak kuhnshark thief
+SCORE:12|382|-394:olduak|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1729, 'thief': -1248, 'olduak': -481}
+accumulated score
+{'kuhnshark': 16893, 'thief': -11998, 'olduak': -4895}
+

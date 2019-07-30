@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin te thief
+
+Seed: 0
+starting position: kevin te thief
+SCORE:-335|181|154:kevin|te|thief
+starting position: kevin thief te
+SCORE:-580|188|392:kevin|thief|te
+starting position: te kevin thief
+SCORE:659|-992|333:te|kevin|thief
+starting position: te thief kevin
+SCORE:608|-71|-537:te|thief|kevin
+starting position: thief te kevin
+SCORE:619|264|-883:thief|te|kevin
+starting position: thief kevin te
+SCORE:421|-739|318:thief|kevin|te
+
+seed score
+{'kevin': -4066, 'te': 2422, 'thief': 1644}
+accumulated score
+{'kevin': -4066, 'te': 2422, 'thief': 1644}
+
+Seed: 1
+starting position: kevin te thief
+SCORE:-762|440|322:kevin|te|thief
+starting position: kevin thief te
+SCORE:-913|304|609:kevin|thief|te
+starting position: te kevin thief
+SCORE:317|-829|512:te|kevin|thief
+starting position: te thief kevin
+SCORE:372|161|-533:te|thief|kevin
+starting position: thief te kevin
+SCORE:252|445|-697:thief|te|kevin
+starting position: thief kevin te
+SCORE:81|-578|497:thief|kevin|te
+
+seed score
+{'kevin': -4312, 'te': 2680, 'thief': 1632}
+accumulated score
+{'kevin': -8378, 'te': 5102, 'thief': 3276}
+
+Seed: 2
+starting position: kevin te thief
+SCORE:-731|634|97:kevin|te|thief
+starting position: kevin thief te
+SCORE:-946|543|403:kevin|thief|te
+starting position: te kevin thief
+SCORE:323|-658|335:te|kevin|thief
+starting position: te thief kevin
+SCORE:302|384|-686:te|thief|kevin
+starting position: thief te kevin
+SCORE:226|641|-867:thief|te|kevin
+starting position: thief kevin te
+SCORE:28|-405|377:thief|kevin|te
+
+seed score
+{'kevin': -4293, 'te': 2680, 'thief': 1613}
+accumulated score
+{'kevin': -12671, 'te': 7782, 'thief': 4889}
+
+Seed: 3
+starting position: kevin te thief
+SCORE:-491|365|126:kevin|te|thief
+starting position: kevin thief te
+SCORE:-736|297|439:kevin|thief|te
+starting position: te kevin thief
+SCORE:543|-871|328:te|kevin|thief
+starting position: te thief kevin
+SCORE:483|131|-614:te|thief|kevin
+starting position: thief te kevin
+SCORE:462|405|-867:thief|te|kevin
+starting position: thief kevin te
+SCORE:288|-650|362:thief|kevin|te
+
+seed score
+{'kevin': -4229, 'te': 2597, 'thief': 1632}
+accumulated score
+{'kevin': -16900, 'te': 10379, 'thief': 6521}
+
+Seed: 4
+starting position: kevin te thief
+SCORE:-459|378|81:kevin|te|thief
+starting position: kevin thief te
+SCORE:-821|418|403:kevin|thief|te
+starting position: te kevin thief
+SCORE:500|-783|283:te|kevin|thief
+starting position: te thief kevin
+SCORE:462|193|-655:te|thief|kevin
+starting position: thief te kevin
+SCORE:438|439|-877:thief|te|kevin
+starting position: thief kevin te
+SCORE:267|-664|397:thief|kevin|te
+
+seed score
+{'kevin': -4259, 'te': 2579, 'thief': 1680}
+accumulated score
+{'kevin': -21159, 'te': 12958, 'thief': 8201}
+
+Seed: 5
+starting position: kevin te thief
+SCORE:-489|314|175:kevin|te|thief
+starting position: kevin thief te
+SCORE:-773|291|482:kevin|thief|te
+starting position: te kevin thief
+SCORE:467|-839|372:te|kevin|thief
+starting position: te thief kevin
+SCORE:476|148|-624:te|thief|kevin
+starting position: thief te kevin
+SCORE:412|400|-812:thief|te|kevin
+starting position: thief kevin te
+SCORE:227|-696|469:thief|kevin|te
+
+seed score
+{'kevin': -4233, 'te': 2608, 'thief': 1625}
+accumulated score
+{'kevin': -25392, 'te': 15566, 'thief': 9826}
+
+Seed: 6
+starting position: kevin te thief
+SCORE:-734|427|307:kevin|te|thief
+starting position: kevin thief te
+SCORE:-1092|418|674:kevin|thief|te
+starting position: te kevin thief
+SCORE:285|-782|497:te|kevin|thief
+starting position: te thief kevin
+SCORE:289|212|-501:te|thief|kevin
+starting position: thief te kevin
+SCORE:157|494|-651:thief|te|kevin
+starting position: thief kevin te
+SCORE:-43|-614|657:thief|kevin|te
+
+seed score
+{'kevin': -4374, 'te': 2826, 'thief': 1548}
+accumulated score
+{'kevin': -29766, 'te': 18392, 'thief': 11374}
+
+Seed: 7
+starting position: kevin te thief
+SCORE:-539|344|195:kevin|te|thief
+starting position: kevin thief te
+SCORE:-733|313|420:kevin|thief|te
+starting position: te kevin thief
+SCORE:486|-859|373:te|kevin|thief
+starting position: te thief kevin
+SCORE:371|128|-499:te|thief|kevin
+starting position: thief te kevin
+SCORE:410|336|-746:thief|te|kevin
+starting position: thief kevin te
+SCORE:256|-687|431:thief|kevin|te
+
+seed score
+{'kevin': -4063, 'te': 2388, 'thief': 1675}
+accumulated score
+{'kevin': -33829, 'te': 20780, 'thief': 13049}
+
+Seed: 8
+starting position: kevin te thief
+SCORE:-432|239|193:kevin|te|thief
+starting position: kevin thief te
+SCORE:-657|112|545:kevin|thief|te
+starting position: te kevin thief
+SCORE:587|-997|410:te|kevin|thief
+starting position: te thief kevin
+SCORE:625|-86|-539:te|thief|kevin
+starting position: thief te kevin
+SCORE:548|278|-826:thief|te|kevin
+starting position: thief kevin te
+SCORE:421|-873|452:thief|kevin|te
+
+seed score
+{'kevin': -4324, 'te': 2726, 'thief': 1598}
+accumulated score
+{'kevin': -38153, 'te': 23506, 'thief': 14647}
+
+Seed: 9
+starting position: kevin te thief
+SCORE:-546|387|159:kevin|te|thief
+starting position: kevin thief te
+SCORE:-715|261|454:kevin|thief|te
+starting position: te kevin thief
+SCORE:548|-916|368:te|kevin|thief
+starting position: te thief kevin
+SCORE:513|95|-608:te|thief|kevin
+starting position: thief te kevin
+SCORE:419|407|-826:thief|te|kevin
+starting position: thief kevin te
+SCORE:206|-639|433:thief|kevin|te
+
+seed score
+{'kevin': -4250, 'te': 2742, 'thief': 1508}
+accumulated score
+{'kevin': -42403, 'te': 26248, 'thief': 16155}
+

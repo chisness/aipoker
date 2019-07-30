@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: olduak efs agentsouth
+
+Seed: 0
+starting position: olduak efs agentsouth
+SCORE:121|-359|238:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:227|61|-288:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:10|-231|221:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:20|122|-142:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:375|-395|20:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:550|-364|-186:agentsouth|olduak|efs
+
+seed score
+{'olduak': -369, 'efs': -1198, 'agentsouth': 1567}
+accumulated score
+{'olduak': -369, 'efs': -1198, 'agentsouth': 1567}
+
+Seed: 1
+starting position: olduak efs agentsouth
+SCORE:-225|-245|470:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:-105|263|-158:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-315|7|308:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-345|348|-3:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:141|-246|105:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:201|-68|-133:agentsouth|olduak|efs
+
+seed score
+{'olduak': -289, 'efs': -1442, 'agentsouth': 1731}
+accumulated score
+{'olduak': -658, 'efs': -2640, 'agentsouth': 3298}
+
+Seed: 2
+starting position: olduak efs agentsouth
+SCORE:-247|-61|308:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:-194|486|-292:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-371|169|202:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-343|383|-40:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:103|-101|-2:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:257|52|-309:agentsouth|olduak|efs
+
+seed score
+{'olduak': -262, 'efs': -1477, 'agentsouth': 1739}
+accumulated score
+{'olduak': -920, 'efs': -4117, 'agentsouth': 5037}
+
+Seed: 3
+starting position: olduak efs agentsouth
+SCORE:-113|-294|407:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:118|172|-290:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-99|-145|244:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-115|261|-146:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:341|-349|8:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:423|-87|-336:agentsouth|olduak|efs
+
+seed score
+{'olduak': -365, 'efs': -1483, 'agentsouth': 1848}
+accumulated score
+{'olduak': -1285, 'efs': -5600, 'agentsouth': 6885}
+
+Seed: 4
+starting position: olduak efs agentsouth
+SCORE:-54|-212|266:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:50|234|-284:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-212|11|201:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-115|238|-123:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:249|-239|-10:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:295|-73|-222:agentsouth|olduak|efs
+
+seed score
+{'olduak': -199, 'efs': -1284, 'agentsouth': 1483}
+accumulated score
+{'olduak': -1484, 'efs': -6884, 'agentsouth': 8368}
+
+Seed: 5
+starting position: olduak efs agentsouth
+SCORE:-86|-291|377:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:59|203|-262:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-195|-74|269:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-130|193|-63:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:315|-319|4:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:333|-191|-142:agentsouth|olduak|efs
+
+seed score
+{'olduak': -351, 'efs': -1339, 'agentsouth': 1690}
+accumulated score
+{'olduak': -1835, 'efs': -8223, 'agentsouth': 10058}
+
+Seed: 6
+starting position: olduak efs agentsouth
+SCORE:-319|-204|523:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:-261|330|-69:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-406|-16|422:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-333|281|52:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:137|-225|88:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:178|-65|-113:agentsouth|olduak|efs
+
+seed score
+{'olduak': -521, 'efs': -1350, 'agentsouth': 1871}
+accumulated score
+{'olduak': -2356, 'efs': -9573, 'agentsouth': 11929}
+
+Seed: 7
+starting position: olduak efs agentsouth
+SCORE:-41|-289|330:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:14|152|-166:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-208|-79|287:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-137|232|-95:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:256|-317|61:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:218|-110|-108:agentsouth|olduak|efs
+
+seed score
+{'olduak': -250, 'efs': -1225, 'agentsouth': 1475}
+accumulated score
+{'olduak': -2606, 'efs': -10798, 'agentsouth': 13404}
+
+Seed: 8
+starting position: olduak efs agentsouth
+SCORE:95|-449|354:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:76|115|-191:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-90|-222|312:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-58|187|-129:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:441|-506|65:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:540|-355|-185:agentsouth|olduak|efs
+
+seed score
+{'olduak': -470, 'efs': -1479, 'agentsouth': 1949}
+accumulated score
+{'olduak': -3076, 'efs': -12277, 'agentsouth': 15353}
+
+Seed: 9
+starting position: olduak efs agentsouth
+SCORE:-67|-320|387:olduak|efs|agentsouth
+starting position: olduak agentsouth efs
+SCORE:56|198|-254:olduak|agentsouth|efs
+starting position: efs olduak agentsouth
+SCORE:-166|-88|254:efs|olduak|agentsouth
+starting position: efs agentsouth olduak
+SCORE:-209|357|-148:efs|agentsouth|olduak
+starting position: agentsouth efs olduak
+SCORE:275|-292|17:agentsouth|efs|olduak
+starting position: agentsouth olduak efs
+SCORE:379|-125|-254:agentsouth|olduak|efs
+
+seed score
+{'olduak': -355, 'efs': -1495, 'agentsouth': 1850}
+accumulated score
+{'olduak': -3431, 'efs': -13772, 'agentsouth': 17203}
+

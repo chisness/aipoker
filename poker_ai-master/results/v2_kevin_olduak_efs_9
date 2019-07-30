@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin olduak efs
+
+Seed: 0
+starting position: kevin olduak efs
+SCORE:-146|-100|246:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-257|327|-70:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:208|-720|512:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:315|98|-413:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:759|-257|-502:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:490|-593|103:efs|kevin|olduak
+
+seed score
+{'kevin': -2631, 'olduak': 199, 'efs': 2432}
+accumulated score
+{'kevin': -2631, 'olduak': 199, 'efs': 2432}
+
+Seed: 1
+starting position: kevin olduak efs
+SCORE:-542|153|389:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-596|527|69:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:-175|-492|667:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:24|292|-316:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:407|-35|-372:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:148|-321|173:efs|kevin|olduak
+
+seed score
+{'kevin': -2639, 'olduak': 209, 'efs': 2430}
+accumulated score
+{'kevin': -5270, 'olduak': 408, 'efs': 4862}
+
+Seed: 2
+starting position: kevin olduak efs
+SCORE:-507|280|227:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-691|753|-62:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:-130|-354|484:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:-7|467|-460:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:403|96|-499:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:96|-92|-4:efs|kevin|olduak
+
+seed score
+{'kevin': -2603, 'olduak': 173, 'efs': 2430}
+accumulated score
+{'kevin': -7873, 'olduak': 581, 'efs': 7292}
+
+Seed: 3
+starting position: kevin olduak efs
+SCORE:-236|-7|243:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-409|460|-51:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:66|-538|472:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:305|213|-518:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:698|-84|-614:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:406|-504|98:efs|kevin|olduak
+
+seed score
+{'kevin': -2819, 'olduak': 327, 'efs': 2492}
+accumulated score
+{'kevin': -10692, 'olduak': 908, 'efs': 9784}
+
+Seed: 4
+starting position: kevin olduak efs
+SCORE:-278|65|213:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-442|575|-133:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:-12|-441|453:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:108|295|-403:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:651|-89|-562:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:407|-462|55:efs|kevin|olduak
+
+seed score
+{'kevin': -2588, 'olduak': -6, 'efs': 2594}
+accumulated score
+{'kevin': -13280, 'olduak': 902, 'efs': 12378}
+
+Seed: 5
+starting position: kevin olduak efs
+SCORE:-371|100|271:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-474|510|-36:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:-72|-479|551:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:124|197|-321:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:578|-43|-535:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:289|-416|127:efs|kevin|olduak
+
+seed score
+{'kevin': -2596, 'olduak': 200, 'efs': 2396}
+accumulated score
+{'kevin': -15876, 'olduak': 1102, 'efs': 14774}
+
+Seed: 6
+starting position: kevin olduak efs
+SCORE:-558|84|474:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-740|607|133:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:-245|-447|692:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:-56|329|-273:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:348|-69|-279:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:82|-342|260:efs|kevin|olduak
+
+seed score
+{'kevin': -2639, 'olduak': 107, 'efs': 2532}
+accumulated score
+{'kevin': -18515, 'olduak': 1209, 'efs': 17306}
+
+Seed: 7
+starting position: kevin olduak efs
+SCORE:-338|73|265:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-409|481|-72:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:-94|-452|546:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:64|238|-302:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:606|-190|-416:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:369|-512|143:efs|kevin|olduak
+
+seed score
+{'kevin': -2429, 'olduak': -76, 'efs': 2505}
+accumulated score
+{'kevin': -20944, 'olduak': 1133, 'efs': 19811}
+
+Seed: 8
+starting position: kevin olduak efs
+SCORE:-177|-129|306:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-222|265|-43:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:157|-726|569:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:408|-9|-399:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:750|-244|-506:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:524|-627|103:efs|kevin|olduak
+
+seed score
+{'kevin': -2657, 'olduak': 252, 'efs': 2405}
+accumulated score
+{'kevin': -23601, 'olduak': 1385, 'efs': 22216}
+
+Seed: 9
+starting position: kevin olduak efs
+SCORE:-390|30|360:kevin|olduak|efs
+starting position: kevin efs olduak
+SCORE:-402|428|-26:kevin|efs|olduak
+starting position: olduak kevin efs
+SCORE:-32|-537|569:olduak|kevin|efs
+starting position: olduak efs kevin
+SCORE:181|191|-372:olduak|efs|kevin
+starting position: efs olduak kevin
+SCORE:596|-112|-484:efs|olduak|kevin
+starting position: efs kevin olduak
+SCORE:357|-404|47:efs|kevin|olduak
+
+seed score
+{'kevin': -2589, 'olduak': 88, 'efs': 2501}
+accumulated score
+{'kevin': -26190, 'olduak': 1473, 'efs': 24717}
+

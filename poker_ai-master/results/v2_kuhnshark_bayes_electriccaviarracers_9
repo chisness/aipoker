@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark bayes electriccaviarracers
+
+Seed: 0
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:322|-317|-5:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:350|-31|-319:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-140|19|121:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:21|-156|135:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:293|-489|196:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:156|13|-169:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1035, 'bayes': -1413, 'electriccaviarracers': 378}
+accumulated score
+{'kuhnshark': 1035, 'bayes': -1413, 'electriccaviarracers': 378}
+
+Seed: 1
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:90|-185|95:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:113|122|-235:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-433|240|193:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-251|39|212:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:71|-341|270:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:-53|82|-29:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1007, 'bayes': -1474, 'electriccaviarracers': 467}
+accumulated score
+{'kuhnshark': 2042, 'bayes': -2887, 'electriccaviarracers': 845}
+
+Seed: 2
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:34|1|-35:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:80|303|-383:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-418|314|104:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-269|154|115:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:44|-163|119:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:-84|290|-206:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 952, 'bayes': -1438, 'electriccaviarracers': 486}
+accumulated score
+{'kuhnshark': 2994, 'bayes': -4325, 'electriccaviarracers': 1331}
+
+Seed: 3
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:236|-215|-21:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:254|113|-367:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-234|135|99:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-57|-40|97:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:249|-393|144:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:92|96|-188:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 962, 'bayes': -1454, 'electriccaviarracers': 492}
+accumulated score
+{'kuhnshark': 3956, 'bayes': -5779, 'electriccaviarracers': 1823}
+
+Seed: 4
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:192|-130|-62:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:220|133|-353:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-264|141|123:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-86|-47|133:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:170|-289|119:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:66|135|-201:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 940, 'bayes': -1323, 'electriccaviarracers': 383}
+accumulated score
+{'kuhnshark': 4896, 'bayes': -7102, 'electriccaviarracers': 2206}
+
+Seed: 5
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:191|-186|-5:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:261|52|-313:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-289|138|151:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-119|1|118:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:188|-384|196:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:63|106|-169:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1010, 'bayes': -1460, 'electriccaviarracers': 450}
+accumulated score
+{'kuhnshark': 5906, 'bayes': -8562, 'electriccaviarracers': 2656}
+
+Seed: 6
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:5|-116|111:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:3|167|-170:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-493|240|253:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-320|32|288:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:-3|-309|312:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:-136|172|-36:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1020, 'bayes': -1444, 'electriccaviarracers': 424}
+accumulated score
+{'kuhnshark': 6926, 'bayes': -10006, 'electriccaviarracers': 3080}
+
+Seed: 7
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:212|-207|-5:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:239|47|-286:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-290|123|167:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-108|-14|122:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:136|-344|208:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:52|91|-143:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 995, 'bayes': -1378, 'electriccaviarracers': 383}
+accumulated score
+{'kuhnshark': 7921, 'bayes': -11384, 'electriccaviarracers': 3463}
+
+Seed: 8
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:331|-359|28:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:317|-11|-306:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-198|-1|199:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-1|-160|161:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:306|-548|242:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:135|-28|-107:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1022, 'bayes': -1519, 'electriccaviarracers': 497}
+accumulated score
+{'kuhnshark': 8943, 'bayes': -12903, 'electriccaviarracers': 3960}
+
+Seed: 9
+starting position: kuhnshark bayes electriccaviarracers
+SCORE:206|-248|42:kuhnshark|bayes|electriccaviarracers
+starting position: kuhnshark electriccaviarracers bayes
+SCORE:251|73|-324:kuhnshark|electriccaviarracers|bayes
+starting position: bayes kuhnshark electriccaviarracers
+SCORE:-288|163|125:bayes|kuhnshark|electriccaviarracers
+starting position: bayes electriccaviarracers kuhnshark
+SCORE:-92|-14|106:bayes|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers bayes kuhnshark
+SCORE:126|-363|237:electriccaviarracers|bayes|kuhnshark
+starting position: electriccaviarracers kuhnshark bayes
+SCORE:41|70|-111:electriccaviarracers|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1033, 'bayes': -1426, 'electriccaviarracers': 393}
+accumulated score
+{'kuhnshark': 9976, 'bayes': -14329, 'electriccaviarracers': 4353}
+

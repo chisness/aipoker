@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark electriccaviarracers efs
+
+Seed: 0
+starting position: kuhnshark electriccaviarracers efs
+SCORE:188|-113|-75:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:329|-293|-36:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:119|27|-146:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:233|-230|-3:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:23|-225|202:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:85|-155|70:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 588, 'electriccaviarracers': 48, 'efs': -636}
+accumulated score
+{'kuhnshark': 588, 'electriccaviarracers': 48, 'efs': -636}
+
+Seed: 1
+starting position: kuhnshark electriccaviarracers efs
+SCORE:-94|51|43:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:110|-107|-3:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:-228|182|46:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:1|-97|96:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:-168|-106|274:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:-121|17|104:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 585, 'electriccaviarracers': -181, 'efs': -404}
+accumulated score
+{'kuhnshark': 1173, 'electriccaviarracers': -133, 'efs': -1040}
+
+Seed: 2
+starting position: kuhnshark electriccaviarracers efs
+SCORE:-116|248|-132:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:55|16|-71:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:-162|359|-197:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:-121|139|-18:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:-131|67|64:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:-66|89|-23:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 433, 'electriccaviarracers': -62, 'efs': -371}
+accumulated score
+{'kuhnshark': 1606, 'electriccaviarracers': -195, 'efs': -1411}
+
+Seed: 3
+starting position: kuhnshark electriccaviarracers efs
+SCORE:104|-30|-74:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:273|-171|-102:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:7|92|-99:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:158|-136|-22:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:27|-98|71:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:68|-45|-23:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 473, 'electriccaviarracers': -88, 'efs': -385}
+accumulated score
+{'kuhnshark': 2079, 'electriccaviarracers': -283, 'efs': -1796}
+
+Seed: 4
+starting position: kuhnshark electriccaviarracers efs
+SCORE:-6|32|-26:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:178|-46|-132:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:-84|211|-127:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:113|-76|-37:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:-85|-95|180:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:-5|-27|32:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 499, 'electriccaviarracers': -134, 'efs': -365}
+accumulated score
+{'kuhnshark': 2578, 'electriccaviarracers': -417, 'efs': -2161}
+
+Seed: 5
+starting position: kuhnshark electriccaviarracers efs
+SCORE:25|-37|12:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:262|-152|-110:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:-114|118|-4:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:148|-204|56:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:-9|-141|150:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:9|-82|73:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 529, 'electriccaviarracers': -181, 'efs': -348}
+accumulated score
+{'kuhnshark': 3107, 'electriccaviarracers': -598, 'efs': -2509}
+
+Seed: 6
+starting position: kuhnshark electriccaviarracers efs
+SCORE:-132|89|43:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:52|-121|69:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:-235|247|-12:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:-85|-85|170:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:-275|-46|321:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:-108|-61|169:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 597, 'electriccaviarracers': -39, 'efs': -558}
+accumulated score
+{'kuhnshark': 3704, 'electriccaviarracers': -637, 'efs': -3067}
+
+Seed: 7
+starting position: kuhnshark electriccaviarracers efs
+SCORE:-89|-23|112:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:183|-151|-32:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:-141|141|0:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:88|-100|12:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:-35|-142|177:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:6|-96|90:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 328, 'electriccaviarracers': -160, 'efs': -168}
+accumulated score
+{'kuhnshark': 4032, 'electriccaviarracers': -797, 'efs': -3235}
+
+Seed: 8
+starting position: kuhnshark electriccaviarracers efs
+SCORE:174|-87|-87:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:391|-282|-109:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:100|6|-106:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:257|-267|10:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:33|-260|227:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:51|-140|89:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 668, 'electriccaviarracers': -10, 'efs': -658}
+accumulated score
+{'kuhnshark': 4700, 'electriccaviarracers': -807, 'efs': -3893}
+
+Seed: 9
+starting position: kuhnshark electriccaviarracers efs
+SCORE:48|-19|-29:kuhnshark|electriccaviarracers|efs
+starting position: kuhnshark efs electriccaviarracers
+SCORE:207|-129|-78:kuhnshark|efs|electriccaviarracers
+starting position: electriccaviarracers kuhnshark efs
+SCORE:-55|46|9:electriccaviarracers|kuhnshark|efs
+starting position: electriccaviarracers efs kuhnshark
+SCORE:66|-77|11:electriccaviarracers|efs|kuhnshark
+starting position: efs electriccaviarracers kuhnshark
+SCORE:-21|-121|142:efs|electriccaviarracers|kuhnshark
+starting position: efs kuhnshark electriccaviarracers
+SCORE:4|48|-52:efs|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 502, 'electriccaviarracers': -259, 'efs': -243}
+accumulated score
+{'kuhnshark': 5202, 'electriccaviarracers': -1066, 'efs': -4136}
+

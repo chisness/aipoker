@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark agentsouth juan
+
+Seed: 0
+starting position: kuhnshark agentsouth juan
+SCORE:84|-94|10:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:149|-106|-43:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:111|-167|56:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:129|-89|-40:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:202|-161|-41:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:205|-240|35:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -255, 'agentsouth': -23, 'juan': 278}
+accumulated score
+{'kuhnshark': -255, 'agentsouth': -23, 'juan': 278}
+
+Seed: 1
+starting position: kuhnshark agentsouth juan
+SCORE:-112|42|70:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:-97|42|55:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:-105|-8|113:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:-5|13|-8:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:-41|-19|60:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:-87|-53|140:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -218, 'agentsouth': 108, 'juan': 110}
+accumulated score
+{'kuhnshark': -473, 'agentsouth': 85, 'juan': 388}
+
+Seed: 2
+starting position: kuhnshark agentsouth juan
+SCORE:-160|136|24:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:-139|174|-35:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:-103|111|-8:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:-66|190|-124:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:-47|118|-71:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:-104|98|6:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -285, 'agentsouth': 56, 'juan': 229}
+accumulated score
+{'kuhnshark': -758, 'agentsouth': 141, 'juan': 617}
+
+Seed: 3
+starting position: kuhnshark agentsouth juan
+SCORE:9|8|-17:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:89|-40|-49:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:51|-45|-6:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:126|-14|-112:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:156|-93|-63:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:127|-154|27:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -276, 'agentsouth': 70, 'juan': 206}
+accumulated score
+{'kuhnshark': -1034, 'agentsouth': 211, 'juan': 823}
+
+Seed: 4
+starting position: kuhnshark agentsouth juan
+SCORE:-80|25|55:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:23|21|-44:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:-18|-28|46:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:101|-19|-82:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:80|-28|-52:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:57|-85|28:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -304, 'agentsouth': 64, 'juan': 240}
+accumulated score
+{'kuhnshark': -1338, 'agentsouth': 275, 'juan': 1063}
+
+Seed: 5
+starting position: kuhnshark agentsouth juan
+SCORE:-35|5|30:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:23|19|-42:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:43|-62|19:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:121|0|-121:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:46|-27|-19:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:38|-113|75:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -327, 'agentsouth': 175, 'juan': 152}
+accumulated score
+{'kuhnshark': -1665, 'agentsouth': 450, 'juan': 1215}
+
+Seed: 6
+starting position: kuhnshark agentsouth juan
+SCORE:-183|38|145:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:-163|77|86:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:-159|14|145:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:-120|47|73:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:-118|24|94:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:-178|-5|183:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -170, 'agentsouth': 52, 'juan': 118}
+accumulated score
+{'kuhnshark': -1835, 'agentsouth': 502, 'juan': 1333}
+
+Seed: 7
+starting position: kuhnshark agentsouth juan
+SCORE:-71|-26|97:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:8|9|-17:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:-4|-107|111:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:-10|30|-20:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:111|-81|-30:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:124|-164|40:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -384, 'agentsouth': -98, 'juan': 482}
+accumulated score
+{'kuhnshark': -2219, 'agentsouth': 404, 'juan': 1815}
+
+Seed: 8
+starting position: kuhnshark agentsouth juan
+SCORE:77|-137|60:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:122|-142|20:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:121|-200|79:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:222|-187|-35:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:183|-178|-5:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:107|-209|102:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -250, 'agentsouth': 150, 'juan': 100}
+accumulated score
+{'kuhnshark': -2469, 'agentsouth': 554, 'juan': 1915}
+
+Seed: 9
+starting position: kuhnshark agentsouth juan
+SCORE:26|17|-43:kuhnshark|agentsouth|juan
+starting position: kuhnshark juan agentsouth
+SCORE:-5|-14|19:kuhnshark|juan|agentsouth
+starting position: agentsouth kuhnshark juan
+SCORE:61|-78|17:agentsouth|kuhnshark|juan
+starting position: agentsouth juan kuhnshark
+SCORE:100|-69|-31:agentsouth|juan|kuhnshark
+starting position: juan agentsouth kuhnshark
+SCORE:75|-16|-59:juan|agentsouth|kuhnshark
+starting position: juan kuhnshark agentsouth
+SCORE:47|-92|45:juan|kuhnshark|agentsouth
+
+seed score
+{'kuhnshark': -239, 'agentsouth': 226, 'juan': 13}
+accumulated score
+{'kuhnshark': -2708, 'agentsouth': 780, 'juan': 1928}
+

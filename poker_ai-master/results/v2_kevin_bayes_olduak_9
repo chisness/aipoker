@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin bayes olduak
+
+Seed: 0
+starting position: kevin bayes olduak
+SCORE:-403|553|-150:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-285|-366|651:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:854|-805|-49:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:1021|-353|-668:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:97|442|-539:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:41|-799|758:olduak|kevin|bayes
+
+seed score
+{'kevin': -3499, 'bayes': 4279, 'olduak': -780}
+accumulated score
+{'kevin': -3499, 'bayes': 4279, 'olduak': -780}
+
+Seed: 1
+starting position: kevin bayes olduak
+SCORE:-684|782|-98:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-717|-70|787:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:571|-557|-14:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:658|-235|-423:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:-206|719|-513:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-303|-595|898:olduak|kevin|bayes
+
+seed score
+{'kevin': -3489, 'bayes': 4415, 'olduak': -926}
+accumulated score
+{'kevin': -6988, 'bayes': 8694, 'olduak': -1706}
+
+Seed: 2
+starting position: kevin bayes olduak
+SCORE:-757|981|-224:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-758|122|636:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:502|-347|-155:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:647|11|-658:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:-194|861|-667:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-228|-493|721:olduak|kevin|bayes
+
+seed score
+{'kevin': -3680, 'bayes': 4348, 'olduak': -668}
+accumulated score
+{'kevin': -10668, 'bayes': 13042, 'olduak': -2374}
+
+Seed: 3
+starting position: kevin bayes olduak
+SCORE:-526|694|-168:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-459|-190|649:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:781|-617|-164:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:915|-244|-671:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:44|577|-621:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-74|-677|751:olduak|kevin|bayes
+
+seed score
+{'kevin': -3571, 'bayes': 4367, 'olduak': -796}
+accumulated score
+{'kevin': -14239, 'bayes': 17409, 'olduak': -3170}
+
+Seed: 4
+starting position: kevin bayes olduak
+SCORE:-528|807|-279:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-509|-74|583:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:732|-594|-138:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:866|-273|-593:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:24|636|-660:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-180|-561|741:olduak|kevin|bayes
+
+seed score
+{'kevin': -3445, 'bayes': 4365, 'olduak': -920}
+accumulated score
+{'kevin': -17684, 'bayes': 21774, 'olduak': -4090}
+
+Seed: 5
+starting position: kevin bayes olduak
+SCORE:-576|751|-175:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-496|-133|629:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:694|-552|-142:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:816|-216|-600:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:2|649|-651:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-182|-608|790:olduak|kevin|bayes
+
+seed score
+{'kevin': -3483, 'bayes': 4329, 'olduak': -846}
+accumulated score
+{'kevin': -21167, 'bayes': 26103, 'olduak': -4936}
+
+Seed: 6
+starting position: kevin bayes olduak
+SCORE:-852|858|-6:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-783|-33|816:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:463|-531|68:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:506|-171|-335:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:-181|688|-507:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-352|-562|914:olduak|kevin|bayes
+
+seed score
+{'kevin': -3570, 'bayes': 4245, 'olduak': -675}
+accumulated score
+{'kevin': -24737, 'bayes': 30348, 'olduak': -5611}
+
+Seed: 7
+starting position: kevin bayes olduak
+SCORE:-535|709|-174:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-424|-255|679:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:663|-702|39:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:833|-290|-543:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:-149|588|-439:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-218|-548|766:olduak|kevin|bayes
+
+seed score
+{'kevin': -3191, 'bayes': 4238, 'olduak': -1047}
+accumulated score
+{'kevin': -27928, 'bayes': 34586, 'olduak': -6658}
+
+Seed: 8
+starting position: kevin bayes olduak
+SCORE:-357|521|-164:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-421|-272|693:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:854|-804|-50:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:1002|-403|-599:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:72|430|-502:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-8|-822|830:olduak|kevin|bayes
+
+seed score
+{'kevin': -3505, 'bayes': 4330, 'olduak': -825}
+accumulated score
+{'kevin': -31433, 'bayes': 38916, 'olduak': -7483}
+
+Seed: 9
+starting position: kevin bayes olduak
+SCORE:-595|700|-105:kevin|bayes|olduak
+starting position: kevin olduak bayes
+SCORE:-542|-90|632:kevin|olduak|bayes
+starting position: bayes kevin olduak
+SCORE:702|-620|-82:bayes|kevin|olduak
+starting position: bayes olduak kevin
+SCORE:853|-144|-709:bayes|olduak|kevin
+starting position: olduak bayes kevin
+SCORE:17|576|-593:olduak|bayes|kevin
+starting position: olduak kevin bayes
+SCORE:-114|-662|776:olduak|kevin|bayes
+
+seed score
+{'kevin': -3721, 'bayes': 4239, 'olduak': -518}
+accumulated score
+{'kevin': -35154, 'bayes': 43155, 'olduak': -8001}
+

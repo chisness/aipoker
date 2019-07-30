@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: electriccaviarracers olduak juan
+
+Seed: 0
+starting position: electriccaviarracers olduak juan
+SCORE:245|-398|153:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:142|1|-143:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:24|-187|163:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-65|-16|81:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:305|-348|43:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:302|-51|-251:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 273, 'olduak': -1181, 'juan': 908}
+accumulated score
+{'electriccaviarracers': 273, 'olduak': -1181, 'juan': 908}
+
+Seed: 1
+starting position: electriccaviarracers olduak juan
+SCORE:43|-271|228:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:-62|145|-83:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-198|7|191:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-322|106|216:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:35|-175|140:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:82|51|-133:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 395, 'olduak': -1182, 'juan': 787}
+accumulated score
+{'electriccaviarracers': 668, 'olduak': -2363, 'juan': 1695}
+
+Seed: 2
+starting position: electriccaviarracers olduak juan
+SCORE:68|-99|31:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:-65|291|-226:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-210|138|72:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-397|303|94:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:26|-24|-2:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:-32|223|-191:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 456, 'olduak': -1147, 'juan': 691}
+accumulated score
+{'electriccaviarracers': 1124, 'olduak': -3510, 'juan': 2386}
+
+Seed: 3
+starting position: electriccaviarracers olduak juan
+SCORE:145|-267|122:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:70|86|-156:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-101|-39|140:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-147|88|59:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:206|-227|21:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:261|20|-281:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 276, 'olduak': -1179, 'juan': 903}
+accumulated score
+{'electriccaviarracers': 1400, 'olduak': -4689, 'juan': 3289}
+
+Seed: 4
+starting position: electriccaviarracers olduak juan
+SCORE:37|-115|78:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:83|179|-262:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-44|-14|58:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-181|138|43:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:115|-116|1:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:190|116|-306:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 266, 'olduak': -1024, 'juan': 758}
+accumulated score
+{'electriccaviarracers': 1666, 'olduak': -5713, 'juan': 4047}
+
+Seed: 5
+starting position: electriccaviarracers olduak juan
+SCORE:143|-287|144:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:33|64|-97:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-139|-10|149:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-151|93|58:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:184|-130|-54:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:157|31|-188:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 201, 'olduak': -992, 'juan': 791}
+accumulated score
+{'electriccaviarracers': 1867, 'olduak': -6705, 'juan': 4838}
+
+Seed: 6
+starting position: electriccaviarracers olduak juan
+SCORE:-63|-157|220:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:-209|198|11:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-354|67|287:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-426|210|216:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:-20|-100|120:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:-12|101|-89:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 232, 'olduak': -1115, 'juan': 883}
+accumulated score
+{'electriccaviarracers': 2099, 'olduak': -7820, 'juan': 5721}
+
+Seed: 7
+starting position: electriccaviarracers olduak juan
+SCORE:83|-243|160:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:21|79|-100:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-115|-47|162:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-205|59|146:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:164|-178|14:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:216|33|-249:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 250, 'olduak': -1090, 'juan': 840}
+accumulated score
+{'electriccaviarracers': 2349, 'olduak': -8910, 'juan': 6561}
+
+Seed: 8
+starting position: electriccaviarracers olduak juan
+SCORE:319|-483|164:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:152|-7|-145:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:22|-206|184:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-66|-38|104:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:281|-329|48:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:289|-55|-234:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 362, 'olduak': -1235, 'juan': 873}
+accumulated score
+{'electriccaviarracers': 2711, 'olduak': -10145, 'juan': 7434}
+
+Seed: 9
+starting position: electriccaviarracers olduak juan
+SCORE:123|-239|116:electriccaviarracers|olduak|juan
+starting position: electriccaviarracers juan olduak
+SCORE:68|86|-154:electriccaviarracers|juan|olduak
+starting position: olduak electriccaviarracers juan
+SCORE:-42|-51|93:olduak|electriccaviarracers|juan
+starting position: olduak juan electriccaviarracers
+SCORE:-112|107|5:olduak|juan|electriccaviarracers
+starting position: juan olduak electriccaviarracers
+SCORE:210|-219|9:juan|olduak|electriccaviarracers
+starting position: juan electriccaviarracers olduak
+SCORE:179|58|-237:juan|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 212, 'olduak': -1003, 'juan': 791}
+accumulated score
+{'electriccaviarracers': 2923, 'olduak': -11148, 'juan': 8225}
+

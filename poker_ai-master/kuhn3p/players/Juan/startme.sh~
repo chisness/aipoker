@@ -1,0 +1,2 @@
+#!/bin/bash
+../../project_acpc_server/agent_player ../../project_acpc_server/kuhn.3p.limit.game $1 $2

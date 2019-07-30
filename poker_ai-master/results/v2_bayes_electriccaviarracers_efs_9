@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes electriccaviarracers efs
+
+Seed: 0
+starting position: bayes electriccaviarracers efs
+SCORE:449|-184|-265:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:163|-223|60:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:301|-180|-121:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:173|-382|209:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:76|-102|26:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-58|29|29:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 696, 'electriccaviarracers': 277, 'efs': -973}
+accumulated score
+{'bayes': 696, 'electriccaviarracers': 277, 'efs': -973}
+
+Seed: 1
+starting position: bayes electriccaviarracers efs
+SCORE:92|49|-141:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:-50|-77|127:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:-143|59|84:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:-57|-257|314:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:-148|61|87:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-306|214|92:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 716, 'electriccaviarracers': 129, 'efs': -845}
+accumulated score
+{'bayes': 1412, 'electriccaviarracers': 406, 'efs': -1818}
+
+Seed: 2
+starting position: bayes electriccaviarracers efs
+SCORE:105|207|-312:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:-134|97|37:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:-78|219|-141:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:-54|-109|163:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:-125|118|7:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-382|414|-32:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 774, 'electriccaviarracers': 198, 'efs': -972}
+accumulated score
+{'bayes': 2186, 'electriccaviarracers': 604, 'efs': -2790}
+
+Seed: 3
+starting position: bayes electriccaviarracers efs
+SCORE:328|-46|-282:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:106|-110|4:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:113|-45|-68:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:77|-263|186:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:43|-45|2:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-95|152|-57:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 729, 'electriccaviarracers': 46, 'efs': -775}
+accumulated score
+{'bayes': 2915, 'electriccaviarracers': 650, 'efs': -3565}
+
+Seed: 4
+starting position: bayes electriccaviarracers efs
+SCORE:300|-29|-271:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:86|-47|-39:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:-18|53|-35:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:37|-181|144:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:44|3|-47:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-188|229|-41:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 765, 'electriccaviarracers': -87, 'efs': -678}
+accumulated score
+{'bayes': 3680, 'electriccaviarracers': 563, 'efs': -4243}
+
+Seed: 5
+starting position: bayes electriccaviarracers efs
+SCORE:239|25|-264:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:104|-49|-55:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:-48|-12|60:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:99|-356|257:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:-11|-23|34:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-257|208|49:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 830, 'electriccaviarracers': 47, 'efs': -877}
+accumulated score
+{'bayes': 4510, 'electriccaviarracers': 610, 'efs': -5120}
+
+Seed: 6
+starting position: bayes electriccaviarracers efs
+SCORE:16|26|-42:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:-142|-23|165:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:-93|82|11:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:-142|-217|359:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:-214|56|158:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-432|263|169:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 736, 'electriccaviarracers': 181, 'efs': -917}
+accumulated score
+{'bayes': 5246, 'electriccaviarracers': 791, 'efs': -6037}
+
+Seed: 7
+starting position: bayes electriccaviarracers efs
+SCORE:309|-61|-248:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:2|-84|82:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:52|-58|6:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:-3|-228|231:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:9|-108|99:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-249|165|84:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 748, 'electriccaviarracers': 46, 'efs': -794}
+accumulated score
+{'bayes': 5994, 'electriccaviarracers': 837, 'efs': -6831}
+
+Seed: 8
+starting position: bayes electriccaviarracers efs
+SCORE:378|-139|-239:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:182|-226|44:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:195|-166|-29:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:224|-493|269:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:110|-159|49:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-8|-25|33:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 687, 'electriccaviarracers': 198, 'efs': -885}
+accumulated score
+{'bayes': 6681, 'electriccaviarracers': 1035, 'efs': -7716}
+
+Seed: 9
+starting position: bayes electriccaviarracers efs
+SCORE:268|-43|-225:bayes|electriccaviarracers|efs
+starting position: bayes efs electriccaviarracers
+SCORE:98|-95|-3:bayes|efs|electriccaviarracers
+starting position: electriccaviarracers bayes efs
+SCORE:50|-75|25:electriccaviarracers|bayes|efs
+starting position: electriccaviarracers efs bayes
+SCORE:36|-297|261:electriccaviarracers|efs|bayes
+starting position: efs electriccaviarracers bayes
+SCORE:25|-18|-7:efs|electriccaviarracers|bayes
+starting position: efs bayes electriccaviarracers
+SCORE:-164|144|20:efs|bayes|electriccaviarracers
+
+seed score
+{'bayes': 689, 'electriccaviarracers': 42, 'efs': -731}
+accumulated score
+{'bayes': 7370, 'electriccaviarracers': 1077, 'efs': -8447}
+

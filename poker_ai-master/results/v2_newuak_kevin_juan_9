@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin juan
+
+Seed: 0
+starting position: newuak kevin juan
+SCORE:514|-615|101:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:223|-101|-122:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:26|-127|101:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-282|-67|349:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:323|-322|-1:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:323|250|-573:juan|newuak|kevin
+
+seed score
+{'newuak': 1208, 'kevin': -1888, 'juan': 680}
+accumulated score
+{'newuak': 1208, 'kevin': -1888, 'juan': 680}
+
+Seed: 1
+starting position: newuak kevin juan
+SCORE:285|-520|235:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:-22|241|-219:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-346|122|224:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-655|169|486:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:39|-205|166:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:25|359|-384:juan|newuak|kevin
+
+seed score
+{'newuak': 1396, 'kevin': -2329, 'juan': 933}
+accumulated score
+{'newuak': 2604, 'kevin': -4217, 'juan': 1613}
+
+Seed: 2
+starting position: newuak kevin juan
+SCORE:286|-373|87:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:-28|281|-253:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-331|212|119:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-572|294|278:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:60|-81|21:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:47|611|-658:juan|newuak|kevin
+
+seed score
+{'newuak': 1380, 'kevin': -2268, 'juan': 888}
+accumulated score
+{'newuak': 3984, 'kevin': -6485, 'juan': 2501}
+
+Seed: 3
+starting position: newuak kevin juan
+SCORE:515|-623|108:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:166|36|-202:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-74|-28|102:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-312|-27|339:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:234|-285|51:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:231|292|-523:juan|newuak|kevin
+
+seed score
+{'newuak': 1335, 'kevin': -2019, 'juan': 684}
+accumulated score
+{'newuak': 5319, 'kevin': -8504, 'juan': 3185}
+
+Seed: 4
+starting position: newuak kevin juan
+SCORE:394|-537|143:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:49|96|-145:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-100|17|83:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-415|60|355:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:176|-222|46:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:119|320|-439:juan|newuak|kevin
+
+seed score
+{'newuak': 1181, 'kevin': -1858, 'juan': 677}
+accumulated score
+{'newuak': 6500, 'kevin': -10362, 'juan': 3862}
+
+Seed: 5
+starting position: newuak kevin juan
+SCORE:390|-541|151:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:109|119|-228:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-115|-10|125:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-432|77|355:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:158|-317|159:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:150|313|-463:juan|newuak|kevin
+
+seed score
+{'newuak': 1316, 'kevin': -2096, 'juan': 780}
+accumulated score
+{'newuak': 7816, 'kevin': -12458, 'juan': 4642}
+
+Seed: 6
+starting position: newuak kevin juan
+SCORE:314|-661|347:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:-15|196|-181:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-398|42|356:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-751|168|583:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:52|-337|285:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:15|458|-473:juan|newuak|kevin
+
+seed score
+{'newuak': 1667, 'kevin': -2801, 'juan': 1134}
+accumulated score
+{'newuak': 9483, 'kevin': -15259, 'juan': 5776}
+
+Seed: 7
+starting position: newuak kevin juan
+SCORE:380|-536|156:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:-41|17|24:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-111|-63|174:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-438|26|412:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:65|-97|32:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:104|235|-339:juan|newuak|kevin
+
+seed score
+{'newuak': 955, 'kevin': -1497, 'juan': 542}
+accumulated score
+{'newuak': 10438, 'kevin': -16756, 'juan': 6318}
+
+Seed: 8
+starting position: newuak kevin juan
+SCORE:639|-808|169:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:293|-136|-157:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-141|-37|178:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-377|-79|456:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:325|-441|116:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:347|258|-605:juan|newuak|kevin
+
+seed score
+{'newuak': 1725, 'kevin': -2529, 'juan': 804}
+accumulated score
+{'newuak': 12163, 'kevin': -19285, 'juan': 7122}
+
+Seed: 9
+starting position: newuak kevin juan
+SCORE:414|-534|120:newuak|kevin|juan
+starting position: newuak juan kevin
+SCORE:118|114|-232:newuak|juan|kevin
+starting position: kevin newuak juan
+SCORE:-223|77|146:kevin|newuak|juan
+starting position: kevin juan newuak
+SCORE:-518|89|429:kevin|juan|newuak
+starting position: juan kevin newuak
+SCORE:205|-279|74:juan|kevin|newuak
+starting position: juan newuak kevin
+SCORE:181|333|-514:juan|newuak|kevin
+
+seed score
+{'newuak': 1445, 'kevin': -2300, 'juan': 855}
+accumulated score
+{'newuak': 13608, 'kevin': -21585, 'juan': 7977}
+

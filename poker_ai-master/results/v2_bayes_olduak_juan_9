@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes olduak juan
+
+Seed: 0
+starting position: bayes olduak juan
+SCORE:308|-587|279:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:284|108|-392:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-247|-38|285:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-189|70|119:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:563|-656|93:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:451|-86|-365:juan|bayes|olduak
+
+seed score
+{'bayes': 680, 'olduak': -2436, 'juan': 1756}
+accumulated score
+{'bayes': 680, 'olduak': -2436, 'juan': 1756}
+
+Seed: 1
+starting position: bayes olduak juan
+SCORE:-7|-350|357:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:23|286|-309:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-469|92|377:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-485|270|215:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:185|-391|206:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:154|145|-299:juan|bayes|olduak
+
+seed score
+{'bayes': 674, 'olduak': -2303, 'juan': 1629}
+accumulated score
+{'bayes': 1354, 'olduak': -4739, 'juan': 3385}
+
+Seed: 2
+starting position: bayes olduak juan
+SCORE:-20|-248|268:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:-19|440|-421:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-560|274|286:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-425|367|58:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:225|-316|91:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:137|255|-392:juan|bayes|olduak
+
+seed score
+{'bayes': 639, 'olduak': -2362, 'juan': 1723}
+accumulated score
+{'bayes': 1993, 'olduak': -7101, 'juan': 5108}
+
+Seed: 3
+starting position: bayes olduak juan
+SCORE:170|-417|247:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:208|251|-459:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-294|51|243:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-285|214|71:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:374|-483|109:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:316|90|-406:juan|bayes|olduak
+
+seed score
+{'bayes': 699, 'olduak': -2344, 'juan': 1645}
+accumulated score
+{'bayes': 2692, 'olduak': -9445, 'juan': 6753}
+
+Seed: 4
+starting position: bayes olduak juan
+SCORE:194|-414|220:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:166|300|-466:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-386|132|254:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-338|302|36:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:372|-424|52:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:304|112|-416:juan|bayes|olduak
+
+seed score
+{'bayes': 692, 'olduak': -2444, 'juan': 1752}
+accumulated score
+{'bayes': 3384, 'olduak': -11889, 'juan': 8505}
+
+Seed: 5
+starting position: bayes olduak juan
+SCORE:121|-403|282:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:148|263|-411:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-351|48|303:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-275|144|131:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:380|-427|47:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:277|83|-360:juan|bayes|olduak
+
+seed score
+{'bayes': 578, 'olduak': -2227, 'juan': 1649}
+accumulated score
+{'bayes': 3962, 'olduak': -14116, 'juan': 10154}
+
+Seed: 6
+starting position: bayes olduak juan
+SCORE:-33|-348|381:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:-37|345|-308:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-605|141|464:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-585|319|266:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:147|-383|236:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:93|181|-274:juan|bayes|olduak
+
+seed score
+{'bayes': 754, 'olduak': -2503, 'juan': 1749}
+accumulated score
+{'bayes': 4716, 'olduak': -16619, 'juan': 11903}
+
+Seed: 7
+starting position: bayes olduak juan
+SCORE:141|-409|268:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:124|248|-372:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-381|54|327:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-320|225|95:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:393|-554|161:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:336|15|-351:juan|bayes|olduak
+
+seed score
+{'bayes': 590, 'olduak': -2387, 'juan': 1797}
+accumulated score
+{'bayes': 5306, 'olduak': -19006, 'juan': 13700}
+
+Seed: 8
+starting position: bayes olduak juan
+SCORE:304|-568|264:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:297|105|-402:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-255|-119|374:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-247|93|154:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:489|-613|124:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:431|-128|-303:juan|bayes|olduak
+
+seed score
+{'bayes': 632, 'olduak': -2388, 'juan': 1756}
+accumulated score
+{'bayes': 5938, 'olduak': -21394, 'juan': 15456}
+
+Seed: 9
+starting position: bayes olduak juan
+SCORE:163|-415|252:bayes|olduak|juan
+starting position: bayes juan olduak
+SCORE:137|319|-456:bayes|juan|olduak
+starting position: olduak bayes juan
+SCORE:-365|60|305:olduak|bayes|juan
+starting position: olduak juan bayes
+SCORE:-307|213|94:olduak|juan|bayes
+starting position: juan olduak bayes
+SCORE:403|-510|107:juan|olduak|bayes
+starting position: juan bayes olduak
+SCORE:303|28|-331:juan|bayes|olduak
+
+seed score
+{'bayes': 589, 'olduak': -2384, 'juan': 1795}
+accumulated score
+{'bayes': 6527, 'olduak': -23778, 'juan': 17251}
+

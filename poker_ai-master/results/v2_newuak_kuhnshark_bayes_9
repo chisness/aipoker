@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kuhnshark bayes
+
+Seed: 0
+starting position: newuak kuhnshark bayes
+SCORE:418|-67|-351:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:287|-448|161:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:360|-44|-316:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:274|-502|228:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-122|28|94:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-161|73|88:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 1056, 'kuhnshark': 844, 'bayes': -1900}
+accumulated score
+{'newuak': 1056, 'kuhnshark': 844, 'bayes': -1900}
+
+Seed: 1
+starting position: newuak kuhnshark bayes
+SCORE:157|86|-243:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:-9|-299|308:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:103|67|-170:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:58|-371|313:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-409|231|178:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-441|267|174:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 973, 'kuhnshark': 960, 'bayes': -1933}
+accumulated score
+{'newuak': 2029, 'kuhnshark': 1804, 'bayes': -3833}
+
+Seed: 2
+starting position: newuak kuhnshark bayes
+SCORE:124|263|-387:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:20|-159|139:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:95|255|-350:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:3|-196|193:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-398|328|70:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-436|381|55:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 1043, 'kuhnshark': 883, 'bayes': -1926}
+accumulated score
+{'newuak': 3072, 'kuhnshark': 2687, 'bayes': -5759}
+
+Seed: 3
+starting position: newuak kuhnshark bayes
+SCORE:334|33|-367:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:170|-326|156:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:274|65|-339:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:237|-409|172:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-198|144|54:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-241|189|52:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 984, 'kuhnshark': 896, 'bayes': -1880}
+accumulated score
+{'newuak': 4056, 'kuhnshark': 3583, 'bayes': -7639}
+
+Seed: 4
+starting position: newuak kuhnshark bayes
+SCORE:297|82|-379:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:141|-278|137:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:245|88|-333:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:122|-326|204:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-241|191|50:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-273|201|72:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 981, 'kuhnshark': 849, 'bayes': -1830}
+accumulated score
+{'newuak': 5037, 'kuhnshark': 4432, 'bayes': -9469}
+
+Seed: 5
+starting position: newuak kuhnshark bayes
+SCORE:296|46|-342:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:129|-336|207:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:267|51|-318:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:118|-366|248:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-245|169|76:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-286|208|78:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 1008, 'kuhnshark': 885, 'bayes': -1893}
+accumulated score
+{'newuak': 6045, 'kuhnshark': 5317, 'bayes': -11362}
+
+Seed: 6
+starting position: newuak kuhnshark bayes
+SCORE:60|171|-231:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:-31|-288|319:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:41|162|-203:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:-33|-305|338:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-464|237|227:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-498|255|243:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 1011, 'kuhnshark': 978, 'bayes': -1989}
+accumulated score
+{'newuak': 7056, 'kuhnshark': 6295, 'bayes': -13351}
+
+Seed: 7
+starting position: newuak kuhnshark bayes
+SCORE:256|49|-305:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:143|-369|226:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:229|48|-277:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:125|-393|268:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-242|148|94:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-287|163|124:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 972, 'kuhnshark': 901, 'bayes': -1873}
+accumulated score
+{'newuak': 8028, 'kuhnshark': 7196, 'bayes': -15224}
+
+Seed: 8
+starting position: newuak kuhnshark bayes
+SCORE:372|-76|-296:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:246|-492|246:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:350|-95|-255:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:255|-543|288:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-157|24|133:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-193|38|155:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 982, 'kuhnshark': 954, 'bayes': -1936}
+accumulated score
+{'newuak': 9010, 'kuhnshark': 8150, 'bayes': -17160}
+
+Seed: 9
+starting position: newuak kuhnshark bayes
+SCORE:296|25|-321:newuak|kuhnshark|bayes
+starting position: newuak bayes kuhnshark
+SCORE:134|-366|232:newuak|bayes|kuhnshark
+starting position: kuhnshark newuak bayes
+SCORE:248|39|-287:kuhnshark|newuak|bayes
+starting position: kuhnshark bayes newuak
+SCORE:138|-407|269:kuhnshark|bayes|newuak
+starting position: bayes kuhnshark newuak
+SCORE:-248|160|88:bayes|kuhnshark|newuak
+starting position: bayes newuak kuhnshark
+SCORE:-285|193|92:bayes|newuak|kuhnshark
+
+seed score
+{'newuak': 1019, 'kuhnshark': 895, 'bayes': -1914}
+accumulated score
+{'newuak': 10029, 'kuhnshark': 9045, 'bayes': -19074}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin efs agentsouth
+
+Seed: 0
+starting position: kevin efs agentsouth
+SCORE:-168|13|155:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:21|65|-86:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:161|-374|213:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:412|23|-435:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:458|-224|-234:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:425|-590|165:agentsouth|kevin|efs
+
+seed score
+{'kevin': -1780, 'efs': 441, 'agentsouth': 1339}
+accumulated score
+{'kevin': -1780, 'efs': 441, 'agentsouth': 1339}
+
+Seed: 1
+starting position: kevin efs agentsouth
+SCORE:-498|178|320:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-441|360|81:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:-185|-271|456:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:57|304|-361:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:248|-34|-214:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:158|-471|313:agentsouth|kevin|efs
+
+seed score
+{'kevin': -2256, 'efs': 410, 'agentsouth': 1846}
+accumulated score
+{'kevin': -4036, 'efs': 851, 'agentsouth': 3185}
+
+Seed: 2
+starting position: kevin efs agentsouth
+SCORE:-602|401|201:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-357|454|-97:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:-223|-80|303:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:37|367|-404:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:215|151|-366:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:121|-242|121:agentsouth|kevin|efs
+
+seed score
+{'kevin': -2051, 'efs': 390, 'agentsouth': 1661}
+accumulated score
+{'kevin': -6087, 'efs': 1241, 'agentsouth': 4846}
+
+Seed: 3
+starting position: kevin efs agentsouth
+SCORE:-357|126|231:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-107|200|-93:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:73|-413|340:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:330|142|-472:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:381|-91|-290:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:324|-460|136:agentsouth|kevin|efs
+
+seed score
+{'kevin': -2099, 'efs': 481, 'agentsouth': 1618}
+accumulated score
+{'kevin': -8186, 'efs': 1722, 'agentsouth': 6464}
+
+Seed: 4
+starting position: kevin efs agentsouth
+SCORE:-457|207|250:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-111|236|-125:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:58|-351|293:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:288|150|-438:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:282|-20|-262:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:184|-290|106:agentsouth|kevin|efs
+
+seed score
+{'kevin': -1909, 'efs': 514, 'agentsouth': 1395}
+accumulated score
+{'kevin': -10095, 'efs': 2236, 'agentsouth': 7859}
+
+Seed: 5
+starting position: kevin efs agentsouth
+SCORE:-460|130|330:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-182|207|-25:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:-57|-308|365:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:234|118|-352:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:311|-105|-206:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:259|-459|200:agentsouth|kevin|efs
+
+seed score
+{'kevin': -1967, 'efs': 377, 'agentsouth': 1590}
+accumulated score
+{'kevin': -12062, 'efs': 2613, 'agentsouth': 9449}
+
+Seed: 6
+starting position: kevin efs agentsouth
+SCORE:-690|246|444:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-425|300|125:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:-247|-301|548:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:-6|188|-182:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:238|-2|-236:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:120|-454|334:agentsouth|kevin|efs
+
+seed score
+{'kevin': -2288, 'efs': 450, 'agentsouth': 1838}
+accumulated score
+{'kevin': -14350, 'efs': 3063, 'agentsouth': 11287}
+
+Seed: 7
+starting position: kevin efs agentsouth
+SCORE:-372|136|236:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-134|192|-58:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:10|-325|315:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:259|129|-388:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:151|-82|-69:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:141|-344|203:agentsouth|kevin|efs
+
+seed score
+{'kevin': -1632, 'efs': 468, 'agentsouth': 1164}
+accumulated score
+{'kevin': -15982, 'efs': 3531, 'agentsouth': 12451}
+
+Seed: 8
+starting position: kevin efs agentsouth
+SCORE:-236|-85|321:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-163|173|-10:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:166|-509|343:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:411|59|-470:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:562|-314|-248:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:408|-645|237:agentsouth|kevin|efs
+
+seed score
+{'kevin': -2271, 'efs': 405, 'agentsouth': 1866}
+accumulated score
+{'kevin': -18253, 'efs': 3936, 'agentsouth': 14317}
+
+Seed: 9
+starting position: kevin efs agentsouth
+SCORE:-367|105|262:kevin|efs|agentsouth
+starting position: kevin agentsouth efs
+SCORE:-297|310|-13:kevin|agentsouth|efs
+starting position: efs kevin agentsouth
+SCORE:8|-289|281:efs|kevin|agentsouth
+starting position: efs agentsouth kevin
+SCORE:242|291|-533:efs|agentsouth|kevin
+starting position: agentsouth efs kevin
+SCORE:380|-141|-239:agentsouth|efs|kevin
+starting position: agentsouth kevin efs
+SCORE:336|-549|213:agentsouth|kevin|efs
+
+seed score
+{'kevin': -2274, 'efs': 414, 'agentsouth': 1860}
+accumulated score
+{'kevin': -20527, 'efs': 4350, 'agentsouth': 16177}
+

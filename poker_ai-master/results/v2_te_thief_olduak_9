@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te thief olduak
+
+Seed: 0
+starting position: te thief olduak
+SCORE:517|-397|-120:te|thief|olduak
+starting position: te olduak thief
+SCORE:439|-372|-67:te|olduak|thief
+starting position: thief te olduak
+SCORE:65|63|-128:thief|te|olduak
+starting position: thief olduak te
+SCORE:99|-330|231:thief|olduak|te
+starting position: olduak thief te
+SCORE:63|-320|257:olduak|thief|te
+starting position: olduak te thief
+SCORE:49|174|-223:olduak|te|thief
+
+seed score
+{'te': 1681, 'thief': -843, 'olduak': -838}
+accumulated score
+{'te': 1681, 'thief': -843, 'olduak': -838}
+
+Seed: 1
+starting position: te thief olduak
+SCORE:259|-213|-46:te|thief|olduak
+starting position: te olduak thief
+SCORE:166|-117|-49:te|olduak|thief
+starting position: thief te olduak
+SCORE:-294|299|-5:thief|te|olduak
+starting position: thief olduak te
+SCORE:-336|-78|414:thief|olduak|te
+starting position: olduak thief te
+SCORE:-253|-90|343:olduak|thief|te
+starting position: olduak te thief
+SCORE:-199|366|-167:olduak|te|thief
+
+seed score
+{'te': 1847, 'thief': -1149, 'olduak': -698}
+accumulated score
+{'te': 3528, 'thief': -1992, 'olduak': -1536}
+
+Seed: 2
+starting position: te thief olduak
+SCORE:225|6|-231:te|thief|olduak
+starting position: te olduak thief
+SCORE:135|3|-138:te|olduak|thief
+starting position: thief te olduak
+SCORE:-338|465|-127:thief|te|olduak
+starting position: thief olduak te
+SCORE:-336|-19|355:thief|olduak|te
+starting position: olduak thief te
+SCORE:-277|5|272:olduak|thief|te
+starting position: olduak te thief
+SCORE:-308|547|-239:olduak|te|thief
+
+seed score
+{'te': 1999, 'thief': -1040, 'olduak': -959}
+accumulated score
+{'te': 5527, 'thief': -3032, 'olduak': -2495}
+
+Seed: 3
+starting position: te thief olduak
+SCORE:470|-301|-169:te|thief|olduak
+starting position: te olduak thief
+SCORE:411|-241|-170:te|olduak|thief
+starting position: thief te olduak
+SCORE:34|198|-232:thief|te|olduak
+starting position: thief olduak te
+SCORE:-137|-201|338:thief|olduak|te
+starting position: olduak thief te
+SCORE:-31|-210|241:olduak|thief|te
+starting position: olduak te thief
+SCORE:-66|266|-200:olduak|te|thief
+
+seed score
+{'te': 1924, 'thief': -984, 'olduak': -940}
+accumulated score
+{'te': 7451, 'thief': -4016, 'olduak': -3435}
+
+Seed: 4
+starting position: te thief olduak
+SCORE:431|-155|-276:te|thief|olduak
+starting position: te olduak thief
+SCORE:352|-171|-181:te|olduak|thief
+starting position: thief te olduak
+SCORE:-56|260|-204:thief|te|olduak
+starting position: thief olduak te
+SCORE:-224|-78|302:thief|olduak|te
+starting position: olduak thief te
+SCORE:-113|-136|249:olduak|thief|te
+starting position: olduak te thief
+SCORE:-104|386|-282:olduak|te|thief
+
+seed score
+{'te': 1980, 'thief': -1034, 'olduak': -946}
+accumulated score
+{'te': 9431, 'thief': -5050, 'olduak': -4381}
+
+Seed: 5
+starting position: te thief olduak
+SCORE:447|-242|-205:te|thief|olduak
+starting position: te olduak thief
+SCORE:336|-197|-139:te|olduak|thief
+starting position: thief te olduak
+SCORE:-85|261|-176:thief|te|olduak
+starting position: thief olduak te
+SCORE:-150|-161|311:thief|olduak|te
+starting position: olduak thief te
+SCORE:-72|-233|305:olduak|thief|te
+starting position: olduak te thief
+SCORE:-43|298|-255:olduak|te|thief
+
+seed score
+{'te': 1958, 'thief': -1104, 'olduak': -854}
+accumulated score
+{'te': 11389, 'thief': -6154, 'olduak': -5235}
+
+Seed: 6
+starting position: te thief olduak
+SCORE:138|-147|9:te|thief|olduak
+starting position: te olduak thief
+SCORE:184|-88|-96:te|olduak|thief
+starting position: thief te olduak
+SCORE:-310|257|53:thief|te|olduak
+starting position: thief olduak te
+SCORE:-403|-89|492:thief|olduak|te
+starting position: olduak thief te
+SCORE:-301|-113|414:olduak|thief|te
+starting position: olduak te thief
+SCORE:-284|396|-112:olduak|te|thief
+
+seed score
+{'te': 1881, 'thief': -1181, 'olduak': -700}
+accumulated score
+{'te': 13270, 'thief': -7335, 'olduak': -5935}
+
+Seed: 7
+starting position: te thief olduak
+SCORE:342|-250|-92:te|thief|olduak
+starting position: te olduak thief
+SCORE:292|-186|-106:te|olduak|thief
+starting position: thief te olduak
+SCORE:-32|168|-136:thief|te|olduak
+starting position: thief olduak te
+SCORE:-144|-215|359:thief|olduak|te
+starting position: olduak thief te
+SCORE:-118|-163|281:olduak|thief|te
+starting position: olduak te thief
+SCORE:-83|240|-157:olduak|te|thief
+
+seed score
+{'te': 1682, 'thief': -852, 'olduak': -830}
+accumulated score
+{'te': 14952, 'thief': -8187, 'olduak': -6765}
+
+Seed: 8
+starting position: te thief olduak
+SCORE:554|-418|-136:te|thief|olduak
+starting position: te olduak thief
+SCORE:457|-364|-93:te|olduak|thief
+starting position: thief te olduak
+SCORE:48|77|-125:thief|te|olduak
+starting position: thief olduak te
+SCORE:-41|-318|359:thief|olduak|te
+starting position: olduak thief te
+SCORE:28|-374|346:olduak|thief|te
+starting position: olduak te thief
+SCORE:-27|139|-112:olduak|te|thief
+
+seed score
+{'te': 1932, 'thief': -990, 'olduak': -942}
+accumulated score
+{'te': 16884, 'thief': -9177, 'olduak': -7707}
+
+Seed: 9
+starting position: te thief olduak
+SCORE:365|-260|-105:te|thief|olduak
+starting position: te olduak thief
+SCORE:334|-119|-215:te|olduak|thief
+starting position: thief te olduak
+SCORE:-85|241|-156:thief|te|olduak
+starting position: thief olduak te
+SCORE:-134|-161|295:thief|olduak|te
+starting position: olduak thief te
+SCORE:-52|-241|293:olduak|thief|te
+starting position: olduak te thief
+SCORE:-60|310|-250:olduak|te|thief
+
+seed score
+{'te': 1838, 'thief': -1185, 'olduak': -653}
+accumulated score
+{'te': 18722, 'thief': -10362, 'olduak': -8360}
+

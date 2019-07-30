@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak thief electriccaviarracers
+
+Seed: 0
+starting position: newuak thief electriccaviarracers
+SCORE:361|-414|53:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:139|-23|-116:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:47|-167|120:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-97|-124|221:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:285|-350|65:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:166|92|-258:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 711, 'thief': -1188, 'electriccaviarracers': 477}
+accumulated score
+{'newuak': 711, 'thief': -1188, 'electriccaviarracers': 477}
+
+Seed: 1
+starting position: newuak thief electriccaviarracers
+SCORE:94|-222|128:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:-34|104|-70:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-307|126|181:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-353|145|208:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:-22|-174|196:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:-75|259|-184:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 849, 'thief': -1310, 'electriccaviarracers': 461}
+accumulated score
+{'newuak': 1560, 'thief': -2498, 'electriccaviarracers': 938}
+
+Seed: 2
+starting position: newuak thief electriccaviarracers
+SCORE:153|-147|-6:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:-89|326|-237:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-286|225|61:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-354|256|98:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:64|68|-132:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:-22|292|-270:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 547, 'thief': -1226, 'electriccaviarracers': 679}
+accumulated score
+{'newuak': 2107, 'thief': -3724, 'electriccaviarracers': 1617}
+
+Seed: 3
+starting position: newuak thief electriccaviarracers
+SCORE:316|-332|16:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:202|7|-209:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-91|-30|121:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-121|-43|164:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:165|-226|61:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:206|115|-321:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 828, 'thief': -1300, 'electriccaviarracers': 472}
+accumulated score
+{'newuak': 2935, 'thief': -5024, 'electriccaviarracers': 2089}
+
+Seed: 4
+starting position: newuak thief electriccaviarracers
+SCORE:309|-318|9:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:45|171|-216:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-120|1|119:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-163|-32|195:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:245|-222|-23:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:72|236|-308:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 763, 'thief': -1347, 'electriccaviarracers': 584}
+accumulated score
+{'newuak': 3698, 'thief': -6371, 'electriccaviarracers': 2673}
+
+Seed: 5
+starting position: newuak thief electriccaviarracers
+SCORE:287|-279|-8:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:141|-27|-114:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-153|-19|172:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-223|22|201:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:196|-240|44:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:89|133|-222:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 787, 'thief': -1231, 'electriccaviarracers': 444}
+accumulated score
+{'newuak': 4485, 'thief': -7602, 'electriccaviarracers': 3117}
+
+Seed: 6
+starting position: newuak thief electriccaviarracers
+SCORE:114|-322|208:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:-89|213|-124:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-315|46|269:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-437|114|323:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:-44|-154|198:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:-73|241|-168:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 833, 'thief': -1520, 'electriccaviarracers': 687}
+accumulated score
+{'newuak': 5318, 'thief': -9122, 'electriccaviarracers': 3804}
+
+Seed: 7
+starting position: newuak thief electriccaviarracers
+SCORE:234|-249|15:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:4|31|-35:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-44|-101|145:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-284|-18|302:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:138|-195|57:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:64|150|-214:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 646, 'thief': -1021, 'electriccaviarracers': 375}
+accumulated score
+{'newuak': 5964, 'thief': -10143, 'electriccaviarracers': 4179}
+
+Seed: 8
+starting position: newuak thief electriccaviarracers
+SCORE:398|-489|91:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:199|-93|-106:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:16|-176|160:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-100|-121|221:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:298|-389|91:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:220|60|-280:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 793, 'thief': -1348, 'electriccaviarracers': 555}
+accumulated score
+{'newuak': 6757, 'thief': -11491, 'electriccaviarracers': 4734}
+
+Seed: 9
+starting position: newuak thief electriccaviarracers
+SCORE:282|-315|33:newuak|thief|electriccaviarracers
+starting position: newuak electriccaviarracers thief
+SCORE:97|81|-178:newuak|electriccaviarracers|thief
+starting position: thief newuak electriccaviarracers
+SCORE:-113|45|68:thief|newuak|electriccaviarracers
+starting position: thief electriccaviarracers newuak
+SCORE:-235|74|161:thief|electriccaviarracers|newuak
+starting position: electriccaviarracers thief newuak
+SCORE:174|-199|25:electriccaviarracers|thief|newuak
+starting position: electriccaviarracers newuak thief
+SCORE:105|218|-323:electriccaviarracers|newuak|thief
+
+seed score
+{'newuak': 828, 'thief': -1363, 'electriccaviarracers': 535}
+accumulated score
+{'newuak': 7585, 'thief': -12854, 'electriccaviarracers': 5269}
+

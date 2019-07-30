@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te efs agentsouth
+
+Seed: 0
+starting position: te efs agentsouth
+SCORE:255|-334|79:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:112|-17|-95:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:137|-217|80:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-12|-58|70:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:283|-207|-76:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:265|-17|-248:agentsouth|te|efs
+
+seed score
+{'te': 127, 'efs': -759, 'agentsouth': 632}
+accumulated score
+{'te': 127, 'efs': -759, 'agentsouth': 632}
+
+Seed: 1
+starting position: te efs agentsouth
+SCORE:33|-245|212:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:-167|214|-47:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-159|-9|168:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-358|132|226:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:102|-194|92:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:-28|136|-108:agentsouth|te|efs
+
+seed score
+{'te': 311, 'efs': -1111, 'agentsouth': 800}
+accumulated score
+{'te': 438, 'efs': -1870, 'agentsouth': 1432}
+
+Seed: 2
+starting position: te efs agentsouth
+SCORE:-56|-35|91:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:-127|316|-189:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-143|46|97:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-308|160|148:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:36|59|-95:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:2|238|-240:agentsouth|te|efs
+
+seed score
+{'te': 154, 'efs': -856, 'agentsouth': 702}
+accumulated score
+{'te': 592, 'efs': -2726, 'agentsouth': 2134}
+
+Seed: 3
+starting position: te efs agentsouth
+SCORE:221|-299|78:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:30|78|-108:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:46|-124|78:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-152|41|111:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:211|-174|-37:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:181|65|-246:agentsouth|te|efs
+
+seed score
+{'te': 266, 'efs': -933, 'agentsouth': 667}
+accumulated score
+{'te': 858, 'efs': -3659, 'agentsouth': 2801}
+
+Seed: 4
+starting position: te efs agentsouth
+SCORE:152|-227|75:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:-6|103|-97:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-27|-72|99:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-121|48|73:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:177|-71|-106:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:111|131|-242:agentsouth|te|efs
+
+seed score
+{'te': 172, 'efs': -785, 'agentsouth': 613}
+accumulated score
+{'te': 1030, 'efs': -4444, 'agentsouth': 3414}
+
+Seed: 5
+starting position: te efs agentsouth
+SCORE:153|-294|141:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:-18|127|-109:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-58|-115|173:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-203|39|164:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:213|-205|-8:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:115|89|-204:agentsouth|te|efs
+
+seed score
+{'te': 265, 'efs': -1073, 'agentsouth': 808}
+accumulated score
+{'te': 1295, 'efs': -5517, 'agentsouth': 4222}
+
+Seed: 6
+starting position: te efs agentsouth
+SCORE:-69|-218|287:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:-188|174|14:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-204|-101|305:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-331|93|238:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:50|-214|164:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:-30|156|-126:agentsouth|te|efs
+
+seed score
+{'te': 200, 'efs': -1079, 'agentsouth': 879}
+accumulated score
+{'te': 1495, 'efs': -6596, 'agentsouth': 5101}
+
+Seed: 7
+starting position: te efs agentsouth
+SCORE:160|-283|123:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:-44|65|-21:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-61|-103|164:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-106|16|90:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:155|-161|6:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:50|74|-124:agentsouth|te|efs
+
+seed score
+{'te': 183, 'efs': -756, 'agentsouth': 573}
+accumulated score
+{'te': 1678, 'efs': -7352, 'agentsouth': 5674}
+
+Seed: 8
+starting position: te efs agentsouth
+SCORE:354|-461|107:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:112|21|-133:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-1|-223|224:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-70|-22|92:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:319|-303|-16:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:270|-51|-219:agentsouth|te|efs
+
+seed score
+{'te': 268, 'efs': -1187, 'agentsouth': 919}
+accumulated score
+{'te': 1946, 'efs': -8539, 'agentsouth': 6593}
+
+Seed: 9
+starting position: te efs agentsouth
+SCORE:133|-226|93:te|efs|agentsouth
+starting position: te agentsouth efs
+SCORE:-10|77|-67:te|agentsouth|efs
+starting position: efs te agentsouth
+SCORE:-67|-49|116:efs|te|agentsouth
+starting position: efs agentsouth te
+SCORE:-197|108|89:efs|agentsouth|te
+starting position: agentsouth efs te
+SCORE:179|-117|-62:agentsouth|efs|te
+starting position: agentsouth te efs
+SCORE:132|34|-166:agentsouth|te|efs
+
+seed score
+{'te': 135, 'efs': -840, 'agentsouth': 705}
+accumulated score
+{'te': 2081, 'efs': -9379, 'agentsouth': 7298}
+

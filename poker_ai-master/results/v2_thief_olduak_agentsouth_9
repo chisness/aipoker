@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief olduak agentsouth
+
+Seed: 0
+starting position: thief olduak agentsouth
+SCORE:72|-277|205:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:81|141|-222:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-131|-185|316:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:81|96|-177:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:555|-428|-127:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:411|-285|-126:agentsouth|thief|olduak
+
+seed score
+{'thief': -621, 'olduak': -1103, 'agentsouth': 1724}
+accumulated score
+{'thief': -621, 'olduak': -1103, 'agentsouth': 1724}
+
+Seed: 1
+starting position: thief olduak agentsouth
+SCORE:-285|-87|372:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-163|386|-223:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-257|-105|362:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-245|283|-38:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:305|-237|-68:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:163|-210|47:agentsouth|thief|olduak
+
+seed score
+{'thief': -869, 'olduak': -1002, 'agentsouth': 1871}
+accumulated score
+{'thief': -1490, 'olduak': -2105, 'agentsouth': 3595}
+
+Seed: 2
+starting position: thief olduak agentsouth
+SCORE:-235|-6|241:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-238|514|-276:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-322|35|287:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-178|386|-208:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:272|-43|-229:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:110|77|-187:agentsouth|thief|olduak
+
+seed score
+{'thief': -798, 'olduak': -1012, 'agentsouth': 1810}
+accumulated score
+{'thief': -2288, 'olduak': -3117, 'agentsouth': 5405}
+
+Seed: 3
+starting position: thief olduak agentsouth
+SCORE:-89|-150|239:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-9|257|-248:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-164|-179|343:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-22|170|-148:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:454|-245|-209:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:356|-192|-164:agentsouth|thief|olduak
+
+seed score
+{'thief': -826, 'olduak': -993, 'agentsouth': 1819}
+accumulated score
+{'thief': -3114, 'olduak': -4110, 'agentsouth': 7224}
+
+Seed: 4
+starting position: thief olduak agentsouth
+SCORE:-52|-104|156:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:5|289|-294:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-237|-18|255:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-125|242|-117:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:371|-197|-174:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:236|-41|-195:agentsouth|thief|olduak
+
+seed score
+{'thief': -397, 'olduak': -1152, 'agentsouth': 1549}
+accumulated score
+{'thief': -3511, 'olduak': -5262, 'agentsouth': 8773}
+
+Seed: 5
+starting position: thief olduak agentsouth
+SCORE:-72|-187|259:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-108|298|-190:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-278|-173|451:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-81|195|-114:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:411|-255|-156:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:249|-82|-167:agentsouth|thief|olduak
+
+seed score
+{'thief': -705, 'olduak': -1158, 'agentsouth': 1863}
+accumulated score
+{'thief': -4216, 'olduak': -6420, 'agentsouth': 10636}
+
+Seed: 6
+starting position: thief olduak agentsouth
+SCORE:-253|-137|390:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-325|390|-65:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-367|-153|520:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-301|235|66:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:210|-224|14:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:168|-162|-6:agentsouth|thief|olduak
+
+seed score
+{'thief': -813, 'olduak': -1100, 'agentsouth': 1913}
+accumulated score
+{'thief': -5029, 'olduak': -7520, 'agentsouth': 12549}
+
+Seed: 7
+starting position: thief olduak agentsouth
+SCORE:-41|-196|237:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-105|260|-155:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-237|-155|392:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-190|156|34:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:338|-213|-125:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:177|-144|-33:agentsouth|thief|olduak
+
+seed score
+{'thief': -536, 'olduak': -1024, 'agentsouth': 1560}
+accumulated score
+{'thief': -5565, 'olduak': -8544, 'agentsouth': 14109}
+
+Seed: 8
+starting position: thief olduak agentsouth
+SCORE:65|-307|242:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-23|232|-209:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-9|-383|392:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:37|125|-162:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:522|-434|-88:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:469|-386|-83:agentsouth|thief|olduak
+
+seed score
+{'thief': -977, 'olduak': -1005, 'agentsouth': 1982}
+accumulated score
+{'thief': -6542, 'olduak': -9549, 'agentsouth': 16091}
+
+Seed: 9
+starting position: thief olduak agentsouth
+SCORE:-38|-181|219:thief|olduak|agentsouth
+starting position: thief agentsouth olduak
+SCORE:-108|326|-218:thief|agentsouth|olduak
+starting position: olduak thief agentsouth
+SCORE:-138|-244|382:olduak|thief|agentsouth
+starting position: olduak agentsouth thief
+SCORE:-155|269|-114:olduak|agentsouth|thief
+starting position: agentsouth olduak thief
+SCORE:425|-274|-151:agentsouth|olduak|thief
+starting position: agentsouth thief olduak
+SCORE:311|-214|-97:agentsouth|thief|olduak
+
+seed score
+{'thief': -869, 'olduak': -1063, 'agentsouth': 1932}
+accumulated score
+{'thief': -7411, 'olduak': -10612, 'agentsouth': 18023}
+

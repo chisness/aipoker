@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes thief juan
+
+Seed: 0
+starting position: bayes thief juan
+SCORE:227|-301|74:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:328|-2|-326:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-101|-45|146:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:24|-50|26:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:376|-453|77:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:344|-101|-243:juan|bayes|thief
+
+seed score
+{'bayes': 512, 'thief': -1400, 'juan': 888}
+accumulated score
+{'bayes': 512, 'thief': -1400, 'juan': 888}
+
+Seed: 1
+starting position: bayes thief juan
+SCORE:-108|-115|223:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:-2|152|-150:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-350|113|237:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-305|171|134:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:91|-336|245:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:57|43|-100:juan|bayes|thief
+
+seed score
+{'bayes': 425, 'thief': -1356, 'juan': 931}
+accumulated score
+{'bayes': 937, 'thief': -2756, 'juan': 1819}
+
+Seed: 2
+starting position: bayes thief juan
+SCORE:-60|-12|72:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:5|334|-339:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-412|268|144:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-312|296|16:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:69|-124|55:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:38|230|-268:juan|bayes|thief
+
+seed score
+{'bayes': 514, 'thief': -1467, 'juan': 953}
+accumulated score
+{'bayes': 1451, 'thief': -4223, 'juan': 2772}
+
+Seed: 3
+starting position: bayes thief juan
+SCORE:124|-301|177:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:188|71|-259:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-140|28|112:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-62|25|37:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:304|-397|93:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:277|1|-278:juan|bayes|thief
+
+seed score
+{'bayes': 471, 'thief': -1437, 'juan': 966}
+accumulated score
+{'bayes': 1922, 'thief': -5660, 'juan': 3738}
+
+Seed: 4
+starting position: bayes thief juan
+SCORE:113|-225|112:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:192|146|-338:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-218|100|118:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-112|105|7:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:204|-270|66:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:182|58|-240:juan|bayes|thief
+
+seed score
+{'bayes': 536, 'thief': -1403, 'juan': 867}
+accumulated score
+{'bayes': 2458, 'thief': -7063, 'juan': 4605}
+
+Seed: 5
+starting position: bayes thief juan
+SCORE:55|-236|181:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:121|126|-247:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-223|61|162:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-102|39|63:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:180|-280|100:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:182|-2|-180:juan|bayes|thief
+
+seed score
+{'bayes': 398, 'thief': -1268, 'juan': 870}
+accumulated score
+{'bayes': 2856, 'thief': -8331, 'juan': 5475}
+
+Seed: 6
+starting position: bayes thief juan
+SCORE:-127|-150|277:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:-106|208|-102:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-513|170|343:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-334|159|175:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:69|-293|224:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:4|73|-77:juan|bayes|thief
+
+seed score
+{'bayes': 409, 'thief': -1469, 'juan': 1060}
+accumulated score
+{'bayes': 3265, 'thief': -9800, 'juan': 6535}
+
+Seed: 7
+starting position: bayes thief juan
+SCORE:98|-236|138:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:166|95|-261:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-323|56|267:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-74|17|57:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:200|-305|105:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:167|-5|-162:juan|bayes|thief
+
+seed score
+{'bayes': 477, 'thief': -1361, 'juan': 884}
+accumulated score
+{'bayes': 3742, 'thief': -11161, 'juan': 7419}
+
+Seed: 8
+starting position: bayes thief juan
+SCORE:217|-457|240:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:295|-17|-278:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-115|-147|262:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-76|-31|107:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:328|-490|162:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:362|-213|-149:juan|bayes|thief
+
+seed score
+{'bayes': 421, 'thief': -1565, 'juan': 1144}
+accumulated score
+{'bayes': 4163, 'thief': -12726, 'juan': 8563}
+
+Seed: 9
+starting position: bayes thief juan
+SCORE:104|-208|104:bayes|thief|juan
+starting position: bayes juan thief
+SCORE:159|143|-302:bayes|juan|thief
+starting position: thief bayes juan
+SCORE:-221|39|182:thief|bayes|juan
+starting position: thief juan bayes
+SCORE:-129|97|32:thief|juan|bayes
+starting position: juan thief bayes
+SCORE:258|-373|115:juan|thief|bayes
+starting position: juan bayes thief
+SCORE:197|-46|-151:juan|bayes|thief
+
+seed score
+{'bayes': 403, 'thief': -1384, 'juan': 981}
+accumulated score
+{'bayes': 4566, 'thief': -14110, 'juan': 9544}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te bayes thief
+
+Seed: 0
+starting position: te bayes thief
+SCORE:178|39|-217:te|bayes|thief
+starting position: te thief bayes
+SCORE:429|-508|79:te|thief|bayes
+starting position: bayes te thief
+SCORE:328|106|-434:bayes|te|thief
+starting position: bayes thief te
+SCORE:392|-328|-64:bayes|thief|te
+starting position: thief bayes te
+SCORE:-139|-64|203:thief|bayes|te
+starting position: thief te bayes
+SCORE:55|-261|206:thief|te|bayes
+
+seed score
+{'te': 591, 'bayes': 980, 'thief': -1571}
+accumulated score
+{'te': 591, 'bayes': 980, 'thief': -1571}
+
+Seed: 1
+starting position: te bayes thief
+SCORE:-77|181|-104:te|bayes|thief
+starting position: te thief bayes
+SCORE:109|-327|218:te|thief|bayes
+starting position: bayes te thief
+SCORE:-11|211|-200:bayes|te|thief
+starting position: bayes thief te
+SCORE:109|-186|77:bayes|thief|te
+starting position: thief bayes te
+SCORE:-421|112|309:thief|bayes|te
+starting position: thief te bayes
+SCORE:-312|-9|321:thief|te|bayes
+
+seed score
+{'te': 620, 'bayes': 930, 'thief': -1550}
+accumulated score
+{'te': 1211, 'bayes': 1910, 'thief': -3121}
+
+Seed: 2
+starting position: te bayes thief
+SCORE:-102|366|-264:te|bayes|thief
+starting position: te thief bayes
+SCORE:160|-214|54:te|thief|bayes
+starting position: bayes te thief
+SCORE:-26|442|-416:bayes|te|thief
+starting position: bayes thief te
+SCORE:93|43|-136:bayes|thief|te
+starting position: thief bayes te
+SCORE:-477|268|209:thief|bayes|te
+starting position: thief te bayes
+SCORE:-256|71|185:thief|te|bayes
+
+seed score
+{'te': 644, 'bayes': 940, 'thief': -1584}
+accumulated score
+{'te': 1855, 'bayes': 2850, 'thief': -4705}
+
+Seed: 3
+starting position: te bayes thief
+SCORE:83|167|-250:te|bayes|thief
+starting position: te thief bayes
+SCORE:333|-427|94:te|thief|bayes
+starting position: bayes te thief
+SCORE:202|154|-356:bayes|te|thief
+starting position: bayes thief te
+SCORE:329|-284|-45:bayes|thief|te
+starting position: thief bayes te
+SCORE:-239|50|189:thief|bayes|te
+starting position: thief te bayes
+SCORE:-105|-83|188:thief|te|bayes
+
+seed score
+{'te': 631, 'bayes': 1030, 'thief': -1661}
+accumulated score
+{'te': 2486, 'bayes': 3880, 'thief': -6366}
+
+Seed: 4
+starting position: te bayes thief
+SCORE:36|216|-252:te|bayes|thief
+starting position: te thief bayes
+SCORE:287|-376|89:te|thief|bayes
+starting position: bayes te thief
+SCORE:184|240|-424:bayes|te|thief
+starting position: bayes thief te
+SCORE:289|-173|-116:bayes|thief|te
+starting position: thief bayes te
+SCORE:-282|98|184:thief|bayes|te
+starting position: thief te bayes
+SCORE:-156|-15|171:thief|te|bayes
+
+seed score
+{'te': 616, 'bayes': 1047, 'thief': -1663}
+accumulated score
+{'te': 3102, 'bayes': 4927, 'thief': -8029}
+
+Seed: 5
+starting position: te bayes thief
+SCORE:-21|168|-147:te|bayes|thief
+starting position: te thief bayes
+SCORE:286|-376|90:te|thief|bayes
+starting position: bayes te thief
+SCORE:166|199|-365:bayes|te|thief
+starting position: bayes thief te
+SCORE:272|-312|40:bayes|thief|te
+starting position: thief bayes te
+SCORE:-344|72|272:thief|bayes|te
+starting position: thief te bayes
+SCORE:-170|-55|225:thief|te|bayes
+
+seed score
+{'te': 721, 'bayes': 993, 'thief': -1714}
+accumulated score
+{'te': 3823, 'bayes': 5920, 'thief': -9743}
+
+Seed: 6
+starting position: te bayes thief
+SCORE:-211|253|-42:te|bayes|thief
+starting position: te thief bayes
+SCORE:90|-296|206:te|thief|bayes
+starting position: bayes te thief
+SCORE:-80|270|-190:bayes|te|thief
+starting position: bayes thief te
+SCORE:53|-220|167:bayes|thief|te
+starting position: thief bayes te
+SCORE:-512|144|368:thief|bayes|te
+starting position: thief te bayes
+SCORE:-326|-9|335:thief|te|bayes
+
+seed score
+{'te': 675, 'bayes': 911, 'thief': -1586}
+accumulated score
+{'te': 4498, 'bayes': 6831, 'thief': -11329}
+
+Seed: 7
+starting position: te bayes thief
+SCORE:-65|147|-82:te|bayes|thief
+starting position: te thief bayes
+SCORE:270|-393|123:te|thief|bayes
+starting position: bayes te thief
+SCORE:146|156|-302:bayes|te|thief
+starting position: bayes thief te
+SCORE:245|-225|-20:bayes|thief|te
+starting position: thief bayes te
+SCORE:-289|45|244:thief|bayes|te
+starting position: thief te bayes
+SCORE:-108|-127|235:thief|te|bayes
+
+seed score
+{'te': 458, 'bayes': 941, 'thief': -1399}
+accumulated score
+{'te': 4956, 'bayes': 7772, 'thief': -12728}
+
+Seed: 8
+starting position: te bayes thief
+SCORE:149|-16|-133:te|bayes|thief
+starting position: te thief bayes
+SCORE:434|-593|159:te|thief|bayes
+starting position: bayes te thief
+SCORE:244|89|-333:bayes|te|thief
+starting position: bayes thief te
+SCORE:405|-368|-37:bayes|thief|te
+starting position: thief bayes te
+SCORE:-179|-132|311:thief|bayes|te
+starting position: thief te bayes
+SCORE:-62|-181|243:thief|te|bayes
+
+seed score
+{'te': 765, 'bayes': 903, 'thief': -1668}
+accumulated score
+{'te': 5721, 'bayes': 8675, 'thief': -14396}
+
+Seed: 9
+starting position: te bayes thief
+SCORE:-2|166|-164:te|bayes|thief
+starting position: te thief bayes
+SCORE:330|-411|81:te|thief|bayes
+starting position: bayes te thief
+SCORE:163|181|-344:bayes|te|thief
+starting position: bayes thief te
+SCORE:280|-273|-7:bayes|thief|te
+starting position: thief bayes te
+SCORE:-281|74|207:thief|bayes|te
+starting position: thief te bayes
+SCORE:-143|-64|207:thief|te|bayes
+
+seed score
+{'te': 645, 'bayes': 971, 'thief': -1616}
+accumulated score
+{'te': 6366, 'bayes': 9646, 'thief': -16012}
+

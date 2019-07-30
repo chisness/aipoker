@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin bayes
+
+Seed: 0
+starting position: newuak kevin bayes
+SCORE:780|-1143|363:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:199|171|-370:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-211|-155|366:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-639|201|438:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:574|-548|-26:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:599|331|-930:bayes|newuak|kevin
+
+seed score
+{'newuak': 1567, 'kevin': -3841, 'bayes': 2274}
+accumulated score
+{'newuak': 1567, 'kevin': -3841, 'bayes': 2274}
+
+Seed: 1
+starting position: newuak kevin bayes
+SCORE:435|-918|483:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:-32|356|-324:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-555|81|474:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-954|360|594:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:235|-385|150:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:241|584|-825:bayes|newuak|kevin
+
+seed score
+{'newuak': 1812, 'kevin': -3961, 'bayes': 2149}
+accumulated score
+{'newuak': 3379, 'kevin': -7802, 'bayes': 4423}
+
+Seed: 2
+starting position: newuak kevin bayes
+SCORE:409|-720|311:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:-59|557|-498:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-501|169|332:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-1091|565|526:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:242|-232|-10:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:252|663|-915:bayes|newuak|kevin
+
+seed score
+{'newuak': 1698, 'kevin': -3957, 'bayes': 2259}
+accumulated score
+{'newuak': 5077, 'kevin': -11759, 'bayes': 6682}
+
+Seed: 3
+starting position: newuak kevin bayes
+SCORE:712|-1047|335:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:121|326|-447:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-297|-59|356:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-799|304|495:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:492|-514|22:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:481|485|-966:bayes|newuak|kevin
+
+seed score
+{'newuak': 1776, 'kevin': -4070, 'bayes': 2294}
+accumulated score
+{'newuak': 6853, 'kevin': -15829, 'bayes': 8976}
+
+Seed: 4
+starting position: newuak kevin bayes
+SCORE:552|-860|308:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:6|404|-410:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-288|-26|314:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-895|375|520:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:448|-476|28:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:454|478|-932:bayes|newuak|kevin
+
+seed score
+{'newuak': 1558, 'kevin': -3861, 'bayes': 2303}
+accumulated score
+{'newuak': 8411, 'kevin': -19690, 'bayes': 11279}
+
+Seed: 5
+starting position: newuak kevin bayes
+SCORE:593|-947|354:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:71|351|-422:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-326|-39|365:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-934|317|617:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:408|-507|99:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:405|508|-913:bayes|newuak|kevin
+
+seed score
+{'newuak': 1849, 'kevin': -4049, 'bayes': 2200}
+accumulated score
+{'newuak': 10260, 'kevin': -23739, 'bayes': 13479}
+
+Seed: 6
+starting position: newuak kevin bayes
+SCORE:378|-876|498:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:-57|427|-370:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-528|19|509:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-1151|424|727:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:191|-446|255:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:154|516|-670:bayes|newuak|kevin
+
+seed score
+{'newuak': 1838, 'kevin': -4041, 'bayes': 2203}
+accumulated score
+{'newuak': 12098, 'kevin': -27780, 'bayes': 15682}
+
+Seed: 7
+starting position: newuak kevin bayes
+SCORE:519|-923|404:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:-88|323|-235:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-304|-84|388:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-928|312|616:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:462|-476|14:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:429|449|-878:bayes|newuak|kevin
+
+seed score
+{'newuak': 1426, 'kevin': -3744, 'bayes': 2318}
+accumulated score
+{'newuak': 13524, 'kevin': -31524, 'bayes': 18000}
+
+Seed: 8
+starting position: newuak kevin bayes
+SCORE:715|-1127|412:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:260|122|-382:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-325|-77|402:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-719|102|617:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:561|-657|96:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:563|335|-898:bayes|newuak|kevin
+
+seed score
+{'newuak': 1946, 'kevin': -4108, 'bayes': 2162}
+accumulated score
+{'newuak': 15470, 'kevin': -35632, 'bayes': 20162}
+
+Seed: 9
+starting position: newuak kevin bayes
+SCORE:616|-970|354:newuak|kevin|bayes
+starting position: newuak bayes kevin
+SCORE:89|271|-360:newuak|bayes|kevin
+starting position: kevin newuak bayes
+SCORE:-412|36|376:kevin|newuak|bayes
+starting position: kevin bayes newuak
+SCORE:-908|309|599:kevin|bayes|newuak
+starting position: bayes kevin newuak
+SCORE:416|-430|14:bayes|kevin|newuak
+starting position: bayes newuak kevin
+SCORE:424|446|-870:bayes|newuak|kevin
+
+seed score
+{'newuak': 1800, 'kevin': -3950, 'bayes': 2150}
+accumulated score
+{'newuak': 17270, 'kevin': -39582, 'bayes': 22312}
+

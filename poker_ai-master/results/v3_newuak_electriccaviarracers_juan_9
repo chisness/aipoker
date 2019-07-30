@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak electriccaviarracers juan
+
+Seed: 0
+starting position: newuak electriccaviarracers juan
+SCORE:153|-133|-20:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:129|-57|-72:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:160|-143|-17:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:128|-150|22:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:182|-213|31:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:79|-120|41:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': 72, 'electriccaviarracers': -89, 'juan': 17}
+accumulated score
+{'newuak': 72, 'electriccaviarracers': -89, 'juan': 17}
+
+Seed: 1
+starting position: newuak electriccaviarracers juan
+SCORE:-62|17|45:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:-94|30|64:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:-113|-32|145:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:4|9|-13:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:-58|-26|84:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:-161|51|110:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': -66, 'electriccaviarracers': 56, 'juan': 10}
+accumulated score
+{'newuak': 6, 'electriccaviarracers': -33, 'juan': 27}
+
+Seed: 2
+starting position: newuak electriccaviarracers juan
+SCORE:-121|225|-104:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:-137|192|-55:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:-175|207|-32:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:-94|143|-49:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:-27|81|-54:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:-101|137|-36:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': -17, 'electriccaviarracers': -54, 'juan': 71}
+accumulated score
+{'newuak': -11, 'electriccaviarracers': -87, 'juan': 98}
+
+Seed: 3
+starting position: newuak electriccaviarracers juan
+SCORE:104|-33|-71:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:48|-14|-34:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:36|-47|11:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:55|-76|21:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:129|-130|1:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:53|-45|-8:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': 82, 'electriccaviarracers': -114, 'juan': 32}
+accumulated score
+{'newuak': 71, 'electriccaviarracers': -201, 'juan': 130}
+
+Seed: 4
+starting position: newuak electriccaviarracers juan
+SCORE:40|-1|-39:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:77|25|-102:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:0|-7|7:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:102|-47|-55:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:77|-14|-63:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:57|-51|-6:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': -59, 'electriccaviarracers': -21, 'juan': 80}
+accumulated score
+{'newuak': 12, 'electriccaviarracers': -222, 'juan': 210}
+
+Seed: 5
+starting position: newuak electriccaviarracers juan
+SCORE:76|-17|-59:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:12|23|-35:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:55|-89|34:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:91|-58|-33:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:138|-164|26:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:-25|-37|62:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': -45, 'electriccaviarracers': -8, 'juan': 53}
+accumulated score
+{'newuak': -33, 'electriccaviarracers': -230, 'juan': 263}
+
+Seed: 6
+starting position: newuak electriccaviarracers juan
+SCORE:-193|64|129:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:-109|-10|119:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:-135|5|130:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:-98|-52|150:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:-91|-10|101:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:-221|76|145:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': 30, 'electriccaviarracers': 85, 'juan': -115}
+accumulated score
+{'newuak': -3, 'electriccaviarracers': -145, 'juan': 148}
+
+Seed: 7
+starting position: newuak electriccaviarracers juan
+SCORE:32|-58|26:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:15|-37|22:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:-45|-18|63:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:54|-74|20:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:78|-82|4:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:-14|-28|42:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': 25, 'electriccaviarracers': -67, 'juan': 42}
+accumulated score
+{'newuak': 22, 'electriccaviarracers': -212, 'juan': 190}
+
+Seed: 8
+starting position: newuak electriccaviarracers juan
+SCORE:158|-149|-9:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:117|-117|0:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:110|-134|24:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:171|-210|39:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:244|-231|-13:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:130|-167|37:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': 0, 'electriccaviarracers': -62, 'juan': 62}
+accumulated score
+{'newuak': 22, 'electriccaviarracers': -274, 'juan': 252}
+
+Seed: 9
+starting position: newuak electriccaviarracers juan
+SCORE:120|31|-151:newuak|electriccaviarracers|juan
+starting position: newuak juan electriccaviarracers
+SCORE:28|-28|0:newuak|juan|electriccaviarracers
+starting position: electriccaviarracers newuak juan
+SCORE:6|0|-6:electriccaviarracers|newuak|juan
+starting position: electriccaviarracers juan newuak
+SCORE:39|-72|33:electriccaviarracers|juan|newuak
+starting position: juan electriccaviarracers newuak
+SCORE:35|-42|7:juan|electriccaviarracers|newuak
+starting position: juan newuak electriccaviarracers
+SCORE:70|-69|-1:juan|newuak|electriccaviarracers
+
+seed score
+{'newuak': 119, 'electriccaviarracers': 33, 'juan': -152}
+accumulated score
+{'newuak': 141, 'electriccaviarracers': -241, 'juan': 100}
+

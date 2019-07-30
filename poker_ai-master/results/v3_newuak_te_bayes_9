@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te bayes
+
+Seed: 0
+starting position: newuak te bayes
+SCORE:405|-274|-131:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:405|-347|-58:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:131|86|-217:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:34|-248|214:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-13|-210|223:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:65|74|-139:bayes|newuak|te
+
+seed score
+{'newuak': 1407, 'te': -516, 'bayes': -891}
+accumulated score
+{'newuak': 1407, 'te': -516, 'bayes': -891}
+
+Seed: 1
+starting position: newuak te bayes
+SCORE:163|-188|25:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:173|-232|59:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:-138|231|-93:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-198|-121|319:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-324|9|315:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-182|246|-64:bayes|newuak|te
+
+seed score
+{'newuak': 1447, 'te': -520, 'bayes': -927}
+accumulated score
+{'newuak': 2854, 'te': -1036, 'bayes': -1818}
+
+Seed: 2
+starting position: newuak te bayes
+SCORE:149|-5|-144:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:117|-49|-68:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:-144|372|-228:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-253|47|206:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-310|78|232:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-219|390|-171:bayes|newuak|te
+
+seed score
+{'newuak': 1466, 'te': -563, 'bayes': -903}
+accumulated score
+{'newuak': 4320, 'te': -1599, 'bayes': -2721}
+
+Seed: 3
+starting position: newuak te bayes
+SCORE:351|-216|-135:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:314|-226|-88:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:66|186|-252:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-71|-137|208:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-120|-91|211:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-17|205|-188:bayes|newuak|te
+
+seed score
+{'newuak': 1475, 'te': -588, 'bayes': -887}
+accumulated score
+{'newuak': 5795, 'te': -2187, 'bayes': -3608}
+
+Seed: 4
+starting position: newuak te bayes
+SCORE:292|-135|-157:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:267|-187|-80:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:1|233|-234:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-94|-105|199:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-133|-57|190:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-27|199|-172:bayes|newuak|te
+
+seed score
+{'newuak': 1380, 'te': -537, 'bayes': -843}
+accumulated score
+{'newuak': 7175, 'te': -2724, 'bayes': -4451}
+
+Seed: 5
+starting position: newuak te bayes
+SCORE:325|-208|-117:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:295|-224|-71:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:44|178|-222:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-76|-146|222:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-168|-48|216:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-57|233|-176:bayes|newuak|te
+
+seed score
+{'newuak': 1469, 'te': -535, 'bayes': -934}
+accumulated score
+{'newuak': 8644, 'te': -3259, 'bayes': -5385}
+
+Seed: 6
+starting position: newuak te bayes
+SCORE:89|-102|13:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:85|-154|69:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:-186|257|-71:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-284|-81|365:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-358|10|348:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-250|277|-27:bayes|newuak|te
+
+seed score
+{'newuak': 1421, 'te': -520, 'bayes': -901}
+accumulated score
+{'newuak': 10065, 'te': -3779, 'bayes': -6286}
+
+Seed: 7
+starting position: newuak te bayes
+SCORE:274|-204|-70:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:249|-244|-5:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:1|171|-172:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-93|-171|264:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-152|-82|234:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-64|177|-113:bayes|newuak|te
+
+seed score
+{'newuak': 1369, 'te': -496, 'bayes': -873}
+accumulated score
+{'newuak': 11434, 'te': -4275, 'bayes': -7159}
+
+Seed: 8
+starting position: newuak te bayes
+SCORE:402|-318|-84:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:421|-426|5:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:128|51|-179:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:18|-320|302:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-46|-205|251:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:83|68|-151:bayes|newuak|te
+
+seed score
+{'newuak': 1495, 'te': -523, 'bayes': -972}
+accumulated score
+{'newuak': 12929, 'te': -4798, 'bayes': -8131}
+
+Seed: 9
+starting position: newuak te bayes
+SCORE:303|-189|-114:newuak|te|bayes
+starting position: newuak bayes te
+SCORE:291|-274|-17:newuak|bayes|te
+starting position: te newuak bayes
+SCORE:38|179|-217:te|newuak|bayes
+starting position: te bayes newuak
+SCORE:-117|-168|285:te|bayes|newuak
+starting position: bayes te newuak
+SCORE:-146|-80|226:bayes|te|newuak
+starting position: bayes newuak te
+SCORE:-47|192|-145:bayes|newuak|te
+
+seed score
+{'newuak': 1476, 'te': -510, 'bayes': -966}
+accumulated score
+{'newuak': 14405, 'te': -5308, 'bayes': -9097}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief electriccaviarracers efs
+
+Seed: 0
+starting position: thief electriccaviarracers efs
+SCORE:-12|180|-168:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-21|-202|223:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:404|-387|-17:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:553|-285|-268:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:148|28|-176:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:88|-462|374:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1326, 'electriccaviarracers': 1762, 'efs': -436}
+accumulated score
+{'thief': -1326, 'electriccaviarracers': 1762, 'efs': -436}
+
+Seed: 1
+starting position: thief electriccaviarracers efs
+SCORE:-335|370|-35:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-344|11|333:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:31|-189|158:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:199|-80|-119:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:-176|318|-142:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:-241|-222|463:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1351, 'electriccaviarracers': 1714, 'efs': -363}
+accumulated score
+{'thief': -2677, 'electriccaviarracers': 3476, 'efs': -799}
+
+Seed: 2
+starting position: thief electriccaviarracers efs
+SCORE:-315|564|-249:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-332|156|176:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:130|-34|-96:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:253|41|-294:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:-168|418|-250:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:-276|-11|287:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1236, 'electriccaviarracers': 1828, 'efs': -592}
+accumulated score
+{'thief': -3913, 'electriccaviarracers': 5304, 'efs': -1391}
+
+Seed: 3
+starting position: thief electriccaviarracers efs
+SCORE:-125|285|-160:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-93|-88|181:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:291|-283|-8:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:427|-175|-252:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:89|91|-180:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:34|-279|245:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1212, 'electriccaviarracers': 1520, 'efs': -308}
+accumulated score
+{'thief': -5125, 'electriccaviarracers': 6824, 'efs': -1699}
+
+Seed: 4
+starting position: thief electriccaviarracers efs
+SCORE:-86|329|-243:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-155|11|144:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:173|-111|-62:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:416|-118|-298:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:110|135|-245:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:-60|-214|274:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1109, 'electriccaviarracers': 1471, 'efs': -362}
+accumulated score
+{'thief': -6234, 'electriccaviarracers': 8295, 'efs': -2061}
+
+Seed: 5
+starting position: thief electriccaviarracers efs
+SCORE:-150|298|-148:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-172|-108|280:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:147|-176|29:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:394|-164|-230:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:6|187|-193:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:-142|-257|399:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1178, 'electriccaviarracers': 1705, 'efs': -527}
+accumulated score
+{'thief': -7412, 'electriccaviarracers': 10000, 'efs': -2588}
+
+Seed: 6
+starting position: thief electriccaviarracers efs
+SCORE:-406|387|19:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-432|-6|438:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:0|-126|126:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:205|-102|-103:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:-199|300|-101:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:-326|-208|534:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1376, 'electriccaviarracers': 1864, 'efs': -488}
+accumulated score
+{'thief': -8788, 'electriccaviarracers': 11864, 'efs': -3076}
+
+Seed: 7
+starting position: thief electriccaviarracers efs
+SCORE:-123|267|-144:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-160|-80|240:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:207|-221|14:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:351|-189|-162:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:10|178|-188:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:-141|-319|460:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1173, 'electriccaviarracers': 1703, 'efs': -530}
+accumulated score
+{'thief': -9961, 'electriccaviarracers': 13567, 'efs': -3606}
+
+Seed: 8
+starting position: thief electriccaviarracers efs
+SCORE:-5|132|-127:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-23|-233|256:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:417|-446|29:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:596|-422|-174:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:202|26|-228:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:41|-489|448:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1365, 'electriccaviarracers': 1875, 'efs': -510}
+accumulated score
+{'thief': -11326, 'electriccaviarracers': 15442, 'efs': -4116}
+
+Seed: 9
+starting position: thief electriccaviarracers efs
+SCORE:-225|379|-154:thief|electriccaviarracers|efs
+starting position: thief efs electriccaviarracers
+SCORE:-81|-118|199:thief|efs|electriccaviarracers
+starting position: electriccaviarracers thief efs
+SCORE:224|-242|18:electriccaviarracers|thief|efs
+starting position: electriccaviarracers efs thief
+SCORE:422|-210|-212:electriccaviarracers|efs|thief
+starting position: efs electriccaviarracers thief
+SCORE:40|154|-194:efs|electriccaviarracers|thief
+starting position: efs thief electriccaviarracers
+SCORE:-21|-322|343:efs|thief|electriccaviarracers
+
+seed score
+{'thief': -1276, 'electriccaviarracers': 1721, 'efs': -445}
+accumulated score
+{'thief': -12602, 'electriccaviarracers': 17163, 'efs': -4561}
+

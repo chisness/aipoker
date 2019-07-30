@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief efs agentsouth
+
+Seed: 0
+starting position: thief efs agentsouth
+SCORE:18|-192|174:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:124|7|-131:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:135|-359|224:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:135|30|-165:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:382|-246|-136:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:382|-319|-63:agentsouth|thief|efs
+
+seed score
+{'thief': -837, 'efs': -362, 'agentsouth': 1199}
+accumulated score
+{'thief': -837, 'efs': -362, 'agentsouth': 1199}
+
+Seed: 1
+starting position: thief efs agentsouth
+SCORE:-245|-102|347:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-307|271|36:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:-164|-206|370:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:-171|236|-65:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:180|-97|-83:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:113|-147|34:agentsouth|thief|efs
+
+seed score
+{'thief': -1053, 'efs': -464, 'agentsouth': 1517}
+accumulated score
+{'thief': -1890, 'efs': -826, 'agentsouth': 2716}
+
+Seed: 2
+starting position: thief efs agentsouth
+SCORE:-310|88|222:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-285|431|-146:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:-240|46|194:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:-136|345|-209:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:137|82|-219:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:91|-2|-89:agentsouth|thief|efs
+
+seed score
+{'thief': -979, 'efs': -441, 'agentsouth': 1420}
+accumulated score
+{'thief': -2869, 'efs': -1267, 'agentsouth': 4136}
+
+Seed: 3
+starting position: thief efs agentsouth
+SCORE:-94|-114|208:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-41|158|-117:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:59|-284|225:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:76|127|-203:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:296|-99|-197:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:321|-222|-99:agentsouth|thief|efs
+
+seed score
+{'thief': -1041, 'efs': -294, 'agentsouth': 1335}
+accumulated score
+{'thief': -3910, 'efs': -1561, 'agentsouth': 5471}
+
+Seed: 4
+starting position: thief efs agentsouth
+SCORE:-133|-52|185:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-49|196|-147:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:-40|-180|220:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:11|195|-206:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:220|-26|-194:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:178|-89|-89:agentsouth|thief|efs
+
+seed score
+{'thief': -851, 'efs': -343, 'agentsouth': 1194}
+accumulated score
+{'thief': -4761, 'efs': -1904, 'agentsouth': 6665}
+
+Seed: 5
+starting position: thief efs agentsouth
+SCORE:-127|-161|288:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-94|179|-85:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:-79|-205|284:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:96|101|-197:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:290|-131|-159:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:262|-182|-80:agentsouth|thief|efs
+
+seed score
+{'thief': -964, 'efs': -440, 'agentsouth': 1404}
+accumulated score
+{'thief': -5725, 'efs': -2344, 'agentsouth': 8069}
+
+Seed: 6
+starting position: thief efs agentsouth
+SCORE:-347|-37|384:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-303|239|64:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:-280|-119|399:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:-177|163|14:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:140|-69|-71:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:112|-169|57:agentsouth|thief|efs
+
+seed score
+{'thief': -995, 'efs': -442, 'agentsouth': 1437}
+accumulated score
+{'thief': -6720, 'efs': -2786, 'agentsouth': 9506}
+
+Seed: 7
+starting position: thief efs agentsouth
+SCORE:-129|-104|233:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-54|156|-102:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:0|-193|193:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:15|133|-148:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:202|-76|-126:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:94|-158|64:agentsouth|thief|efs
+
+seed score
+{'thief': -808, 'efs': -203, 'agentsouth': 1011}
+accumulated score
+{'thief': -7528, 'efs': -2989, 'agentsouth': 10517}
+
+Seed: 8
+starting position: thief efs agentsouth
+SCORE:43|-293|250:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-49|119|-70:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:76|-383|307:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:113|45|-158:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:441|-341|-100:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:440|-419|-21:agentsouth|thief|efs
+
+seed score
+{'thief': -1066, 'efs': -536, 'agentsouth': 1602}
+accumulated score
+{'thief': -8594, 'efs': -3525, 'agentsouth': 12119}
+
+Seed: 9
+starting position: thief efs agentsouth
+SCORE:-109|-113|222:thief|efs|agentsouth
+starting position: thief agentsouth efs
+SCORE:-137|250|-113:thief|agentsouth|efs
+starting position: efs thief agentsouth
+SCORE:3|-254|251:efs|thief|agentsouth
+starting position: efs agentsouth thief
+SCORE:-38|242|-204:efs|agentsouth|thief
+starting position: agentsouth efs thief
+SCORE:296|-175|-121:agentsouth|efs|thief
+starting position: agentsouth thief efs
+SCORE:299|-239|-60:agentsouth|thief|efs
+
+seed score
+{'thief': -1064, 'efs': -496, 'agentsouth': 1560}
+accumulated score
+{'thief': -9658, 'efs': -4021, 'agentsouth': 13679}
+

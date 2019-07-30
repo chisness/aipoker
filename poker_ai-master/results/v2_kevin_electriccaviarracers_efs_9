@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin electriccaviarracers efs
+
+Seed: 0
+starting position: kevin electriccaviarracers efs
+SCORE:-252|154|98:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-681|186|495:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:714|-1072|358:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:543|-99|-444:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:596|232|-828:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:317|-687|370:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3964, 'electriccaviarracers': 2508, 'efs': 1456}
+accumulated score
+{'kevin': -3964, 'electriccaviarracers': 2508, 'efs': 1456}
+
+Seed: 1
+starting position: kevin electriccaviarracers efs
+SCORE:-574|329|245:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-1003|358|645:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:261|-789|528:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:265|100|-365:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:239|490|-729:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:-34|-440|474:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3900, 'electriccaviarracers': 2464, 'efs': 1436}
+accumulated score
+{'kevin': -7864, 'electriccaviarracers': 4972, 'efs': 2892}
+
+Seed: 2
+starting position: kevin electriccaviarracers efs
+SCORE:-573|535|38:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-1086|599|487:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:323|-640|317:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:221|295|-516:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:223|745|-968:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:-77|-272|349:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -4055, 'electriccaviarracers': 2660, 'efs': 1395}
+accumulated score
+{'kevin': -11919, 'electriccaviarracers': 7632, 'efs': 4287}
+
+Seed: 3
+starting position: kevin electriccaviarracers efs
+SCORE:-266|197|69:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-743|316|427:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:567|-896|329:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:513|29|-542:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:537|384|-921:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:237|-553|316:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3921, 'electriccaviarracers': 2404, 'efs': 1517}
+accumulated score
+{'kevin': -15840, 'electriccaviarracers': 10036, 'efs': 5804}
+
+Seed: 4
+starting position: kevin electriccaviarracers efs
+SCORE:-303|278|25:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-862|421|441:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:489|-781|292:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:298|136|-434:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:489|392|-881:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:201|-524|323:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3785, 'electriccaviarracers': 2221, 'efs': 1564}
+accumulated score
+{'kevin': -19625, 'electriccaviarracers': 12257, 'efs': 7368}
+
+Seed: 5
+starting position: kevin electriccaviarracers efs
+SCORE:-394|288|106:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-855|321|534:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:482|-897|415:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:335|25|-360:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:408|418|-826:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:136|-455|319:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3787, 'electriccaviarracers': 2376, 'efs': 1411}
+accumulated score
+{'kevin': -23412, 'electriccaviarracers': 14633, 'efs': 8779}
+
+Seed: 6
+starting position: kevin electriccaviarracers efs
+SCORE:-694|422|272:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-1122|422|700:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:285|-815|530:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:183|131|-314:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:181|545|-726:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:-88|-463|551:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -4134, 'electriccaviarracers': 2686, 'efs': 1448}
+accumulated score
+{'kevin': -27546, 'electriccaviarracers': 17319, 'efs': 10227}
+
+Seed: 7
+starting position: kevin electriccaviarracers efs
+SCORE:-351|228|123:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-822|331|491:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:506|-901|395:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:274|57|-331:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:434|345|-779:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:162|-525|363:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3709, 'electriccaviarracers': 2207, 'efs': 1502}
+accumulated score
+{'kevin': -31255, 'electriccaviarracers': 19526, 'efs': 11729}
+
+Seed: 8
+starting position: kevin electriccaviarracers efs
+SCORE:-310|154|156:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-629|99|530:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:698|-1123|425:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:660|-191|-469:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:593|247|-840:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:327|-716|389:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -4087, 'electriccaviarracers': 2678, 'efs': 1409}
+accumulated score
+{'kevin': -35342, 'electriccaviarracers': 22204, 'efs': 13138}
+
+Seed: 9
+starting position: kevin electriccaviarracers efs
+SCORE:-459|302|157:kevin|electriccaviarracers|efs
+starting position: kevin efs electriccaviarracers
+SCORE:-755|287|468:kevin|efs|electriccaviarracers
+starting position: electriccaviarracers kevin efs
+SCORE:421|-837|416:electriccaviarracers|kevin|efs
+starting position: electriccaviarracers efs kevin
+SCORE:358|18|-376:electriccaviarracers|efs|kevin
+starting position: efs electriccaviarracers kevin
+SCORE:456|406|-862:efs|electriccaviarracers|kevin
+starting position: efs kevin electriccaviarracers
+SCORE:190|-516|326:efs|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3805, 'electriccaviarracers': 2281, 'efs': 1524}
+accumulated score
+{'kevin': -39147, 'electriccaviarracers': 24485, 'efs': 14662}
+

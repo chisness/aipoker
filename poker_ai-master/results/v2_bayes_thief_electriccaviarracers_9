@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes thief electriccaviarracers
+
+Seed: 0
+starting position: bayes thief electriccaviarracers
+SCORE:264|-344|80:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:429|-97|-332:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-145|50|95:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:31|-110|79:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:286|-536|250:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:277|-129|-148:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 943, 'thief': -1474, 'electriccaviarracers': 531}
+accumulated score
+{'bayes': 943, 'thief': -1474, 'electriccaviarracers': 531}
+
+Seed: 1
+starting position: bayes thief electriccaviarracers
+SCORE:-10|-111|121:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:119|98|-217:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-456|218|238:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-297|109|188:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:14|-374|360:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:-17|86|-69:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 961, 'thief': -1524, 'electriccaviarracers': 563}
+accumulated score
+{'bayes': 1904, 'thief': -2998, 'electriccaviarracers': 1094}
+
+Seed: 2
+starting position: bayes thief electriccaviarracers
+SCORE:-6|-41|47:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:114|280|-394:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-457|393|64:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-239|231|8:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:-35|-130|165:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:-71|288|-217:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 962, 'thief': -1478, 'electriccaviarracers': 516}
+accumulated score
+{'bayes': 2866, 'thief': -4476, 'electriccaviarracers': 1610}
+
+Seed: 3
+starting position: bayes thief electriccaviarracers
+SCORE:178|-239|61:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:323|39|-362:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-162|169|-7:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-9|-76|85:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:200|-408|208:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:143|14|-157:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 977, 'thief': -1337, 'electriccaviarracers': 360}
+accumulated score
+{'bayes': 3843, 'thief': -5813, 'electriccaviarracers': 1970}
+
+Seed: 4
+starting position: bayes thief electriccaviarracers
+SCORE:140|-217|77:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:341|131|-472:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-276|283|-7:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-48|-4|52:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:122|-307|185:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:85|138|-223:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 1139, 'thief': -1543, 'electriccaviarracers': 404}
+accumulated score
+{'bayes': 4982, 'thief': -7356, 'electriccaviarracers': 2374}
+
+Seed: 5
+starting position: bayes thief electriccaviarracers
+SCORE:113|-140|27:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:282|31|-313:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-296|200|96:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-98|-1|99:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:169|-399|230:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:114|18|-132:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 942, 'thief': -1378, 'electriccaviarracers': 436}
+accumulated score
+{'bayes': 5924, 'thief': -8734, 'electriccaviarracers': 2810}
+
+Seed: 6
+starting position: bayes thief electriccaviarracers
+SCORE:-89|-123|212:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:53|79|-132:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-473|265|208:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-334|105|229:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:-111|-267|378:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:-133|162|-29:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 998, 'thief': -1358, 'electriccaviarracers': 360}
+accumulated score
+{'bayes': 6922, 'thief': -10092, 'electriccaviarracers': 3170}
+
+Seed: 7
+starting position: bayes thief electriccaviarracers
+SCORE:101|-214|113:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:286|21|-307:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-289|182|107:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-71|-48|119:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:62|-315|253:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:47|13|-60:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 954, 'thief': -1256, 'electriccaviarracers': 302}
+accumulated score
+{'bayes': 7876, 'thief': -11348, 'electriccaviarracers': 3472}
+
+Seed: 8
+starting position: bayes thief electriccaviarracers
+SCORE:245|-359|114:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:391|-97|-294:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-118|-19|137:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-40|-118|158:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:281|-559|278:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:240|-136|-104:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 917, 'thief': -1474, 'electriccaviarracers': 557}
+accumulated score
+{'bayes': 8793, 'thief': -12822, 'electriccaviarracers': 4029}
+
+Seed: 9
+starting position: bayes thief electriccaviarracers
+SCORE:156|-245|89:bayes|thief|electriccaviarracers
+starting position: bayes electriccaviarracers thief
+SCORE:286|59|-345:bayes|electriccaviarracers|thief
+starting position: thief bayes electriccaviarracers
+SCORE:-299|175|124:thief|bayes|electriccaviarracers
+starting position: thief electriccaviarracers bayes
+SCORE:-117|42|75:thief|electriccaviarracers|bayes
+starting position: electriccaviarracers thief bayes
+SCORE:147|-418|271:electriccaviarracers|thief|bayes
+starting position: electriccaviarracers bayes thief
+SCORE:133|12|-145:electriccaviarracers|bayes|thief
+
+seed score
+{'bayes': 975, 'thief': -1569, 'electriccaviarracers': 594}
+accumulated score
+{'bayes': 9768, 'thief': -14391, 'electriccaviarracers': 4623}
+

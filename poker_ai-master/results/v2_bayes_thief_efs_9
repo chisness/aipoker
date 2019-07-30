@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes thief efs
+
+Seed: 0
+starting position: bayes thief efs
+SCORE:555|-424|-131:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:535|-271|-264:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-49|160|-111:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-16|-260|276:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:87|-397|310:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:167|104|-271:efs|bayes|thief
+
+seed score
+{'bayes': 1940, 'thief': -1421, 'efs': -519}
+accumulated score
+{'bayes': 1940, 'thief': -1421, 'efs': -519}
+
+Seed: 1
+starting position: bayes thief efs
+SCORE:184|-231|47:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:216|-48|-168:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-316|291|25:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-323|-77|400:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:-206|-253|459:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:-180|295|-115:efs|bayes|thief
+
+seed score
+{'bayes': 1845, 'thief': -1406, 'efs': -439}
+accumulated score
+{'bayes': 3785, 'thief': -2827, 'efs': -958}
+
+Seed: 2
+starting position: bayes thief efs
+SCORE:199|-41|-158:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:159|125|-284:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-367|519|-152:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-359|78|281:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:-288|24|264:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:-240|505|-265:efs|bayes|thief
+
+seed score
+{'bayes': 1927, 'thief': -1292, 'efs': -635}
+accumulated score
+{'bayes': 5712, 'thief': -4119, 'efs': -1593}
+
+Seed: 3
+starting position: bayes thief efs
+SCORE:412|-294|-118:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:425|-156|-269:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-153|273|-120:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-120|-160|280:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:13|-305|292:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:54|234|-288:efs|bayes|thief
+
+seed score
+{'bayes': 1916, 'thief': -1429, 'efs': -487}
+accumulated score
+{'bayes': 7628, 'thief': -5548, 'efs': -2080}
+
+Seed: 4
+starting position: bayes thief efs
+SCORE:373|-225|-148:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:377|-53|-324:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-140|317|-177:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-165|-77|242:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:-27|-264|291:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:-3|289|-286:efs|bayes|thief
+
+seed score
+{'bayes': 1889, 'thief': -1404, 'efs': -485}
+accumulated score
+{'bayes': 9517, 'thief': -6952, 'efs': -2565}
+
+Seed: 5
+starting position: bayes thief efs
+SCORE:299|-253|-46:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:375|-144|-231:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-216|261|-45:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-140|-205|345:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:-74|-251|325:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:-11|278|-267:efs|bayes|thief
+
+seed score
+{'bayes': 1883, 'thief': -1358, 'efs': -525}
+accumulated score
+{'bayes': 11400, 'thief': -8310, 'efs': -3090}
+
+Seed: 6
+starting position: bayes thief efs
+SCORE:105|-177|72:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:118|-37|-81:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-418|349|69:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-408|-36|444:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:-287|-186|473:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:-253|362|-109:efs|bayes|thief
+
+seed score
+{'bayes': 1851, 'thief': -1379, 'efs': -472}
+accumulated score
+{'bayes': 13251, 'thief': -9689, 'efs': -3562}
+
+Seed: 7
+starting position: bayes thief efs
+SCORE:375|-316|-59:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:362|-115|-247:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-146|252|-106:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-192|-118|310:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:-38|-314|352:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:-78|252|-174:efs|bayes|thief
+
+seed score
+{'bayes': 1903, 'thief': -1389, 'efs': -514}
+accumulated score
+{'bayes': 15154, 'thief': -11078, 'efs': -4076}
+
+Seed: 8
+starting position: bayes thief efs
+SCORE:485|-416|-69:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:535|-338|-197:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-91|88|3:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-28|-336|364:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:117|-498|381:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:126|56|-182:efs|bayes|thief
+
+seed score
+{'bayes': 1909, 'thief': -1412, 'efs': -497}
+accumulated score
+{'bayes': 17063, 'thief': -12490, 'efs': -4573}
+
+Seed: 9
+starting position: bayes thief efs
+SCORE:349|-299|-50:bayes|thief|efs
+starting position: bayes efs thief
+SCORE:380|-166|-214:bayes|efs|thief
+starting position: thief bayes efs
+SCORE:-214|268|-54:thief|bayes|efs
+starting position: thief efs bayes
+SCORE:-146|-151|297:thief|efs|bayes
+starting position: efs thief bayes
+SCORE:21|-315|294:efs|thief|bayes
+starting position: efs bayes thief
+SCORE:0|243|-243:efs|bayes|thief
+
+seed score
+{'bayes': 1831, 'thief': -1431, 'efs': -400}
+accumulated score
+{'bayes': 18894, 'thief': -13921, 'efs': -4973}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin te bayes
+
+Seed: 0
+starting position: kevin te bayes
+SCORE:-377|-125|502:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-715|299|416:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:622|-1077|455:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:260|323|-583:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:709|175|-884:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:711|-766|55:bayes|kevin|te
+
+seed score
+{'kevin': -4402, 'te': 1403, 'bayes': 2999}
+accumulated score
+{'kevin': -4402, 'te': 1403, 'bayes': 2999}
+
+Seed: 1
+starting position: kevin te bayes
+SCORE:-820|221|599:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-964|480|484:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:306|-892|586:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:25|503|-528:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:340|482|-822:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:417|-630|213:bayes|kevin|te
+
+seed score
+{'kevin': -4656, 'te': 1731, 'bayes': 2925}
+accumulated score
+{'kevin': -9058, 'te': 3134, 'bayes': 5924}
+
+Seed: 2
+starting position: kevin te bayes
+SCORE:-692|226|466:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-1036|657|379:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:300|-708|408:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:-22|711|-689:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:354|588|-942:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:377|-480|103:bayes|kevin|te
+
+seed score
+{'kevin': -4547, 'te': 1574, 'bayes': 2973}
+accumulated score
+{'kevin': -13605, 'te': 4708, 'bayes': 8897}
+
+Seed: 3
+starting position: kevin te bayes
+SCORE:-502|1|501:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-782|420|362:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:510|-975|465:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:222|446|-668:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:585|329|-914:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:648|-706|58:bayes|kevin|te
+
+seed score
+{'kevin': -4547, 'te': 1482, 'bayes': 3065}
+accumulated score
+{'kevin': -18152, 'te': 6190, 'bayes': 11962}
+
+Seed: 4
+starting position: kevin te bayes
+SCORE:-510|66|444:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-825|508|317:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:419|-828|409:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:129|518|-647:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:574|403|-977:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:576|-663|87:bayes|kevin|te
+
+seed score
+{'kevin': -4450, 'te': 1421, 'bayes': 3029}
+accumulated score
+{'kevin': -22602, 'te': 7611, 'bayes': 14991}
+
+Seed: 5
+starting position: kevin te bayes
+SCORE:-491|-6|497:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-868|440|428:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:463|-924|461:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:103|500|-603:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:535|341|-876:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:548|-689|141:bayes|kevin|te
+
+seed score
+{'kevin': -4451, 'te': 1470, 'bayes': 2981}
+accumulated score
+{'kevin': -27053, 'te': 9081, 'bayes': 17972}
+
+Seed: 6
+starting position: kevin te bayes
+SCORE:-735|89|646:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-1163|539|624:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:202|-826|624:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:-40|551|-511:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:247|356|-603:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:331|-642|311:bayes|kevin|te
+
+seed score
+{'kevin': -4480, 'te': 1542, 'bayes': 2938}
+accumulated score
+{'kevin': -31533, 'te': 10623, 'bayes': 20910}
+
+Seed: 7
+starting position: kevin te bayes
+SCORE:-512|-12|524:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-850|421|429:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:438|-956|518:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:38|451|-489:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:545|307|-852:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:578|-684|106:bayes|kevin|te
+
+seed score
+{'kevin': -4343, 'te': 1306, 'bayes': 3037}
+accumulated score
+{'kevin': -35876, 'te': 11929, 'bayes': 23947}
+
+Seed: 8
+starting position: kevin te bayes
+SCORE:-519|-34|553:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-606|217|389:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:554|-1072|518:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:276|281|-557:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:656|226|-882:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:705|-836|131:bayes|kevin|te
+
+seed score
+{'kevin': -4472, 'te': 1542, 'bayes': 2930}
+accumulated score
+{'kevin': -40348, 'te': 13471, 'bayes': 26877}
+
+Seed: 9
+starting position: kevin te bayes
+SCORE:-574|69|505:kevin|te|bayes
+starting position: kevin bayes te
+SCORE:-852|435|417:kevin|bayes|te
+starting position: te kevin bayes
+SCORE:499|-949|450:te|kevin|bayes
+starting position: te bayes kevin
+SCORE:83|419|-502:te|bayes|kevin
+starting position: bayes te kevin
+SCORE:535|382|-917:bayes|te|kevin
+starting position: bayes kevin te
+SCORE:553|-644|91:bayes|kevin|te
+
+seed score
+{'kevin': -4438, 'te': 1541, 'bayes': 2897}
+accumulated score
+{'kevin': -44786, 'te': 15012, 'bayes': 29774}
+

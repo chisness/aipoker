@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin te juan
+
+Seed: 0
+starting position: kevin te juan
+SCORE:-77|-36|113:kevin|te|juan
+starting position: kevin juan te
+SCORE:-305|15|290:kevin|juan|te
+starting position: te kevin juan
+SCORE:550|-714|164:te|kevin|juan
+starting position: te juan kevin
+SCORE:324|15|-339:te|juan|kevin
+starting position: juan te kevin
+SCORE:411|123|-534:juan|te|kevin
+starting position: juan kevin te
+SCORE:343|-464|121:juan|kevin|te
+
+seed score
+{'kevin': -2433, 'te': 1372, 'juan': 1061}
+accumulated score
+{'kevin': -2433, 'te': 1372, 'juan': 1061}
+
+Seed: 1
+starting position: kevin te juan
+SCORE:-551|251|300:kevin|te|juan
+starting position: kevin juan te
+SCORE:-615|198|417:kevin|juan|te
+starting position: te kevin juan
+SCORE:290|-570|280:te|kevin|juan
+starting position: te juan kevin
+SCORE:139|256|-395:te|juan|kevin
+starting position: juan te kevin
+SCORE:96|347|-443:juan|te|kevin
+starting position: juan kevin te
+SCORE:87|-427|340:juan|kevin|te
+
+seed score
+{'kevin': -3001, 'te': 1784, 'juan': 1217}
+accumulated score
+{'kevin': -5434, 'te': 3156, 'juan': 2278}
+
+Seed: 2
+starting position: kevin te juan
+SCORE:-510|370|140:kevin|te|juan
+starting position: kevin juan te
+SCORE:-669|361|308:kevin|juan|te
+starting position: te kevin juan
+SCORE:191|-365|174:te|kevin|juan
+starting position: te juan kevin
+SCORE:76|317|-393:te|juan|kevin
+starting position: juan te kevin
+SCORE:91|566|-657:juan|te|kevin
+starting position: juan kevin te
+SCORE:102|-283|181:juan|kevin|te
+
+seed score
+{'kevin': -2877, 'te': 1692, 'juan': 1185}
+accumulated score
+{'kevin': -8311, 'te': 4848, 'juan': 3463}
+
+Seed: 3
+starting position: kevin te juan
+SCORE:-265|75|190:kevin|te|juan
+starting position: kevin juan te
+SCORE:-428|37|391:kevin|juan|te
+starting position: te kevin juan
+SCORE:467|-630|163:te|kevin|juan
+starting position: te juan kevin
+SCORE:295|69|-364:te|juan|kevin
+starting position: juan te kevin
+SCORE:297|326|-623:juan|te|kevin
+starting position: juan kevin te
+SCORE:276|-430|154:juan|kevin|te
+
+seed score
+{'kevin': -2740, 'te': 1708, 'juan': 1032}
+accumulated score
+{'kevin': -11051, 'te': 6556, 'juan': 4495}
+
+Seed: 4
+starting position: kevin te juan
+SCORE:-266|148|118:kevin|te|juan
+starting position: kevin juan te
+SCORE:-459|128|331:kevin|juan|te
+starting position: te kevin juan
+SCORE:374|-563|189:te|kevin|juan
+starting position: te juan kevin
+SCORE:203|91|-294:te|juan|kevin
+starting position: juan te kevin
+SCORE:185|368|-553:juan|te|kevin
+starting position: juan kevin te
+SCORE:179|-332|153:juan|kevin|te
+
+seed score
+{'kevin': -2467, 'te': 1577, 'juan': 890}
+accumulated score
+{'kevin': -13518, 'te': 8133, 'juan': 5385}
+
+Seed: 5
+starting position: kevin te juan
+SCORE:-302|71|231:kevin|te|juan
+starting position: kevin juan te
+SCORE:-496|134|362:kevin|juan|te
+starting position: te kevin juan
+SCORE:389|-614|225:te|kevin|juan
+starting position: te juan kevin
+SCORE:191|110|-301:te|juan|kevin
+starting position: juan te kevin
+SCORE:174|394|-568:juan|te|kevin
+starting position: juan kevin te
+SCORE:211|-456|245:juan|kevin|te
+
+seed score
+{'kevin': -2737, 'te': 1652, 'juan': 1085}
+accumulated score
+{'kevin': -16255, 'te': 9785, 'juan': 6470}
+
+Seed: 6
+starting position: kevin te juan
+SCORE:-572|184|388:kevin|te|juan
+starting position: kevin juan te
+SCORE:-707|236|471:kevin|juan|te
+starting position: te kevin juan
+SCORE:178|-591|413:te|kevin|juan
+starting position: te juan kevin
+SCORE:59|216|-275:te|juan|kevin
+starting position: juan te kevin
+SCORE:82|347|-429:juan|te|kevin
+starting position: juan kevin te
+SCORE:78|-443|365:juan|kevin|te
+
+seed score
+{'kevin': -3017, 'te': 1604, 'juan': 1413}
+accumulated score
+{'kevin': -19272, 'te': 11389, 'juan': 7883}
+
+Seed: 7
+starting position: kevin te juan
+SCORE:-348|105|243:kevin|te|juan
+starting position: kevin juan te
+SCORE:-503|68|435:kevin|juan|te
+starting position: te kevin juan
+SCORE:342|-572|230:te|kevin|juan
+starting position: te juan kevin
+SCORE:148|62|-210:te|juan|kevin
+starting position: juan te kevin
+SCORE:155|358|-513:juan|te|kevin
+starting position: juan kevin te
+SCORE:182|-354|172:juan|kevin|te
+
+seed score
+{'kevin': -2500, 'te': 1560, 'juan': 940}
+accumulated score
+{'kevin': -21772, 'te': 12949, 'juan': 8823}
+
+Seed: 8
+starting position: kevin te juan
+SCORE:-271|41|230:kevin|te|juan
+starting position: kevin juan te
+SCORE:-439|-28|467:kevin|juan|te
+starting position: te kevin juan
+SCORE:571|-824|253:te|kevin|juan
+starting position: te juan kevin
+SCORE:407|-18|-389:te|juan|kevin
+starting position: juan te kevin
+SCORE:410|149|-559:juan|te|kevin
+starting position: juan kevin te
+SCORE:423|-697|274:juan|kevin|te
+
+seed score
+{'kevin': -3179, 'te': 1909, 'juan': 1270}
+accumulated score
+{'kevin': -24951, 'te': 14858, 'juan': 10093}
+
+Seed: 9
+starting position: kevin te juan
+SCORE:-308|153|155:kevin|te|juan
+starting position: kevin juan te
+SCORE:-526|135|391:kevin|juan|te
+starting position: te kevin juan
+SCORE:445|-633|188:te|kevin|juan
+starting position: te juan kevin
+SCORE:219|137|-356:te|juan|kevin
+starting position: juan te kevin
+SCORE:246|257|-503:juan|te|kevin
+starting position: juan kevin te
+SCORE:223|-393|170:juan|kevin|te
+
+seed score
+{'kevin': -2719, 'te': 1635, 'juan': 1084}
+accumulated score
+{'kevin': -27670, 'te': 16493, 'juan': 11177}
+

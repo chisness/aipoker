@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief electriccaviarracers juan
+
+Seed: 0
+starting position: thief electriccaviarracers juan
+SCORE:-57|-41|98:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-29|-82|111:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:326|-395|69:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:264|-71|-193:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:219|46|-265:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:256|-337|81:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1276, 'electriccaviarracers': 787, 'juan': 489}
+accumulated score
+{'thief': -1276, 'electriccaviarracers': 787, 'juan': 489}
+
+Seed: 1
+starting position: thief electriccaviarracers juan
+SCORE:-327|187|140:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-362|145|217:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:142|-286|144:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:17|86|-103:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:37|143|-180:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:78|-226|148:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1484, 'electriccaviarracers': 854, 'juan': 630}
+accumulated score
+{'thief': -2760, 'electriccaviarracers': 1641, 'juan': 1119}
+
+Seed: 2
+starting position: thief electriccaviarracers juan
+SCORE:-397|272|125:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-391|228|163:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:101|-112|11:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:50|207|-257:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:-14|337|-323:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:56|-72|16:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1552, 'electriccaviarracers': 939, 'juan': 613}
+accumulated score
+{'thief': -4312, 'electriccaviarracers': 2580, 'juan': 1732}
+
+Seed: 3
+starting position: thief electriccaviarracers juan
+SCORE:-44|-33|77:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-68|-20|88:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:200|-326|126:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:214|9|-223:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:191|44|-235:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:240|-279|39:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1175, 'electriccaviarracers': 552, 'juan': 623}
+accumulated score
+{'thief': -5487, 'electriccaviarracers': 3132, 'juan': 2355}
+
+Seed: 4
+starting position: thief electriccaviarracers juan
+SCORE:-137|98|39:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-125|15|110:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:180|-258|78:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:98|161|-259:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:210|132|-342:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:133|-190|57:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1311, 'electriccaviarracers': 675, 'juan': 636}
+accumulated score
+{'thief': -6798, 'electriccaviarracers': 3807, 'juan': 2991}
+
+Seed: 5
+starting position: thief electriccaviarracers juan
+SCORE:-158|69|89:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-254|96|158:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:154|-295|141:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:175|32|-207:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:172|72|-244:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:133|-214|81:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1372, 'electriccaviarracers': 709, 'juan': 663}
+accumulated score
+{'thief': -8170, 'electriccaviarracers': 4516, 'juan': 3654}
+
+Seed: 6
+starting position: thief electriccaviarracers juan
+SCORE:-438|94|344:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-465|137|328:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:0|-231|231:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:-26|140|-114:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:7|161|-168:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:4|-249|245:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1665, 'electriccaviarracers': 802, 'juan': 863}
+accumulated score
+{'thief': -9835, 'electriccaviarracers': 5318, 'juan': 4517}
+
+Seed: 7
+starting position: thief electriccaviarracers juan
+SCORE:-294|11|283:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-139|-23|162:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:116|-196|80:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:69|31|-100:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:172|35|-207:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:194|-228|34:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1164, 'electriccaviarracers': 427, 'juan': 737}
+accumulated score
+{'thief': -10999, 'electriccaviarracers': 5745, 'juan': 5254}
+
+Seed: 8
+starting position: thief electriccaviarracers juan
+SCORE:-24|-152|176:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-96|-74|170:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:345|-476|131:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:243|-43|-200:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:228|-38|-190:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:358|-484|126:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1470, 'electriccaviarracers': 694, 'juan': 776}
+accumulated score
+{'thief': -12469, 'electriccaviarracers': 6439, 'juan': 6030}
+
+Seed: 9
+starting position: thief electriccaviarracers juan
+SCORE:-115|57|58:thief|electriccaviarracers|juan
+starting position: thief juan electriccaviarracers
+SCORE:-244|31|213:thief|juan|electriccaviarracers
+starting position: electriccaviarracers thief juan
+SCORE:229|-346|117:electriccaviarracers|thief|juan
+starting position: electriccaviarracers juan thief
+SCORE:144|78|-222:electriccaviarracers|juan|thief
+starting position: juan electriccaviarracers thief
+SCORE:143|116|-259:juan|electriccaviarracers|thief
+starting position: juan thief electriccaviarracers
+SCORE:192|-244|52:juan|thief|electriccaviarracers
+
+seed score
+{'thief': -1430, 'electriccaviarracers': 811, 'juan': 619}
+accumulated score
+{'thief': -13899, 'electriccaviarracers': 7250, 'juan': 6649}
+

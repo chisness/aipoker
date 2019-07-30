@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: electriccaviarracers olduak agentsouth
+
+Seed: 0
+starting position: electriccaviarracers olduak agentsouth
+SCORE:168|-459|291:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:181|128|-309:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-171|-148|319:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-106|171|-65:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:454|-450|-4:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:432|-102|-330:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 30, 'olduak': -1825, 'agentsouth': 1795}
+accumulated score
+{'electriccaviarracers': 30, 'olduak': -1825, 'agentsouth': 1795}
+
+Seed: 1
+starting position: electriccaviarracers olduak agentsouth
+SCORE:-123|-316|439:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:-114|290|-176:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-348|-29|377:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-391|336|55:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:221|-320|99:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:254|-37|-217:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': -149, 'olduak': -1768, 'agentsouth': 1917}
+accumulated score
+{'electriccaviarracers': -119, 'olduak': -3593, 'agentsouth': 3712}
+
+Seed: 2
+starting position: electriccaviarracers olduak agentsouth
+SCORE:-59|-206|265:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:-33|446|-413:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-385|144|241:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-488|474|14:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:222|-268|46:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:193|133|-326:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 245, 'olduak': -2086, 'agentsouth': 1841}
+accumulated score
+{'electriccaviarracers': 126, 'olduak': -5679, 'agentsouth': 5553}
+
+Seed: 3
+starting position: electriccaviarracers olduak agentsouth
+SCORE:57|-396|339:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:41|261|-302:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-182|-101|283:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-234|242|-8:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:413|-372|-41:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:427|-51|-376:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': -103, 'olduak': -1862, 'agentsouth': 1965}
+accumulated score
+{'electriccaviarracers': 23, 'olduak': -7541, 'agentsouth': 7518}
+
+Seed: 4
+starting position: electriccaviarracers olduak agentsouth
+SCORE:30|-340|310:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:54|277|-331:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-260|0|260:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-203|345|-142:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:361|-318|-43:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:403|-3|-400:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': -104, 'olduak': -1852, 'agentsouth': 1956}
+accumulated score
+{'electriccaviarracers': -81, 'olduak': -9393, 'agentsouth': 9474}
+
+Seed: 5
+starting position: electriccaviarracers olduak agentsouth
+SCORE:-19|-321|340:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:-1|252|-251:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-277|-44|321:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-249|273|-24:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:355|-314|-41:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:337|-82|-255:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': -211, 'olduak': -1667, 'agentsouth': 1878}
+accumulated score
+{'electriccaviarracers': -292, 'olduak': -11060, 'agentsouth': 11352}
+
+Seed: 6
+starting position: electriccaviarracers olduak agentsouth
+SCORE:-157|-302|459:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:-164|329|-165:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-538|80|458:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-510|351|159:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:143|-238|95:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:163|76|-239:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 89, 'olduak': -1992, 'agentsouth': 1903}
+accumulated score
+{'electriccaviarracers': -203, 'olduak': -13052, 'agentsouth': 13255}
+
+Seed: 7
+starting position: electriccaviarracers olduak agentsouth
+SCORE:58|-330|272:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:67|249|-316:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-268|-44|312:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-234|286|-52:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:320|-356|36:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:312|-53|-259:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 12, 'olduak': -1763, 'agentsouth': 1751}
+accumulated score
+{'electriccaviarracers': -191, 'olduak': -14815, 'agentsouth': 15006}
+
+Seed: 8
+starting position: electriccaviarracers olduak agentsouth
+SCORE:216|-577|361:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:172|117|-289:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-181|-165|346:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-178|167|11:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:465|-490|25:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:452|-187|-265:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': 72, 'olduak': -1980, 'agentsouth': 1908}
+accumulated score
+{'electriccaviarracers': -119, 'olduak': -16795, 'agentsouth': 16914}
+
+Seed: 9
+starting position: electriccaviarracers olduak agentsouth
+SCORE:-28|-319|347:electriccaviarracers|olduak|agentsouth
+starting position: electriccaviarracers agentsouth olduak
+SCORE:21|256|-277:electriccaviarracers|agentsouth|olduak
+starting position: olduak electriccaviarracers agentsouth
+SCORE:-227|-48|275:olduak|electriccaviarracers|agentsouth
+starting position: olduak agentsouth electriccaviarracers
+SCORE:-278|301|-23:olduak|agentsouth|electriccaviarracers
+starting position: agentsouth olduak electriccaviarracers
+SCORE:359|-338|-21:agentsouth|olduak|electriccaviarracers
+starting position: agentsouth electriccaviarracers olduak
+SCORE:386|-87|-299:agentsouth|electriccaviarracers|olduak
+
+seed score
+{'electriccaviarracers': -186, 'olduak': -1738, 'agentsouth': 1924}
+accumulated score
+{'electriccaviarracers': -305, 'olduak': -18533, 'agentsouth': 18838}
+

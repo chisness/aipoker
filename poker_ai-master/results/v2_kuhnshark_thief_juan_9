@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark thief juan
+
+Seed: 0
+starting position: kuhnshark thief juan
+SCORE:475|-523|48:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:186|-135|-51:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:87|-159|72:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-178|-82|260:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:240|-249|9:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:216|109|-325:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 880, 'thief': -1239, 'juan': 359}
+accumulated score
+{'kuhnshark': 880, 'thief': -1239, 'juan': 359}
+
+Seed: 1
+starting position: kuhnshark thief juan
+SCORE:142|-253|111:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:-24|5|19:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:-214|114|100:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-426|114|312:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:-85|-29|114:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:48|255|-303:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 913, 'thief': -1206, 'juan': 293}
+accumulated score
+{'kuhnshark': 1793, 'thief': -2445, 'juan': 652}
+
+Seed: 2
+starting position: kuhnshark thief juan
+SCORE:215|-205|-10:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:-19|140|-121:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:-178|238|-60:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-462|232|230:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:-72|65|7:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:-16|430|-414:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1101, 'thief': -1315, 'juan': 214}
+accumulated score
+{'kuhnshark': 2894, 'thief': -3760, 'juan': 866}
+
+Seed: 3
+starting position: kuhnshark thief juan
+SCORE:335|-408|73:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:148|-133|-15:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:2|33|-35:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-243|-22|265:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:101|-134|33:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:161|189|-350:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1003, 'thief': -1148, 'juan': 145}
+accumulated score
+{'kuhnshark': 3897, 'thief': -4908, 'juan': 1011}
+
+Seed: 4
+starting position: kuhnshark thief juan
+SCORE:245|-305|60:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:56|90|-146:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:-32|-2|34:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-243|-18|261:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:-33|-8|41:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:144|230|-374:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 831, 'thief': -1108, 'juan': 277}
+accumulated score
+{'kuhnshark': 4728, 'thief': -6016, 'juan': 1288}
+
+Seed: 5
+starting position: kuhnshark thief juan
+SCORE:320|-375|55:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:75|-32|-43:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:1|-12|11:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-345|43|302:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:3|-93|90:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:149|217|-366:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 992, 'thief': -1221, 'juan': 229}
+accumulated score
+{'kuhnshark': 5720, 'thief': -7237, 'juan': 1517}
+
+Seed: 6
+starting position: kuhnshark thief juan
+SCORE:127|-339|212:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:-28|57|-29:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:-289|62|227:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-533|104|429:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:-83|-169|252:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:-44|280|-236:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1122, 'thief': -1595, 'juan': 473}
+accumulated score
+{'kuhnshark': 6842, 'thief': -8832, 'juan': 1990}
+
+Seed: 7
+starting position: kuhnshark thief juan
+SCORE:209|-344|135:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:-20|-29|49:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:-10|-20|30:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-250|-85|335:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:28|-117|89:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:108|190|-298:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 783, 'thief': -970, 'juan': 187}
+accumulated score
+{'kuhnshark': 7625, 'thief': -9802, 'juan': 2177}
+
+Seed: 8
+starting position: kuhnshark thief juan
+SCORE:441|-535|94:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:209|-171|-38:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:46|-75|29:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-200|-159|359:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:213|-335|122:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:236|84|-320:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1140, 'thief': -1382, 'juan': 242}
+accumulated score
+{'kuhnshark': 8765, 'thief': -11184, 'juan': 2419}
+
+Seed: 9
+starting position: kuhnshark thief juan
+SCORE:315|-383|68:kuhnshark|thief|juan
+starting position: kuhnshark juan thief
+SCORE:107|-46|-61:kuhnshark|juan|thief
+starting position: thief kuhnshark juan
+SCORE:-9|8|1:thief|kuhnshark|juan
+starting position: thief juan kuhnshark
+SCORE:-305|66|239:thief|juan|kuhnshark
+starting position: juan thief kuhnshark
+SCORE:101|-173|72:juan|thief|kuhnshark
+starting position: juan kuhnshark thief
+SCORE:113|239|-352:juan|kuhnshark|thief
+
+seed score
+{'kuhnshark': 980, 'thief': -1283, 'juan': 303}
+accumulated score
+{'kuhnshark': 9745, 'thief': -12467, 'juan': 2722}
+

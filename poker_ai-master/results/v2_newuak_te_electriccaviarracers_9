@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te electriccaviarracers
+
+Seed: 0
+starting position: newuak te electriccaviarracers
+SCORE:225|-129|-96:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:291|-81|-210:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-15|32|-17:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:145|-218|73:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:169|-344|175:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:40|-63|23:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 733, 'te': -530, 'electriccaviarracers': -203}
+accumulated score
+{'newuak': 733, 'te': -530, 'electriccaviarracers': -203}
+
+Seed: 1
+starting position: newuak te electriccaviarracers
+SCORE:10|-15|5:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:98|3|-101:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-289|174|115:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:-67|-86|153:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:-14|-194|208:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:-167|60|107:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 703, 'te': -559, 'electriccaviarracers': -144}
+accumulated score
+{'newuak': 1436, 'te': -1089, 'electriccaviarracers': -347}
+
+Seed: 2
+starting position: newuak te electriccaviarracers
+SCORE:-50|160|-110:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:48|223|-271:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-233|296|-63:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:-99|57|42:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:-66|-43|109:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:-191|251|-60:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 696, 'te': -546, 'electriccaviarracers': -150}
+accumulated score
+{'newuak': 2132, 'te': -1635, 'electriccaviarracers': -497}
+
+Seed: 3
+starting position: newuak te electriccaviarracers
+SCORE:178|-90|-88:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:244|-51|-193:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-86|84|2:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:78|-156|78:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:137|-284|147:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:-11|24|-13:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 755, 'te': -588, 'electriccaviarracers': -167}
+accumulated score
+{'newuak': 2887, 'te': -2223, 'electriccaviarracers': -664}
+
+Seed: 4
+starting position: newuak te electriccaviarracers
+SCORE:152|16|-168:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:167|50|-217:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-133|141|-8:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:61|-103|42:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:80|-218|138:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:14|40|-54:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 680, 'te': -545, 'electriccaviarracers': -135}
+accumulated score
+{'newuak': 3567, 'te': -2768, 'electriccaviarracers': -799}
+
+Seed: 5
+starting position: newuak te electriccaviarracers
+SCORE:68|18|-86:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:220|-29|-191:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-128|127|1:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:76|-131|55:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:85|-232|147:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:-56|30|26:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 647, 'te': -431, 'electriccaviarracers': -216}
+accumulated score
+{'newuak': 4214, 'te': -3199, 'electriccaviarracers': -1015}
+
+Seed: 6
+starting position: newuak te electriccaviarracers
+SCORE:-87|34|53:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:-5|75|-70:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-318|191|127:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:-207|-63|270:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:-97|-167|264:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:-239|129|110:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 762, 'te': -618, 'electriccaviarracers': -144}
+accumulated score
+{'newuak': 4976, 'te': -3817, 'electriccaviarracers': -1159}
+
+Seed: 7
+starting position: newuak te electriccaviarracers
+SCORE:101|-7|-94:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:175|-7|-168:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-171|100|71:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:42|-136|94:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:81|-267|186:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:-56|47|9:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 703, 'te': -562, 'electriccaviarracers': -141}
+accumulated score
+{'newuak': 5679, 'te': -4379, 'electriccaviarracers': -1300}
+
+Seed: 8
+starting position: newuak te electriccaviarracers
+SCORE:311|-216|-95:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:297|-136|-161:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-43|-31|74:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:143|-250|107:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:236|-382|146:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:35|-86|51:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 744, 'te': -608, 'electriccaviarracers': -136}
+accumulated score
+{'newuak': 6423, 'te': -4987, 'electriccaviarracers': -1436}
+
+Seed: 9
+starting position: newuak te electriccaviarracers
+SCORE:132|-84|-48:newuak|te|electriccaviarracers
+starting position: newuak electriccaviarracers te
+SCORE:214|-46|-168:newuak|electriccaviarracers|te
+starting position: te newuak electriccaviarracers
+SCORE:-169|123|46:te|newuak|electriccaviarracers
+starting position: te electriccaviarracers newuak
+SCORE:68|-110|42:te|electriccaviarracers|newuak
+starting position: electriccaviarracers te newuak
+SCORE:48|-211|163:electriccaviarracers|te|newuak
+starting position: electriccaviarracers newuak te
+SCORE:-64|13|51:electriccaviarracers|newuak|te
+
+seed score
+{'newuak': 687, 'te': -513, 'electriccaviarracers': -174}
+accumulated score
+{'newuak': 7110, 'te': -5500, 'electriccaviarracers': -1610}
+

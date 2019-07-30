@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak efs agentsouth
+
+Seed: 0
+starting position: newuak efs agentsouth
+SCORE:264|-254|-10:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:130|-147|17:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:174|-205|31:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:98|-184|86:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:183|-84|-99:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:184|-91|-93:agentsouth|newuak|efs
+
+seed score
+{'newuak': 85, 'efs': -142, 'agentsouth': 57}
+accumulated score
+{'newuak': 85, 'efs': -142, 'agentsouth': 57}
+
+Seed: 1
+starting position: newuak efs agentsouth
+SCORE:-10|-172|182:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:-163|67|96:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:-100|-38|138:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-214|72|142:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:-13|-53|66:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:-77|60|17:agentsouth|newuak|efs
+
+seed score
+{'newuak': 57, 'efs': -426, 'agentsouth': 369}
+accumulated score
+{'newuak': 142, 'efs': -568, 'agentsouth': 426}
+
+Seed: 2
+starting position: newuak efs agentsouth
+SCORE:13|-40|27:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:-164|235|-71:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:-58|14|44:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-168|124|44:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:-68|139|-71:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:-83|252|-169:agentsouth|newuak|efs
+
+seed score
+{'newuak': 88, 'efs': -367, 'agentsouth': 279}
+accumulated score
+{'newuak': 230, 'efs': -935, 'agentsouth': 705}
+
+Seed: 3
+starting position: newuak efs agentsouth
+SCORE:229|-202|-27:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:10|2|-12:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:88|-95|7:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-72|-13|85:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:147|-94|-53:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:96|56|-152:agentsouth|newuak|efs
+
+seed score
+{'newuak': 232, 'efs': -444, 'agentsouth': 212}
+accumulated score
+{'newuak': 462, 'efs': -1379, 'agentsouth': 917}
+
+Seed: 4
+starting position: newuak efs agentsouth
+SCORE:180|-149|-31:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:-65|10|55:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:64|-69|5:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-32|-17|49:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:91|22|-113:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:26|57|-83:agentsouth|newuak|efs
+
+seed score
+{'newuak': 39, 'efs': -123, 'agentsouth': 84}
+accumulated score
+{'newuak': 501, 'efs': -1502, 'agentsouth': 1001}
+
+Seed: 5
+starting position: newuak efs agentsouth
+SCORE:187|-258|71:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:-36|7|29:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:66|-146|80:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-90|-22|112:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:145|-128|-17:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:49|70|-119:agentsouth|newuak|efs
+
+seed score
+{'newuak': 170, 'efs': -500, 'agentsouth': 330}
+accumulated score
+{'newuak': 671, 'efs': -2002, 'agentsouth': 1331}
+
+Seed: 6
+starting position: newuak efs agentsouth
+SCORE:13|-201|188:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:-193|101|92:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:-81|-134|215:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-178|-28|206:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:-22|-74|96:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:-91|148|-57:agentsouth|newuak|efs
+
+seed score
+{'newuak': 136, 'efs': -499, 'agentsouth': 363}
+accumulated score
+{'newuak': 807, 'efs': -2501, 'agentsouth': 1694}
+
+Seed: 7
+starting position: newuak efs agentsouth
+SCORE:121|-187|66:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:-172|37|135:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:126|-169|43:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-57|-67|124:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:57|7|-64:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:-40|33|7:agentsouth|newuak|efs
+
+seed score
+{'newuak': -127, 'efs': 31, 'agentsouth': 96}
+accumulated score
+{'newuak': 680, 'efs': -2470, 'agentsouth': 1790}
+
+Seed: 8
+starting position: newuak efs agentsouth
+SCORE:264|-294|30:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:126|-96|-30:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:81|-224|143:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-48|-85|133:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:243|-210|-33:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:183|-59|-124:agentsouth|newuak|efs
+
+seed score
+{'newuak': 207, 'efs': -625, 'agentsouth': 418}
+accumulated score
+{'newuak': 887, 'efs': -3095, 'agentsouth': 2208}
+
+Seed: 9
+starting position: newuak efs agentsouth
+SCORE:104|-170|66:newuak|efs|agentsouth
+starting position: newuak agentsouth efs
+SCORE:23|-24|1:newuak|agentsouth|efs
+starting position: efs newuak agentsouth
+SCORE:6|-37|31:efs|newuak|agentsouth
+starting position: efs agentsouth newuak
+SCORE:-101|33|68:efs|agentsouth|newuak
+starting position: agentsouth efs newuak
+SCORE:81|-34|-47:agentsouth|efs|newuak
+starting position: agentsouth newuak efs
+SCORE:100|33|-133:agentsouth|newuak|efs
+
+seed score
+{'newuak': 144, 'efs': -431, 'agentsouth': 287}
+accumulated score
+{'newuak': 1031, 'efs': -3526, 'agentsouth': 2495}
+

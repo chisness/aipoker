@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te thief juan
+
+Seed: 0
+starting position: te thief juan
+SCORE:270|-333|63:te|thief|juan
+starting position: te juan thief
+SCORE:267|-103|-164:te|juan|thief
+starting position: thief te juan
+SCORE:70|-134|64:thief|te|juan
+starting position: thief juan te
+SCORE:-20|-106|126:thief|juan|te
+starting position: juan thief te
+SCORE:269|-293|24:juan|thief|te
+starting position: juan te thief
+SCORE:256|-27|-229:juan|te|thief
+
+seed score
+{'te': 526, 'thief': -969, 'juan': 443}
+accumulated score
+{'te': 526, 'thief': -969, 'juan': 443}
+
+Seed: 1
+starting position: te thief juan
+SCORE:-12|-175|187:te|thief|juan
+starting position: te juan thief
+SCORE:30|63|-93:te|juan|thief
+starting position: thief te juan
+SCORE:-269|77|192:thief|te|juan
+starting position: thief juan te
+SCORE:-323|111|212:thief|juan|te
+starting position: juan thief te
+SCORE:-19|-105|124:juan|thief|te
+starting position: juan te thief
+SCORE:-32|73|-41:juan|te|thief
+
+seed score
+{'te': 504, 'thief': -1006, 'juan': 502}
+accumulated score
+{'te': 1030, 'thief': -1975, 'juan': 945}
+
+Seed: 2
+starting position: te thief juan
+SCORE:0|-42|42:te|thief|juan
+starting position: te juan thief
+SCORE:-40|249|-209:te|juan|thief
+starting position: thief te juan
+SCORE:-247|210|37:thief|te|juan
+starting position: thief juan te
+SCORE:-435|311|124:thief|juan|te
+starting position: juan thief te
+SCORE:-47|12|35:juan|thief|te
+starting position: juan te thief
+SCORE:-8|307|-299:juan|te|thief
+
+seed score
+{'te': 636, 'thief': -1220, 'juan': 584}
+accumulated score
+{'te': 1666, 'thief': -3195, 'juan': 1529}
+
+Seed: 3
+starting position: te thief juan
+SCORE:198|-301|103:te|thief|juan
+starting position: te juan thief
+SCORE:160|-15|-145:te|juan|thief
+starting position: thief te juan
+SCORE:-39|-29|68:thief|te|juan
+starting position: thief juan te
+SCORE:-104|20|84:thief|juan|te
+starting position: juan thief te
+SCORE:95|-194|99:juan|thief|te
+starting position: juan te thief
+SCORE:185|81|-266:juan|te|thief
+
+seed score
+{'te': 593, 'thief': -1049, 'juan': 456}
+accumulated score
+{'te': 2259, 'thief': -4244, 'juan': 1985}
+
+Seed: 4
+starting position: te thief juan
+SCORE:207|-270|63:te|thief|juan
+starting position: te juan thief
+SCORE:84|39|-123:te|juan|thief
+starting position: thief te juan
+SCORE:5|-51|46:thief|te|juan
+starting position: thief juan te
+SCORE:-150|62|88:thief|juan|te
+starting position: juan thief te
+SCORE:75|-101|26:juan|thief|te
+starting position: juan te thief
+SCORE:157|122|-279:juan|te|thief
+
+seed score
+{'te': 476, 'thief': -918, 'juan': 442}
+accumulated score
+{'te': 2735, 'thief': -5162, 'juan': 2427}
+
+Seed: 5
+starting position: te thief juan
+SCORE:152|-245|93:te|thief|juan
+starting position: te juan thief
+SCORE:127|56|-183:te|juan|thief
+starting position: thief te juan
+SCORE:-82|-27|109:thief|te|juan
+starting position: thief juan te
+SCORE:-185|11|174:thief|juan|te
+starting position: juan thief te
+SCORE:81|-124|43:juan|thief|te
+starting position: juan te thief
+SCORE:84|88|-172:juan|te|thief
+
+seed score
+{'te': 557, 'thief': -991, 'juan': 434}
+accumulated score
+{'te': 3292, 'thief': -6153, 'juan': 2861}
+
+Seed: 6
+starting position: te thief juan
+SCORE:-3|-219|222:te|thief|juan
+starting position: te juan thief
+SCORE:-45|114|-69:te|juan|thief
+starting position: thief te juan
+SCORE:-404|122|282:thief|te|juan
+starting position: thief juan te
+SCORE:-454|126|328:thief|juan|te
+starting position: juan thief te
+SCORE:-22|-163|185:juan|thief|te
+starting position: juan te thief
+SCORE:-18|205|-187:juan|te|thief
+
+seed score
+{'te': 792, 'thief': -1496, 'juan': 704}
+accumulated score
+{'te': 4084, 'thief': -7649, 'juan': 3565}
+
+Seed: 7
+starting position: te thief juan
+SCORE:156|-277|121:te|thief|juan
+starting position: te juan thief
+SCORE:30|-30|0:te|juan|thief
+starting position: thief te juan
+SCORE:-24|-64|88:thief|te|juan
+starting position: thief juan te
+SCORE:-150|-37|187:thief|juan|te
+starting position: juan thief te
+SCORE:68|-119|51:juan|thief|te
+starting position: juan te thief
+SCORE:95|15|-110:juan|te|thief
+
+seed score
+{'te': 375, 'thief': -680, 'juan': 305}
+accumulated score
+{'te': 4459, 'thief': -8329, 'juan': 3870}
+
+Seed: 8
+starting position: te thief juan
+SCORE:310|-467|157:te|thief|juan
+starting position: te juan thief
+SCORE:241|-60|-181:te|juan|thief
+starting position: thief te juan
+SCORE:42|-143|101:thief|te|juan
+starting position: thief juan te
+SCORE:-30|-153|183:thief|juan|te
+starting position: juan thief te
+SCORE:232|-344|112:juan|thief|te
+starting position: juan te thief
+SCORE:335|-114|-221:juan|te|thief
+
+seed score
+{'te': 589, 'thief': -1201, 'juan': 612}
+accumulated score
+{'te': 5048, 'thief': -9530, 'juan': 4482}
+
+Seed: 9
+starting position: te thief juan
+SCORE:209|-288|79:te|thief|juan
+starting position: te juan thief
+SCORE:92|55|-147:te|juan|thief
+starting position: thief te juan
+SCORE:-63|2|61:thief|te|juan
+starting position: thief juan te
+SCORE:-201|99|102:thief|juan|te
+starting position: juan thief te
+SCORE:153|-224|71:juan|thief|te
+starting position: juan te thief
+SCORE:175|9|-184:juan|te|thief
+
+seed score
+{'te': 485, 'thief': -1107, 'juan': 622}
+accumulated score
+{'te': 5533, 'thief': -10637, 'juan': 5104}
+

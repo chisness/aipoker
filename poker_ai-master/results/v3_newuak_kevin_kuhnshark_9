@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin kuhnshark
+
+Seed: 0
+starting position: newuak kevin kuhnshark
+SCORE:411|-347|-64:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:184|203|-387:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-168|-180|348:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-53|-208|261:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:575|-540|-35:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:148|80|-228:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 721, 'kevin': -1723, 'kuhnshark': 1002}
+accumulated score
+{'newuak': 721, 'kevin': -1723, 'kuhnshark': 1002}
+
+Seed: 1
+starting position: newuak kevin kuhnshark
+SCORE:210|-306|96:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:-50|391|-341:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-541|83|458:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-426|60|366:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:198|-338|140:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:-80|290|-210:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 1039, 'kevin': -2162, 'kuhnshark': 1123}
+accumulated score
+{'newuak': 1760, 'kevin': -3885, 'kuhnshark': 2125}
+
+Seed: 2
+starting position: newuak kevin kuhnshark
+SCORE:173|-113|-60:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:-67|518|-451:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-453|174|279:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-406|128|278:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:259|-231|-28:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:-100|451|-351:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 981, 'kevin': -2005, 'kuhnshark': 1024}
+accumulated score
+{'newuak': 2741, 'kevin': -5890, 'kuhnshark': 3149}
+
+Seed: 3
+starting position: newuak kevin kuhnshark
+SCORE:381|-361|-20:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:131|262|-393:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-229|-70|299:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-115|-104|219:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:462|-480|18:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:80|256|-336:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 935, 'kevin': -1914, 'kuhnshark': 979}
+accumulated score
+{'newuak': 3676, 'kevin': -7804, 'kuhnshark': 4128}
+
+Seed: 4
+starting position: newuak kevin kuhnshark
+SCORE:367|-351|-16:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:-1|352|-351:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-330|-32|362:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-213|-68|281:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:327|-354|27:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:-36|253|-217:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 895, 'kevin': -1816, 'kuhnshark': 921}
+accumulated score
+{'newuak': 4571, 'kevin': -9620, 'kuhnshark': 5049}
+
+Seed: 5
+starting position: newuak kevin kuhnshark
+SCORE:279|-359|80:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:78|284|-362:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-345|-61|406:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-265|-84|349:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:397|-525|128:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:36|230|-266:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 1003, 'kevin': -2122, 'kuhnshark': 1119}
+accumulated score
+{'newuak': 5574, 'kevin': -11742, 'kuhnshark': 6168}
+
+Seed: 6
+starting position: newuak kevin kuhnshark
+SCORE:162|-362|200:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:-59|382|-323:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-498|10|488:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-438|-32|470:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:144|-384|240:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:-96|269|-173:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 1092, 'kevin': -2178, 'kuhnshark': 1086}
+accumulated score
+{'newuak': 6666, 'kevin': -13920, 'kuhnshark': 7254}
+
+Seed: 7
+starting position: newuak kevin kuhnshark
+SCORE:150|-126|-24:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:-92|270|-178:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-224|-89|313:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-222|-124|346:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:356|-368|12:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:-128|209|-81:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 536, 'kevin': -1199, 'kuhnshark': 663}
+accumulated score
+{'newuak': 7202, 'kevin': -15119, 'kuhnshark': 7917}
+
+Seed: 8
+starting position: newuak kevin kuhnshark
+SCORE:475|-523|48:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:243|152|-395:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-336|-68|404:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-216|-112|328:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:532|-615|83:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:196|121|-317:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 1182, 'kevin': -2402, 'kuhnshark': 1220}
+accumulated score
+{'newuak': 8384, 'kevin': -17521, 'kuhnshark': 9137}
+
+Seed: 9
+starting position: newuak kevin kuhnshark
+SCORE:332|-320|-12:newuak|kevin|kuhnshark
+starting position: newuak kuhnshark kevin
+SCORE:80|318|-398:newuak|kuhnshark|kevin
+starting position: kevin newuak kuhnshark
+SCORE:-360|36|324:kevin|newuak|kuhnshark
+starting position: kevin kuhnshark newuak
+SCORE:-259|0|259:kevin|kuhnshark|newuak
+starting position: kuhnshark kevin newuak
+SCORE:415|-444|29:kuhnshark|kevin|newuak
+starting position: kuhnshark newuak kevin
+SCORE:44|306|-350:kuhnshark|newuak|kevin
+
+seed score
+{'newuak': 1042, 'kevin': -2131, 'kuhnshark': 1089}
+accumulated score
+{'newuak': 9426, 'kevin': -19652, 'kuhnshark': 10226}
+

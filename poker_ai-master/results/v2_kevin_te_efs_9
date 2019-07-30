@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin te efs
+
+Seed: 0
+starting position: kevin te efs
+SCORE:-162|132|30:kevin|te|efs
+starting position: kevin efs te
+SCORE:-497|62|435:kevin|efs|te
+starting position: te kevin efs
+SCORE:697|-902|205:te|kevin|efs
+starting position: te efs kevin
+SCORE:488|-87|-401:te|efs|kevin
+starting position: efs te kevin
+SCORE:466|267|-733:efs|te|kevin
+starting position: efs kevin te
+SCORE:285|-618|333:efs|kevin|te
+
+seed score
+{'kevin': -3313, 'te': 2352, 'efs': 961}
+accumulated score
+{'kevin': -3313, 'te': 2352, 'efs': 961}
+
+Seed: 1
+starting position: kevin te efs
+SCORE:-603|415|188:kevin|te|efs
+starting position: kevin efs te
+SCORE:-838|221|617:kevin|efs|te
+starting position: te kevin efs
+SCORE:373|-742|369:te|kevin|efs
+starting position: te efs kevin
+SCORE:262|114|-376:te|efs|kevin
+starting position: efs te kevin
+SCORE:105|524|-629:efs|te|kevin
+starting position: efs kevin te
+SCORE:-79|-397|476:efs|kevin|te
+
+seed score
+{'kevin': -3585, 'te': 2667, 'efs': 918}
+accumulated score
+{'kevin': -6898, 'te': 5019, 'efs': 1879}
+
+Seed: 2
+starting position: kevin te efs
+SCORE:-566|548|18:kevin|te|efs
+starting position: kevin efs te
+SCORE:-920|460|460:kevin|efs|te
+starting position: te kevin efs
+SCORE:434|-588|154:te|kevin|efs
+starting position: te efs kevin
+SCORE:249|282|-531:te|efs|kevin
+starting position: efs te kevin
+SCORE:88|680|-768:efs|te|kevin
+starting position: efs kevin te
+SCORE:-82|-262|344:efs|kevin|te
+
+seed score
+{'kevin': -3635, 'te': 2715, 'efs': 920}
+accumulated score
+{'kevin': -10533, 'te': 7734, 'efs': 2799}
+
+Seed: 3
+starting position: kevin te efs
+SCORE:-253|243|10:kevin|te|efs
+starting position: kevin efs te
+SCORE:-654|171|483:kevin|efs|te
+starting position: te kevin efs
+SCORE:598|-773|175:te|kevin|efs
+starting position: te efs kevin
+SCORE:482|30|-512:te|efs|kevin
+starting position: efs te kevin
+SCORE:372|409|-781:efs|te|kevin
+starting position: efs kevin te
+SCORE:181|-549|368:efs|kevin|te
+
+seed score
+{'kevin': -3522, 'te': 2583, 'efs': 939}
+accumulated score
+{'kevin': -14055, 'te': 10317, 'efs': 3738}
+
+Seed: 4
+starting position: kevin te efs
+SCORE:-338|360|-22:kevin|te|efs
+starting position: kevin efs te
+SCORE:-703|247|456:kevin|efs|te
+starting position: te kevin efs
+SCORE:475|-616|141:te|kevin|efs
+starting position: te efs kevin
+SCORE:338|104|-442:te|efs|kevin
+starting position: efs te kevin
+SCORE:332|418|-750:efs|te|kevin
+starting position: efs kevin te
+SCORE:187|-461|274:efs|kevin|te
+
+seed score
+{'kevin': -3310, 'te': 2321, 'efs': 989}
+accumulated score
+{'kevin': -17365, 'te': 12638, 'efs': 4727}
+
+Seed: 5
+starting position: kevin te efs
+SCORE:-316|221|95:kevin|te|efs
+starting position: kevin efs te
+SCORE:-743|181|562:kevin|efs|te
+starting position: te kevin efs
+SCORE:528|-766|238:te|kevin|efs
+starting position: te efs kevin
+SCORE:444|29|-473:te|efs|kevin
+starting position: efs te kevin
+SCORE:263|445|-708:efs|te|kevin
+starting position: efs kevin te
+SCORE:97|-510|413:efs|kevin|te
+
+seed score
+{'kevin': -3516, 'te': 2613, 'efs': 903}
+accumulated score
+{'kevin': -20881, 'te': 15251, 'efs': 5630}
+
+Seed: 6
+starting position: kevin te efs
+SCORE:-561|319|242:kevin|te|efs
+starting position: kevin efs te
+SCORE:-955|282|673:kevin|efs|te
+starting position: te kevin efs
+SCORE:256|-631|375:te|kevin|efs
+starting position: te efs kevin
+SCORE:254|103|-357:te|efs|kevin
+starting position: efs te kevin
+SCORE:44|400|-444:efs|te|kevin
+starting position: efs kevin te
+SCORE:-119|-462|581:efs|kevin|te
+
+seed score
+{'kevin': -3410, 'te': 2483, 'efs': 927}
+accumulated score
+{'kevin': -24291, 'te': 17734, 'efs': 6557}
+
+Seed: 7
+starting position: kevin te efs
+SCORE:-259|187|72:kevin|te|efs
+starting position: kevin efs te
+SCORE:-666|176|490:kevin|efs|te
+starting position: te kevin efs
+SCORE:448|-700|252:te|kevin|efs
+starting position: te efs kevin
+SCORE:299|34|-333:te|efs|kevin
+starting position: efs te kevin
+SCORE:290|386|-676:efs|te|kevin
+starting position: efs kevin te
+SCORE:141|-492|351:efs|kevin|te
+
+seed score
+{'kevin': -3126, 'te': 2161, 'efs': 965}
+accumulated score
+{'kevin': -27417, 'te': 19895, 'efs': 7522}
+
+Seed: 8
+starting position: kevin te efs
+SCORE:-323|199|124:kevin|te|efs
+starting position: kevin efs te
+SCORE:-510|-35|545:kevin|efs|te
+starting position: te kevin efs
+SCORE:726|-1007|281:te|kevin|efs
+starting position: te efs kevin
+SCORE:660|-203|-457:te|efs|kevin
+starting position: efs te kevin
+SCORE:456|299|-755:efs|te|kevin
+starting position: efs kevin te
+SCORE:319|-703|384:efs|kevin|te
+
+seed score
+{'kevin': -3755, 'te': 2813, 'efs': 942}
+accumulated score
+{'kevin': -31172, 'te': 22708, 'efs': 8464}
+
+Seed: 9
+starting position: kevin te efs
+SCORE:-438|328|110:kevin|te|efs
+starting position: kevin efs te
+SCORE:-700|141|559:kevin|efs|te
+starting position: te kevin efs
+SCORE:494|-758|264:te|kevin|efs
+starting position: te efs kevin
+SCORE:459|1|-460:te|efs|kevin
+starting position: efs te kevin
+SCORE:294|458|-752:efs|te|kevin
+starting position: efs kevin te
+SCORE:131|-503|372:efs|kevin|te
+
+seed score
+{'kevin': -3611, 'te': 2670, 'efs': 941}
+accumulated score
+{'kevin': -34783, 'te': 25378, 'efs': 9405}
+

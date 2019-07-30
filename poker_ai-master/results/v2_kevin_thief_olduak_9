@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin thief olduak
+
+Seed: 0
+starting position: kevin thief olduak
+SCORE:-346|444|-98:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-240|-251|491:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:681|-633|-48:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:917|-349|-568:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:151|276|-427:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:100|-756|656:olduak|kevin|thief
+
+seed score
+{'kevin': -2970, 'thief': 3465, 'olduak': -495}
+accumulated score
+{'kevin': -2970, 'thief': 3465, 'olduak': -495}
+
+Seed: 1
+starting position: kevin thief olduak
+SCORE:-680|673|7:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-615|27|588:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:395|-482|87:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:541|-96|-445:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:-86|467|-381:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:-158|-638|796:olduak|kevin|thief
+
+seed score
+{'kevin': -3241, 'thief': 3460, 'olduak': -219}
+accumulated score
+{'kevin': -6211, 'thief': 6925, 'olduak': -714}
+
+Seed: 2
+starting position: kevin thief olduak
+SCORE:-788|892|-104:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-596|205|391:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:326|-279|-47:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:532|92|-624:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:-122|719|-597:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:-152|-411|563:olduak|kevin|thief
+
+seed score
+{'kevin': -3295, 'thief': 3423, 'olduak': -128}
+accumulated score
+{'kevin': -9506, 'thief': 10348, 'olduak': -842}
+
+Seed: 3
+starting position: kevin thief olduak
+SCORE:-500|567|-67:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-332|-112|444:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:609|-592|-17:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:817|-224|-593:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:89|450|-539:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:-29|-624|653:olduak|kevin|thief
+
+seed score
+{'kevin': -3180, 'thief': 3540, 'olduak': -360}
+accumulated score
+{'kevin': -12686, 'thief': 13888, 'olduak': -1202}
+
+Seed: 4
+starting position: kevin thief olduak
+SCORE:-549|745|-196:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-385|-20|405:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:547|-496|-51:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:767|-116|-651:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:26|456|-482:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:-112|-444|556:olduak|kevin|thief
+
+seed score
+{'kevin': -3007, 'thief': 3476, 'olduak': -469}
+accumulated score
+{'kevin': -15693, 'thief': 17364, 'olduak': -1671}
+
+Seed: 5
+starting position: kevin thief olduak
+SCORE:-615|601|14:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-378|-134|512:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:503|-549|46:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:716|-177|-539:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:90|406|-496:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:7|-665|658:olduak|kevin|thief
+
+seed score
+{'kevin': -3242, 'thief': 3396, 'olduak': -154}
+accumulated score
+{'kevin': -18935, 'thief': 20760, 'olduak': -1825}
+
+Seed: 6
+starting position: kevin thief olduak
+SCORE:-821|740|81:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-715|67|648:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:275|-463|188:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:445|-66|-379:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:-207|520|-313:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:-274|-543|817:olduak|kevin|thief
+
+seed score
+{'kevin': -3234, 'thief': 3445, 'olduak': -211}
+accumulated score
+{'kevin': -22169, 'thief': 24205, 'olduak': -2036}
+
+Seed: 7
+starting position: kevin thief olduak
+SCORE:-512|627|-115:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-453|-24|477:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:526|-591|65:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:747|-204|-543:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:-26|400|-374:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:-122|-554|676:olduak|kevin|thief
+
+seed score
+{'kevin': -3027, 'thief': 3453, 'olduak': -426}
+accumulated score
+{'kevin': -25196, 'thief': 27658, 'olduak': -2462}
+
+Seed: 8
+starting position: kevin thief olduak
+SCORE:-367|403|-36:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-303|-167|470:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:717|-738|21:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:883|-367|-516:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:216|207|-423:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:114|-813|699:olduak|kevin|thief
+
+seed score
+{'kevin': -3160, 'thief': 3379, 'olduak': -219}
+accumulated score
+{'kevin': -28356, 'thief': 31037, 'olduak': -2681}
+
+Seed: 9
+starting position: kevin thief olduak
+SCORE:-533|612|-79:kevin|thief|olduak
+starting position: kevin olduak thief
+SCORE:-420|-86|506:kevin|olduak|thief
+starting position: thief kevin olduak
+SCORE:527|-541|14:thief|kevin|olduak
+starting position: thief olduak kevin
+SCORE:747|-148|-599:thief|olduak|kevin
+starting position: olduak thief kevin
+SCORE:99|384|-483:olduak|thief|kevin
+starting position: olduak kevin thief
+SCORE:-52|-671|723:olduak|kevin|thief
+
+seed score
+{'kevin': -3247, 'thief': 3499, 'olduak': -252}
+accumulated score
+{'kevin': -31603, 'thief': 34536, 'olduak': -2933}
+

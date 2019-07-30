@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te electriccaviarracers efs
+
+Seed: 0
+starting position: te electriccaviarracers efs
+SCORE:344|-248|-96:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:381|-334|-47:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:194|-44|-150:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:66|-238|172:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-22|-188|210:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:68|-13|-55:efs|te|electriccaviarracers
+
+seed score
+{'te': 1050, 'electriccaviarracers': -278, 'efs': -772}
+accumulated score
+{'te': 1050, 'electriccaviarracers': -278, 'efs': -772}
+
+Seed: 1
+starting position: te electriccaviarracers efs
+SCORE:56|11|-67:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:116|-140|24:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:-199|247|-48:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:-102|-182|284:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-253|-29|282:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-267|224|43:efs|te|electriccaviarracers
+
+seed score
+{'te': 1209, 'electriccaviarracers': -252, 'efs': -957}
+accumulated score
+{'te': 2259, 'electriccaviarracers': -530, 'efs': -1729}
+
+Seed: 2
+starting position: te electriccaviarracers efs
+SCORE:108|140|-248:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:124|-29|-95:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:-173|433|-260:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:-149|-11|160:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-233|68|165:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-220|291|-71:efs|te|electriccaviarracers
+
+seed score
+{'te': 1281, 'electriccaviarracers': -280, 'efs': -1001}
+accumulated score
+{'te': 3540, 'electriccaviarracers': -810, 'efs': -2730}
+
+Seed: 3
+starting position: te electriccaviarracers efs
+SCORE:240|-94|-146:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:321|-236|-85:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:10|131|-141:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:29|-196|167:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-64|-129|193:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-52|175|-123:efs|te|electriccaviarracers
+
+seed score
+{'te': 1227, 'electriccaviarracers': -392, 'efs': -835}
+accumulated score
+{'te': 4767, 'electriccaviarracers': -1202, 'efs': -3565}
+
+Seed: 4
+starting position: te electriccaviarracers efs
+SCORE:181|-39|-142:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:259|-146|-113:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:-1|193|-192:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:92|-220|128:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-56|-85|141:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-34|180|-146:efs|te|electriccaviarracers
+
+seed score
+{'te': 1082, 'electriccaviarracers': -292, 'efs': -790}
+accumulated score
+{'te': 5849, 'electriccaviarracers': -1494, 'efs': -4355}
+
+Seed: 5
+starting position: te electriccaviarracers efs
+SCORE:202|-49|-153:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:236|-161|-75:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:-123|122|1:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:21|-276|255:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-83|-113|196:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-65|114|-49:efs|te|electriccaviarracers
+
+seed score
+{'te': 1125, 'electriccaviarracers': -388, 'efs': -737}
+accumulated score
+{'te': 6974, 'electriccaviarracers': -1882, 'efs': -5092}
+
+Seed: 6
+starting position: te electriccaviarracers efs
+SCORE:22|21|-43:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:62|-150|88:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:-195|231|-36:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:-202|-155|357:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-270|-62|332:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-141|143|-2:efs|te|electriccaviarracers
+
+seed score
+{'te': 1147, 'electriccaviarracers': -352, 'efs': -795}
+accumulated score
+{'te': 8121, 'electriccaviarracers': -2234, 'efs': -5887}
+
+Seed: 7
+starting position: te electriccaviarracers efs
+SCORE:128|-109|-19:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:218|-197|-21:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:-43|181|-138:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:48|-245|197:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-85|-113|198:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-43|104|-61:efs|te|electriccaviarracers
+
+seed score
+{'te': 1026, 'electriccaviarracers': -299, 'efs': -727}
+accumulated score
+{'te': 9147, 'electriccaviarracers': -2533, 'efs': -6614}
+
+Seed: 8
+starting position: te electriccaviarracers efs
+SCORE:347|-208|-139:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:368|-317|-51:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:125|-17|-108:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:181|-370|189:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:47|-232|185:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-39|16|23:efs|te|electriccaviarracers
+
+seed score
+{'te': 1088, 'electriccaviarracers': -162, 'efs': -926}
+accumulated score
+{'te': 10235, 'electriccaviarracers': -2695, 'efs': -7540}
+
+Seed: 9
+starting position: te electriccaviarracers efs
+SCORE:226|-45|-181:te|electriccaviarracers|efs
+starting position: te efs electriccaviarracers
+SCORE:243|-172|-71:te|efs|electriccaviarracers
+starting position: electriccaviarracers te efs
+SCORE:-43|169|-126:electriccaviarracers|te|efs
+starting position: electriccaviarracers efs te
+SCORE:-64|-172|236:electriccaviarracers|efs|te
+starting position: efs electriccaviarracers te
+SCORE:-87|-135|222:efs|electriccaviarracers|te
+starting position: efs te electriccaviarracers
+SCORE:-158|175|-17:efs|te|electriccaviarracers
+
+seed score
+{'te': 1271, 'electriccaviarracers': -375, 'efs': -896}
+accumulated score
+{'te': 11506, 'electriccaviarracers': -3070, 'efs': -8436}
+

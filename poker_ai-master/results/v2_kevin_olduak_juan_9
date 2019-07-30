@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin olduak juan
+
+Seed: 0
+starting position: kevin olduak juan
+SCORE:-253|1|252:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-157|271|-114:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:74|-526|452:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:404|98|-502:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:688|-268|-420:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:459|-551|92:juan|kevin|olduak
+
+seed score
+{'kevin': -2409, 'olduak': 189, 'juan': 2220}
+accumulated score
+{'kevin': -2409, 'olduak': 189, 'juan': 2220}
+
+Seed: 1
+starting position: kevin olduak juan
+SCORE:-621|258|363:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-512|499|13:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:-306|-295|601:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:68|377|-445:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:352|-59|-293:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:116|-478|362:juan|kevin|olduak
+
+seed score
+{'kevin': -2644, 'olduak': 336, 'juan': 2308}
+accumulated score
+{'kevin': -5053, 'olduak': 525, 'juan': 4528}
+
+Seed: 2
+starting position: kevin olduak juan
+SCORE:-499|312|187:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-557|663|-106:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:-183|-300|483:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:-3|431|-428:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:406|141|-547:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:176|-313|137:juan|kevin|olduak
+
+seed score
+{'kevin': -2644, 'olduak': 298, 'juan': 2346}
+accumulated score
+{'kevin': -7697, 'olduak': 823, 'juan': 6874}
+
+Seed: 3
+starting position: kevin olduak juan
+SCORE:-340|140|200:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-282|345|-63:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:44|-486|442:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:303|133|-436:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:571|-210|-361:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:384|-553|169:juan|kevin|olduak
+
+seed score
+{'kevin': -2458, 'olduak': 383, 'juan': 2075}
+accumulated score
+{'kevin': -10155, 'olduak': 1206, 'juan': 8949}
+
+Seed: 4
+starting position: kevin olduak juan
+SCORE:-380|141|239:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-287|400|-113:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:-59|-410|469:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:214|282|-496:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:477|-21|-456:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:286|-354|68:juan|kevin|olduak
+
+seed score
+{'kevin': -2383, 'olduak': 230, 'juan': 2153}
+accumulated score
+{'kevin': -12538, 'olduak': 1436, 'juan': 11102}
+
+Seed: 5
+starting position: kevin olduak juan
+SCORE:-322|-5|327:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-406|413|-7:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:-122|-390|512:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:220|157|-377:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:515|-102|-413:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:308|-467|159:juan|kevin|olduak
+
+seed score
+{'kevin': -2375, 'olduak': 143, 'juan': 2232}
+accumulated score
+{'kevin': -14913, 'olduak': 1579, 'juan': 13334}
+
+Seed: 6
+starting position: kevin olduak juan
+SCORE:-640|178|462:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-745|515|230:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:-328|-392|720:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:38|363|-401:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:337|-53|-284:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:175|-471|296:juan|kevin|olduak
+
+seed score
+{'kevin': -2933, 'olduak': 361, 'juan': 2572}
+accumulated score
+{'kevin': -17846, 'olduak': 1940, 'juan': 15906}
+
+Seed: 7
+starting position: kevin olduak juan
+SCORE:-365|54|311:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-366|376|-10:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:-70|-450|520:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:148|192|-340:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:447|-93|-354:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:230|-472|242:juan|kevin|olduak
+
+seed score
+{'kevin': -2347, 'olduak': 271, 'juan': 2076}
+accumulated score
+{'kevin': -20193, 'olduak': 2211, 'juan': 17982}
+
+Seed: 8
+starting position: kevin olduak juan
+SCORE:-210|-12|222:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-242|272|-30:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:180|-723|543:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:361|124|-485:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:723|-366|-357:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:499|-762|263:juan|kevin|olduak
+
+seed score
+{'kevin': -2779, 'olduak': 396, 'juan': 2383}
+accumulated score
+{'kevin': -22972, 'olduak': 2607, 'juan': 20365}
+
+Seed: 9
+starting position: kevin olduak juan
+SCORE:-404|173|231:kevin|olduak|juan
+starting position: kevin juan olduak
+SCORE:-377|471|-94:kevin|juan|olduak
+starting position: olduak kevin juan
+SCORE:28|-537|509:olduak|kevin|juan
+starting position: olduak juan kevin
+SCORE:366|183|-549:olduak|juan|kevin
+starting position: juan olduak kevin
+SCORE:562|1|-563:juan|olduak|kevin
+starting position: juan kevin olduak
+SCORE:272|-473|201:juan|kevin|olduak
+
+seed score
+{'kevin': -2903, 'olduak': 675, 'juan': 2228}
+accumulated score
+{'kevin': -25875, 'olduak': 3282, 'juan': 22593}
+

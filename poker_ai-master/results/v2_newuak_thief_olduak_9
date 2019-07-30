@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak thief olduak
+
+Seed: 0
+starting position: newuak thief olduak
+SCORE:421|-338|-83:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:439|-363|-76:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:83|64|-147:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-26|-277|303:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:44|-236|192:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:142|107|-249:olduak|newuak|thief
+
+seed score
+{'newuak': 1526, 'thief': -842, 'olduak': -684}
+accumulated score
+{'newuak': 1526, 'thief': -842, 'olduak': -684}
+
+Seed: 1
+starting position: newuak thief olduak
+SCORE:237|-234|-3:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:162|-149|-13:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:-260|262|-2:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-354|-74|428:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-262|-27|289:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:-237|349|-112:olduak|newuak|thief
+
+seed score
+{'newuak': 1727, 'thief': -1000, 'olduak': -727}
+accumulated score
+{'newuak': 3253, 'thief': -1842, 'olduak': -1411}
+
+Seed: 2
+starting position: newuak thief olduak
+SCORE:154|-17|-137:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:183|-15|-168:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:-263|397|-134:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-363|3|360:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-248|115|133:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:-205|486|-281:olduak|newuak|thief
+
+seed score
+{'newuak': 1713, 'thief': -977, 'olduak': -736}
+accumulated score
+{'newuak': 4966, 'thief': -2819, 'olduak': -2147}
+
+Seed: 3
+starting position: newuak thief olduak
+SCORE:355|-219|-136:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:319|-192|-127:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:106|157|-263:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-146|-161|307:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-92|-107|199:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:27|213|-240:olduak|newuak|thief
+
+seed score
+{'newuak': 1550, 'thief': -733, 'olduak': -817}
+accumulated score
+{'newuak': 6516, 'thief': -3552, 'olduak': -2964}
+
+Seed: 4
+starting position: newuak thief olduak
+SCORE:342|-179|-163:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:237|-140|-97:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:42|179|-221:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-166|-112|278:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-97|-86|183:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:-77|340|-263:olduak|newuak|thief
+
+seed score
+{'newuak': 1559, 'thief': -749, 'olduak': -810}
+accumulated score
+{'newuak': 8075, 'thief': -4301, 'olduak': -3774}
+
+Seed: 5
+starting position: newuak thief olduak
+SCORE:351|-307|-44:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:308|-187|-121:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:-112|141|-29:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-209|-160|369:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-72|-206|278:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:-80|274|-194:olduak|newuak|thief
+
+seed score
+{'newuak': 1721, 'thief': -1149, 'olduak': -572}
+accumulated score
+{'newuak': 9796, 'thief': -5450, 'olduak': -4346}
+
+Seed: 6
+starting position: newuak thief olduak
+SCORE:205|-223|18:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:76|-37|-39:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:-279|228|51:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-413|-35|448:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-330|-85|415:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:-228|349|-121:olduak|newuak|thief
+
+seed score
+{'newuak': 1721, 'thief': -1160, 'olduak': -561}
+accumulated score
+{'newuak': 11517, 'thief': -6610, 'olduak': -4907}
+
+Seed: 7
+starting position: newuak thief olduak
+SCORE:383|-317|-66:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:176|-181|5:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:-41|128|-87:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-148|-152|300:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-147|-89|236:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:-91|211|-120:olduak|newuak|thief
+
+seed score
+{'newuak': 1434, 'thief': -710, 'olduak': -724}
+accumulated score
+{'newuak': 12951, 'thief': -7320, 'olduak': -5631}
+
+Seed: 8
+starting position: newuak thief olduak
+SCORE:533|-418|-115:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:446|-367|-79:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:-34|97|-63:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-97|-246|343:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:33|-385|352:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:22|219|-241:olduak|newuak|thief
+
+seed score
+{'newuak': 1990, 'thief': -1254, 'olduak': -736}
+accumulated score
+{'newuak': 14941, 'thief': -8574, 'olduak': -6367}
+
+Seed: 9
+starting position: newuak thief olduak
+SCORE:351|-261|-90:newuak|thief|olduak
+starting position: newuak olduak thief
+SCORE:286|-189|-97:newuak|olduak|thief
+starting position: thief newuak olduak
+SCORE:-51|193|-142:thief|newuak|olduak
+starting position: thief olduak newuak
+SCORE:-192|-134|326:thief|olduak|newuak
+starting position: olduak thief newuak
+SCORE:-68|-171|239:olduak|thief|newuak
+starting position: olduak newuak thief
+SCORE:1|300|-301:olduak|newuak|thief
+
+seed score
+{'newuak': 1695, 'thief': -1073, 'olduak': -622}
+accumulated score
+{'newuak': 16636, 'thief': -9647, 'olduak': -6989}
+

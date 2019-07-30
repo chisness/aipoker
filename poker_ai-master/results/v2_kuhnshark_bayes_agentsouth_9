@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark bayes agentsouth
+
+Seed: 0
+starting position: kuhnshark bayes agentsouth
+SCORE:295|-454|159:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:331|-21|-310:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-140|-20|160:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-105|8|97:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:326|-446|120:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:326|-9|-317:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 814, 'bayes': -1772, 'agentsouth': 958}
+accumulated score
+{'kuhnshark': 814, 'bayes': -1772, 'agentsouth': 958}
+
+Seed: 1
+starting position: kuhnshark bayes agentsouth
+SCORE:63|-307|244:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:66|133|-199:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-400|158|242:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-419|208|211:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:63|-299|236:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:79|106|-185:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 840, 'bayes': -1809, 'agentsouth': 969}
+accumulated score
+{'kuhnshark': 1654, 'bayes': -3581, 'agentsouth': 1927}
+
+Seed: 2
+starting position: kuhnshark bayes agentsouth
+SCORE:15|-136|121:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:37|292|-329:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-383|266|117:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-399|304|95:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:41|-155|114:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:63|263|-326:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 790, 'bayes': -1728, 'agentsouth': 938}
+accumulated score
+{'kuhnshark': 2444, 'bayes': -5309, 'agentsouth': 2865}
+
+Seed: 3
+starting position: kuhnshark bayes agentsouth
+SCORE:233|-356|123:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:239|92|-331:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-199|87|112:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-216|126|90:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:242|-339|97:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:246|63|-309:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 809, 'bayes': -1750, 'agentsouth': 941}
+accumulated score
+{'kuhnshark': 3253, 'bayes': -7059, 'agentsouth': 3806}
+
+Seed: 4
+starting position: kuhnshark bayes agentsouth
+SCORE:188|-279|91:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:189|158|-347:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-239|118|121:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-216|148|68:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:196|-283|87:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:198|125|-323:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 775, 'bayes': -1687, 'agentsouth': 912}
+accumulated score
+{'kuhnshark': 4028, 'bayes': -8746, 'agentsouth': 4718}
+
+Seed: 5
+starting position: kuhnshark bayes agentsouth
+SCORE:155|-304|149:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:211|124|-335:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-253|116|137:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-249|137|112:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:201|-320|119:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:233|70|-303:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 783, 'bayes': -1764, 'agentsouth': 981}
+accumulated score
+{'kuhnshark': 4811, 'bayes': -10510, 'agentsouth': 5699}
+
+Seed: 6
+starting position: kuhnshark bayes agentsouth
+SCORE:-7|-256|263:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:7|182|-189:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-435|168|267:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-459|195|264:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:0|-275|275:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:11|165|-176:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 872, 'bayes': -1790, 'agentsouth': 918}
+accumulated score
+{'kuhnshark': 5683, 'bayes': -12300, 'agentsouth': 6617}
+
+Seed: 7
+starting position: kuhnshark bayes agentsouth
+SCORE:163|-331|168:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:180|93|-273:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-253|78|175:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-248|114|134:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:175|-346|171:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:181|68|-249:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 794, 'bayes': -1700, 'agentsouth': 906}
+accumulated score
+{'kuhnshark': 6477, 'bayes': -14000, 'agentsouth': 7523}
+
+Seed: 8
+starting position: kuhnshark bayes agentsouth
+SCORE:286|-495|209:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:282|-19|-263:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-135|-34|169:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-110|-27|137:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:303|-493|190:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:304|-64|-240:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 797, 'bayes': -1736, 'agentsouth': 939}
+accumulated score
+{'kuhnshark': 7274, 'bayes': -15736, 'agentsouth': 8462}
+
+Seed: 9
+starting position: kuhnshark bayes agentsouth
+SCORE:168|-359|191:kuhnshark|bayes|agentsouth
+starting position: kuhnshark agentsouth bayes
+SCORE:199|104|-303:kuhnshark|agentsouth|bayes
+starting position: bayes kuhnshark agentsouth
+SCORE:-263|92|171:bayes|kuhnshark|agentsouth
+starting position: bayes agentsouth kuhnshark
+SCORE:-229|111|118:bayes|agentsouth|kuhnshark
+starting position: agentsouth bayes kuhnshark
+SCORE:211|-367|156:agentsouth|bayes|kuhnshark
+starting position: agentsouth kuhnshark bayes
+SCORE:218|55|-273:agentsouth|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 788, 'bayes': -1794, 'agentsouth': 1006}
+accumulated score
+{'kuhnshark': 8062, 'bayes': -17530, 'agentsouth': 9468}
+

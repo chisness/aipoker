@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak electriccaviarracers efs
+
+Seed: 0
+starting position: newuak electriccaviarracers efs
+SCORE:139|-40|-99:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:271|-307|36:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:234|-11|-223:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:292|-251|-41:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-17|-104|121:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:34|-169|135:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 310, 'electriccaviarracers': 553, 'efs': -863}
+accumulated score
+{'newuak': 310, 'electriccaviarracers': 553, 'efs': -863}
+
+Seed: 1
+starting position: newuak electriccaviarracers efs
+SCORE:-114|145|-31:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:83|-133|50:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:-197|203|-6:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:-2|-93|95:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-242|37|205:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:-179|12|167:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 484, 'electriccaviarracers': 200, 'efs': -684}
+accumulated score
+{'newuak': 794, 'electriccaviarracers': 753, 'efs': -1547}
+
+Seed: 2
+starting position: newuak electriccaviarracers efs
+SCORE:-122|271|-149:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:73|-66|-7:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:-104|374|-270:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:31|26|-57:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-258|133|125:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:-149|40|109:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 433, 'electriccaviarracers': 433, 'efs': -866}
+accumulated score
+{'newuak': 1227, 'electriccaviarracers': 1186, 'efs': -2413}
+
+Seed: 3
+starting position: newuak electriccaviarracers efs
+SCORE:110|14|-124:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:274|-251|-23:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:65|133|-198:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:159|-142|-17:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-40|-74|114:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:31|-56|25:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 558, 'electriccaviarracers': 166, 'efs': -724}
+accumulated score
+{'newuak': 1785, 'electriccaviarracers': 1352, 'efs': -3137}
+
+Seed: 4
+starting position: newuak electriccaviarracers efs
+SCORE:-28|140|-112:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:210|-141|-69:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:45|152|-197:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:164|-85|-79:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-110|-21|131:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:-6|-40|46:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 346, 'electriccaviarracers': 305, 'efs': -651}
+accumulated score
+{'newuak': 2131, 'electriccaviarracers': 1657, 'efs': -3788}
+
+Seed: 5
+starting position: newuak electriccaviarracers efs
+SCORE:45|55|-100:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:193|-214|21:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:-51|118|-67:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:110|-181|71:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-144|-34|178:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:-24|-100|124:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 505, 'electriccaviarracers': 225, 'efs': -730}
+accumulated score
+{'newuak': 2636, 'electriccaviarracers': 1882, 'efs': -4518}
+
+Seed: 6
+starting position: newuak electriccaviarracers efs
+SCORE:-164|170|-6:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:55|-205|150:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:-142|210|-68:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:15|-165|150:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-332|4|328:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:-137|-70|207:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 509, 'electriccaviarracers': 404, 'efs': -913}
+accumulated score
+{'newuak': 3145, 'electriccaviarracers': 2286, 'efs': -5431}
+
+Seed: 7
+starting position: newuak electriccaviarracers efs
+SCORE:-150|113|37:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:130|-199|69:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:-11|54|-43:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:174|-162|-12:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-124|-59|183:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:-27|-123|150:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 82, 'electriccaviarracers': 436, 'efs': -518}
+accumulated score
+{'newuak': 3227, 'electriccaviarracers': 2722, 'efs': -5949}
+
+Seed: 8
+starting position: newuak electriccaviarracers efs
+SCORE:185|-18|-167:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:379|-384|5:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:170|-1|-169:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:333|-333|0:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-12|-161|173:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:32|-164|132:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 572, 'electriccaviarracers': 461, 'efs': -1033}
+accumulated score
+{'newuak': 3799, 'electriccaviarracers': 3183, 'efs': -6982}
+
+Seed: 9
+starting position: newuak electriccaviarracers efs
+SCORE:39|56|-95:newuak|electriccaviarracers|efs
+starting position: newuak efs electriccaviarracers
+SCORE:221|-194|-27:newuak|efs|electriccaviarracers
+starting position: electriccaviarracers newuak efs
+SCORE:-23|126|-103:electriccaviarracers|newuak|efs
+starting position: electriccaviarracers efs newuak
+SCORE:170|-159|-11:electriccaviarracers|efs|newuak
+starting position: efs electriccaviarracers newuak
+SCORE:-69|-40|109:efs|electriccaviarracers|newuak
+starting position: efs newuak electriccaviarracers
+SCORE:-91|18|73:efs|newuak|electriccaviarracers
+
+seed score
+{'newuak': 502, 'electriccaviarracers': 209, 'efs': -711}
+accumulated score
+{'newuak': 4301, 'electriccaviarracers': 3392, 'efs': -7693}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te bayes efs
+
+Seed: 0
+starting position: te bayes efs
+SCORE:143|74|-217:te|bayes|efs
+starting position: te efs bayes
+SCORE:403|-476|73:te|efs|bayes
+starting position: bayes te efs
+SCORE:310|11|-321:bayes|te|efs
+starting position: bayes efs te
+SCORE:403|-313|-90:bayes|efs|te
+starting position: efs bayes te
+SCORE:-135|-90|225:efs|bayes|te
+starting position: efs te bayes
+SCORE:0|-214|214:efs|te|bayes
+
+seed score
+{'te': 478, 'bayes': 984, 'efs': -1462}
+accumulated score
+{'te': 478, 'bayes': 984, 'efs': -1462}
+
+Seed: 1
+starting position: te bayes efs
+SCORE:-188|229|-41:te|bayes|efs
+starting position: te efs bayes
+SCORE:143|-303|160:te|efs|bayes
+starting position: bayes te efs
+SCORE:-64|236|-172:bayes|te|efs
+starting position: bayes efs te
+SCORE:138|-185|47:bayes|efs|te
+starting position: efs bayes te
+SCORE:-389|108|281:efs|bayes|te
+starting position: efs te bayes
+SCORE:-349|-22|371:efs|te|bayes
+
+seed score
+{'te': 497, 'bayes': 942, 'efs': -1439}
+accumulated score
+{'te': 975, 'bayes': 1926, 'efs': -2901}
+
+Seed: 2
+starting position: te bayes efs
+SCORE:-150|405|-255:te|bayes|efs
+starting position: te efs bayes
+SCORE:81|-141|60:te|efs|bayes
+starting position: bayes te efs
+SCORE:-5|343|-338:bayes|te|efs
+starting position: bayes efs te
+SCORE:82|-58|-24:bayes|efs|te
+starting position: efs bayes te
+SCORE:-456|280|176:efs|bayes|te
+starting position: efs te bayes
+SCORE:-280|76|204:efs|te|bayes
+
+seed score
+{'te': 502, 'bayes': 1026, 'efs': -1528}
+accumulated score
+{'te': 1477, 'bayes': 2952, 'efs': -4429}
+
+Seed: 3
+starting position: te bayes efs
+SCORE:64|198|-262:te|bayes|efs
+starting position: te efs bayes
+SCORE:284|-348|64:te|efs|bayes
+starting position: bayes te efs
+SCORE:212|149|-361:bayes|te|efs
+starting position: bayes efs te
+SCORE:328|-273|-55:bayes|efs|te
+starting position: efs bayes te
+SCORE:-216|30|186:efs|bayes|te
+starting position: efs te bayes
+SCORE:-101|-98|199:efs|te|bayes
+
+seed score
+{'te': 530, 'bayes': 1031, 'efs': -1561}
+accumulated score
+{'te': 2007, 'bayes': 3983, 'efs': -5990}
+
+Seed: 4
+starting position: te bayes efs
+SCORE:-58|273|-215:te|bayes|efs
+starting position: te efs bayes
+SCORE:251|-283|32:te|efs|bayes
+starting position: bayes te efs
+SCORE:151|196|-347:bayes|te|efs
+starting position: bayes efs te
+SCORE:275|-203|-72:bayes|efs|te
+starting position: efs bayes te
+SCORE:-232|85|147:efs|bayes|te
+starting position: efs te bayes
+SCORE:-119|-65|184:efs|te|bayes
+
+seed score
+{'te': 399, 'bayes': 1000, 'efs': -1399}
+accumulated score
+{'te': 2406, 'bayes': 4983, 'efs': -7389}
+
+Seed: 5
+starting position: te bayes efs
+SCORE:5|169|-174:te|bayes|efs
+starting position: te efs bayes
+SCORE:263|-382|119:te|efs|bayes
+starting position: bayes te efs
+SCORE:92|141|-233:bayes|te|efs
+starting position: bayes efs te
+SCORE:283|-269|-14:bayes|efs|te
+starting position: efs bayes te
+SCORE:-214|64|150:efs|bayes|te
+starting position: efs te bayes
+SCORE:-142|-84|226:efs|te|bayes
+
+seed score
+{'te': 461, 'bayes': 953, 'efs': -1414}
+accumulated score
+{'te': 2867, 'bayes': 5936, 'efs': -8803}
+
+Seed: 6
+starting position: te bayes efs
+SCORE:-165|239|-74:te|bayes|efs
+starting position: te efs bayes
+SCORE:62|-289|227:te|efs|bayes
+starting position: bayes te efs
+SCORE:-65|248|-183:bayes|te|efs
+starting position: bayes efs te
+SCORE:56|-201|145:bayes|efs|te
+starting position: efs bayes te
+SCORE:-502|158|344:efs|bayes|te
+starting position: efs te bayes
+SCORE:-289|-92|381:efs|te|bayes
+
+seed score
+{'te': 542, 'bayes': 996, 'efs': -1538}
+accumulated score
+{'te': 3409, 'bayes': 6932, 'efs': -10341}
+
+Seed: 7
+starting position: te bayes efs
+SCORE:-82|177|-95:te|bayes|efs
+starting position: te efs bayes
+SCORE:218|-321|103:te|efs|bayes
+starting position: bayes te efs
+SCORE:171|160|-331:bayes|te|efs
+starting position: bayes efs te
+SCORE:245|-236|-9:bayes|efs|te
+starting position: efs bayes te
+SCORE:-258|44|214:efs|bayes|te
+starting position: efs te bayes
+SCORE:-148|-125|273:efs|te|bayes
+
+seed score
+{'te': 376, 'bayes': 1013, 'efs': -1389}
+accumulated score
+{'te': 3785, 'bayes': 7945, 'efs': -11730}
+
+Seed: 8
+starting position: te bayes efs
+SCORE:144|21|-165:te|bayes|efs
+starting position: te efs bayes
+SCORE:373|-513|140:te|efs|bayes
+starting position: bayes te efs
+SCORE:237|40|-277:bayes|te|efs
+starting position: bayes efs te
+SCORE:447|-397|-50:bayes|efs|te
+starting position: efs bayes te
+SCORE:-104|-126|230:efs|bayes|te
+starting position: efs te bayes
+SCORE:-18|-245|263:efs|te|bayes
+
+seed score
+{'te': 492, 'bayes': 982, 'efs': -1474}
+accumulated score
+{'te': 4277, 'bayes': 8927, 'efs': -13204}
+
+Seed: 9
+starting position: te bayes efs
+SCORE:8|156|-164:te|bayes|efs
+starting position: te efs bayes
+SCORE:239|-282|43:te|efs|bayes
+starting position: bayes te efs
+SCORE:140|117|-257:bayes|te|efs
+starting position: bayes efs te
+SCORE:293|-260|-33:bayes|efs|te
+starting position: efs bayes te
+SCORE:-263|49|214:efs|bayes|te
+starting position: efs te bayes
+SCORE:-178|-35|213:efs|te|bayes
+
+seed score
+{'te': 510, 'bayes': 894, 'efs': -1404}
+accumulated score
+{'te': 4787, 'bayes': 9821, 'efs': -14608}
+

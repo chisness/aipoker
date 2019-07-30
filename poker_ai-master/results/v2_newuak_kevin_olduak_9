@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin olduak
+
+Seed: 0
+starting position: newuak kevin olduak
+SCORE:623|-787|164:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:483|-238|-245:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:16|62|-78:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-291|-120|411:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:145|-370|225:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:354|180|-534:olduak|newuak|kevin
+
+seed score
+{'newuak': 1984, 'kevin': -2211, 'olduak': 227}
+accumulated score
+{'newuak': 1984, 'kevin': -2211, 'olduak': 227}
+
+Seed: 1
+starting position: newuak kevin olduak
+SCORE:351|-586|235:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:197|-28|-169:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-390|367|23:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-743|190|553:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:-179|-254|433:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:34|430|-464:olduak|newuak|kevin
+
+seed score
+{'newuak': 2331, 'kevin': -2606, 'olduak': 275}
+accumulated score
+{'newuak': 4315, 'kevin': -4817, 'olduak': 502}
+
+Seed: 2
+starting position: newuak kevin olduak
+SCORE:304|-350|46:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:201|125|-326:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-361|441|-80:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-661|265|396:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:-229|-27|256:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:-2|623|-621:olduak|newuak|kevin
+
+seed score
+{'newuak': 2221, 'kevin': -2346, 'olduak': 125}
+accumulated score
+{'newuak': 6536, 'kevin': -7163, 'olduak': 627}
+
+Seed: 3
+starting position: newuak kevin olduak
+SCORE:556|-655|99:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:390|-133|-257:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-92|200|-108:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-461|66|395:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:58|-347|289:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:270|377|-647:olduak|newuak|kevin
+
+seed score
+{'newuak': 2207, 'kevin': -2459, 'olduak': 252}
+accumulated score
+{'newuak': 8743, 'kevin': -9622, 'olduak': 879}
+
+Seed: 4
+starting position: newuak kevin olduak
+SCORE:355|-462|107:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:253|20|-273:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-151|240|-89:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-553|136|417:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:-46|-251|297:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:168|383|-551:olduak|newuak|kevin
+
+seed score
+{'newuak': 1945, 'kevin': -2241, 'olduak': 296}
+accumulated score
+{'newuak': 10688, 'kevin': -11863, 'olduak': 1175}
+
+Seed: 5
+starting position: newuak kevin olduak
+SCORE:443|-582|139:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:339|-38|-301:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-261|234|27:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-503|62|441:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:-5|-374|379:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:174|331|-505:olduak|newuak|kevin
+
+seed score
+{'newuak': 2167, 'kevin': -2526, 'olduak': 359}
+accumulated score
+{'newuak': 12855, 'kevin': -14389, 'olduak': 1534}
+
+Seed: 6
+starting position: newuak kevin olduak
+SCORE:283|-544|261:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:191|-2|-189:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-471|273|198:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-755|148|607:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:-269|-274|543:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:-59|446|-387:olduak|newuak|kevin
+
+seed score
+{'newuak': 2343, 'kevin': -2620, 'olduak': 277}
+accumulated score
+{'newuak': 15198, 'kevin': -17009, 'olduak': 1811}
+
+Seed: 7
+starting position: newuak kevin olduak
+SCORE:404|-547|143:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:192|-58|-134:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-151|156|-5:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-430|33|397:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:-80|-183|263:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:216|296|-512:olduak|newuak|kevin
+
+seed score
+{'newuak': 1708, 'kevin': -1957, 'olduak': 249}
+accumulated score
+{'newuak': 16906, 'kevin': -18966, 'olduak': 2060}
+
+Seed: 8
+starting position: newuak kevin olduak
+SCORE:731|-958|227:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:537|-260|-277:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-75|185|-110:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-404|-34|438:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:221|-571|350:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:175|326|-501:olduak|newuak|kevin
+
+seed score
+{'newuak': 2567, 'kevin': -2786, 'olduak': 219}
+accumulated score
+{'newuak': 19473, 'kevin': -21752, 'olduak': 2279}
+
+Seed: 9
+starting position: newuak kevin olduak
+SCORE:468|-682|214:newuak|kevin|olduak
+starting position: newuak olduak kevin
+SCORE:388|-123|-265:newuak|olduak|kevin
+starting position: kevin newuak olduak
+SCORE:-153|312|-159:kevin|newuak|olduak
+starting position: kevin olduak newuak
+SCORE:-534|111|423:kevin|olduak|newuak
+starting position: olduak kevin newuak
+SCORE:58|-330|272:olduak|kevin|newuak
+starting position: olduak newuak kevin
+SCORE:258|338|-596:olduak|newuak|kevin
+
+seed score
+{'newuak': 2201, 'kevin': -2560, 'olduak': 359}
+accumulated score
+{'newuak': 21674, 'kevin': -24312, 'olduak': 2638}
+

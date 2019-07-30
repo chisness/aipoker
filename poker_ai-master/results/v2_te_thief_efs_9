@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te thief efs
+
+Seed: 0
+starting position: te thief efs
+SCORE:551|-509|-42:te|thief|efs
+starting position: te efs thief
+SCORE:462|-265|-197:te|efs|thief
+starting position: thief te efs
+SCORE:52|69|-121:thief|te|efs
+starting position: thief efs te
+SCORE:-14|-201|215:thief|efs|te
+starting position: efs thief te
+SCORE:126|-357|231:efs|thief|te
+starting position: efs te thief
+SCORE:164|86|-250:efs|te|thief
+
+seed score
+{'te': 1614, 'thief': -1275, 'efs': -339}
+accumulated score
+{'te': 1614, 'thief': -1275, 'efs': -339}
+
+Seed: 1
+starting position: te thief efs
+SCORE:261|-311|50:te|thief|efs
+starting position: te efs thief
+SCORE:178|-89|-89:te|efs|thief
+starting position: thief te efs
+SCORE:-310|320|-10:thief|te|efs
+starting position: thief efs te
+SCORE:-354|-100|454:thief|efs|te
+starting position: efs thief te
+SCORE:-249|-178|427:efs|thief|te
+starting position: efs te thief
+SCORE:-125|303|-178:efs|te|thief
+
+seed score
+{'te': 1943, 'thief': -1420, 'efs': -523}
+accumulated score
+{'te': 3557, 'thief': -2695, 'efs': -862}
+
+Seed: 2
+starting position: te thief efs
+SCORE:164|-95|-69:te|thief|efs
+starting position: te efs thief
+SCORE:123|85|-208:te|efs|thief
+starting position: thief te efs
+SCORE:-311|486|-175:thief|te|efs
+starting position: thief efs te
+SCORE:-426|135|291:thief|efs|te
+starting position: efs thief te
+SCORE:-305|-1|306:efs|thief|te
+starting position: efs te thief
+SCORE:-144|436|-292:efs|te|thief
+
+seed score
+{'te': 1806, 'thief': -1333, 'efs': -473}
+accumulated score
+{'te': 5363, 'thief': -4028, 'efs': -1335}
+
+Seed: 3
+starting position: te thief efs
+SCORE:395|-322|-73:te|thief|efs
+starting position: te efs thief
+SCORE:339|-192|-147:te|efs|thief
+starting position: thief te efs
+SCORE:-57|247|-190:thief|te|efs
+starting position: thief efs te
+SCORE:-168|-138|306:thief|efs|te
+starting position: efs thief te
+SCORE:5|-260|255:efs|thief|te
+starting position: efs te thief
+SCORE:34|240|-274:efs|te|thief
+
+seed score
+{'te': 1782, 'thief': -1228, 'efs': -554}
+accumulated score
+{'te': 7145, 'thief': -5256, 'efs': -1889}
+
+Seed: 4
+starting position: te thief efs
+SCORE:341|-233|-108:te|thief|efs
+starting position: te efs thief
+SCORE:324|-94|-230:te|efs|thief
+starting position: thief te efs
+SCORE:-67|273|-206:thief|te|efs
+starting position: thief efs te
+SCORE:-187|-82|269:thief|efs|te
+starting position: efs thief te
+SCORE:-99|-138|237:efs|thief|te
+starting position: efs te thief
+SCORE:30|299|-329:efs|te|thief
+
+seed score
+{'te': 1743, 'thief': -1184, 'efs': -559}
+accumulated score
+{'te': 8888, 'thief': -6440, 'efs': -2448}
+
+Seed: 5
+starting position: te thief efs
+SCORE:355|-260|-95:te|thief|efs
+starting position: te efs thief
+SCORE:379|-181|-198:te|efs|thief
+starting position: thief te efs
+SCORE:-176|288|-112:thief|te|efs
+starting position: thief efs te
+SCORE:-225|-137|362:thief|efs|te
+starting position: efs thief te
+SCORE:-122|-203|325:efs|thief|te
+starting position: efs te thief
+SCORE:37|241|-278:efs|te|thief
+
+seed score
+{'te': 1950, 'thief': -1340, 'efs': -610}
+accumulated score
+{'te': 10838, 'thief': -7780, 'efs': -3058}
+
+Seed: 6
+starting position: te thief efs
+SCORE:166|-247|81:te|thief|efs
+starting position: te efs thief
+SCORE:104|-62|-42:te|efs|thief
+starting position: thief te efs
+SCORE:-375|337|38:thief|te|efs
+starting position: thief efs te
+SCORE:-430|-21|451:thief|efs|te
+starting position: efs thief te
+SCORE:-322|-104|426:efs|thief|te
+starting position: efs te thief
+SCORE:-182|320|-138:efs|te|thief
+
+seed score
+{'te': 1804, 'thief': -1336, 'efs': -468}
+accumulated score
+{'te': 12642, 'thief': -9116, 'efs': -3526}
+
+Seed: 7
+starting position: te thief efs
+SCORE:319|-354|35:te|thief|efs
+starting position: te efs thief
+SCORE:285|-148|-137:te|efs|thief
+starting position: thief te efs
+SCORE:-68|232|-164:thief|te|efs
+starting position: thief efs te
+SCORE:-270|-69|339:thief|efs|te
+starting position: efs thief te
+SCORE:-34|-227|261:efs|thief|te
+starting position: efs te thief
+SCORE:-62|231|-169:efs|te|thief
+
+seed score
+{'te': 1667, 'thief': -1225, 'efs': -442}
+accumulated score
+{'te': 14309, 'thief': -10341, 'efs': -3968}
+
+Seed: 8
+starting position: te thief efs
+SCORE:502|-495|-7:te|thief|efs
+starting position: te efs thief
+SCORE:506|-371|-135:te|efs|thief
+starting position: thief te efs
+SCORE:-22|75|-53:thief|te|efs
+starting position: thief efs te
+SCORE:-85|-297|382:thief|efs|te
+starting position: efs thief te
+SCORE:65|-387|322:efs|thief|te
+starting position: efs te thief
+SCORE:60|184|-244:efs|te|thief
+
+seed score
+{'te': 1971, 'thief': -1368, 'efs': -603}
+accumulated score
+{'te': 16280, 'thief': -11709, 'efs': -4571}
+
+Seed: 9
+starting position: te thief efs
+SCORE:410|-336|-74:te|thief|efs
+starting position: te efs thief
+SCORE:285|-194|-91:te|efs|thief
+starting position: thief te efs
+SCORE:-124|217|-93:thief|te|efs
+starting position: thief efs te
+SCORE:-147|-180|327:thief|efs|te
+starting position: efs thief te
+SCORE:-50|-242|292:efs|thief|te
+starting position: efs te thief
+SCORE:-32|331|-299:efs|te|thief
+
+seed score
+{'te': 1862, 'thief': -1239, 'efs': -623}
+accumulated score
+{'te': 18142, 'thief': -12948, 'efs': -5194}
+

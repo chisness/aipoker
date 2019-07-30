@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak bayes olduak
+
+Seed: 0
+starting position: newuak bayes olduak
+SCORE:498|-33|-465:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:583|-571|-12:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:175|196|-371:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:328|-622|294:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-220|-131|351:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-239|127|112:olduak|newuak|bayes
+
+seed score
+{'newuak': 2049, 'bayes': 439, 'olduak': -2488}
+accumulated score
+{'newuak': 2049, 'bayes': 439, 'olduak': -2488}
+
+Seed: 1
+starting position: newuak bayes olduak
+SCORE:219|150|-369:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:295|-413|118:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:-70|397|-327:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:1|-405|404:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-546|29|517:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-533|319|214:olduak|newuak|bayes
+
+seed score
+{'newuak': 2151, 'bayes': 442, 'olduak': -2593}
+accumulated score
+{'newuak': 4200, 'bayes': 881, 'olduak': -5081}
+
+Seed: 2
+starting position: newuak bayes olduak
+SCORE:186|294|-480:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:285|-290|5:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:-92|521|-429:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:13|-303|290:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-542|195|347:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-519|438|81:olduak|newuak|bayes
+
+seed score
+{'newuak': 2067, 'bayes': 496, 'olduak': -2563}
+accumulated score
+{'newuak': 6267, 'bayes': 1377, 'olduak': -7644}
+
+Seed: 3
+starting position: newuak bayes olduak
+SCORE:399|61|-460:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:473|-460|-13:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:143|339|-482:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:208|-516|308:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-311|-62|373:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-373|268|105:olduak|newuak|bayes
+
+seed score
+{'newuak': 2160, 'bayes': 442, 'olduak': -2602}
+accumulated score
+{'newuak': 8427, 'bayes': 1819, 'olduak': -10246}
+
+Seed: 4
+starting position: newuak bayes olduak
+SCORE:351|150|-501:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:428|-392|-36:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:72|370|-442:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:200|-451|251:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-387|48|339:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-397|306|91:olduak|newuak|bayes
+
+seed score
+{'newuak': 2045, 'bayes': 525, 'olduak': -2570}
+accumulated score
+{'newuak': 10472, 'bayes': 2344, 'olduak': -12816}
+
+Seed: 5
+starting position: newuak bayes olduak
+SCORE:310|127|-437:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:464|-432|-32:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:77|384|-461:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:183|-449|266:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-372|-18|390:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-357|241|116:olduak|newuak|bayes
+
+seed score
+{'newuak': 2055, 'bayes': 453, 'olduak': -2508}
+accumulated score
+{'newuak': 12527, 'bayes': 2797, 'olduak': -15324}
+
+Seed: 6
+starting position: newuak bayes olduak
+SCORE:136|165|-301:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:230|-390|160:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:-131|396|-265:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:-36|-403|439:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-586|46|540:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-637|357|280:olduak|newuak|bayes
+
+seed score
+{'newuak': 2098, 'bayes': 484, 'olduak': -2582}
+accumulated score
+{'newuak': 14625, 'bayes': 3281, 'olduak': -17906}
+
+Seed: 7
+starting position: newuak bayes olduak
+SCORE:353|80|-433:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:428|-487|59:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:54|277|-331:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:193|-500|307:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-359|-35|394:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-395|238|157:olduak|newuak|bayes
+
+seed score
+{'newuak': 1997, 'bayes': 508, 'olduak': -2505}
+accumulated score
+{'newuak': 16622, 'bayes': 3789, 'olduak': -20411}
+
+Seed: 8
+starting position: newuak bayes olduak
+SCORE:462|-96|-366:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:535|-577|42:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:192|199|-391:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:301|-624|323:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-235|-182|417:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-298|111|187:olduak|newuak|bayes
+
+seed score
+{'newuak': 2047, 'bayes': 444, 'olduak': -2491}
+accumulated score
+{'newuak': 18669, 'bayes': 4233, 'olduak': -22902}
+
+Seed: 9
+starting position: newuak bayes olduak
+SCORE:377|88|-465:newuak|bayes|olduak
+starting position: newuak olduak bayes
+SCORE:463|-474|11:newuak|olduak|bayes
+starting position: bayes newuak olduak
+SCORE:82|348|-430:bayes|newuak|olduak
+starting position: bayes olduak newuak
+SCORE:184|-478|294:bayes|olduak|newuak
+starting position: olduak bayes newuak
+SCORE:-345|-67|412:olduak|bayes|newuak
+starting position: olduak newuak bayes
+SCORE:-364|240|124:olduak|newuak|bayes
+
+seed score
+{'newuak': 2134, 'bayes': 422, 'olduak': -2556}
+accumulated score
+{'newuak': 20803, 'bayes': 4655, 'olduak': -25458}
+

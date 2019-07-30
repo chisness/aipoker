@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak bayes electriccaviarracers
+
+Seed: 0
+starting position: newuak bayes electriccaviarracers
+SCORE:337|-270|-67:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:384|-77|-307:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-137|34|103:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:47|-214|167:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:267|-440|173:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:114|14|-128:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1109, 'bayes': -1235, 'electriccaviarracers': 126}
+accumulated score
+{'newuak': 1109, 'bayes': -1235, 'electriccaviarracers': 126}
+
+Seed: 1
+starting position: newuak bayes electriccaviarracers
+SCORE:81|-118|37:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:139|77|-216:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-396|227|169:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-237|0|237:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:40|-334|294:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:-171|172|-1:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1150, 'bayes': -1302, 'electriccaviarracers': 152}
+accumulated score
+{'newuak': 2259, 'bayes': -2537, 'electriccaviarracers': 278}
+
+Seed: 2
+starting position: newuak bayes electriccaviarracers
+SCORE:58|40|-98:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:93|299|-392:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-412|359|53:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-215|128|87:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:55|-146|91:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:-125|287|-162:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 975, 'bayes': -1287, 'electriccaviarracers': 312}
+accumulated score
+{'newuak': 3234, 'bayes': -3824, 'electriccaviarracers': 590}
+
+Seed: 3
+starting position: newuak bayes electriccaviarracers
+SCORE:205|-148|-57:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:312|25|-337:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-214|141|73:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-28|-92|120:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:219|-396|177:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:32|119|-151:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1074, 'bayes': -1274, 'electriccaviarracers': 200}
+accumulated score
+{'newuak': 4308, 'bayes': -5098, 'electriccaviarracers': 790}
+
+Seed: 4
+starting position: newuak bayes electriccaviarracers
+SCORE:190|-82|-108:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:248|129|-377:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-277|162|115:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-24|-93|117:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:114|-270|156:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:-25|196|-171:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1069, 'bayes': -1201, 'electriccaviarracers': 132}
+accumulated score
+{'newuak': 5377, 'bayes': -6299, 'electriccaviarracers': 922}
+
+Seed: 5
+starting position: newuak bayes electriccaviarracers
+SCORE:230|-147|-83:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:284|63|-347:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-270|192|78:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-64|-68|132:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:121|-344|223:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:1|118|-119:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1179, 'bayes': -1291, 'electriccaviarracers': 112}
+accumulated score
+{'newuak': 6556, 'bayes': -7590, 'electriccaviarracers': 1034}
+
+Seed: 6
+starting position: newuak bayes electriccaviarracers
+SCORE:18|-74|56:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:43|138|-181:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-475|221|254:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-267|-63|330:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:6|-296|290:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:-220|209|11:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1111, 'bayes': -1282, 'electriccaviarracers': 171}
+accumulated score
+{'newuak': 7667, 'bayes': -8872, 'electriccaviarracers': 1205}
+
+Seed: 7
+starting position: newuak bayes electriccaviarracers
+SCORE:181|-148|-33:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:207|52|-259:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-280|115|165:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-61|-112|173:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:167|-387|220:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:-32|130|-98:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1026, 'bayes': -1233, 'electriccaviarracers': 207}
+accumulated score
+{'newuak': 8693, 'bayes': -10105, 'electriccaviarracers': 1412}
+
+Seed: 8
+starting position: newuak bayes electriccaviarracers
+SCORE:333|-326|-7:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:350|-57|-293:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-185|63|122:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:45|-251|206:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:291|-551|260:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:78|-9|-69:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1203, 'bayes': -1379, 'electriccaviarracers': 176}
+accumulated score
+{'newuak': 9896, 'bayes': -11484, 'electriccaviarracers': 1588}
+
+Seed: 9
+starting position: newuak bayes electriccaviarracers
+SCORE:175|-204|29:newuak|bayes|electriccaviarracers
+starting position: newuak electriccaviarracers bayes
+SCORE:237|41|-278:newuak|electriccaviarracers|bayes
+starting position: bayes newuak electriccaviarracers
+SCORE:-300|216|84:bayes|newuak|electriccaviarracers
+starting position: bayes electriccaviarracers newuak
+SCORE:-65|-57|122:bayes|electriccaviarracers|newuak
+starting position: electriccaviarracers bayes newuak
+SCORE:130|-385|255:electriccaviarracers|bayes|newuak
+starting position: electriccaviarracers newuak bayes
+SCORE:17|61|-78:electriccaviarracers|newuak|bayes
+
+seed score
+{'newuak': 1066, 'bayes': -1310, 'electriccaviarracers': 244}
+accumulated score
+{'newuak': 10962, 'bayes': -12794, 'electriccaviarracers': 1832}
+

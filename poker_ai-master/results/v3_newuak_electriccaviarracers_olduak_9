@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak electriccaviarracers olduak
+
+Seed: 0
+starting position: newuak electriccaviarracers olduak
+SCORE:269|-19|-250:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:367|-356|-11:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:129|31|-160:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:269|-441|172:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-37|-145|182:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-85|-7|92:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1014, 'electriccaviarracers': 315, 'olduak': -1329}
+accumulated score
+{'newuak': 1014, 'electriccaviarracers': 315, 'olduak': -1329}
+
+Seed: 1
+starting position: newuak electriccaviarracers olduak
+SCORE:104|97|-201:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:111|-197|86:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:-76|205|-129:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:0|-252|252:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-312|77|235:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-359|179|180:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1086, 'electriccaviarracers': 364, 'olduak': -1450}
+accumulated score
+{'newuak': 2100, 'electriccaviarracers': 679, 'olduak': -2779}
+
+Seed: 2
+starting position: newuak electriccaviarracers olduak
+SCORE:60|230|-290:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:133|-74|-59:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:-139|423|-284:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:40|-184|144:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-292|129|163:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-407|307|100:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1230, 'electriccaviarracers': 301, 'olduak': -1531}
+accumulated score
+{'newuak': 3330, 'electriccaviarracers': 980, 'olduak': -4310}
+
+Seed: 3
+starting position: newuak electriccaviarracers olduak
+SCORE:287|13|-300:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:303|-276|-27:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:90|100|-190:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:184|-319|135:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-115|-24|139:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-266|124|142:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1088, 'electriccaviarracers': 378, 'olduak': -1466}
+accumulated score
+{'newuak': 4418, 'electriccaviarracers': 1358, 'olduak': -5776}
+
+Seed: 4
+starting position: newuak electriccaviarracers olduak
+SCORE:179|174|-353:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:258|-193|-65:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:69|171|-240:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:137|-296|159:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-108|-40|148:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-195|159|36:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1074, 'electriccaviarracers': 311, 'olduak': -1385}
+accumulated score
+{'newuak': 5492, 'electriccaviarracers': 1669, 'olduak': -7161}
+
+Seed: 5
+starting position: newuak electriccaviarracers olduak
+SCORE:221|61|-282:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:229|-234|5:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:-35|141|-106:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:118|-271|153:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-139|-92|231:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-180|96|84:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1071, 'electriccaviarracers': 141, 'olduak': -1212}
+accumulated score
+{'newuak': 6563, 'electriccaviarracers': 1810, 'olduak': -8373}
+
+Seed: 6
+starting position: newuak electriccaviarracers olduak
+SCORE:38|128|-166:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:56|-168|112:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:-175|232|-57:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:-27|-246|273:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-381|14|367:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-397|189|208:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1155, 'electriccaviarracers': 260, 'olduak': -1415}
+accumulated score
+{'newuak': 7718, 'electriccaviarracers': 2070, 'olduak': -9788}
+
+Seed: 7
+starting position: newuak electriccaviarracers olduak
+SCORE:129|103|-232:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:211|-204|-7:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:-32|163|-131:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:217|-351|134:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-196|-21|217:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-248|78|170:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 932, 'electriccaviarracers': 430, 'olduak': -1362}
+accumulated score
+{'newuak': 8650, 'electriccaviarracers': 2500, 'olduak': -11150}
+
+Seed: 8
+starting position: newuak electriccaviarracers olduak
+SCORE:312|-57|-255:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:411|-350|-61:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:160|7|-167:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:292|-464|172:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-16|-214|230:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-135|-24|159:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1108, 'electriccaviarracers': 279, 'olduak': -1387}
+accumulated score
+{'newuak': 9758, 'electriccaviarracers': 2779, 'olduak': -12537}
+
+Seed: 9
+starting position: newuak electriccaviarracers olduak
+SCORE:174|139|-313:newuak|electriccaviarracers|olduak
+starting position: newuak olduak electriccaviarracers
+SCORE:222|-203|-19:newuak|olduak|electriccaviarracers
+starting position: electriccaviarracers newuak olduak
+SCORE:70|121|-191:electriccaviarracers|newuak|olduak
+starting position: electriccaviarracers olduak newuak
+SCORE:120|-321|201:electriccaviarracers|olduak|newuak
+starting position: olduak electriccaviarracers newuak
+SCORE:-120|-28|148:olduak|electriccaviarracers|newuak
+starting position: olduak newuak electriccaviarracers
+SCORE:-214|182|32:olduak|newuak|electriccaviarracers
+
+seed score
+{'newuak': 1048, 'electriccaviarracers': 314, 'olduak': -1362}
+accumulated score
+{'newuak': 10806, 'electriccaviarracers': 3093, 'olduak': -13899}
+

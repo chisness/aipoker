@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin bayes electriccaviarracers
+
+Seed: 0
+starting position: kevin bayes electriccaviarracers
+SCORE:-622|437|185:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-417|0|417:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:614|-766|152:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:842|89|-931:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:378|207|-585:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:489|-1101|612:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4422, 'bayes': 3129, 'electriccaviarracers': 1293}
+accumulated score
+{'kevin': -4422, 'bayes': 3129, 'electriccaviarracers': 1293}
+
+Seed: 1
+starting position: kevin bayes electriccaviarracers
+SCORE:-977|599|378:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-677|165|512:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:358|-548|190:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:503|276|-779:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:22|455|-477:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:179|-929|750:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4387, 'bayes': 3177, 'electriccaviarracers': 1210}
+accumulated score
+{'kevin': -8809, 'bayes': 6306, 'electriccaviarracers': 2503}
+
+Seed: 2
+starting position: kevin bayes electriccaviarracers
+SCORE:-1073|823|250:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-698|271|427:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:326|-414|88:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:487|446|-933:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:58|649|-707:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:127|-680|553:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4505, 'bayes': 3265, 'electriccaviarracers': 1240}
+accumulated score
+{'kevin': -13314, 'bayes': 9571, 'electriccaviarracers': 3743}
+
+Seed: 3
+starting position: kevin bayes electriccaviarracers
+SCORE:-770|557|213:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-417|-5|422:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:567|-665|98:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:748|215|-963:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:247|377|-624:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:359|-958|599:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4397, 'bayes': 3270, 'electriccaviarracers': 1127}
+accumulated score
+{'kevin': -17711, 'bayes': 12841, 'electriccaviarracers': 4870}
+
+Seed: 4
+starting position: kevin bayes electriccaviarracers
+SCORE:-894|643|251:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-433|39|394:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:516|-624|108:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:717|192|-909:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:164|428|-592:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:329|-870|541:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4322, 'bayes': 3239, 'electriccaviarracers': 1083}
+accumulated score
+{'kevin': -22033, 'bayes': 16080, 'electriccaviarracers': 5953}
+
+Seed: 5
+starting position: kevin bayes electriccaviarracers
+SCORE:-873|576|297:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-520|94|426:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:508|-599|91:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:661|262|-923:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:129|440|-569:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:364|-991|627:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4475, 'bayes': 3238, 'electriccaviarracers': 1237}
+accumulated score
+{'kevin': -26508, 'bayes': 19318, 'electriccaviarracers': 7190}
+
+Seed: 6
+starting position: kevin bayes electriccaviarracers
+SCORE:-1100|684|416:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-753|150|603:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:272|-612|340:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:394|261|-655:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:7|501|-508:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:94|-858|764:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4486, 'bayes': 3218, 'electriccaviarracers': 1268}
+accumulated score
+{'kevin': -30994, 'bayes': 22536, 'electriccaviarracers': 8458}
+
+Seed: 7
+starting position: kevin bayes electriccaviarracers
+SCORE:-784|567|217:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-480|26|454:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:475|-687|212:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:680|156|-836:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:121|362|-483:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:200|-839|639:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4109, 'bayes': 3177, 'electriccaviarracers': 932}
+accumulated score
+{'kevin': -35103, 'bayes': 25713, 'electriccaviarracers': 9390}
+
+Seed: 8
+starting position: kevin bayes electriccaviarracers
+SCORE:-712|341|371:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-420|-70|490:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:625|-823|198:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:817|116|-933:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:377|185|-562:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:515|-1174|659:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4624, 'bayes': 3117, 'electriccaviarracers': 1507}
+accumulated score
+{'kevin': -39727, 'bayes': 28830, 'electriccaviarracers': 10897}
+
+Seed: 9
+starting position: kevin bayes electriccaviarracers
+SCORE:-800|540|260:kevin|bayes|electriccaviarracers
+starting position: kevin electriccaviarracers bayes
+SCORE:-547|93|454:kevin|electriccaviarracers|bayes
+starting position: bayes kevin electriccaviarracers
+SCORE:528|-631|103:bayes|kevin|electriccaviarracers
+starting position: bayes electriccaviarracers kevin
+SCORE:674|270|-944:bayes|electriccaviarracers|kevin
+starting position: electriccaviarracers bayes kevin
+SCORE:178|342|-520:electriccaviarracers|bayes|kevin
+starting position: electriccaviarracers kevin bayes
+SCORE:287|-913|626:electriccaviarracers|kevin|bayes
+
+seed score
+{'kevin': -4355, 'bayes': 3164, 'electriccaviarracers': 1191}
+accumulated score
+{'kevin': -44082, 'bayes': 31994, 'electriccaviarracers': 12088}
+

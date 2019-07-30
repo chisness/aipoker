@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: efs agentsouth juan
+
+Seed: 0
+starting position: efs agentsouth juan
+SCORE:140|-65|-75:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:132|-171|39:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:235|-231|-4:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:289|-189|-100:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:230|-146|-84:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:129|-194|65:juan|efs|agentsouth
+
+seed score
+{'efs': -337, 'agentsouth': 417, 'juan': -80}
+accumulated score
+{'efs': -337, 'agentsouth': 417, 'juan': -80}
+
+Seed: 1
+starting position: efs agentsouth juan
+SCORE:-134|103|31:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:-152|13|139:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:-7|-89|96:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:11|-19|8:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:-181|141|40:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:-72|-169|241:juan|efs|agentsouth
+
+seed score
+{'efs': -496, 'agentsouth': 628, 'juan': -132}
+accumulated score
+{'efs': -833, 'agentsouth': 1045, 'juan': -212}
+
+Seed: 2
+starting position: efs agentsouth juan
+SCORE:-130|206|-76:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:-190|137|53:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:-23|39|-16:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:-17|155|-138:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:-102|276|-174:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:-96|42|54:juan|efs|agentsouth
+
+seed score
+{'efs': -551, 'agentsouth': 549, 'juan': 2}
+accumulated score
+{'efs': -1384, 'agentsouth': 1594, 'juan': -210}
+
+Seed: 3
+starting position: efs agentsouth juan
+SCORE:1|51|-52:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:65|-92|27:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:113|-96|-17:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:186|-89|-97:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:66|34|-100:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:42|-151|109:juan|efs|agentsouth
+
+seed score
+{'efs': -378, 'agentsouth': 520, 'juan': -142}
+accumulated score
+{'efs': -1762, 'agentsouth': 2114, 'juan': -352}
+
+Seed: 4
+starting position: efs agentsouth juan
+SCORE:1|72|-73:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:15|-36|21:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:98|-20|-78:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:122|-85|-37:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:16|52|-68:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:31|-83|52:juan|efs|agentsouth
+
+seed score
+{'efs': -192, 'agentsouth': 417, 'juan': -225}
+accumulated score
+{'efs': -1954, 'agentsouth': 2531, 'juan': -577}
+
+Seed: 5
+starting position: efs agentsouth juan
+SCORE:12|-4|-8:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:-23|-84|107:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:126|-176|50:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:139|-43|-96:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:-35|12|23:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:49|-218|169:juan|efs|agentsouth
+
+seed score
+{'efs': -478, 'agentsouth': 549, 'juan': -71}
+accumulated score
+{'efs': -2432, 'agentsouth': 3080, 'juan': -648}
+
+Seed: 6
+starting position: efs agentsouth juan
+SCORE:-193|46|147:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:-200|-27|227:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:-28|-74|102:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:-81|24|57:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:-114|115|-1:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:-157|-109|266:juan|efs|agentsouth
+
+seed score
+{'efs': -520, 'agentsouth': 545, 'juan': -25}
+accumulated score
+{'efs': -2952, 'agentsouth': 3625, 'juan': -673}
+
+Seed: 7
+starting position: efs agentsouth juan
+SCORE:-3|5|-2:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:35|-113|78:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:72|-82|10:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:11|-97|86:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:-29|16|13:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:8|-116|108:juan|efs|agentsouth
+
+seed score
+{'efs': -67, 'agentsouth': 290, 'juan': -223}
+accumulated score
+{'efs': -3019, 'agentsouth': 3915, 'juan': -896}
+
+Seed: 8
+starting position: efs agentsouth juan
+SCORE:-1|-34|35:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:54|-195|141:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:252|-247|-5:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:260|-214|-46:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:173|-92|-81:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:117|-279|162:juan|efs|agentsouth
+
+seed score
+{'efs': -600, 'agentsouth': 689, 'juan': -89}
+accumulated score
+{'efs': -3619, 'agentsouth': 4604, 'juan': -985}
+
+Seed: 9
+starting position: efs agentsouth juan
+SCORE:-93|92|1:efs|agentsouth|juan
+starting position: efs juan agentsouth
+SCORE:-16|-26|42:efs|juan|agentsouth
+starting position: agentsouth efs juan
+SCORE:119|-122|3:agentsouth|efs|juan
+starting position: agentsouth juan efs
+SCORE:142|-70|-72:agentsouth|juan|efs
+starting position: juan agentsouth efs
+SCORE:35|8|-43:juan|agentsouth|efs
+starting position: juan efs agentsouth
+SCORE:49|-172|123:juan|efs|agentsouth
+
+seed score
+{'efs': -518, 'agentsouth': 526, 'juan': -8}
+accumulated score
+{'efs': -4137, 'agentsouth': 5130, 'juan': -993}
+

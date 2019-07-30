@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief olduak juan
+
+Seed: 0
+starting position: thief olduak juan
+SCORE:22|-244|222:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:71|152|-223:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:59|-324|265:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:109|16|-125:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:512|-286|-226:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:331|-300|-31:juan|thief|olduak
+
+seed score
+{'thief': -882, 'olduak': -616, 'juan': 1498}
+accumulated score
+{'thief': -882, 'olduak': -616, 'juan': 1498}
+
+Seed: 1
+starting position: thief olduak juan
+SCORE:-265|8|257:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-278|327|-49:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-209|-151|360:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:-151|183|-32:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:196|-117|-79:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:7|-91|84:juan|thief|olduak
+
+seed score
+{'thief': -896, 'olduak': -434, 'juan': 1330}
+accumulated score
+{'thief': -1778, 'olduak': -1050, 'juan': 2828}
+
+Seed: 2
+starting position: thief olduak juan
+SCORE:-277|83|194:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-258|455|-197:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-317|61|256:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:-183|253|-70:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:187|16|-203:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:66|46|-112:juan|thief|olduak
+
+seed score
+{'thief': -701, 'olduak': -710, 'juan': 1411}
+accumulated score
+{'thief': -2479, 'olduak': -1760, 'juan': 4239}
+
+Seed: 3
+starting position: thief olduak juan
+SCORE:-24|-154|178:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-43|183|-140:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-45|-211|256:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:146|35|-181:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:331|-184|-147:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:209|-218|9:juan|thief|olduak
+
+seed score
+{'thief': -824, 'olduak': -368, 'juan': 1192}
+accumulated score
+{'thief': -3303, 'olduak': -2128, 'juan': 5431}
+
+Seed: 4
+starting position: thief olduak juan
+SCORE:-93|-2|95:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-71|262|-191:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-86|-185|271:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:-14|162|-148:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:405|-254|-151:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:190|-85|-105:juan|thief|olduak
+
+seed score
+{'thief': -733, 'olduak': -652, 'juan': 1385}
+accumulated score
+{'thief': -4036, 'olduak': -2780, 'juan': 6816}
+
+Seed: 5
+starting position: thief olduak juan
+SCORE:-198|-54|252:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-151|238|-87:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-155|-169|324:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:44|113|-157:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:356|-203|-153:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:186|-156|-30:juan|thief|olduak
+
+seed score
+{'thief': -984, 'olduak': -485, 'juan': 1469}
+accumulated score
+{'thief': -5020, 'olduak': -3265, 'juan': 8285}
+
+Seed: 6
+starting position: thief olduak juan
+SCORE:-344|-48|392:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-359|368|-9:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-320|-187|507:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:-153|168|-15:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:144|-122|-22:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:124|-147|23:juan|thief|olduak
+
+seed score
+{'thief': -1074, 'olduak': -629, 'juan': 1703}
+accumulated score
+{'thief': -6094, 'olduak': -3894, 'juan': 9988}
+
+Seed: 7
+starting position: thief olduak juan
+SCORE:-144|-120|264:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-125|250|-125:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-83|-191|274:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:-17|105|-88:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:271|-255|-16:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:222|-165|-57:juan|thief|olduak
+
+seed score
+{'thief': -729, 'olduak': -657, 'juan': 1386}
+accumulated score
+{'thief': -6823, 'olduak': -4551, 'juan': 11374}
+
+Seed: 8
+starting position: thief olduak juan
+SCORE:18|-238|220:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:19|97|-116:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:5|-392|387:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:15|78|-93:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:496|-293|-203:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:349|-343|-6:juan|thief|olduak
+
+seed score
+{'thief': -994, 'olduak': -633, 'juan': 1627}
+accumulated score
+{'thief': -7817, 'olduak': -5184, 'juan': 13001}
+
+Seed: 9
+starting position: thief olduak juan
+SCORE:-79|-112|191:thief|olduak|juan
+starting position: thief juan olduak
+SCORE:-87|264|-177:thief|juan|olduak
+starting position: olduak thief juan
+SCORE:-53|-247|300:olduak|thief|juan
+starting position: olduak juan thief
+SCORE:106|73|-179:olduak|juan|thief
+starting position: juan olduak thief
+SCORE:335|-157|-178:juan|olduak|thief
+starting position: juan thief olduak
+SCORE:217|-232|15:juan|thief|olduak
+
+seed score
+{'thief': -1002, 'olduak': -378, 'juan': 1380}
+accumulated score
+{'thief': -8819, 'olduak': -5562, 'juan': 14381}
+

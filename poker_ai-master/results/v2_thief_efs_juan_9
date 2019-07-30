@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief efs juan
+
+Seed: 0
+starting position: thief efs juan
+SCORE:34|-257|223:thief|efs|juan
+starting position: thief juan efs
+SCORE:-12|121|-109:thief|juan|efs
+starting position: efs thief juan
+SCORE:154|-466|312:efs|thief|juan
+starting position: efs juan thief
+SCORE:84|95|-179:efs|juan|thief
+starting position: juan efs thief
+SCORE:500|-238|-262:juan|efs|thief
+starting position: juan thief efs
+SCORE:419|-269|-150:juan|thief|efs
+
+seed score
+{'thief': -1154, 'efs': -516, 'juan': 1670}
+accumulated score
+{'thief': -1154, 'efs': -516, 'juan': 1670}
+
+Seed: 1
+starting position: thief efs juan
+SCORE:-296|-103|399:thief|efs|juan
+starting position: thief juan efs
+SCORE:-348|328|20:thief|juan|efs
+starting position: efs thief juan
+SCORE:-199|-251|450:efs|thief|juan
+starting position: efs juan thief
+SCORE:-258|284|-26:efs|juan|thief
+starting position: juan efs thief
+SCORE:293|-105|-188:juan|efs|thief
+starting position: juan thief efs
+SCORE:101|-176|75:juan|thief|efs
+
+seed score
+{'thief': -1285, 'efs': -570, 'juan': 1855}
+accumulated score
+{'thief': -2439, 'efs': -1086, 'juan': 3525}
+
+Seed: 2
+starting position: thief efs juan
+SCORE:-346|77|269:thief|efs|juan
+starting position: thief juan efs
+SCORE:-339|547|-208:thief|juan|efs
+starting position: efs thief juan
+SCORE:-226|-20|246:efs|thief|juan
+starting position: efs juan thief
+SCORE:-252|389|-137:efs|juan|thief
+starting position: juan efs thief
+SCORE:214|115|-329:juan|efs|thief
+starting position: juan thief efs
+SCORE:175|4|-179:juan|thief|efs
+
+seed score
+{'thief': -1167, 'efs': -673, 'juan': 1840}
+accumulated score
+{'thief': -3606, 'efs': -1759, 'juan': 5365}
+
+Seed: 3
+starting position: thief efs juan
+SCORE:-84|-166|250:thief|efs|juan
+starting position: thief juan efs
+SCORE:-97|219|-122:thief|juan|efs
+starting position: efs thief juan
+SCORE:5|-330|325:efs|thief|juan
+starting position: efs juan thief
+SCORE:14|130|-144:efs|juan|thief
+starting position: juan efs thief
+SCORE:434|-135|-299:juan|efs|thief
+starting position: juan thief efs
+SCORE:339|-201|-138:juan|thief|efs
+
+seed score
+{'thief': -1155, 'efs': -542, 'juan': 1697}
+accumulated score
+{'thief': -4761, 'efs': -2301, 'juan': 7062}
+
+Seed: 4
+starting position: thief efs juan
+SCORE:-94|-84|178:thief|efs|juan
+starting position: thief juan efs
+SCORE:-216|309|-93:thief|juan|efs
+starting position: efs thief juan
+SCORE:-41|-252|293:efs|thief|juan
+starting position: efs juan thief
+SCORE:-51|192|-141:efs|juan|thief
+starting position: juan efs thief
+SCORE:363|-58|-305:juan|efs|thief
+starting position: juan thief efs
+SCORE:295|-143|-152:juan|thief|efs
+
+seed score
+{'thief': -1151, 'efs': -479, 'juan': 1630}
+accumulated score
+{'thief': -5912, 'efs': -2780, 'juan': 8692}
+
+Seed: 5
+starting position: thief efs juan
+SCORE:-120|-210|330:thief|efs|juan
+starting position: thief juan efs
+SCORE:-223|332|-109:thief|juan|efs
+starting position: efs thief juan
+SCORE:-76|-232|308:efs|thief|juan
+starting position: efs juan thief
+SCORE:-37|220|-183:efs|juan|thief
+starting position: juan efs thief
+SCORE:328|-221|-107:juan|efs|thief
+starting position: juan thief efs
+SCORE:262|-216|-46:juan|thief|efs
+
+seed score
+{'thief': -1081, 'efs': -699, 'juan': 1780}
+accumulated score
+{'thief': -6993, 'efs': -3479, 'juan': 10472}
+
+Seed: 6
+starting position: thief efs juan
+SCORE:-413|-52|465:thief|efs|juan
+starting position: thief juan efs
+SCORE:-453|331|122:thief|juan|efs
+starting position: efs thief juan
+SCORE:-301|-203|504:efs|thief|juan
+starting position: efs juan thief
+SCORE:-276|280|-4:efs|juan|thief
+starting position: juan efs thief
+SCORE:203|-56|-147:juan|efs|thief
+starting position: juan thief efs
+SCORE:178|-162|-16:juan|thief|efs
+
+seed score
+{'thief': -1382, 'efs': -579, 'juan': 1961}
+accumulated score
+{'thief': -8375, 'efs': -4058, 'juan': 12433}
+
+Seed: 7
+starting position: thief efs juan
+SCORE:-185|-96|281:thief|efs|juan
+starting position: thief juan efs
+SCORE:-131|232|-101:thief|juan|efs
+starting position: efs thief juan
+SCORE:-74|-312|386:efs|thief|juan
+starting position: efs juan thief
+SCORE:-95|158|-63:efs|juan|thief
+starting position: juan efs thief
+SCORE:302|-84|-218:juan|efs|thief
+starting position: juan thief efs
+SCORE:276|-191|-85:juan|thief|efs
+
+seed score
+{'thief': -1100, 'efs': -535, 'juan': 1635}
+accumulated score
+{'thief': -9475, 'efs': -4593, 'juan': 14068}
+
+Seed: 8
+starting position: thief efs juan
+SCORE:78|-349|271:thief|efs|juan
+starting position: thief juan efs
+SCORE:-64|114|-50:thief|juan|efs
+starting position: efs thief juan
+SCORE:82|-471|389:efs|thief|juan
+starting position: efs juan thief
+SCORE:94|60|-154:efs|juan|thief
+starting position: juan efs thief
+SCORE:561|-354|-207:juan|efs|thief
+starting position: juan thief efs
+SCORE:478|-415|-63:juan|thief|efs
+
+seed score
+{'thief': -1233, 'efs': -640, 'juan': 1873}
+accumulated score
+{'thief': -10708, 'efs': -5233, 'juan': 15941}
+
+Seed: 9
+starting position: thief efs juan
+SCORE:-83|-204|287:thief|efs|juan
+starting position: thief juan efs
+SCORE:-211|320|-109:thief|juan|efs
+starting position: efs thief juan
+SCORE:-23|-299|322:efs|thief|juan
+starting position: efs juan thief
+SCORE:-49|206|-157:efs|juan|thief
+starting position: juan efs thief
+SCORE:438|-223|-215:juan|efs|thief
+starting position: juan thief efs
+SCORE:320|-224|-96:juan|thief|efs
+
+seed score
+{'thief': -1189, 'efs': -704, 'juan': 1893}
+accumulated score
+{'thief': -11897, 'efs': -5937, 'juan': 17834}
+

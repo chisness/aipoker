@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes agentsouth juan
+
+Seed: 0
+starting position: bayes agentsouth juan
+SCORE:-44|-49|93:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-56|63|-7:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:183|-357|174:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:244|-28|-216:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:344|-99|-245:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:340|-411|71:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1329, 'agentsouth': 343, 'juan': 986}
+accumulated score
+{'bayes': -1329, 'agentsouth': 343, 'juan': 986}
+
+Seed: 1
+starting position: bayes agentsouth juan
+SCORE:-365|153|212:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-306|197|109:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:-22|-228|250:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:28|134|-162:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:83|28|-111:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:16|-223|207:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1395, 'agentsouth': 503, 'juan': 892}
+accumulated score
+{'bayes': -2724, 'agentsouth': 846, 'juan': 1878}
+
+Seed: 2
+starting position: bayes agentsouth juan
+SCORE:-364|280|84:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-316|298|18:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:-36|-65|101:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:-14|317|-303:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:64|180|-244:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:33|-84|51:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1376, 'agentsouth': 479, 'juan': 897}
+accumulated score
+{'bayes': -4100, 'agentsouth': 1325, 'juan': 2775}
+
+Seed: 3
+starting position: bayes agentsouth juan
+SCORE:-172|84|88:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-134|155|-21:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:168|-245|77:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:187|75|-262:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:243|0|-243:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:215|-292|77:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1348, 'agentsouth': 495, 'juan': 853}
+accumulated score
+{'bayes': -5448, 'agentsouth': 1820, 'juan': 3628}
+
+Seed: 4
+starting position: bayes agentsouth juan
+SCORE:-188|89|99:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-145|139|6:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:79|-202|123:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:128|175|-303:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:252|17|-269:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:164|-222|58:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1329, 'agentsouth': 377, 'juan': 952}
+accumulated score
+{'bayes': -6777, 'agentsouth': 2197, 'juan': 4580}
+
+Seed: 5
+starting position: bayes agentsouth juan
+SCORE:-187|34|153:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-170|119|51:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:76|-271|195:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:165|85|-250:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:227|35|-262:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:161|-275|114:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1415, 'agentsouth': 475, 'juan': 940}
+accumulated score
+{'bayes': -8192, 'agentsouth': 2672, 'juan': 5520}
+
+Seed: 6
+starting position: bayes agentsouth juan
+SCORE:-393|115|278:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-382|220|162:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:-62|-179|241:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:-56|184|-128:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:-8|108|-100:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:-22|-203|225:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1385, 'agentsouth': 492, 'juan': 893}
+accumulated score
+{'bayes': -9577, 'agentsouth': 3164, 'juan': 6413}
+
+Seed: 7
+starting position: bayes agentsouth juan
+SCORE:-205|48|157:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-189|129|60:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:83|-263|180:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:117|119|-236:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:223|-14|-209:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:191|-289|98:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1391, 'agentsouth': 392, 'juan': 999}
+accumulated score
+{'bayes': -10968, 'agentsouth': 3556, 'juan': 7412}
+
+Seed: 8
+starting position: bayes agentsouth juan
+SCORE:-115|-50|165:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-63|3|60:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:156|-421|265:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:291|-72|-219:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:335|-135|-200:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:313|-488|175:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1506, 'agentsouth': 497, 'juan': 1009}
+accumulated score
+{'bayes': -12474, 'agentsouth': 4053, 'juan': 8421}
+
+Seed: 9
+starting position: bayes agentsouth juan
+SCORE:-201|78|123:bayes|agentsouth|juan
+starting position: bayes juan agentsouth
+SCORE:-163|135|28:bayes|juan|agentsouth
+starting position: agentsouth bayes juan
+SCORE:131|-288|157:agentsouth|bayes|juan
+starting position: agentsouth juan bayes
+SCORE:175|63|-238:agentsouth|juan|bayes
+starting position: juan agentsouth bayes
+SCORE:229|-8|-221:juan|agentsouth|bayes
+starting position: juan bayes agentsouth
+SCORE:194|-307|113:juan|bayes|agentsouth
+
+seed score
+{'bayes': -1418, 'agentsouth': 517, 'juan': 901}
+accumulated score
+{'bayes': -13892, 'agentsouth': 4570, 'juan': 9322}
+

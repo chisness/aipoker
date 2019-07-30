@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te efs juan
+
+Seed: 0
+starting position: te efs juan
+SCORE:352|-373|21:te|efs|juan
+starting position: te juan efs
+SCORE:267|-174|-93:te|juan|efs
+starting position: efs te juan
+SCORE:89|-87|-2:efs|te|juan
+starting position: efs juan te
+SCORE:7|-177|170:efs|juan|te
+starting position: juan efs te
+SCORE:197|-240|43:juan|efs|te
+starting position: juan te efs
+SCORE:257|-52|-205:juan|te|efs
+
+seed score
+{'te': 693, 'efs': -815, 'juan': 122}
+accumulated score
+{'te': 693, 'efs': -815, 'juan': 122}
+
+Seed: 1
+starting position: te efs juan
+SCORE:43|-170|127:te|efs|juan
+starting position: te juan efs
+SCORE:-61|76|-15:te|juan|efs
+starting position: efs te juan
+SCORE:-215|80|135:efs|te|juan
+starting position: efs juan te
+SCORE:-286|42|244:efs|juan|te
+starting position: juan efs te
+SCORE:-1|-224|225:juan|efs|te
+starting position: juan te efs
+SCORE:-109|163|-54:juan|te|efs
+
+seed score
+{'te': 694, 'efs': -964, 'juan': 270}
+accumulated score
+{'te': 1387, 'efs': -1779, 'juan': 392}
+
+Seed: 2
+starting position: te efs juan
+SCORE:53|-93|40:te|efs|juan
+starting position: te juan efs
+SCORE:-13|251|-238:te|juan|efs
+starting position: efs te juan
+SCORE:-136|165|-29:efs|te|juan
+starting position: efs juan te
+SCORE:-331|139|192:efs|juan|te
+starting position: juan efs te
+SCORE:-12|-44|56:juan|efs|te
+starting position: juan te efs
+SCORE:-81|334|-253:juan|te|efs
+
+seed score
+{'te': 787, 'efs': -1095, 'juan': 308}
+accumulated score
+{'te': 2174, 'efs': -2874, 'juan': 700}
+
+Seed: 3
+starting position: te efs juan
+SCORE:294|-302|8:te|efs|juan
+starting position: te juan efs
+SCORE:170|-2|-168:te|juan|efs
+starting position: efs te juan
+SCORE:3|21|-24:efs|te|juan
+starting position: efs juan te
+SCORE:-67|-75|142:efs|juan|te
+starting position: juan efs te
+SCORE:99|-185|86:juan|efs|te
+starting position: juan te efs
+SCORE:87|159|-246:juan|te|efs
+
+seed score
+{'te': 872, 'efs': -965, 'juan': 93}
+accumulated score
+{'te': 3046, 'efs': -3839, 'juan': 793}
+
+Seed: 4
+starting position: te efs juan
+SCORE:191|-151|-40:te|efs|juan
+starting position: te juan efs
+SCORE:66|14|-80:te|juan|efs
+starting position: efs te juan
+SCORE:-65|71|-6:efs|te|juan
+starting position: efs juan te
+SCORE:-94|-23|117:efs|juan|te
+starting position: juan efs te
+SCORE:91|-133|42:juan|efs|te
+starting position: juan te efs
+SCORE:32|224|-256:juan|te|efs
+
+seed score
+{'te': 711, 'efs': -779, 'juan': 68}
+accumulated score
+{'te': 3757, 'efs': -4618, 'juan': 861}
+
+Seed: 5
+starting position: te efs juan
+SCORE:224|-291|67:te|efs|juan
+starting position: te juan efs
+SCORE:123|4|-127:te|juan|efs
+starting position: efs te juan
+SCORE:-67|18|49:efs|te|juan
+starting position: efs juan te
+SCORE:-165|-23|188:efs|juan|te
+starting position: juan efs te
+SCORE:153|-292|139:juan|efs|te
+starting position: juan te efs
+SCORE:6|112|-118:juan|te|efs
+
+seed score
+{'te': 804, 'efs': -1060, 'juan': 256}
+accumulated score
+{'te': 4561, 'efs': -5678, 'juan': 1117}
+
+Seed: 6
+starting position: te efs juan
+SCORE:22|-220|198:te|efs|juan
+starting position: te juan efs
+SCORE:-69|79|-10:te|juan|efs
+starting position: efs te juan
+SCORE:-248|54|194:efs|te|juan
+starting position: efs juan te
+SCORE:-330|18|312:efs|juan|te
+starting position: juan efs te
+SCORE:-69|-153|222:juan|efs|te
+starting position: juan te efs
+SCORE:-100|192|-92:juan|te|efs
+
+seed score
+{'te': 733, 'efs': -1053, 'juan': 320}
+accumulated score
+{'te': 5294, 'efs': -6731, 'juan': 1437}
+
+Seed: 7
+starting position: te efs juan
+SCORE:167|-243|76:te|efs|juan
+starting position: te juan efs
+SCORE:9|7|-16:te|juan|efs
+starting position: efs te juan
+SCORE:-40|3|37:efs|te|juan
+starting position: efs juan te
+SCORE:-81|-74|155:efs|juan|te
+starting position: juan efs te
+SCORE:33|-131|98:juan|efs|te
+starting position: juan te efs
+SCORE:47|106|-153:juan|te|efs
+
+seed score
+{'te': 538, 'efs': -664, 'juan': 126}
+accumulated score
+{'te': 5832, 'efs': -7395, 'juan': 1563}
+
+Seed: 8
+starting position: te efs juan
+SCORE:370|-406|36:te|efs|juan
+starting position: te juan efs
+SCORE:245|-175|-70:te|juan|efs
+starting position: efs te juan
+SCORE:30|-114|84:efs|te|juan
+starting position: efs juan te
+SCORE:-44|-145|189:efs|juan|te
+starting position: juan efs te
+SCORE:236|-344|108:juan|efs|te
+starting position: juan te efs
+SCORE:195|-20|-175:juan|te|efs
+
+seed score
+{'te': 778, 'efs': -1009, 'juan': 231}
+accumulated score
+{'te': 6610, 'efs': -8404, 'juan': 1794}
+
+Seed: 9
+starting position: te efs juan
+SCORE:258|-293|35:te|efs|juan
+starting position: te juan efs
+SCORE:145|32|-177:te|juan|efs
+starting position: efs te juan
+SCORE:-127|81|46:efs|te|juan
+starting position: efs juan te
+SCORE:-147|-6|153:efs|juan|te
+starting position: juan efs te
+SCORE:143|-234|91:juan|efs|te
+starting position: juan te efs
+SCORE:35|175|-210:juan|te|efs
+
+seed score
+{'te': 903, 'efs': -1188, 'juan': 285}
+accumulated score
+{'te': 7513, 'efs': -9592, 'juan': 2079}
+

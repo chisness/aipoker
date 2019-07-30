@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te kuhnshark
+
+Seed: 0
+starting position: newuak te kuhnshark
+SCORE:190|-295|105:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:307|-139|-168:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-10|40|-30:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:27|-51|24:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:152|-324|172:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:279|-90|-189:kuhnshark|newuak|te
+
+seed score
+{'newuak': 643, 'te': -959, 'kuhnshark': 316}
+accumulated score
+{'newuak': 643, 'te': -959, 'kuhnshark': 316}
+
+Seed: 1
+starting position: newuak te kuhnshark
+SCORE:-29|-192|221:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:97|-27|-70:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-287|228|59:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-251|153|98:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:-31|-229|260:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:40|37|-77:kuhnshark|newuak|te
+
+seed score
+{'newuak': 691, 'te': -1106, 'kuhnshark': 415}
+accumulated score
+{'newuak': 1334, 'te': -2065, 'kuhnshark': 731}
+
+Seed: 2
+starting position: newuak te kuhnshark
+SCORE:-66|-25|91:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:91|128|-219:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-268|337|-69:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-259|266|-7:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:-93|-43|136:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:-1|224|-223:kuhnshark|newuak|te
+
+seed score
+{'newuak': 715, 'te': -1037, 'kuhnshark': 322}
+accumulated score
+{'newuak': 2049, 'te': -3102, 'kuhnshark': 1053}
+
+Seed: 3
+starting position: newuak te kuhnshark
+SCORE:150|-224|74:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:256|-61|-195:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-71|106|-35:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-86|84|2:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:66|-246|180:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:211|-6|-205:kuhnshark|newuak|te
+
+seed score
+{'newuak': 688, 'te': -1027, 'kuhnshark': 339}
+accumulated score
+{'newuak': 2737, 'te': -4129, 'kuhnshark': 1392}
+
+Seed: 4
+starting position: newuak te kuhnshark
+SCORE:104|-172|68:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:231|-11|-220:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-122|180|-58:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-80|85|-5:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:-5|-158|163:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:166|22|-188:kuhnshark|newuak|te
+
+seed score
+{'newuak': 695, 'te': -940, 'kuhnshark': 245}
+accumulated score
+{'newuak': 3432, 'te': -5069, 'kuhnshark': 1637}
+
+Seed: 5
+starting position: newuak te kuhnshark
+SCORE:69|-166|97:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:246|-73|-173:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-121|148|-27:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-102|89|13:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:34|-190|156:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:179|-12|-167:kuhnshark|newuak|te
+
+seed score
+{'newuak': 620, 'te': -919, 'kuhnshark': 299}
+accumulated score
+{'newuak': 4052, 'te': -5988, 'kuhnshark': 1936}
+
+Seed: 6
+starting position: newuak te kuhnshark
+SCORE:-167|-89|256:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:32|42|-74:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-338|231|107:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-281|170|111:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:-154|-135|289:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:-44|76|-32:kuhnshark|newuak|te
+
+seed score
+{'newuak': 572, 'te': -949, 'kuhnshark': 377}
+accumulated score
+{'newuak': 4624, 'te': -6937, 'kuhnshark': 2313}
+
+Seed: 7
+starting position: newuak te kuhnshark
+SCORE:73|-204|131:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:195|-30|-165:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-152|127|25:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-128|96|32:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:31|-238|207:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:116|-6|-110:kuhnshark|newuak|te
+
+seed score
+{'newuak': 628, 'te': -997, 'kuhnshark': 369}
+accumulated score
+{'newuak': 5252, 'te': -7934, 'kuhnshark': 2682}
+
+Seed: 8
+starting position: newuak te kuhnshark
+SCORE:194|-351|157:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:319|-180|-139:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-10|-28|38:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-5|-61|66:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:136|-351|215:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:264|-137|-127:kuhnshark|newuak|te
+
+seed score
+{'newuak': 629, 'te': -983, 'kuhnshark': 354}
+accumulated score
+{'newuak': 5881, 'te': -8917, 'kuhnshark': 3036}
+
+Seed: 9
+starting position: newuak te kuhnshark
+SCORE:85|-230|145:newuak|te|kuhnshark
+starting position: newuak kuhnshark te
+SCORE:246|-97|-149:newuak|kuhnshark|te
+starting position: te newuak kuhnshark
+SCORE:-130|149|-19:te|newuak|kuhnshark
+starting position: te kuhnshark newuak
+SCORE:-123|90|33:te|kuhnshark|newuak
+starting position: kuhnshark te newuak
+SCORE:20|-220|200:kuhnshark|te|newuak
+starting position: kuhnshark newuak te
+SCORE:187|-45|-142:kuhnshark|newuak|te
+
+seed score
+{'newuak': 668, 'te': -994, 'kuhnshark': 326}
+accumulated score
+{'newuak': 6549, 'te': -9911, 'kuhnshark': 3362}
+

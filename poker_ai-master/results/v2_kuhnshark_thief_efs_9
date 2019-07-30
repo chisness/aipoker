@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark thief efs
+
+Seed: 0
+starting position: kuhnshark thief efs
+SCORE:590|-601|11:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:554|-374|-180:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:94|173|-267:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-222|-107|329:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-22|-300|322:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:216|212|-428:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2180, 'thief': -1637, 'efs': -543}
+accumulated score
+{'kuhnshark': 2180, 'thief': -1637, 'efs': -543}
+
+Seed: 1
+starting position: kuhnshark thief efs
+SCORE:278|-384|106:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:240|-206|-34:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-323|400|-77:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-474|6|468:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-326|-163|489:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:-146|432|-286:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2307, 'thief': -1664, 'efs': -643}
+accumulated score
+{'kuhnshark': 4487, 'thief': -3301, 'efs': -1186}
+
+Seed: 2
+starting position: kuhnshark thief efs
+SCORE:258|-245|-13:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:195|-40|-155:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-204|504|-300:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-507|153|354:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-353|106|247:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:-99|521|-422:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2079, 'thief': -1427, 'efs': -652}
+accumulated score
+{'kuhnshark': 6566, 'thief': -4728, 'efs': -1838}
+
+Seed: 3
+starting position: kuhnshark thief efs
+SCORE:523|-474|-49:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:403|-269|-134:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-26|245|-219:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-320|-97|417:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-107|-170|277:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:101|373|-474:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2238, 'thief': -1598, 'efs': -640}
+accumulated score
+{'kuhnshark': 8804, 'thief': -6326, 'efs': -2478}
+
+Seed: 4
+starting position: kuhnshark thief efs
+SCORE:366|-331|-35:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:341|-127|-214:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-31|298|-267:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-342|-76|418:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-205|-99|304:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:90|354|-444:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2081, 'thief': -1461, 'efs': -620}
+accumulated score
+{'kuhnshark': 10885, 'thief': -7787, 'efs': -3098}
+
+Seed: 5
+starting position: kuhnshark thief efs
+SCORE:476|-444|-32:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:431|-301|-130:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-57|266|-209:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-379|-87|466:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-202|-175|377:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:138|325|-463:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2341, 'thief': -1648, 'efs': -693}
+accumulated score
+{'kuhnshark': 13226, 'thief': -9435, 'efs': -3791}
+
+Seed: 6
+starting position: kuhnshark thief efs
+SCORE:210|-365|155:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:187|-170|-17:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-331|425|-94:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-580|-1|581:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-407|-116|523:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:-29|354|-325:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2280, 'thief': -1734, 'efs': -546}
+accumulated score
+{'kuhnshark': 15506, 'thief': -11169, 'efs': -4337}
+
+Seed: 7
+starting position: kuhnshark thief efs
+SCORE:342|-452|110:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:371|-264|-107:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-115|314|-199:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-276|-65|341:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-176|-205|381:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:45|340|-385:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2089, 'thief': -1540, 'efs': -549}
+accumulated score
+{'kuhnshark': 17595, 'thief': -12709, 'efs': -4886}
+
+Seed: 8
+starting position: kuhnshark thief efs
+SCORE:605|-625|20:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:581|-464|-117:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-14|183|-169:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-202|-241|443:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-40|-349|389:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:138|266|-404:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2467, 'thief': -1711, 'efs': -756}
+accumulated score
+{'kuhnshark': 20062, 'thief': -14420, 'efs': -5642}
+
+Seed: 9
+starting position: kuhnshark thief efs
+SCORE:457|-435|-22:kuhnshark|thief|efs
+starting position: kuhnshark efs thief
+SCORE:345|-271|-74:kuhnshark|efs|thief
+starting position: thief kuhnshark efs
+SCORE:-98|284|-186:thief|kuhnshark|efs
+starting position: thief efs kuhnshark
+SCORE:-327|-109|436:thief|efs|kuhnshark
+starting position: efs thief kuhnshark
+SCORE:-129|-200|329:efs|thief|kuhnshark
+starting position: efs kuhnshark thief
+SCORE:17|383|-400:efs|kuhnshark|thief
+
+seed score
+{'kuhnshark': 2234, 'thief': -1534, 'efs': -700}
+accumulated score
+{'kuhnshark': 22296, 'thief': -15954, 'efs': -6342}
+

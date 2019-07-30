@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak efs juan
+
+Seed: 0
+starting position: newuak efs juan
+SCORE:432|-360|-72:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:195|-118|-77:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:133|-148|15:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:3|-228|225:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:219|-202|-17:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:171|8|-179:juan|newuak|efs
+
+seed score
+{'newuak': 695, 'efs': -682, 'juan': -13}
+accumulated score
+{'newuak': 695, 'efs': -682, 'juan': -13}
+
+Seed: 1
+starting position: newuak efs juan
+SCORE:139|-162|23:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:-127|126|1:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:-129|31|98:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-296|-34|330:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:5|-148|143:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-214|224|-10:juan|newuak|efs
+
+seed score
+{'newuak': 740, 'efs': -744, 'juan': 4}
+accumulated score
+{'newuak': 1435, 'efs': -1426, 'juan': -9}
+
+Seed: 2
+starting position: newuak efs juan
+SCORE:129|-60|-69:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:-95|231|-136:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:-109|120|-11:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-289|84|205:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:-60|67|-7:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-173|434|-261:juan|newuak|efs
+
+seed score
+{'newuak': 786, 'efs': -788, 'juan': 2}
+accumulated score
+{'newuak': 2221, 'efs': -2214, 'juan': -7}
+
+Seed: 3
+starting position: newuak efs juan
+SCORE:272|-226|-46:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:100|-61|-39:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:40|-32|-8:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-19|-179|198:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:131|-158|27:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-1|194|-193:juan|newuak|efs
+
+seed score
+{'newuak': 759, 'efs': -595, 'juan': -164}
+accumulated score
+{'newuak': 2980, 'efs': -2809, 'juan': -171}
+
+Seed: 4
+starting position: newuak efs juan
+SCORE:223|-118|-105:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:5|70|-75:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:-30|22|8:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-97|-91|188:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:124|-95|-29:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-26|233|-207:juan|newuak|efs
+
+seed score
+{'newuak': 642, 'efs': -622, 'juan': -20}
+accumulated score
+{'newuak': 3622, 'efs': -3431, 'juan': -191}
+
+Seed: 5
+starting position: newuak efs juan
+SCORE:249|-270|21:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:60|-10|-50:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:23|-59|36:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-125|-122|247:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:169|-221|52:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-80|177|-97:juan|newuak|efs
+
+seed score
+{'newuak': 726, 'efs': -740, 'juan': 14}
+accumulated score
+{'newuak': 4348, 'efs': -4171, 'juan': -177}
+
+Seed: 6
+starting position: newuak efs juan
+SCORE:107|-220|113:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:-130|71|59:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:-127|-50|177:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-262|-85|347:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:-100|-115|215:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-193|282|-89:juan|newuak|efs
+
+seed score
+{'newuak': 771, 'efs': -754, 'juan': -17}
+accumulated score
+{'newuak': 5119, 'efs': -4925, 'juan': -194}
+
+Seed: 7
+starting position: newuak efs juan
+SCORE:257|-247|-10:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:-85|-11|96:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:-10|-88|98:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-110|-159|269:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:24|-79|55:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-63|116|-53:juan|newuak|efs
+
+seed score
+{'newuak': 524, 'efs': -403, 'juan': -121}
+accumulated score
+{'newuak': 5643, 'efs': -5328, 'juan': -315}
+
+Seed: 8
+starting position: newuak efs juan
+SCORE:456|-390|-66:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:172|-132|-40:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:11|-131|120:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-3|-237|240:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:252|-268|16:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:121|80|-201:juan|newuak|efs
+
+seed score
+{'newuak': 833, 'efs': -891, 'juan': 58}
+accumulated score
+{'newuak': 6476, 'efs': -6219, 'juan': -257}
+
+Seed: 9
+starting position: newuak efs juan
+SCORE:251|-186|-65:newuak|efs|juan
+starting position: newuak juan efs
+SCORE:78|12|-90:newuak|juan|efs
+starting position: efs newuak juan
+SCORE:-46|17|29:efs|newuak|juan
+starting position: efs juan newuak
+SCORE:-106|-85|191:efs|juan|newuak
+starting position: juan efs newuak
+SCORE:135|-176|41:juan|efs|newuak
+starting position: juan newuak efs
+SCORE:-18|156|-138:juan|newuak|efs
+
+seed score
+{'newuak': 734, 'efs': -742, 'juan': 8}
+accumulated score
+{'newuak': 7210, 'efs': -6961, 'juan': -249}
+

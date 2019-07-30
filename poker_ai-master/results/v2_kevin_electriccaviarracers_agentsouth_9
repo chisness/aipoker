@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin electriccaviarracers agentsouth
+
+Seed: 0
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-65|-75|140:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-69|-33|102:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:323|-434|111:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:288|-105|-183:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:372|-10|-362:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:281|-327|46:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1440, 'electriccaviarracers': 674, 'agentsouth': 766}
+accumulated score
+{'kevin': -1440, 'electriccaviarracers': 674, 'agentsouth': 766}
+
+Seed: 1
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-354|101|253:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-497|246|251:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:43|-323|280:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:-80|207|-127:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:115|201|-316:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:59|-172|113:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1789, 'electriccaviarracers': 629, 'agentsouth': 1160}
+accumulated score
+{'kevin': -3229, 'electriccaviarracers': 1303, 'agentsouth': 1926}
+
+Seed: 2
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-331|210|121:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-299|300|-1:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:7|-104|97:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:-8|307|-299:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:36|335|-371:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:19|-58|39:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1462, 'electriccaviarracers': 582, 'agentsouth': 880}
+accumulated score
+{'kevin': -4691, 'electriccaviarracers': 1885, 'agentsouth': 2806}
+
+Seed: 3
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-53|-72|125:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-187|84|103:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:301|-446|145:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:185|47|-232:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:269|38|-307:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:258|-286|28:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1511, 'electriccaviarracers': 583, 'agentsouth': 928}
+accumulated score
+{'kevin': -6202, 'electriccaviarracers': 2468, 'agentsouth': 3734}
+
+Seed: 4
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-90|-35|125:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-204|121|83:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:141|-327|186:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:87|98|-185:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:211|140|-351:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:85|-147|62:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1304, 'electriccaviarracers': 478, 'agentsouth': 826}
+accumulated score
+{'kevin': -7506, 'electriccaviarracers': 2946, 'agentsouth': 4560}
+
+Seed: 5
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-254|25|229:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-238|80|158:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:102|-397|295:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:94|75|-169:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:233|125|-358:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:159|-186|27:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1602, 'electriccaviarracers': 531, 'agentsouth': 1071}
+accumulated score
+{'kevin': -9108, 'electriccaviarracers': 3477, 'agentsouth': 5631}
+
+Seed: 6
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-418|84|334:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-479|212|267:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:-27|-359|386:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:-38|39|-1:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:52|166|-218:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:17|-276|259:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1751, 'electriccaviarracers': 711, 'agentsouth': 1040}
+accumulated score
+{'kevin': -10859, 'electriccaviarracers': 4188, 'agentsouth': 6671}
+
+Seed: 7
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-103|-56|159:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-204|69|135:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:157|-332|175:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:69|4|-73:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:66|15|-81:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:29|-172|143:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -965, 'electriccaviarracers': 463, 'agentsouth': 502}
+accumulated score
+{'kevin': -11824, 'electriccaviarracers': 4651, 'agentsouth': 7173}
+
+Seed: 8
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-51|-122|173:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-280|41|239:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:355|-610|255:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:302|2|-304:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:413|6|-419:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:355|-456|101:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2120, 'electriccaviarracers': 881, 'agentsouth': 1239}
+accumulated score
+{'kevin': -13944, 'electriccaviarracers': 5532, 'agentsouth': 8412}
+
+Seed: 9
+starting position: kevin electriccaviarracers agentsouth
+SCORE:-146|-3|149:kevin|electriccaviarracers|agentsouth
+starting position: kevin agentsouth electriccaviarracers
+SCORE:-304|160|144:kevin|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kevin agentsouth
+SCORE:112|-263|151:electriccaviarracers|kevin|agentsouth
+starting position: electriccaviarracers agentsouth kevin
+SCORE:83|107|-190:electriccaviarracers|agentsouth|kevin
+starting position: agentsouth electriccaviarracers kevin
+SCORE:231|71|-302:agentsouth|electriccaviarracers|kevin
+starting position: agentsouth kevin electriccaviarracers
+SCORE:229|-284|55:agentsouth|kevin|electriccaviarracers
+
+seed score
+{'kevin': -1489, 'electriccaviarracers': 462, 'agentsouth': 1027}
+accumulated score
+{'kevin': -15433, 'electriccaviarracers': 5994, 'agentsouth': 9439}
+

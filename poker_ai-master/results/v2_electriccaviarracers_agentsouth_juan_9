@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: electriccaviarracers agentsouth juan
+
+Seed: 0
+starting position: electriccaviarracers agentsouth juan
+SCORE:98|-154|56:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:28|-141|113:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:220|-250|30:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:109|-62|-47:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:200|-55|-145:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:161|-147|-14:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -463, 'agentsouth': 219, 'juan': 244}
+accumulated score
+{'electriccaviarracers': -463, 'agentsouth': 219, 'juan': 244}
+
+Seed: 1
+starting position: electriccaviarracers agentsouth juan
+SCORE:-83|-3|86:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-200|-14|214:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:55|-80|25:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:-108|55|53:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:-87|131|-44:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:-43|-25|68:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -379, 'agentsouth': 357, 'juan': 22}
+accumulated score
+{'electriccaviarracers': -842, 'agentsouth': 576, 'juan': 266}
+
+Seed: 2
+starting position: electriccaviarracers agentsouth juan
+SCORE:-114|140|-26:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-220|154|66:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:-3|59|-56:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:-100|214|-114:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:-116|285|-169:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:-75|132|-57:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -426, 'agentsouth': 331, 'juan': 95}
+accumulated score
+{'electriccaviarracers': -1268, 'agentsouth': 907, 'juan': 361}
+
+Seed: 3
+starting position: electriccaviarracers agentsouth juan
+SCORE:84|-67|-17:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-11|-78|89:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:174|-140|-34:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:66|-3|-63:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:58|6|-64:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:64|-61|-3:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -255, 'agentsouth': 265, 'juan': -10}
+accumulated score
+{'electriccaviarracers': -1523, 'agentsouth': 1172, 'juan': 351}
+
+Seed: 4
+starting position: electriccaviarracers agentsouth juan
+SCORE:10|-37|27:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-37|-29|66:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:140|-111|-29:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:32|36|-68:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:-53|160|-107:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:73|-67|-6:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -380, 'agentsouth': 355, 'juan': 25}
+accumulated score
+{'electriccaviarracers': -1903, 'agentsouth': 1527, 'juan': 376}
+
+Seed: 5
+starting position: electriccaviarracers agentsouth juan
+SCORE:44|-100|56:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-26|-69|95:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:147|-110|-37:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:62|-28|-34:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:-13|79|-66:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:30|-71|41:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -263, 'agentsouth': 324, 'juan': -61}
+accumulated score
+{'electriccaviarracers': -2166, 'agentsouth': 1851, 'juan': 315}
+
+Seed: 6
+starting position: electriccaviarracers agentsouth juan
+SCORE:-146|48|98:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-212|-19|231:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:-43|-98|141:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:-154|58|96:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:-179|166|13:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:-136|1|135:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -346, 'agentsouth': 383, 'juan': -37}
+accumulated score
+{'electriccaviarracers': -2512, 'agentsouth': 2234, 'juan': 278}
+
+Seed: 7
+starting position: electriccaviarracers agentsouth juan
+SCORE:12|-65|53:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-75|-53|128:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:125|-146|21:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:-14|19|-5:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:44|48|-92:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:123|-101|-22:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -407, 'agentsouth': 200, 'juan': 207}
+accumulated score
+{'electriccaviarracers': -2919, 'agentsouth': 2434, 'juan': 485}
+
+Seed: 8
+starting position: electriccaviarracers agentsouth juan
+SCORE:166|-150|-16:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:35|-168|133:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:273|-283|10:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:161|-159|-2:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:146|-50|-96:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:127|-209|82:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -389, 'agentsouth': 449, 'juan': -60}
+accumulated score
+{'electriccaviarracers': -3308, 'agentsouth': 2883, 'juan': 425}
+
+Seed: 9
+starting position: electriccaviarracers agentsouth juan
+SCORE:14|-22|8:electriccaviarracers|agentsouth|juan
+starting position: electriccaviarracers juan agentsouth
+SCORE:-71|-68|139:electriccaviarracers|juan|agentsouth
+starting position: agentsouth electriccaviarracers juan
+SCORE:179|-116|-63:agentsouth|electriccaviarracers|juan
+starting position: agentsouth juan electriccaviarracers
+SCORE:32|-64|32:agentsouth|juan|electriccaviarracers
+starting position: juan agentsouth electriccaviarracers
+SCORE:-12|53|-41:juan|agentsouth|electriccaviarracers
+starting position: juan electriccaviarracers agentsouth
+SCORE:81|-66|-15:juan|electriccaviarracers|agentsouth
+
+seed score
+{'electriccaviarracers': -248, 'agentsouth': 366, 'juan': -118}
+accumulated score
+{'electriccaviarracers': -3556, 'agentsouth': 3249, 'juan': 307}
+

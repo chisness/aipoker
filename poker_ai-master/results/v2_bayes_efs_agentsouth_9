@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes efs agentsouth
+
+Seed: 0
+starting position: bayes efs agentsouth
+SCORE:234|-274|40:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:329|-92|-237:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-8|-77|85:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:19|-99|80:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:269|-352|83:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:276|-90|-186:agentsouth|bayes|efs
+
+seed score
+{'bayes': 559, 'efs': -1038, 'agentsouth': 479}
+accumulated score
+{'bayes': 559, 'efs': -1038, 'agentsouth': 479}
+
+Seed: 1
+starting position: bayes efs agentsouth
+SCORE:-35|-143|178:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:-57|201|-144:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-300|111|189:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-276|79|197:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:54|-249|195:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:-19|52|-33:agentsouth|bayes|efs
+
+seed score
+{'bayes': 463, 'efs': -1145, 'agentsouth': 682}
+accumulated score
+{'bayes': 1022, 'efs': -2183, 'agentsouth': 1161}
+
+Seed: 2
+starting position: bayes efs agentsouth
+SCORE:-65|5|60:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:9|319|-328:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-393|296|97:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-247|188|59:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:-1|-49|50:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:-40|234|-194:agentsouth|bayes|efs
+
+seed score
+{'bayes': 583, 'efs': -1206, 'agentsouth': 623}
+accumulated score
+{'bayes': 1605, 'efs': -3389, 'agentsouth': 1784}
+
+Seed: 3
+starting position: bayes efs agentsouth
+SCORE:181|-235|54:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:183|69|-252:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-133|24|109:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-67|18|49:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:204|-275|71:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:141|54|-195:agentsouth|bayes|efs
+
+seed score
+{'bayes': 562, 'efs': -1157, 'agentsouth': 595}
+accumulated score
+{'bayes': 2167, 'efs': -4546, 'agentsouth': 2379}
+
+Seed: 4
+starting position: bayes efs agentsouth
+SCORE:142|-198|56:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:172|88|-260:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-209|105|104:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-66|36|30:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:133|-179|46:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:65|111|-176:agentsouth|bayes|efs
+
+seed score
+{'bayes': 606, 'efs': -1088, 'agentsouth': 482}
+accumulated score
+{'bayes': 2773, 'efs': -5634, 'agentsouth': 2861}
+
+Seed: 5
+starting position: bayes efs agentsouth
+SCORE:113|-221|108:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:114|106|-220:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-244|96|148:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-68|-5|73:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:199|-351|152:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:87|17|-104:agentsouth|bayes|efs
+
+seed score
+{'bayes': 565, 'efs': -1208, 'agentsouth': 643}
+accumulated score
+{'bayes': 3338, 'efs': -6842, 'agentsouth': 3504}
+
+Seed: 6
+starting position: bayes efs agentsouth
+SCORE:-76|-180|256:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:-102|168|-66:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-426|151|275:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-218|18|200:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:-6|-222|228:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:-63|111|-48:agentsouth|bayes|efs
+
+seed score
+{'bayes': 512, 'efs': -1160, 'agentsouth': 648}
+accumulated score
+{'bayes': 3850, 'efs': -8002, 'agentsouth': 4152}
+
+Seed: 7
+starting position: bayes efs agentsouth
+SCORE:103|-223|120:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:181|38|-219:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-155|64|91:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-66|-52|118:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:146|-265|119:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:1|18|-19:agentsouth|bayes|efs
+
+seed score
+{'bayes': 603, 'efs': -947, 'agentsouth': 344}
+accumulated score
+{'bayes': 4453, 'efs': -8949, 'agentsouth': 4496}
+
+Seed: 8
+starting position: bayes efs agentsouth
+SCORE:286|-383|97:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:263|-47|-216:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-80|-133|213:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-4|-77|81:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:291|-447|156:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:263|-126|-137:agentsouth|bayes|efs
+
+seed score
+{'bayes': 527, 'efs': -1267, 'agentsouth': 740}
+accumulated score
+{'bayes': 4980, 'efs': -10216, 'agentsouth': 5236}
+
+Seed: 9
+starting position: bayes efs agentsouth
+SCORE:117|-209|92:bayes|efs|agentsouth
+starting position: bayes agentsouth efs
+SCORE:153|57|-210:bayes|agentsouth|efs
+starting position: efs bayes agentsouth
+SCORE:-186|55|131:efs|bayes|agentsouth
+starting position: efs agentsouth bayes
+SCORE:-143|91|52:efs|agentsouth|bayes
+starting position: agentsouth efs bayes
+SCORE:179|-284|105:agentsouth|efs|bayes
+starting position: agentsouth bayes efs
+SCORE:138|-9|-129:agentsouth|bayes|efs
+
+seed score
+{'bayes': 473, 'efs': -1161, 'agentsouth': 688}
+accumulated score
+{'bayes': 5453, 'efs': -11377, 'agentsouth': 5924}
+

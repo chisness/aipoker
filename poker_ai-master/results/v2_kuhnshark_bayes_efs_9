@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark bayes efs
+
+Seed: 0
+starting position: kuhnshark bayes efs
+SCORE:158|-128|-30:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:490|-481|-9:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:267|109|-376:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:216|-170|-46:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-144|-161|305:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:133|-156|23:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 860, 'bayes': 208, 'efs': -1068}
+accumulated score
+{'kuhnshark': 860, 'bayes': 208, 'efs': -1068}
+
+Seed: 1
+starting position: kuhnshark bayes efs
+SCORE:-91|-10|101:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:216|-319|103:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:-127|284|-157:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:-85|-20|105:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-408|21|387:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:-136|-22|158:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 879, 'bayes': 60, 'efs': -939}
+accumulated score
+{'kuhnshark': 1739, 'bayes': 268, 'efs': -2007}
+
+Seed: 2
+starting position: kuhnshark bayes efs
+SCORE:-137|205|-68:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:190|-171|-19:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:-65|455|-390:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:-86|129|-43:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-431|197|234:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:-69|58|11:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 757, 'bayes': 243, 'efs': -1000}
+accumulated score
+{'kuhnshark': 2496, 'bayes': 511, 'efs': -3007}
+
+Seed: 3
+starting position: kuhnshark bayes efs
+SCORE:88|-15|-73:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:399|-379|-20:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:114|217|-331:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:143|-117|-26:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-183|-52|235:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:50|-66|16:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 847, 'bayes': 186, 'efs': -1033}
+accumulated score
+{'kuhnshark': 3343, 'bayes': 697, 'efs': -4040}
+
+Seed: 4
+starting position: kuhnshark bayes efs
+SCORE:-35|72|-37:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:301|-256|-45:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:93|252|-345:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:107|-53|-54:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-298|1|297:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:46|-50|4:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 711, 'bayes': 232, 'efs': -943}
+accumulated score
+{'kuhnshark': 4054, 'bayes': 929, 'efs': -4983}
+
+Seed: 5
+starting position: kuhnshark bayes efs
+SCORE:-24|-12|36:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:358|-404|46:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:45|265|-310:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:81|-92|11:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-262|3|259:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:76|-126|50:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 743, 'bayes': 213, 'efs': -956}
+accumulated score
+{'kuhnshark': 4797, 'bayes': 1142, 'efs': -5939}
+
+Seed: 6
+starting position: kuhnshark bayes efs
+SCORE:-160|79|81:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:163|-317|154:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:-167|313|-146:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:-130|-39|169:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-452|33|419:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:-84|-81|165:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 823, 'bayes': 134, 'efs': -957}
+accumulated score
+{'kuhnshark': 5620, 'bayes': 1276, 'efs': -6896}
+
+Seed: 7
+starting position: kuhnshark bayes efs
+SCORE:-105|-19|124:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:312|-339|27:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:103|222|-325:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:80|-61|-19:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-290|-34|324:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:61|-130|69:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 604, 'bayes': 226, 'efs': -830}
+accumulated score
+{'kuhnshark': 6224, 'bayes': 1502, 'efs': -7726}
+
+Seed: 8
+starting position: kuhnshark bayes efs
+SCORE:157|-192|35:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:481|-543|62:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:164|128|-292:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:222|-253|31:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-162|-216|378:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:82|-148|66:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1027, 'bayes': 106, 'efs': -1133}
+accumulated score
+{'kuhnshark': 7251, 'bayes': 1608, 'efs': -8859}
+
+Seed: 9
+starting position: kuhnshark bayes efs
+SCORE:65|-55|-10:kuhnshark|bayes|efs
+starting position: kuhnshark efs bayes
+SCORE:285|-306|21:kuhnshark|efs|bayes
+starting position: bayes kuhnshark efs
+SCORE:50|242|-292:bayes|kuhnshark|efs
+starting position: bayes efs kuhnshark
+SCORE:88|-73|-15:bayes|efs|kuhnshark
+starting position: efs bayes kuhnshark
+SCORE:-256|-43|299:efs|bayes|kuhnshark
+starting position: efs kuhnshark bayes
+SCORE:1|-30|29:efs|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 846, 'bayes': 90, 'efs': -936}
+accumulated score
+{'kuhnshark': 8097, 'bayes': 1698, 'efs': -9795}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes olduak agentsouth
+
+Seed: 0
+starting position: bayes olduak agentsouth
+SCORE:364|-650|286:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:299|247|-546:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-362|-40|402:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-312|141|171:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:594|-743|149:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:439|24|-463:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 967, 'olduak': -3076, 'agentsouth': 2109}
+accumulated score
+{'bayes': 967, 'olduak': -3076, 'agentsouth': 2109}
+
+Seed: 1
+starting position: bayes olduak agentsouth
+SCORE:79|-455|376:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:33|442|-475:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-592|112|480:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-565|292|273:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:342|-594|252:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:235|166|-401:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 915, 'olduak': -3082, 'agentsouth': 2167}
+accumulated score
+{'bayes': 1882, 'olduak': -6158, 'agentsouth': 4276}
+
+Seed: 2
+starting position: bayes olduak agentsouth
+SCORE:99|-349|250:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:-14|582|-568:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-652|263|389:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-551|409|142:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:290|-373|83:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:171|351|-522:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 924, 'olduak': -3015, 'agentsouth': 2091}
+accumulated score
+{'bayes': 2806, 'olduak': -9173, 'agentsouth': 6367}
+
+Seed: 3
+starting position: bayes olduak agentsouth
+SCORE:255|-504|249:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:214|373|-587:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-430|47|383:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-406|235|171:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:477|-557|80:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:385|129|-514:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 896, 'olduak': -2998, 'agentsouth': 2102}
+accumulated score
+{'bayes': 3702, 'olduak': -12171, 'agentsouth': 8469}
+
+Seed: 4
+starting position: bayes olduak agentsouth
+SCORE:242|-465|223:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:214|400|-614:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-480|146|334:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-392|255|137:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:459|-541|82:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:328|219|-547:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 1040, 'olduak': -3039, 'agentsouth': 1999}
+accumulated score
+{'bayes': 4742, 'olduak': -15210, 'agentsouth': 10468}
+
+Seed: 5
+starting position: bayes olduak agentsouth
+SCORE:203|-499|296:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:171|395|-566:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-496|92|404:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-407|230|177:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:479|-575|96:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:350|188|-538:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 927, 'olduak': -3081, 'agentsouth': 2154}
+accumulated score
+{'bayes': 5669, 'olduak': -18291, 'agentsouth': 12622}
+
+Seed: 6
+starting position: bayes olduak agentsouth
+SCORE:7|-416|409:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:-29|476|-447:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-743|160|583:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-667|342|325:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:266|-493|227:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:133|208|-341:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 898, 'olduak': -3107, 'agentsouth': 2209}
+accumulated score
+{'bayes': 6567, 'olduak': -21398, 'agentsouth': 14831}
+
+Seed: 7
+starting position: bayes olduak agentsouth
+SCORE:234|-575|341:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:128|353|-481:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-459|62|397:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-456|236|220:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:426|-577|151:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:315|92|-407:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 887, 'olduak': -2955, 'agentsouth': 2068}
+accumulated score
+{'bayes': 7454, 'olduak': -24353, 'agentsouth': 16899}
+
+Seed: 8
+starting position: bayes olduak agentsouth
+SCORE:340|-658|318:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:297|240|-537:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-383|-86|469:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-339|115|224:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:591|-736|145:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:467|-34|-433:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 886, 'olduak': -3086, 'agentsouth': 2200}
+accumulated score
+{'bayes': 8340, 'olduak': -27439, 'agentsouth': 19099}
+
+Seed: 9
+starting position: bayes olduak agentsouth
+SCORE:232|-534|302:bayes|olduak|agentsouth
+starting position: bayes agentsouth olduak
+SCORE:185|360|-545:bayes|agentsouth|olduak
+starting position: olduak bayes agentsouth
+SCORE:-529|90|439:olduak|bayes|agentsouth
+starting position: olduak agentsouth bayes
+SCORE:-420|258|162:olduak|agentsouth|bayes
+starting position: agentsouth olduak bayes
+SCORE:469|-594|125:agentsouth|olduak|bayes
+starting position: agentsouth bayes olduak
+SCORE:368|124|-492:agentsouth|bayes|olduak
+
+seed score
+{'bayes': 918, 'olduak': -3114, 'agentsouth': 2196}
+accumulated score
+{'bayes': 9258, 'olduak': -30553, 'agentsouth': 21295}
+

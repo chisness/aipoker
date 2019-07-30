@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes electriccaviarracers agentsouth
+
+Seed: 0
+starting position: bayes electriccaviarracers agentsouth
+SCORE:57|-213|156:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-63|54|9:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:224|-387|163:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:140|-48|-92:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:348|-154|-194:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:308|-245|-63:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -924, 'electriccaviarracers': -57, 'agentsouth': 981}
+accumulated score
+{'bayes': -924, 'electriccaviarracers': -57, 'agentsouth': 981}
+
+Seed: 1
+starting position: bayes electriccaviarracers agentsouth
+SCORE:-173|-52|225:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-307|225|82:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:-78|-239|317:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:-147|129|18:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:143|-28|-115:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:94|-115|21:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -931, 'electriccaviarracers': -202, 'agentsouth': 1133}
+accumulated score
+{'bayes': -1855, 'electriccaviarracers': -259, 'agentsouth': 2114}
+
+Seed: 2
+starting position: bayes electriccaviarracers agentsouth
+SCORE:-192|109|83:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-292|305|-13:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:-78|-75|153:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:-150|283|-133:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:92|173|-265:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:45|53|-98:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -904, 'electriccaviarracers': -57, 'agentsouth': 961}
+accumulated score
+{'bayes': -2759, 'electriccaviarracers': -316, 'agentsouth': 3075}
+
+Seed: 3
+starting position: bayes electriccaviarracers agentsouth
+SCORE:11|-111|100:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-119|144|-25:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:67|-280|213:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:47|72|-119:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:280|-59|-221:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:207|-122|-85:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -850, 'electriccaviarracers': -166, 'agentsouth': 1016}
+accumulated score
+{'bayes': -3609, 'electriccaviarracers': -482, 'agentsouth': 4091}
+
+Seed: 4
+starting position: bayes electriccaviarracers agentsouth
+SCORE:-15|-107|122:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-119|233|-114:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:49|-191|142:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:22|133|-155:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:248|28|-276:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:181|-53|-128:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -809, 'electriccaviarracers': -250, 'agentsouth': 1059}
+accumulated score
+{'bayes': -4418, 'electriccaviarracers': -732, 'agentsouth': 5150}
+
+Seed: 5
+starting position: bayes electriccaviarracers agentsouth
+SCORE:-44|-99|143:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-135|175|-40:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:25|-250|225:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:0|115|-115:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:297|-92|-205:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:193|-110|-83:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -859, 'electriccaviarracers': -289, 'agentsouth': 1148}
+accumulated score
+{'bayes': -5277, 'electriccaviarracers': -1021, 'agentsouth': 6298}
+
+Seed: 6
+starting position: bayes electriccaviarracers agentsouth
+SCORE:-249|-70|319:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-401|205|196:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:-173|-149|322:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:-211|170|41:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:33|84|-117:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:8|-69|61:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -944, 'electriccaviarracers': -113, 'agentsouth': 1057}
+accumulated score
+{'bayes': -6221, 'electriccaviarracers': -1134, 'agentsouth': 7355}
+
+Seed: 7
+starting position: bayes electriccaviarracers agentsouth
+SCORE:-58|-127|185:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-172|139|33:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:117|-311|194:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:11|66|-77:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:199|21|-220:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:164|-134|-30:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -972, 'electriccaviarracers': 25, 'agentsouth': 947}
+accumulated score
+{'bayes': -7193, 'electriccaviarracers': -1109, 'agentsouth': 8302}
+
+Seed: 8
+starting position: bayes electriccaviarracers agentsouth
+SCORE:70|-236|166:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-95|48|47:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:157|-425|268:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:82|-9|-73:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:339|-166|-173:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:311|-301|-10:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -997, 'electriccaviarracers': -126, 'agentsouth': 1123}
+accumulated score
+{'bayes': -8190, 'electriccaviarracers': -1235, 'agentsouth': 9425}
+
+Seed: 9
+starting position: bayes electriccaviarracers agentsouth
+SCORE:-52|-92|144:bayes|electriccaviarracers|agentsouth
+starting position: bayes agentsouth electriccaviarracers
+SCORE:-173|149|24:bayes|agentsouth|electriccaviarracers
+starting position: electriccaviarracers bayes agentsouth
+SCORE:79|-295|216:electriccaviarracers|bayes|agentsouth
+starting position: electriccaviarracers agentsouth bayes
+SCORE:-9|80|-71:electriccaviarracers|agentsouth|bayes
+starting position: agentsouth electriccaviarracers bayes
+SCORE:299|-59|-240:agentsouth|electriccaviarracers|bayes
+starting position: agentsouth bayes electriccaviarracers
+SCORE:179|-179|0:agentsouth|bayes|electriccaviarracers
+
+seed score
+{'bayes': -1010, 'electriccaviarracers': -57, 'agentsouth': 1067}
+accumulated score
+{'bayes': -9200, 'electriccaviarracers': -1292, 'agentsouth': 10492}
+

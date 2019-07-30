@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te olduak
+
+Seed: 0
+starting position: newuak te olduak
+SCORE:378|-32|-346:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:481|-527|46:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:220|155|-375:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:280|-523|243:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-120|-139|259:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-188|111|77:olduak|newuak|te
+
+seed score
+{'newuak': 1627, 'te': 452, 'olduak': -2079}
+accumulated score
+{'newuak': 1627, 'te': 452, 'olduak': -2079}
+
+Seed: 1
+starting position: newuak te olduak
+SCORE:143|111|-254:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:215|-373|158:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:-56|318|-262:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:-2|-363|365:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-434|70|364:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-490|262|228:olduak|newuak|te
+
+seed score
+{'newuak': 1667, 'te': 509, 'olduak': -2176}
+accumulated score
+{'newuak': 3294, 'te': 961, 'olduak': -4255}
+
+Seed: 2
+starting position: newuak te olduak
+SCORE:141|346|-487:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:202|-240|38:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:-60|439|-379:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:51|-283|232:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-476|196|280:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-492|428|64:olduak|newuak|te
+
+seed score
+{'newuak': 1722, 'te': 635, 'olduak': -2357}
+accumulated score
+{'newuak': 5016, 'te': 1596, 'olduak': -6612}
+
+Seed: 3
+starting position: newuak te olduak
+SCORE:361|53|-414:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:379|-370|-9:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:108|264|-372:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:257|-460|203:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-241|-42|283:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-321|245|76:olduak|newuak|te
+
+seed score
+{'newuak': 1735, 'te': 443, 'olduak': -2178}
+accumulated score
+{'newuak': 6751, 'te': 2039, 'olduak': -8790}
+
+Seed: 4
+starting position: newuak te olduak
+SCORE:296|124|-420:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:360|-357|-3:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:138|295|-433:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:174|-373|199:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-343|52|291:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-320|238|82:olduak|newuak|te
+
+seed score
+{'newuak': 1679, 'te': 567, 'olduak': -2246}
+accumulated score
+{'newuak': 8430, 'te': 2606, 'olduak': -11036}
+
+Seed: 5
+starting position: newuak te olduak
+SCORE:290|81|-371:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:357|-399|42:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:117|258|-375:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:180|-380|200:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-316|10|306:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-275|135|140:olduak|newuak|te
+
+seed score
+{'newuak': 1546, 'te': 570, 'olduak': -2116}
+accumulated score
+{'newuak': 9976, 'te': 3176, 'olduak': -13152}
+
+Seed: 6
+starting position: newuak te olduak
+SCORE:94|194|-288:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:118|-309|191:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:-52|324|-272:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:-73|-300|373:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-525|45|480:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-530|272|258:olduak|newuak|te
+
+seed score
+{'newuak': 1661, 'te': 563, 'olduak': -2224}
+accumulated score
+{'newuak': 11637, 'te': 3739, 'olduak': -15376}
+
+Seed: 7
+starting position: newuak te olduak
+SCORE:232|113|-345:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:327|-424|97:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:67|253|-320:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:198|-447|249:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-361|15|346:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-332|231|101:olduak|newuak|te
+
+seed score
+{'newuak': 1638, 'te': 591, 'olduak': -2229}
+accumulated score
+{'newuak': 13275, 'te': 4330, 'olduak': -17605}
+
+Seed: 8
+starting position: newuak te olduak
+SCORE:403|-67|-336:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:457|-566|109:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:215|148|-363:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:298|-538|240:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-230|-112|342:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-247|59|188:olduak|newuak|te
+
+seed score
+{'newuak': 1649, 'te': 631, 'olduak': -2280}
+accumulated score
+{'newuak': 14924, 'te': 4961, 'olduak': -19885}
+
+Seed: 9
+starting position: newuak te olduak
+SCORE:271|59|-330:newuak|te|olduak
+starting position: newuak olduak te
+SCORE:289|-348|59:newuak|olduak|te
+starting position: te newuak olduak
+SCORE:114|262|-376:te|newuak|olduak
+starting position: te olduak newuak
+SCORE:177|-364|187:te|olduak|newuak
+starting position: olduak te newuak
+SCORE:-305|33|272:olduak|te|newuak
+starting position: olduak newuak te
+SCORE:-344|200|144:olduak|newuak|te
+
+seed score
+{'newuak': 1481, 'te': 586, 'olduak': -2067}
+accumulated score
+{'newuak': 16405, 'te': 5547, 'olduak': -21952}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin te electriccaviarracers
+
+Seed: 0
+starting position: kevin te electriccaviarracers
+SCORE:-242|94|148:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-298|-52|350:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:625|-696|71:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:431|17|-448:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:319|196|-515:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:291|-567|276:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -2766, 'te': 1972, 'electriccaviarracers': 794}
+accumulated score
+{'kevin': -2766, 'te': 1972, 'electriccaviarracers': 794}
+
+Seed: 1
+starting position: kevin te electriccaviarracers
+SCORE:-582|336|246:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-624|62|562:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:329|-462|133:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:160|200|-360:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:-36|512|-476:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:72|-482|410:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -2986, 'te': 2309, 'electriccaviarracers': 677}
+accumulated score
+{'kevin': -5752, 'te': 4281, 'electriccaviarracers': 1471}
+
+Seed: 2
+starting position: kevin te electriccaviarracers
+SCORE:-565|470|95:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-694|214|480:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:244|-287|43:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:187|358|-545:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:-13|626|-613:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:51|-281|230:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -2985, 'te': 2237, 'electriccaviarracers': 748}
+accumulated score
+{'kevin': -8737, 'te': 6518, 'electriccaviarracers': 2219}
+
+Seed: 3
+starting position: kevin te electriccaviarracers
+SCORE:-306|194|112:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-333|-60|393:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:599|-613|14:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:342|115|-457:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:192|350|-542:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:299|-575|276:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -2826, 'te': 2154, 'electriccaviarracers': 672}
+accumulated score
+{'kevin': -11563, 'te': 8672, 'electriccaviarracers': 2891}
+
+Seed: 4
+starting position: kevin te electriccaviarracers
+SCORE:-383|274|109:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-454|12|442:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:461|-515|54:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:343|122|-465:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:77|475|-552:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:183|-422|239:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -2791, 'te': 2234, 'electriccaviarracers': 557}
+accumulated score
+{'kevin': -14354, 'te': 10906, 'electriccaviarracers': 3448}
+
+Seed: 5
+starting position: kevin te electriccaviarracers
+SCORE:-461|208|253:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-458|31|427:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:501|-512|11:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:348|133|-481:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:85|445|-530:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:241|-618|377:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -3060, 'te': 2306, 'electriccaviarracers': 754}
+accumulated score
+{'kevin': -17414, 'te': 13212, 'electriccaviarracers': 4202}
+
+Seed: 6
+starting position: kevin te electriccaviarracers
+SCORE:-558|226|332:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-732|77|655:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:291|-577|286:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:154|169|-323:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:-25|429|-404:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:75|-556|481:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -3150, 'te': 2236, 'electriccaviarracers': 914}
+accumulated score
+{'kevin': -20564, 'te': 15448, 'electriccaviarracers': 5116}
+
+Seed: 7
+starting position: kevin te electriccaviarracers
+SCORE:-363|172|191:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-400|-29|429:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:408|-555|147:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:188|114|-302:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:89|359|-448:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:172|-461|289:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -2529, 'te': 1845, 'electriccaviarracers': 684}
+accumulated score
+{'kevin': -23093, 'te': 17293, 'electriccaviarracers': 5800}
+
+Seed: 8
+starting position: kevin te electriccaviarracers
+SCORE:-399|122|277:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-300|-115|415:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:650|-816|166:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:473|-25|-448:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:322|280|-602:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:359|-635|276:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -3200, 'te': 2216, 'electriccaviarracers': 984}
+accumulated score
+{'kevin': -26293, 'te': 19509, 'electriccaviarracers': 6784}
+
+Seed: 9
+starting position: kevin te electriccaviarracers
+SCORE:-531|351|180:kevin|te|electriccaviarracers
+starting position: kevin electriccaviarracers te
+SCORE:-481|57|424:kevin|electriccaviarracers|te
+starting position: te kevin electriccaviarracers
+SCORE:547|-602|55:te|kevin|electriccaviarracers
+starting position: te electriccaviarracers kevin
+SCORE:331|146|-477:te|electriccaviarracers|kevin
+starting position: electriccaviarracers te kevin
+SCORE:144|276|-420:electriccaviarracers|te|kevin
+starting position: electriccaviarracers kevin te
+SCORE:180|-429|249:electriccaviarracers|kevin|te
+
+seed score
+{'kevin': -2940, 'te': 2178, 'electriccaviarracers': 762}
+accumulated score
+{'kevin': -29233, 'te': 21687, 'electriccaviarracers': 7546}
+

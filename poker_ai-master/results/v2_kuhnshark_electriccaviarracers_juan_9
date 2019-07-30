@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark electriccaviarracers juan
+
+Seed: 0
+starting position: kuhnshark electriccaviarracers juan
+SCORE:124|-171|47:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:83|-67|-16:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:176|-195|19:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:138|-126|-12:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:140|-90|-50:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:108|-147|39:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -197, 'electriccaviarracers': 76, 'juan': 121}
+accumulated score
+{'kuhnshark': -197, 'electriccaviarracers': 76, 'juan': 121}
+
+Seed: 1
+starting position: kuhnshark electriccaviarracers juan
+SCORE:-60|54|6:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:-89|0|89:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:-75|7|68:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:-53|32|21:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:-35|5|30:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:-143|21|122:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -70, 'electriccaviarracers': 142, 'juan': -72}
+accumulated score
+{'kuhnshark': -267, 'electriccaviarracers': 218, 'juan': 49}
+
+Seed: 2
+starting position: kuhnshark electriccaviarracers juan
+SCORE:-105|166|-61:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:-104|154|-50:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:-76|97|-21:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:-139|161|-22:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:-84|141|-57:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:-51|140|-89:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -51, 'electriccaviarracers': -47, 'juan': 98}
+accumulated score
+{'kuhnshark': -318, 'electriccaviarracers': 171, 'juan': 147}
+
+Seed: 3
+starting position: kuhnshark electriccaviarracers juan
+SCORE:84|-85|1:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:74|-21|-53:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:141|-100|-41:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:117|-72|-45:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:130|-63|-67:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:28|-29|1:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -83, 'electriccaviarracers': 58, 'juan': 25}
+accumulated score
+{'kuhnshark': -401, 'electriccaviarracers': 229, 'juan': 172}
+
+Seed: 4
+starting position: kuhnshark electriccaviarracers juan
+SCORE:21|8|-29:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:10|40|-50:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:29|-22|-7:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:11|0|-11:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:48|19|-67:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:50|-23|-27:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -92, 'electriccaviarracers': -10, 'juan': 102}
+accumulated score
+{'kuhnshark': -493, 'electriccaviarracers': 219, 'juan': 274}
+
+Seed: 5
+starting position: kuhnshark electriccaviarracers juan
+SCORE:77|-15|-62:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:-6|23|-17:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:62|-89|27:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:61|-53|-8:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:92|-56|-36:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:-6|-30|36:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -92, 'electriccaviarracers': 71, 'juan': 21}
+accumulated score
+{'kuhnshark': -585, 'electriccaviarracers': 290, 'juan': 295}
+
+Seed: 6
+starting position: kuhnshark electriccaviarracers juan
+SCORE:-96|-4|100:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:-162|46|116:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:-64|-7|71:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:-157|47|110:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:-164|37|127:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:-148|32|116:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 4, 'electriccaviarracers': 44, 'juan': -48}
+accumulated score
+{'kuhnshark': -581, 'electriccaviarracers': 334, 'juan': 247}
+
+Seed: 7
+starting position: kuhnshark electriccaviarracers juan
+SCORE:6|-76|70:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:-13|1|12:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:24|-96|72:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:18|-107|89:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:97|-104|7:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:41|-55|14:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -62, 'electriccaviarracers': -112, 'juan': 174}
+accumulated score
+{'kuhnshark': -643, 'electriccaviarracers': 222, 'juan': 421}
+
+Seed: 8
+starting position: kuhnshark electriccaviarracers juan
+SCORE:215|-135|-80:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:128|-143|15:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:146|-176|30:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:145|-194|49:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:124|-169|45:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:160|-206|46:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': 55, 'electriccaviarracers': 48, 'juan': -103}
+accumulated score
+{'kuhnshark': -588, 'electriccaviarracers': 270, 'juan': 318}
+
+Seed: 9
+starting position: kuhnshark electriccaviarracers juan
+SCORE:74|-55|-19:kuhnshark|electriccaviarracers|juan
+starting position: kuhnshark juan electriccaviarracers
+SCORE:-35|-13|48:kuhnshark|juan|electriccaviarracers
+starting position: electriccaviarracers kuhnshark juan
+SCORE:35|-56|21:electriccaviarracers|kuhnshark|juan
+starting position: electriccaviarracers juan kuhnshark
+SCORE:96|-115|19:electriccaviarracers|juan|kuhnshark
+starting position: juan electriccaviarracers kuhnshark
+SCORE:40|-1|-39:juan|electriccaviarracers|kuhnshark
+starting position: juan kuhnshark electriccaviarracers
+SCORE:-13|-16|29:juan|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -53, 'electriccaviarracers': 152, 'juan': -99}
+accumulated score
+{'kuhnshark': -641, 'electriccaviarracers': 422, 'juan': 219}
+

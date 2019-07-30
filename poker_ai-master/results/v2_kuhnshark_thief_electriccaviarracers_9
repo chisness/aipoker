@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark thief electriccaviarracers
+
+Seed: 0
+starting position: kuhnshark thief electriccaviarracers
+SCORE:477|-481|4:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:171|-28|-143:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:96|-154|58:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-139|-58|197:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:275|-325|50:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:183|117|-300:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 858, 'thief': -1292, 'electriccaviarracers': 434}
+accumulated score
+{'kuhnshark': 858, 'thief': -1292, 'electriccaviarracers': 434}
+
+Seed: 1
+starting position: kuhnshark thief electriccaviarracers
+SCORE:166|-296|130:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:22|78|-100:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-336|117|219:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-381|13|368:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:-18|-88|106:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:-56|245|-189:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1024, 'thief': -1390, 'electriccaviarracers': 366}
+accumulated score
+{'kuhnshark': 1882, 'thief': -2682, 'electriccaviarracers': 800}
+
+Seed: 2
+starting position: kuhnshark thief electriccaviarracers
+SCORE:150|-203|53:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:-34|214|-180:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-331|260|71:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-400|214|186:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:-27|53|-26:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:-24|425|-401:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 961, 'thief': -1462, 'electriccaviarracers': 501}
+accumulated score
+{'kuhnshark': 2843, 'thief': -4144, 'electriccaviarracers': 1301}
+
+Seed: 3
+starting position: kuhnshark thief electriccaviarracers
+SCORE:403|-382|-21:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:160|-29|-131:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:25|-37|12:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-184|-28|212:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:203|-243|40:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:145|246|-391:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1024, 'thief': -1306, 'electriccaviarracers': 282}
+accumulated score
+{'kuhnshark': 3867, 'thief': -5450, 'electriccaviarracers': 1583}
+
+Seed: 4
+starting position: kuhnshark thief electriccaviarracers
+SCORE:279|-295|16:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:77|102|-179:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-60|-6|66:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-284|12|272:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:71|-164|93:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:97|252|-349:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 967, 'thief': -1331, 'electriccaviarracers': 364}
+accumulated score
+{'kuhnshark': 4834, 'thief': -6781, 'electriccaviarracers': 1947}
+
+Seed: 5
+starting position: kuhnshark thief electriccaviarracers
+SCORE:283|-353|70:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:105|27|-132:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-72|-52|124:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-304|-11|315:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:124|-212|88:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:82|219|-301:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 958, 'thief': -1374, 'electriccaviarracers': 416}
+accumulated score
+{'kuhnshark': 5792, 'thief': -8155, 'electriccaviarracers': 2363}
+
+Seed: 6
+starting position: kuhnshark thief electriccaviarracers
+SCORE:57|-233|176:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:-24|107|-83:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-237|81|156:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-467|43|424:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:-59|-195|254:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:-46|309|-263:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1101, 'thief': -1478, 'electriccaviarracers': 377}
+accumulated score
+{'kuhnshark': 6893, 'thief': -9633, 'electriccaviarracers': 2740}
+
+Seed: 7
+starting position: kuhnshark thief electriccaviarracers
+SCORE:257|-321|64:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:-13|-15|28:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-102|-11|113:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-265|-5|270:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:45|-109|64:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:24|207|-231:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 774, 'thief': -1000, 'electriccaviarracers': 226}
+accumulated score
+{'kuhnshark': 7667, 'thief': -10633, 'electriccaviarracers': 2966}
+
+Seed: 8
+starting position: kuhnshark thief electriccaviarracers
+SCORE:464|-540|76:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:215|-85|-130:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-38|-113|151:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-226|-107|333:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:292|-374|82:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:248|35|-283:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 1016, 'thief': -1591, 'electriccaviarracers': 575}
+accumulated score
+{'kuhnshark': 8683, 'thief': -12224, 'electriccaviarracers': 3541}
+
+Seed: 9
+starting position: kuhnshark thief electriccaviarracers
+SCORE:350|-361|11:kuhnshark|thief|electriccaviarracers
+starting position: kuhnshark electriccaviarracers thief
+SCORE:67|51|-118:kuhnshark|electriccaviarracers|thief
+starting position: thief kuhnshark electriccaviarracers
+SCORE:-49|-12|61:thief|kuhnshark|electriccaviarracers
+starting position: thief electriccaviarracers kuhnshark
+SCORE:-239|-7|246:thief|electriccaviarracers|kuhnshark
+starting position: electriccaviarracers thief kuhnshark
+SCORE:123|-156|33:electriccaviarracers|thief|kuhnshark
+starting position: electriccaviarracers kuhnshark thief
+SCORE:134|226|-360:electriccaviarracers|kuhnshark|thief
+
+seed score
+{'kuhnshark': 910, 'thief': -1283, 'electriccaviarracers': 373}
+accumulated score
+{'kuhnshark': 9593, 'thief': -13507, 'electriccaviarracers': 3914}
+

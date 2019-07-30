@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin electriccaviarracers
+
+Seed: 0
+starting position: newuak kevin electriccaviarracers
+SCORE:544|-649|105:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:193|75|-268:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-130|-157|287:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-357|-34|391:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:470|-438|-32:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:329|182|-511:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1121, 'kevin': -2353, 'electriccaviarracers': 1232}
+accumulated score
+{'newuak': 1121, 'kevin': -2353, 'electriccaviarracers': 1232}
+
+Seed: 1
+starting position: newuak kevin electriccaviarracers
+SCORE:387|-534|147:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:-36|309|-273:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-500|97|403:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-596|148|448:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:166|-321|155:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:-47|428|-381:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1479, 'kevin': -2605, 'electriccaviarracers': 1126}
+accumulated score
+{'newuak': 2600, 'kevin': -4958, 'electriccaviarracers': 2358}
+
+Seed: 2
+starting position: newuak kevin electriccaviarracers
+SCORE:284|-342|58:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:-47|463|-416:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-362|183|179:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-642|237|405:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:136|-107|-29:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:27|620|-647:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1416, 'kevin': -2516, 'electriccaviarracers': 1100}
+accumulated score
+{'newuak': 4016, 'kevin': -7474, 'electriccaviarracers': 3458}
+
+Seed: 3
+starting position: newuak kevin electriccaviarracers
+SCORE:539|-606|67:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:146|243|-389:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-205|-56|261:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-393|-42|435:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:359|-395|36:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:211|325|-536:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1425, 'kevin': -2524, 'electriccaviarracers': 1099}
+accumulated score
+{'newuak': 5441, 'kevin': -9998, 'electriccaviarracers': 4557}
+
+Seed: 4
+starting position: newuak kevin electriccaviarracers
+SCORE:437|-519|82:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:18|244|-262:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-226|-19|245:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-454|16|438:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:316|-340|24:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:135|372|-507:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1270, 'kevin': -2308, 'electriccaviarracers': 1038}
+accumulated score
+{'newuak': 6711, 'kevin': -12306, 'electriccaviarracers': 5595}
+
+Seed: 5
+starting position: newuak kevin electriccaviarracers
+SCORE:498|-581|83:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:88|211|-299:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-343|-38|381:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-471|76|395:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:316|-474|158:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:109|325|-434:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1426, 'kevin': -2602, 'electriccaviarracers': 1176}
+accumulated score
+{'newuak': 8137, 'kevin': -14908, 'electriccaviarracers': 6771}
+
+Seed: 6
+starting position: newuak kevin electriccaviarracers
+SCORE:289|-577|288:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:-46|274|-228:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-406|10|396:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-728|118|610:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:75|-331|256:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:-16|397|-381:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1516, 'kevin': -2651, 'electriccaviarracers': 1135}
+accumulated score
+{'newuak': 9653, 'kevin': -17559, 'electriccaviarracers': 7906}
+
+Seed: 7
+starting position: newuak kevin electriccaviarracers
+SCORE:350|-529|179:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:-78|150|-72:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-172|-85|257:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-423|-14|437:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:281|-291|10:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:95|287|-382:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 921, 'kevin': -1869, 'electriccaviarracers': 948}
+accumulated score
+{'newuak': 10574, 'kevin': -19428, 'electriccaviarracers': 8854}
+
+Seed: 8
+starting position: newuak kevin electriccaviarracers
+SCORE:583|-748|165:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:281|36|-317:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-273|-65|338:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-384|-99|483:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:432|-528|96:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:332|268|-600:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1646, 'kevin': -2850, 'electriccaviarracers': 1204}
+accumulated score
+{'newuak': 12220, 'kevin': -22278, 'electriccaviarracers': 10058}
+
+Seed: 9
+starting position: newuak kevin electriccaviarracers
+SCORE:471|-552|81:newuak|kevin|electriccaviarracers
+starting position: newuak electriccaviarracers kevin
+SCORE:101|261|-362:newuak|electriccaviarracers|kevin
+starting position: kevin newuak electriccaviarracers
+SCORE:-343|52|291:kevin|newuak|electriccaviarracers
+starting position: kevin electriccaviarracers newuak
+SCORE:-514|66|448:kevin|electriccaviarracers|newuak
+starting position: electriccaviarracers kevin newuak
+SCORE:338|-368|30:electriccaviarracers|kevin|newuak
+starting position: electriccaviarracers newuak kevin
+SCORE:142|357|-499:electriccaviarracers|newuak|kevin
+
+seed score
+{'newuak': 1459, 'kevin': -2638, 'electriccaviarracers': 1179}
+accumulated score
+{'newuak': 13679, 'kevin': -24916, 'electriccaviarracers': 11237}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin agentsouth juan
+
+Seed: 0
+starting position: kevin agentsouth juan
+SCORE:-35|-64|99:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:58|-46|-12:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:167|-294|127:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:292|-119|-173:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:358|-172|-186:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:326|-347|21:juan|kevin|agentsouth
+
+seed score
+{'kevin': -977, 'agentsouth': 232, 'juan': 745}
+accumulated score
+{'kevin': -977, 'agentsouth': 232, 'juan': 745}
+
+Seed: 1
+starting position: kevin agentsouth juan
+SCORE:-374|141|233:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-254|149|105:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:-71|-146|217:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:15|146|-161:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:26|60|-86:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:55|-278|223:juan|kevin|agentsouth
+
+seed score
+{'kevin': -1299, 'agentsouth': 473, 'juan': 826}
+accumulated score
+{'kevin': -2276, 'agentsouth': 705, 'juan': 1571}
+
+Seed: 2
+starting position: kevin agentsouth juan
+SCORE:-403|243|160:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-314|285|29:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:-132|18|114:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:-42|333|-291:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:66|119|-185:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:11|-64|53:juan|kevin|agentsouth
+
+seed score
+{'kevin': -1239, 'agentsouth': 270, 'juan': 969}
+accumulated score
+{'kevin': -3515, 'agentsouth': 975, 'juan': 2540}
+
+Seed: 3
+starting position: kevin agentsouth juan
+SCORE:-68|-3|71:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-23|-6|29:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:121|-235|114:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:181|23|-204:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:236|-51|-185:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:271|-326|55:juan|kevin|agentsouth
+
+seed score
+{'kevin': -1041, 'agentsouth': 332, 'juan': 709}
+accumulated score
+{'kevin': -4556, 'agentsouth': 1307, 'juan': 3249}
+
+Seed: 4
+starting position: kevin agentsouth juan
+SCORE:-147|44|103:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-67|82|-15:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:26|-171|145:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:90|118|-208:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:120|13|-133:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:176|-249|73:juan|kevin|agentsouth
+
+seed score
+{'kevin': -975, 'agentsouth': 231, 'juan': 744}
+accumulated score
+{'kevin': -5531, 'agentsouth': 1538, 'juan': 3993}
+
+Seed: 5
+starting position: kevin agentsouth juan
+SCORE:-179|22|157:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-190|93|97:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:40|-222|182:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:153|32|-185:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:134|-54|-80:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:120|-285|165:juan|kevin|agentsouth
+
+seed score
+{'kevin': -1141, 'agentsouth': 423, 'juan': 718}
+accumulated score
+{'kevin': -6672, 'agentsouth': 1961, 'juan': 4711}
+
+Seed: 6
+starting position: kevin agentsouth juan
+SCORE:-428|101|327:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-345|161|184:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:-61|-288|349:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:-23|183|-160:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:34|18|-52:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:21|-332|311:juan|kevin|agentsouth
+
+seed score
+{'kevin': -1605, 'agentsouth': 530, 'juan': 1075}
+accumulated score
+{'kevin': -8277, 'agentsouth': 2491, 'juan': 5786}
+
+Seed: 7
+starting position: kevin agentsouth juan
+SCORE:-177|26|151:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-18|35|-17:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:-51|-117|168:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:-14|12|2:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:121|-92|-29:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:89|-176|87:juan|kevin|agentsouth
+
+seed score
+{'kevin': -515, 'agentsouth': -61, 'juan': 576}
+accumulated score
+{'kevin': -8792, 'agentsouth': 2430, 'juan': 6362}
+
+Seed: 8
+starting position: kevin agentsouth juan
+SCORE:-67|-84|151:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-8|-80|88:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:209|-396|187:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:324|-76|-248:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:335|-124|-211:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:379|-507|128:juan|kevin|agentsouth
+
+seed score
+{'kevin': -1437, 'agentsouth': 541, 'juan': 896}
+accumulated score
+{'kevin': -10229, 'agentsouth': 2971, 'juan': 7258}
+
+Seed: 9
+starting position: kevin agentsouth juan
+SCORE:-250|136|114:kevin|agentsouth|juan
+starting position: kevin juan agentsouth
+SCORE:-146|108|38:kevin|juan|agentsouth
+starting position: agentsouth kevin juan
+SCORE:69|-202|133:agentsouth|kevin|juan
+starting position: agentsouth juan kevin
+SCORE:186|112|-298:agentsouth|juan|kevin
+starting position: juan agentsouth kevin
+SCORE:190|25|-215:juan|agentsouth|kevin
+starting position: juan kevin agentsouth
+SCORE:173|-234|61:juan|kevin|agentsouth
+
+seed score
+{'kevin': -1345, 'agentsouth': 515, 'juan': 830}
+accumulated score
+{'kevin': -11574, 'agentsouth': 3486, 'juan': 8088}
+

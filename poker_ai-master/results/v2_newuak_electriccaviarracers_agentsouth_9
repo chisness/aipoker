@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak electriccaviarracers agentsouth
+
+Seed: 0
+starting position: newuak electriccaviarracers agentsouth
+SCORE:142|-75|-67:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:199|-67|-132:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-10|-75|85:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:204|-218|14:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:226|-266|40:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:82|-68|-14:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 252, 'electriccaviarracers': -293, 'agentsouth': 41}
+accumulated score
+{'newuak': 252, 'electriccaviarracers': -293, 'agentsouth': 41}
+
+Seed: 1
+starting position: newuak electriccaviarracers agentsouth
+SCORE:-8|-43|51:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:-80|100|-20:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-245|81|164:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:-103|-29|132:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:-5|-115|120:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:-124|43|81:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 288, 'electriccaviarracers': -445, 'agentsouth': 157}
+accumulated score
+{'newuak': 540, 'electriccaviarracers': -738, 'agentsouth': 198}
+
+Seed: 2
+starting position: newuak electriccaviarracers agentsouth
+SCORE:-52|132|-80:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:-57|231|-174:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-255|249|6:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:-87|80|7:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:-26|72|-46:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:-101|212|-111:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 313, 'electriccaviarracers': -423, 'agentsouth': 110}
+accumulated score
+{'newuak': 853, 'electriccaviarracers': -1161, 'agentsouth': 308}
+
+Seed: 3
+starting position: newuak electriccaviarracers agentsouth
+SCORE:140|-75|-65:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:79|64|-143:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-41|-27|68:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:105|-130|25:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:164|-142|-22:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:58|-43|-15:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 152, 'electriccaviarracers': -311, 'agentsouth': 159}
+accumulated score
+{'newuak': 1005, 'electriccaviarracers': -1472, 'agentsouth': 467}
+
+Seed: 4
+starting position: newuak electriccaviarracers agentsouth
+SCORE:86|-26|-60:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:0|88|-88:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-85|12|73:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:43|-53|10:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:103|-89|-14:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:15|48|-63:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 142, 'electriccaviarracers': -308, 'agentsouth': 166}
+accumulated score
+{'newuak': 1147, 'electriccaviarracers': -1780, 'agentsouth': 633}
+
+Seed: 5
+starting position: newuak electriccaviarracers agentsouth
+SCORE:109|-53|-56:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:74|72|-146:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-56|-21|77:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:95|-75|-20:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:147|-152|5:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:43|5|-48:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 152, 'electriccaviarracers': -360, 'agentsouth': 208}
+accumulated score
+{'newuak': 1299, 'electriccaviarracers': -2140, 'agentsouth': 841}
+
+Seed: 6
+starting position: newuak electriccaviarracers agentsouth
+SCORE:-117|49|68:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:-132|95|37:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-290|66|224:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:-102|-22|124:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:-17|-146|163:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:-190|83|107:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 187, 'electriccaviarracers': -345, 'agentsouth': 158}
+accumulated score
+{'newuak': 1486, 'electriccaviarracers': -2485, 'agentsouth': 999}
+
+Seed: 7
+starting position: newuak electriccaviarracers agentsouth
+SCORE:35|0|-35:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:58|67|-125:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-83|13|70:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:-1|-48|49:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:108|-108|0:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:-35|14|21:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 169, 'electriccaviarracers': -296, 'agentsouth': 127}
+accumulated score
+{'newuak': 1655, 'electriccaviarracers': -2781, 'agentsouth': 1126}
+
+Seed: 8
+starting position: newuak electriccaviarracers agentsouth
+SCORE:173|-186|13:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:189|-55|-134:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:19|-139|120:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:175|-197|22:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:251|-296|45:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:123|-157|34:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 133, 'electriccaviarracers': -388, 'agentsouth': 255}
+accumulated score
+{'newuak': 1788, 'electriccaviarracers': -3169, 'agentsouth': 1381}
+
+Seed: 9
+starting position: newuak electriccaviarracers agentsouth
+SCORE:43|-33|-10:newuak|electriccaviarracers|agentsouth
+starting position: newuak agentsouth electriccaviarracers
+SCORE:76|46|-122:newuak|agentsouth|electriccaviarracers
+starting position: electriccaviarracers newuak agentsouth
+SCORE:-83|-75|158:electriccaviarracers|newuak|agentsouth
+starting position: electriccaviarracers agentsouth newuak
+SCORE:35|-64|29:electriccaviarracers|agentsouth|newuak
+starting position: agentsouth electriccaviarracers newuak
+SCORE:133|-137|4:agentsouth|electriccaviarracers|newuak
+starting position: agentsouth newuak electriccaviarracers
+SCORE:28|-22|-6:agentsouth|newuak|electriccaviarracers
+
+seed score
+{'newuak': 55, 'electriccaviarracers': -346, 'agentsouth': 291}
+accumulated score
+{'newuak': 1843, 'electriccaviarracers': -3515, 'agentsouth': 1672}
+

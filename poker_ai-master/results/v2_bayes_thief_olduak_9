@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes thief olduak
+
+Seed: 0
+starting position: bayes thief olduak
+SCORE:507|-240|-267:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:683|-480|-203:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:2|261|-263:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:71|-426|355:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-48|-399|447:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-78|208|-130:olduak|bayes|thief
+
+seed score
+{'bayes': 2461, 'thief': -899, 'olduak': -1562}
+accumulated score
+{'bayes': 2461, 'thief': -899, 'olduak': -1562}
+
+Seed: 1
+starting position: bayes thief olduak
+SCORE:279|-100|-179:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:364|-259|-105:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-296|470|-174:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-226|-250|476:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-373|-211|584:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-341|338|3:olduak|bayes|thief
+
+seed score
+{'bayes': 2511, 'thief': -935, 'olduak': -1576}
+accumulated score
+{'bayes': 4972, 'thief': -1834, 'olduak': -3138}
+
+Seed: 2
+starting position: bayes thief olduak
+SCORE:247|52|-299:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:358|-99|-259:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-372|671|-299:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-235|-121|356:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-357|-43|400:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-272|521|-249:olduak|bayes|thief
+
+seed score
+{'bayes': 2553, 'thief': -1106, 'olduak': -1447}
+accumulated score
+{'bayes': 7525, 'thief': -2940, 'olduak': -4585}
+
+Seed: 3
+starting position: bayes thief olduak
+SCORE:449|-166|-283:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:594|-308|-286:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-60|412|-352:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-59|-292|351:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-196|-228|424:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-155|317|-162:olduak|bayes|thief
+
+seed score
+{'bayes': 2547, 'thief': -961, 'olduak': -1586}
+accumulated score
+{'bayes': 10072, 'thief': -3901, 'olduak': -6171}
+
+Seed: 4
+starting position: bayes thief olduak
+SCORE:427|-169|-258:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:538|-293|-245:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-185|449|-264:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-93|-220|313:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-206|-209|415:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-208|378|-170:olduak|bayes|thief
+
+seed score
+{'bayes': 2520, 'thief': -1071, 'olduak': -1449}
+accumulated score
+{'bayes': 12592, 'thief': -4972, 'olduak': -7620}
+
+Seed: 5
+starting position: bayes thief olduak
+SCORE:434|-126|-308:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:537|-342|-195:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-163|446|-283:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-32|-303|335:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-246|-215|461:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-169|289|-120:olduak|bayes|thief
+
+seed score
+{'bayes': 2502, 'thief': -851, 'olduak': -1651}
+accumulated score
+{'bayes': 15094, 'thief': -5823, 'olduak': -9271}
+
+Seed: 6
+starting position: bayes thief olduak
+SCORE:178|-106|-72:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:266|-245|-21:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-419|544|-125:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-293|-251|544:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-457|-158|615:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-372|403|-31:olduak|bayes|thief
+
+seed score
+{'bayes': 2550, 'thief': -1028, 'olduak': -1522}
+accumulated score
+{'bayes': 17644, 'thief': -6851, 'olduak': -10793}
+
+Seed: 7
+starting position: bayes thief olduak
+SCORE:390|-196|-194:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:513|-331|-182:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-153|399|-246:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-115|-318|433:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-288|-173|461:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-217|286|-69:olduak|bayes|thief
+
+seed score
+{'bayes': 2482, 'thief': -888, 'olduak': -1594}
+accumulated score
+{'bayes': 20126, 'thief': -7739, 'olduak': -12387}
+
+Seed: 8
+starting position: bayes thief olduak
+SCORE:550|-352|-198:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:650|-546|-104:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-22|190|-168:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:14|-426|412:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-85|-481|566:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-97|120|-23:olduak|bayes|thief
+
+seed score
+{'bayes': 2488, 'thief': -968, 'olduak': -1520}
+accumulated score
+{'bayes': 22614, 'thief': -8707, 'olduak': -13907}
+
+Seed: 9
+starting position: bayes thief olduak
+SCORE:428|-188|-240:bayes|thief|olduak
+starting position: bayes olduak thief
+SCORE:506|-243|-263:bayes|olduak|thief
+starting position: thief bayes olduak
+SCORE:-188|398|-210:thief|bayes|olduak
+starting position: thief olduak bayes
+SCORE:-85|-269|354:thief|olduak|bayes
+starting position: olduak thief bayes
+SCORE:-164|-292|456:olduak|thief|bayes
+starting position: olduak bayes thief
+SCORE:-202|317|-115:olduak|bayes|thief
+
+seed score
+{'bayes': 2459, 'thief': -1131, 'olduak': -1328}
+accumulated score
+{'bayes': 25073, 'thief': -9838, 'olduak': -15235}
+

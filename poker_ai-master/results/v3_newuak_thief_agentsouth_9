@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak thief agentsouth
+
+Seed: 0
+starting position: newuak thief agentsouth
+SCORE:295|-261|-34:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:156|-222|66:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:189|-177|-12:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:144|-246|102:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:166|-164|-2:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:123|23|-146:agentsouth|newuak|thief
+
+seed score
+{'newuak': 397, 'thief': -172, 'agentsouth': -225}
+accumulated score
+{'newuak': 397, 'thief': -172, 'agentsouth': -225}
+
+Seed: 1
+starting position: newuak thief agentsouth
+SCORE:57|-159|102:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:-118|30|88:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:-195|59|136:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-315|32|283:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:-124|49|75:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:-152|146|6:agentsouth|newuak|thief
+
+seed score
+{'newuak': 502, 'thief': -526, 'agentsouth': 24}
+accumulated score
+{'newuak': 899, 'thief': -698, 'agentsouth': -201}
+
+Seed: 2
+starting position: newuak thief agentsouth
+SCORE:48|4|-52:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:-138|169|-31:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:-178|138|40:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-215|120|95:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:-63|96|-33:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:-106|332|-226:agentsouth|newuak|thief
+
+seed score
+{'newuak': 442, 'thief': -550, 'agentsouth': 108}
+accumulated score
+{'newuak': 1341, 'thief': -1248, 'agentsouth': -93}
+
+Seed: 3
+starting position: newuak thief agentsouth
+SCORE:302|-222|-80:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:87|-81|-6:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:52|-59|7:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-75|-97|172:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:145|-67|-78:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:72|146|-218:agentsouth|newuak|thief
+
+seed score
+{'newuak': 570, 'thief': -536, 'agentsouth': -34}
+accumulated score
+{'newuak': 1911, 'thief': -1784, 'agentsouth': -127}
+
+Seed: 4
+starting position: newuak thief agentsouth
+SCORE:205|-120|-85:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:5|-27|22:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:38|-15|-23:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-55|-50|105:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:-22|50|-28:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:3|193|-196:agentsouth|newuak|thief
+
+seed score
+{'newuak': 465, 'thief': -261, 'agentsouth': -204}
+accumulated score
+{'newuak': 2376, 'thief': -2045, 'agentsouth': -331}
+
+Seed: 5
+starting position: newuak thief agentsouth
+SCORE:269|-310|41:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:8|-88|80:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:-50|-13|63:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-138|-29|167:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:49|-43|-6:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:102|115|-217:agentsouth|newuak|thief
+
+seed score
+{'newuak': 540, 'thief': -678, 'agentsouth': 138}
+accumulated score
+{'newuak': 2916, 'thief': -2723, 'agentsouth': -193}
+
+Seed: 6
+starting position: newuak thief agentsouth
+SCORE:35|-171|136:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:-153|76|77:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:-135|-34|169:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-410|20|390:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:-75|-62|137:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:-144|155|-11:agentsouth|newuak|thief
+
+seed score
+{'newuak': 530, 'thief': -712, 'agentsouth': 182}
+accumulated score
+{'newuak': 3446, 'thief': -3435, 'agentsouth': -11}
+
+Seed: 7
+starting position: newuak thief agentsouth
+SCORE:148|-139|-9:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:-69|-99|168:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:124|-104|-20:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-124|-124|248:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:8|3|-11:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:4|56|-60:agentsouth|newuak|thief
+
+seed score
+{'newuak': 268, 'thief': -28, 'agentsouth': -240}
+accumulated score
+{'newuak': 3714, 'thief': -3463, 'agentsouth': -251}
+
+Seed: 8
+starting position: newuak thief agentsouth
+SCORE:374|-382|8:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:119|-100|-19:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:100|-163|63:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-27|-172|199:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:198|-238|40:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:144|30|-174:agentsouth|newuak|thief
+
+seed score
+{'newuak': 599, 'thief': -740, 'agentsouth': 141}
+accumulated score
+{'newuak': 4313, 'thief': -4203, 'agentsouth': -110}
+
+Seed: 9
+starting position: newuak thief agentsouth
+SCORE:235|-202|-33:newuak|thief|agentsouth
+starting position: newuak agentsouth thief
+SCORE:-13|-18|31:newuak|agentsouth|thief
+starting position: thief newuak agentsouth
+SCORE:-14|-9|23:thief|newuak|agentsouth
+starting position: thief agentsouth newuak
+SCORE:-112|-51|163:thief|agentsouth|newuak
+starting position: agentsouth thief newuak
+SCORE:57|-91|34:agentsouth|thief|newuak
+starting position: agentsouth newuak thief
+SCORE:8|151|-159:agentsouth|newuak|thief
+
+seed score
+{'newuak': 561, 'thief': -547, 'agentsouth': -14}
+accumulated score
+{'newuak': 4874, 'thief': -4750, 'agentsouth': -124}
+

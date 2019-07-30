@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief agentsouth juan
+
+Seed: 0
+starting position: thief agentsouth juan
+SCORE:145|-174|29:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:124|-112|-12:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:142|-213|71:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:245|-163|-82:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:211|-170|-41:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:178|-175|-3:juan|thief|agentsouth
+
+seed score
+{'thief': -242, 'agentsouth': 28, 'juan': 214}
+accumulated score
+{'thief': -242, 'agentsouth': 28, 'juan': 214}
+
+Seed: 1
+starting position: thief agentsouth juan
+SCORE:-200|111|89:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:-209|112|97:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:-56|-95|151:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:-9|2|7:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:10|45|-55:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:-87|-69|156:juan|thief|agentsouth
+
+seed score
+{'thief': -621, 'agentsouth': 344, 'juan': 277}
+accumulated score
+{'thief': -863, 'agentsouth': 372, 'juan': 491}
+
+Seed: 2
+starting position: thief agentsouth juan
+SCORE:-254|231|23:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:-285|254|31:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:-79|63|16:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:12|133|-145:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:-42|194|-152:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:-71|15|56:juan|thief|agentsouth
+
+seed score
+{'thief': -758, 'agentsouth': 445, 'juan': 313}
+accumulated score
+{'thief': -1621, 'agentsouth': 817, 'juan': 804}
+
+Seed: 3
+starting position: thief agentsouth juan
+SCORE:4|6|-10:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:99|-72|-27:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:62|-104|42:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:123|-59|-64:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:129|-77|-52:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:77|-123|46:juan|thief|agentsouth
+
+seed score
+{'thief': -240, 'agentsouth': 133, 'juan': 107}
+accumulated score
+{'thief': -1861, 'agentsouth': 950, 'juan': 911}
+
+Seed: 4
+starting position: thief agentsouth juan
+SCORE:1|13|-14:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:21|1|-22:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:45|-122|77:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:107|103|-210:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:99|-18|-81:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:20|-50|30:juan|thief|agentsouth
+
+seed score
+{'thief': -441, 'agentsouth': 155, 'juan': 286}
+accumulated score
+{'thief': -2302, 'agentsouth': 1105, 'juan': 1197}
+
+Seed: 5
+starting position: thief agentsouth juan
+SCORE:-106|61|45:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:-93|67|26:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:22|-114|92:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:108|11|-119:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:131|-50|-81:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:-37|-82|119:juan|thief|agentsouth
+
+seed score
+{'thief': -595, 'agentsouth': 286, 'juan': 309}
+accumulated score
+{'thief': -2897, 'agentsouth': 1391, 'juan': 1506}
+
+Seed: 6
+starting position: thief agentsouth juan
+SCORE:-262|90|172:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:-350|148|202:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:-107|-134|241:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:-75|57|18:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:-64|72|-8:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:-88|-140|228:juan|thief|agentsouth
+
+seed score
+{'thief': -876, 'agentsouth': 410, 'juan': 466}
+accumulated score
+{'thief': -3773, 'agentsouth': 1801, 'juan': 1972}
+
+Seed: 7
+starting position: thief agentsouth juan
+SCORE:15|-74|59:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:-18|-25|43:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:-61|-33|94:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:-12|-52|64:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:87|-72|-15:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:52|-117|65:juan|thief|agentsouth
+
+seed score
+{'thief': -104, 'agentsouth': -111, 'juan': 215}
+accumulated score
+{'thief': -3877, 'agentsouth': 1690, 'juan': 2187}
+
+Seed: 8
+starting position: thief agentsouth juan
+SCORE:83|-84|1:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:-12|-64|76:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:183|-392|209:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:301|-180|-121:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:276|-48|-228:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:222|-334|112:juan|thief|agentsouth
+
+seed score
+{'thief': -1004, 'agentsouth': 540, 'juan': 464}
+accumulated score
+{'thief': -4881, 'agentsouth': 2230, 'juan': 2651}
+
+Seed: 9
+starting position: thief agentsouth juan
+SCORE:-85|57|28:thief|agentsouth|juan
+starting position: thief juan agentsouth
+SCORE:-60|14|46:thief|juan|agentsouth
+starting position: agentsouth thief juan
+SCORE:82|-130|48:agentsouth|thief|juan
+starting position: agentsouth juan thief
+SCORE:127|-38|-89:agentsouth|juan|thief
+starting position: juan agentsouth thief
+SCORE:161|-1|-160:juan|agentsouth|thief
+starting position: juan thief agentsouth
+SCORE:82|-161|79:juan|thief|agentsouth
+
+seed score
+{'thief': -685, 'agentsouth': 390, 'juan': 295}
+accumulated score
+{'thief': -5566, 'agentsouth': 2620, 'juan': 2946}
+

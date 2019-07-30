@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin kuhnshark efs
+
+Seed: 0
+starting position: kevin kuhnshark efs
+SCORE:-61|211|-150:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-579|27|552:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:819|-992|173:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:585|-297|-288:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:422|381|-803:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:114|-537|423:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3260, 'kuhnshark': 2971, 'efs': 289}
+accumulated score
+{'kevin': -3260, 'kuhnshark': 2971, 'efs': 289}
+
+Seed: 1
+starting position: kevin kuhnshark efs
+SCORE:-484|455|29:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-917|204|713:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:477|-814|337:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:339|-112|-227:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:77|594|-671:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:-243|-328|571:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3441, 'kuhnshark': 3149, 'efs': 292}
+accumulated score
+{'kevin': -6701, 'kuhnshark': 6120, 'efs': 581}
+
+Seed: 2
+starting position: kevin kuhnshark efs
+SCORE:-405|598|-193:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-905|425|480:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:469|-610|141:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:292|95|-387:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:55|737|-792:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:-272|-84|356:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3183, 'kuhnshark': 2932, 'efs': 251}
+accumulated score
+{'kevin': -9884, 'kuhnshark': 9052, 'efs': 832}
+
+Seed: 3
+starting position: kevin kuhnshark efs
+SCORE:-193|354|-161:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-729|145|584:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:731|-875|144:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:548|-186|-362:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:352|570|-922:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:35|-431|396:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3512, 'kuhnshark': 3183, 'efs': 329}
+accumulated score
+{'kevin': -13396, 'kuhnshark': 12235, 'efs': 1161}
+
+Seed: 4
+starting position: kevin kuhnshark efs
+SCORE:-198|386|-188:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-821|229|592:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:610|-727|117:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:421|-84|-337:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:306|534|-840:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:0|-430|430:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3353, 'kuhnshark': 2973, 'efs': 380}
+accumulated score
+{'kevin': -16749, 'kuhnshark': 15208, 'efs': 1541}
+
+Seed: 5
+starting position: kevin kuhnshark efs
+SCORE:-229|306|-77:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-814|152|662:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:684|-902|218:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:461|-184|-277:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:242|559|-801:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:-94|-424|518:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3447, 'kuhnshark': 3190, 'efs': 257}
+accumulated score
+{'kevin': -20196, 'kuhnshark': 18398, 'efs': 1798}
+
+Seed: 6
+starting position: kevin kuhnshark efs
+SCORE:-464|410|54:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-1043|254|789:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:375|-713|338:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:330|-82|-248:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:19|536|-555:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:-307|-352|659:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3375, 'kuhnshark': 3099, 'efs': 276}
+accumulated score
+{'kevin': -23571, 'kuhnshark': 21497, 'efs': 2074}
+
+Seed: 7
+starting position: kevin kuhnshark efs
+SCORE:-177|300|-123:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-687|154|533:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:534|-754|220:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:331|-152|-179:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:266|520|-786:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:-45|-359|404:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -2942, 'kuhnshark': 2622, 'efs': 320}
+accumulated score
+{'kevin': -26513, 'kuhnshark': 24119, 'efs': 2394}
+
+Seed: 8
+starting position: kevin kuhnshark efs
+SCORE:-249|327|-78:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-657|-64|721:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:795|-1039|244:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:713|-390|-323:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:407|417|-824:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:102|-621|519:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3713, 'kuhnshark': 3492, 'efs': 221}
+accumulated score
+{'kevin': -30226, 'kuhnshark': 27611, 'efs': 2615}
+
+Seed: 9
+starting position: kevin kuhnshark efs
+SCORE:-353|416|-63:kevin|kuhnshark|efs
+starting position: kevin efs kuhnshark
+SCORE:-730|118|612:kevin|efs|kuhnshark
+starting position: kuhnshark kevin efs
+SCORE:663|-891|228:kuhnshark|kevin|efs
+starting position: kuhnshark efs kevin
+SCORE:471|-188|-283:kuhnshark|efs|kevin
+starting position: efs kuhnshark kevin
+SCORE:267|615|-882:efs|kuhnshark|kevin
+starting position: efs kevin kuhnshark
+SCORE:-50|-363|413:efs|kevin|kuhnshark
+
+seed score
+{'kevin': -3502, 'kuhnshark': 3190, 'efs': 312}
+accumulated score
+{'kevin': -33728, 'kuhnshark': 30801, 'efs': 2927}
+

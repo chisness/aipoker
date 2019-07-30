@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes electriccaviarracers olduak
+
+Seed: 0
+starting position: bayes electriccaviarracers olduak
+SCORE:431|-69|-362:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:264|-506|242:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:365|-66|-299:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:292|-564|272:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-135|19|116:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-182|68|114:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 1085, 'electriccaviarracers': 963, 'olduak': -2048}
+accumulated score
+{'bayes': 1085, 'electriccaviarracers': 963, 'olduak': -2048}
+
+Seed: 1
+starting position: bayes electriccaviarracers olduak
+SCORE:130|50|-180:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:11|-279|268:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:83|140|-223:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:5|-366|361:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-361|173|188:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-389|194|195:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 1024, 'electriccaviarracers': 774, 'olduak': -1798}
+accumulated score
+{'bayes': 2109, 'electriccaviarracers': 1737, 'olduak': -3846}
+
+Seed: 2
+starting position: bayes electriccaviarracers olduak
+SCORE:141|228|-369:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:40|-205|165:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:72|319|-391:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:42|-197|155:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-420|394|26:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-464|369|95:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 1050, 'electriccaviarracers': 996, 'olduak': -2046}
+accumulated score
+{'bayes': 3159, 'electriccaviarracers': 2733, 'olduak': -5892}
+
+Seed: 3
+starting position: bayes electriccaviarracers olduak
+SCORE:328|70|-398:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:173|-387|214:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:358|29|-387:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:187|-414|227:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-246|157|89:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-213|183|30:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 1029, 'electriccaviarracers': 1016, 'olduak': -2045}
+accumulated score
+{'bayes': 4188, 'electriccaviarracers': 3749, 'olduak': -7937}
+
+Seed: 4
+starting position: bayes electriccaviarracers olduak
+SCORE:310|72|-382:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:202|-325|123:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:200|142|-342:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:145|-291|146:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-239|210|29:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-275|267|8:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 1096, 'electriccaviarracers': 758, 'olduak': -1854}
+accumulated score
+{'bayes': 5284, 'electriccaviarracers': 4507, 'olduak': -9791}
+
+Seed: 5
+starting position: bayes electriccaviarracers olduak
+SCORE:291|97|-388:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:114|-349|235:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:228|59|-287:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:127|-306|179:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-246|130|116:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-247|167|80:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 926, 'electriccaviarracers': 897, 'olduak': -1823}
+accumulated score
+{'bayes': 6210, 'electriccaviarracers': 5404, 'olduak': -11614}
+
+Seed: 6
+starting position: bayes electriccaviarracers olduak
+SCORE:89|95|-184:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:-78|-251|329:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:68|118|-186:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:-48|-307|355:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-463|250|213:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-480|262|218:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 959, 'electriccaviarracers': 912, 'olduak': -1871}
+accumulated score
+{'bayes': 7169, 'electriccaviarracers': 6316, 'olduak': -13485}
+
+Seed: 7
+starting position: bayes electriccaviarracers olduak
+SCORE:266|33|-299:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:146|-375|229:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:202|95|-297:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:124|-405|281:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-267|180|87:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-310|172|138:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 1047, 'electriccaviarracers': 906, 'olduak': -1953}
+accumulated score
+{'bayes': 8216, 'electriccaviarracers': 7222, 'olduak': -15438}
+
+Seed: 8
+starting position: bayes electriccaviarracers olduak
+SCORE:383|-68|-315:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:255|-500|245:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:390|-102|-288:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:279|-528|249:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-189|41|148:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-146|10|136:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 943, 'electriccaviarracers': 1023, 'olduak': -1966}
+accumulated score
+{'bayes': 9159, 'electriccaviarracers': 8245, 'olduak': -17404}
+
+Seed: 9
+starting position: bayes electriccaviarracers olduak
+SCORE:281|66|-347:bayes|electriccaviarracers|olduak
+starting position: bayes olduak electriccaviarracers
+SCORE:161|-393|232:bayes|olduak|electriccaviarracers
+starting position: electriccaviarracers bayes olduak
+SCORE:243|49|-292:electriccaviarracers|bayes|olduak
+starting position: electriccaviarracers olduak bayes
+SCORE:133|-398|265:electriccaviarracers|olduak|bayes
+starting position: olduak electriccaviarracers bayes
+SCORE:-220|124|96:olduak|electriccaviarracers|bayes
+starting position: olduak bayes electriccaviarracers
+SCORE:-313|183|130:olduak|bayes|electriccaviarracers
+
+seed score
+{'bayes': 1035, 'electriccaviarracers': 928, 'olduak': -1963}
+accumulated score
+{'bayes': 10194, 'electriccaviarracers': 9173, 'olduak': -19367}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak thief efs
+
+Seed: 0
+starting position: newuak thief efs
+SCORE:574|-527|-47:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:555|-400|-155:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:63|157|-220:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-131|-235|366:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:12|-328|316:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:175|161|-336:efs|newuak|thief
+
+seed score
+{'newuak': 2129, 'thief': -1414, 'efs': -715}
+accumulated score
+{'newuak': 2129, 'thief': -1414, 'efs': -715}
+
+Seed: 1
+starting position: newuak thief efs
+SCORE:243|-312|69:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:256|-193|-63:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-282|391|-109:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-337|-103|440:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-311|-197|508:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:-215|374|-159:efs|newuak|thief
+
+seed score
+{'newuak': 2212, 'thief': -1350, 'efs': -862}
+accumulated score
+{'newuak': 4341, 'thief': -2764, 'efs': -1577}
+
+Seed: 2
+starting position: newuak thief efs
+SCORE:276|-164|-112:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:249|-14|-235:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-302|572|-270:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-476|100|376:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-367|31|336:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:-117|487|-370:efs|newuak|thief
+
+seed score
+{'newuak': 2296, 'thief': -1516, 'efs': -780}
+accumulated score
+{'newuak': 6637, 'thief': -4280, 'efs': -2357}
+
+Seed: 3
+starting position: newuak thief efs
+SCORE:430|-353|-77:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:469|-292|-177:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-24|310|-286:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-197|-178|375:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-121|-230|351:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:23|331|-354:efs|newuak|thief
+
+seed score
+{'newuak': 2266, 'thief': -1335, 'efs': -931}
+accumulated score
+{'newuak': 8903, 'thief': -5615, 'efs': -3288}
+
+Seed: 4
+starting position: newuak thief efs
+SCORE:423|-310|-113:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:357|-150|-207:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-88|379|-291:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-271|-56|327:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-97|-188|285:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:33|349|-382:efs|newuak|thief
+
+seed score
+{'newuak': 2120, 'thief': -1446, 'efs': -674}
+accumulated score
+{'newuak': 11023, 'thief': -7061, 'efs': -3962}
+
+Seed: 5
+starting position: newuak thief efs
+SCORE:488|-410|-78:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:386|-251|-135:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-114|329|-215:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-292|-183|475:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-184|-223|407:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:22|310|-332:efs|newuak|thief
+
+seed score
+{'newuak': 2395, 'thief': -1506, 'efs': -889}
+accumulated score
+{'newuak': 13418, 'thief': -8567, 'efs': -4851}
+
+Seed: 6
+starting position: newuak thief efs
+SCORE:206|-296|90:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:210|-174|-36:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-380|403|-23:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-552|-58|610:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-401|-101|502:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:-134|302|-168:efs|newuak|thief
+
+seed score
+{'newuak': 2233, 'thief': -1533, 'efs': -700}
+accumulated score
+{'newuak': 15651, 'thief': -10100, 'efs': -5551}
+
+Seed: 7
+starting position: newuak thief efs
+SCORE:307|-355|48:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:305|-178|-127:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-68|288|-220:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-314|-35|349:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-140|-257|397:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:-2|310|-308:efs|newuak|thief
+
+seed score
+{'newuak': 1956, 'thief': -1429, 'efs': -527}
+accumulated score
+{'newuak': 17607, 'thief': -11529, 'efs': -6078}
+
+Seed: 8
+starting position: newuak thief efs
+SCORE:536|-550|14:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:568|-432|-136:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-49|237|-188:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-128|-326|454:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-46|-402|448:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:114|212|-326:efs|newuak|thief
+
+seed score
+{'newuak': 2455, 'thief': -1591, 'efs': -864}
+accumulated score
+{'newuak': 20062, 'thief': -13120, 'efs': -6942}
+
+Seed: 9
+starting position: newuak thief efs
+SCORE:507|-441|-66:newuak|thief|efs
+starting position: newuak efs thief
+SCORE:425|-300|-125:newuak|efs|thief
+starting position: thief newuak efs
+SCORE:-144|337|-193:thief|newuak|efs
+starting position: thief efs newuak
+SCORE:-285|-94|379:thief|efs|newuak
+starting position: efs thief newuak
+SCORE:-114|-229|343:efs|thief|newuak
+starting position: efs newuak thief
+SCORE:-26|361|-335:efs|newuak|thief
+
+seed score
+{'newuak': 2352, 'thief': -1559, 'efs': -793}
+accumulated score
+{'newuak': 22414, 'thief': -14679, 'efs': -7735}
+

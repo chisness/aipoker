@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak bayes agentsouth
+
+Seed: 0
+starting position: newuak bayes agentsouth
+SCORE:316|-400|84:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:389|-78|-311:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-133|23|110:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-71|-62|133:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:237|-440|203:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:264|7|-271:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1071, 'bayes': -1626, 'agentsouth': 555}
+accumulated score
+{'newuak': 1071, 'bayes': -1626, 'agentsouth': 555}
+
+Seed: 1
+starting position: newuak bayes agentsouth
+SCORE:26|-223|197:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:126|63|-189:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-389|229|160:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-368|167|201:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:45|-314|269:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:21|128|-149:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 979, 'bayes': -1632, 'agentsouth': 653}
+accumulated score
+{'newuak': 2050, 'bayes': -3258, 'agentsouth': 1208}
+
+Seed: 2
+starting position: newuak bayes agentsouth
+SCORE:39|-111|72:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:97|226|-323:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-386|377|9:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-333|247|86:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:-14|-158|172:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:15|283|-298:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1054, 'bayes': -1609, 'agentsouth': 555}
+accumulated score
+{'newuak': 3104, 'bayes': -4867, 'agentsouth': 1763}
+
+Seed: 3
+starting position: newuak bayes agentsouth
+SCORE:244|-305|61:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:290|36|-326:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-199|179|20:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-150|72|78:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:138|-328|190:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:184|76|-260:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1057, 'bayes': -1568, 'agentsouth': 511}
+accumulated score
+{'newuak': 4161, 'bayes': -6435, 'agentsouth': 2274}
+
+Seed: 4
+starting position: newuak bayes agentsouth
+SCORE:188|-223|35:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:269|76|-345:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-235|183|52:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-183|97|86:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:116|-272|156:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:119|160|-279:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1042, 'bayes': -1537, 'agentsouth': 495}
+accumulated score
+{'newuak': 5203, 'bayes': -7972, 'agentsouth': 2769}
+
+Seed: 5
+starting position: newuak bayes agentsouth
+SCORE:139|-253|114:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:272|67|-339:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-251|193|58:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-189|86|103:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:142|-329|187:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:196|72|-268:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 966, 'bayes': -1629, 'agentsouth': 663}
+accumulated score
+{'newuak': 6169, 'bayes': -9601, 'agentsouth': 3432}
+
+Seed: 6
+starting position: newuak bayes agentsouth
+SCORE:-23|-186|209:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:43|131|-174:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-438|215|223:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-396|101|295:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:-62|-261|323:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:-47|195|-148:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1048, 'bayes': -1603, 'agentsouth': 555}
+accumulated score
+{'newuak': 7217, 'bayes': -11204, 'agentsouth': 3987}
+
+Seed: 7
+starting position: newuak bayes agentsouth
+SCORE:174|-286|112:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:252|13|-265:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-268|135|133:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-193|24|169:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:145|-345|200:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:101|120|-221:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1050, 'bayes': -1578, 'agentsouth': 528}
+accumulated score
+{'newuak': 8267, 'bayes': -12782, 'agentsouth': 4515}
+
+Seed: 8
+starting position: newuak bayes agentsouth
+SCORE:325|-472|147:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:334|-59|-275:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-141|7|134:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-105|-21|126:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:261|-500|239:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:236|-28|-208:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1003, 'bayes': -1701, 'agentsouth': 698}
+accumulated score
+{'newuak': 9270, 'bayes': -14483, 'agentsouth': 5213}
+
+Seed: 9
+starting position: newuak bayes agentsouth
+SCORE:189|-304|115:newuak|bayes|agentsouth
+starting position: newuak agentsouth bayes
+SCORE:286|19|-305:newuak|agentsouth|bayes
+starting position: bayes newuak agentsouth
+SCORE:-253|177|76:bayes|newuak|agentsouth
+starting position: bayes agentsouth newuak
+SCORE:-169|78|91:bayes|agentsouth|newuak
+starting position: agentsouth bayes newuak
+SCORE:142|-368|226:agentsouth|bayes|newuak
+starting position: agentsouth newuak bayes
+SCORE:172|68|-240:agentsouth|newuak|bayes
+
+seed score
+{'newuak': 1037, 'bayes': -1639, 'agentsouth': 602}
+accumulated score
+{'newuak': 10307, 'bayes': -16122, 'agentsouth': 5815}
+

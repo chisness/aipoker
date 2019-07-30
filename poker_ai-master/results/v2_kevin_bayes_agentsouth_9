@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin bayes agentsouth
+
+Seed: 0
+starting position: kevin bayes agentsouth
+SCORE:-330|305|25:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-261|-188|449:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:624|-598|-26:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:693|-107|-586:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:189|236|-425:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:263|-726|463:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -2926, 'bayes': 2770, 'agentsouth': 156}
+accumulated score
+{'kevin': -2926, 'bayes': 2770, 'agentsouth': 156}
+
+Seed: 1
+starting position: kevin bayes agentsouth
+SCORE:-684|481|203:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-612|74|538:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:329|-409|80:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:342|166|-508:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:-39|421|-382:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:-3|-582|585:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -3177, 'bayes': 2696, 'agentsouth': 481}
+accumulated score
+{'kevin': -6103, 'bayes': 5466, 'agentsouth': 637}
+
+Seed: 2
+starting position: kevin bayes agentsouth
+SCORE:-705|668|37:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-546|140|406:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:326|-274|-52:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:342|189|-531:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:-76|627|-551:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:-13|-400|413:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -3007, 'bayes': 2782, 'agentsouth': 225}
+accumulated score
+{'kevin': -9110, 'bayes': 8248, 'agentsouth': 862}
+
+Seed: 3
+starting position: kevin bayes agentsouth
+SCORE:-487|409|78:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-333|-96|429:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:545|-581|36:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:580|46|-626:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:108|390|-498:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:161|-602|441:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -3127, 'bayes': 2794, 'agentsouth': 333}
+accumulated score
+{'kevin': -12237, 'bayes': 11042, 'agentsouth': 1195}
+
+Seed: 4
+starting position: kevin bayes agentsouth
+SCORE:-542|498|44:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-325|-55|380:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:519|-533|14:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:557|33|-590:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:6|467|-473:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:12|-435|423:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -2898, 'bayes': 2844, 'agentsouth': 54}
+accumulated score
+{'kevin': -15135, 'bayes': 13886, 'agentsouth': 1249}
+
+Seed: 5
+starting position: kevin bayes agentsouth
+SCORE:-580|435|145:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-350|-83|433:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:469|-562|93:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:521|1|-522:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:87|411|-498:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:100|-574|474:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -3086, 'bayes': 2743, 'agentsouth': 343}
+accumulated score
+{'kevin': -18221, 'bayes': 16629, 'agentsouth': 1592}
+
+Seed: 6
+starting position: kevin bayes agentsouth
+SCORE:-849|539|310:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-568|-30|598:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:264|-464|200:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:257|33|-290:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:-50|471|-421:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:-55|-536|591:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -3128, 'bayes': 2720, 'agentsouth': 408}
+accumulated score
+{'kevin': -21349, 'bayes': 19349, 'agentsouth': 2000}
+
+Seed: 7
+starting position: kevin bayes agentsouth
+SCORE:-481|415|66:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-397|-70|467:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:505|-505|0:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:532|0|-532:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:-41|384|-343:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:-48|-467|515:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -2725, 'bayes': 2818, 'agentsouth': -93}
+accumulated score
+{'kevin': -24074, 'bayes': 22167, 'agentsouth': 1907}
+
+Seed: 8
+starting position: kevin bayes agentsouth
+SCORE:-325|205|120:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-389|-76|465:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:632|-701|69:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:670|-54|-616:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:204|206|-410:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:262|-773|511:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -3214, 'bayes': 2689, 'agentsouth': 525}
+accumulated score
+{'kevin': -27288, 'bayes': 24856, 'agentsouth': 2432}
+
+Seed: 9
+starting position: kevin bayes agentsouth
+SCORE:-517|431|86:kevin|bayes|agentsouth
+starting position: kevin agentsouth bayes
+SCORE:-458|23|435:kevin|agentsouth|bayes
+starting position: bayes kevin agentsouth
+SCORE:486|-467|-19:bayes|kevin|agentsouth
+starting position: bayes agentsouth kevin
+SCORE:517|87|-604:bayes|agentsouth|kevin
+starting position: agentsouth bayes kevin
+SCORE:85|347|-432:agentsouth|bayes|kevin
+starting position: agentsouth kevin bayes
+SCORE:171|-618|447:agentsouth|kevin|bayes
+
+seed score
+{'kevin': -3096, 'bayes': 2663, 'agentsouth': 433}
+accumulated score
+{'kevin': -30384, 'bayes': 27519, 'agentsouth': 2865}
+

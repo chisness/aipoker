@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te juan
+
+Seed: 0
+starting position: newuak te juan
+SCORE:192|-283|91:newuak|te|juan
+starting position: newuak juan te
+SCORE:290|-97|-193:newuak|juan|te
+starting position: te newuak juan
+SCORE:-22|4|18:te|newuak|juan
+starting position: te juan newuak
+SCORE:34|-36|2:te|juan|newuak
+starting position: juan te newuak
+SCORE:210|-357|147:juan|te|newuak
+starting position: juan newuak te
+SCORE:216|-62|-154:juan|newuak|te
+
+seed score
+{'newuak': 573, 'te': -975, 'juan': 402}
+accumulated score
+{'newuak': 573, 'te': -975, 'juan': 402}
+
+Seed: 1
+starting position: newuak te juan
+SCORE:-37|-106|143:newuak|te|juan
+starting position: newuak juan te
+SCORE:60|62|-122:newuak|juan|te
+starting position: te newuak juan
+SCORE:-300|201|99:te|newuak|juan
+starting position: te juan newuak
+SCORE:-219|114|105:te|juan|newuak
+starting position: juan te newuak
+SCORE:-23|-200|223:juan|te|newuak
+starting position: juan newuak te
+SCORE:-99|141|-42:juan|newuak|te
+
+seed score
+{'newuak': 693, 'te': -989, 'juan': 296}
+accumulated score
+{'newuak': 1266, 'te': -1964, 'juan': 698}
+
+Seed: 2
+starting position: newuak te juan
+SCORE:-40|24|16:newuak|te|juan
+starting position: newuak juan te
+SCORE:3|253|-256:newuak|juan|te
+starting position: te newuak juan
+SCORE:-268|233|35:te|newuak|juan
+starting position: te juan newuak
+SCORE:-215|235|-20:te|juan|newuak
+starting position: juan te newuak
+SCORE:-14|-68|82:juan|te|newuak
+starting position: juan newuak te
+SCORE:-29|204|-175:juan|newuak|te
+
+seed score
+{'newuak': 462, 'te': -958, 'juan': 496}
+accumulated score
+{'newuak': 1728, 'te': -2922, 'juan': 1194}
+
+Seed: 3
+starting position: newuak te juan
+SCORE:112|-151|39:newuak|te|juan
+starting position: newuak juan te
+SCORE:237|-31|-206:newuak|juan|te
+starting position: te newuak juan
+SCORE:-171|91|80:te|newuak|juan
+starting position: te juan newuak
+SCORE:-49|43|6:te|juan|newuak
+starting position: juan te newuak
+SCORE:150|-261|111:juan|te|newuak
+starting position: juan newuak te
+SCORE:171|-28|-143:juan|newuak|te
+
+seed score
+{'newuak': 529, 'te': -981, 'juan': 452}
+accumulated score
+{'newuak': 2257, 'te': -3903, 'juan': 1646}
+
+Seed: 4
+starting position: newuak te juan
+SCORE:52|-132|80:newuak|te|juan
+starting position: newuak juan te
+SCORE:189|53|-242:newuak|juan|te
+starting position: te newuak juan
+SCORE:-158|143|15:te|newuak|juan
+starting position: te juan newuak
+SCORE:-62|40|22:te|juan|newuak
+starting position: juan te newuak
+SCORE:81|-197|116:juan|te|newuak
+starting position: juan newuak te
+SCORE:163|10|-173:juan|newuak|te
+
+seed score
+{'newuak': 532, 'te': -964, 'juan': 432}
+accumulated score
+{'newuak': 2789, 'te': -4867, 'juan': 2078}
+
+Seed: 5
+starting position: newuak te juan
+SCORE:73|-130|57:newuak|te|juan
+starting position: newuak juan te
+SCORE:217|41|-258:newuak|juan|te
+starting position: te newuak juan
+SCORE:-163|106|57:te|newuak|juan
+starting position: te juan newuak
+SCORE:-37|34|3:te|juan|newuak
+starting position: juan te newuak
+SCORE:100|-233|133:juan|te|newuak
+starting position: juan newuak te
+SCORE:122|11|-133:juan|newuak|te
+
+seed score
+{'newuak': 543, 'te': -954, 'juan': 411}
+accumulated score
+{'newuak': 3332, 'te': -5821, 'juan': 2489}
+
+Seed: 6
+starting position: newuak te juan
+SCORE:-64|-68|132:newuak|te|juan
+starting position: newuak juan te
+SCORE:20|88|-108:newuak|juan|te
+starting position: te newuak juan
+SCORE:-331|156|175:te|newuak|juan
+starting position: te juan newuak
+SCORE:-310|156|154:te|juan|newuak
+starting position: juan te newuak
+SCORE:-112|-176|288:juan|te|newuak
+starting position: juan newuak te
+SCORE:-85|76|9:juan|newuak|te
+
+seed score
+{'newuak': 630, 'te': -984, 'juan': 354}
+accumulated score
+{'newuak': 3962, 'te': -6805, 'juan': 2843}
+
+Seed: 7
+starting position: newuak te juan
+SCORE:55|-150|95:newuak|te|juan
+starting position: newuak juan te
+SCORE:172|21|-193:newuak|juan|te
+starting position: te newuak juan
+SCORE:-171|116|55:te|newuak|juan
+starting position: te juan newuak
+SCORE:-70|57|13:te|juan|newuak
+starting position: juan te newuak
+SCORE:76|-237|161:juan|te|newuak
+starting position: juan newuak te
+SCORE:157|-37|-120:juan|newuak|te
+
+seed score
+{'newuak': 480, 'te': -941, 'juan': 461}
+accumulated score
+{'newuak': 4442, 'te': -7746, 'juan': 3304}
+
+Seed: 8
+starting position: newuak te juan
+SCORE:233|-288|55:newuak|te|juan
+starting position: newuak juan te
+SCORE:313|-147|-166:newuak|juan|te
+starting position: te newuak juan
+SCORE:-75|-75|150:te|newuak|juan
+starting position: te juan newuak
+SCORE:50|-108|58:te|juan|newuak
+starting position: juan te newuak
+SCORE:214|-382|168:juan|te|newuak
+starting position: juan newuak te
+SCORE:207|-116|-91:juan|newuak|te
+
+seed score
+{'newuak': 581, 'te': -952, 'juan': 371}
+accumulated score
+{'newuak': 5023, 'te': -8698, 'juan': 3675}
+
+Seed: 9
+starting position: newuak te juan
+SCORE:55|-155|100:newuak|te|juan
+starting position: newuak juan te
+SCORE:186|40|-226:newuak|juan|te
+starting position: te newuak juan
+SCORE:-188|124|64:te|newuak|juan
+starting position: te juan newuak
+SCORE:-57|13|44:te|juan|newuak
+starting position: juan te newuak
+SCORE:88|-278|190:juan|te|newuak
+starting position: juan newuak te
+SCORE:79|12|-91:juan|newuak|te
+
+seed score
+{'newuak': 611, 'te': -995, 'juan': 384}
+accumulated score
+{'newuak': 5634, 'te': -9693, 'juan': 4059}
+

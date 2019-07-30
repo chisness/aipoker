@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes electriccaviarracers juan
+
+Seed: 0
+starting position: bayes electriccaviarracers juan
+SCORE:70|-212|142:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-74|1|73:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:241|-406|165:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:93|7|-100:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:316|-100|-216:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:309|-238|-71:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -964, 'electriccaviarracers': 24, 'juan': 940}
+accumulated score
+{'bayes': -964, 'electriccaviarracers': 24, 'juan': 940}
+
+Seed: 1
+starting position: bayes electriccaviarracers juan
+SCORE:-195|-10|205:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-321|174|147:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:-1|-210|211:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:-131|113|18:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:66|56|-122:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:43|-75|32:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -905, 'electriccaviarracers': 93, 'juan': 812}
+accumulated score
+{'bayes': -1869, 'electriccaviarracers': 117, 'juan': 1752}
+
+Seed: 2
+starting position: bayes electriccaviarracers juan
+SCORE:-214|99|115:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-314|287|27:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:-65|-54|119:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:-132|300|-168:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:25|255|-280:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:77|54|-131:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -976, 'electriccaviarracers': 53, 'juan': 923}
+accumulated score
+{'bayes': -2845, 'electriccaviarracers': 170, 'juan': 2675}
+
+Seed: 3
+starting position: bayes electriccaviarracers juan
+SCORE:-16|-76|92:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-116|122|-6:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:173|-312|139:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:77|54|-131:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:255|19|-274:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:176|-136|-40:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -985, 'electriccaviarracers': 147, 'juan': 838}
+accumulated score
+{'bayes': -3830, 'electriccaviarracers': 317, 'juan': 3513}
+
+Seed: 4
+starting position: bayes electriccaviarracers juan
+SCORE:-16|-59|75:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-201|186|15:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:75|-230|155:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:59|92|-151:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:241|39|-280:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:141|-49|-92:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -927, 'electriccaviarracers': 37, 'juan': 890}
+accumulated score
+{'bayes': -4757, 'electriccaviarracers': 354, 'juan': 4403}
+
+Seed: 5
+starting position: bayes electriccaviarracers juan
+SCORE:-62|-95|157:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-209|157|52:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:108|-296|188:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:60|45|-105:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:250|11|-261:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:152|-131|-21:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -1064, 'electriccaviarracers': 115, 'juan': 949}
+accumulated score
+{'bayes': -5821, 'electriccaviarracers': 469, 'juan': 5352}
+
+Seed: 6
+starting position: bayes electriccaviarracers juan
+SCORE:-274|-40|314:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-420|203|217:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:-33|-173|206:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:-196|143|53:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:39|106|-145:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:9|-58|49:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -1017, 'electriccaviarracers': 103, 'juan': 914}
+accumulated score
+{'bayes': -6838, 'electriccaviarracers': 572, 'juan': 6266}
+
+Seed: 7
+starting position: bayes electriccaviarracers juan
+SCORE:-38|-110|148:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-201|155|46:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:85|-302|217:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:21|50|-71:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:206|4|-210:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:163|-142|-21:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -964, 'electriccaviarracers': 25, 'juan': 939}
+accumulated score
+{'bayes': -7802, 'electriccaviarracers': 597, 'juan': 7205}
+
+Seed: 8
+starting position: bayes electriccaviarracers juan
+SCORE:52|-192|140:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-131|12|119:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:250|-428|178:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:118|-72|-46:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:308|-79|-229:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:306|-337|31:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -1119, 'electriccaviarracers': 247, 'juan': 872}
+accumulated score
+{'bayes': -8921, 'electriccaviarracers': 844, 'juan': 8077}
+
+Seed: 9
+starting position: bayes electriccaviarracers juan
+SCORE:-28|-51|79:bayes|electriccaviarracers|juan
+starting position: bayes juan electriccaviarracers
+SCORE:-173|151|22:bayes|juan|electriccaviarracers
+starting position: electriccaviarracers bayes juan
+SCORE:131|-277|146:electriccaviarracers|bayes|juan
+starting position: electriccaviarracers juan bayes
+SCORE:19|25|-44:electriccaviarracers|juan|bayes
+starting position: juan electriccaviarracers bayes
+SCORE:203|44|-247:juan|electriccaviarracers|bayes
+starting position: juan bayes electriccaviarracers
+SCORE:133|-178|45:juan|bayes|electriccaviarracers
+
+seed score
+{'bayes': -947, 'electriccaviarracers': 210, 'juan': 737}
+accumulated score
+{'bayes': -9868, 'electriccaviarracers': 1054, 'juan': 8814}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin thief juan
+
+Seed: 0
+starting position: kevin thief juan
+SCORE:-531|105|426:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-467|374|93:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:347|-821|474:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:511|290|-801:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:745|-88|-657:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:642|-946|304:juan|kevin|thief
+
+seed score
+{'kevin': -4223, 'thief': 1272, 'juan': 2951}
+accumulated score
+{'kevin': -4223, 'thief': 1272, 'juan': 2951}
+
+Seed: 1
+starting position: kevin thief juan
+SCORE:-873|305|568:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-789|520|269:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:-28|-622|650:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:208|505|-713:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:454|156|-610:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:364|-779|415:juan|kevin|thief
+
+seed score
+{'kevin': -4386, 'thief': 1325, 'juan': 3061}
+accumulated score
+{'kevin': -8609, 'thief': 2597, 'juan': 6012}
+
+Seed: 2
+starting position: kevin thief juan
+SCORE:-994|504|490:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-841|725|116:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:-1|-481|482:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:128|612|-740:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:447|376|-823:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:405|-632|227:juan|kevin|thief
+
+seed score
+{'kevin': -4511, 'thief': 1350, 'juan': 3161}
+accumulated score
+{'kevin': -13120, 'thief': 3947, 'juan': 9173}
+
+Seed: 3
+starting position: kevin thief juan
+SCORE:-665|206|459:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-568|350|218:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:283|-777|494:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:441|312|-753:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:652|42|-694:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:561|-823|262:juan|kevin|thief
+
+seed score
+{'kevin': -4280, 'thief': 1452, 'juan': 2828}
+accumulated score
+{'kevin': -17400, 'thief': 5399, 'juan': 12001}
+
+Seed: 4
+starting position: kevin thief juan
+SCORE:-728|322|406:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-552|508|44:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:210|-732|522:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:387|424|-811:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:509|205|-714:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:505|-724|219:juan|kevin|thief
+
+seed score
+{'kevin': -4261, 'thief': 1387, 'juan': 2874}
+accumulated score
+{'kevin': -21661, 'thief': 6786, 'juan': 14875}
+
+Seed: 5
+starting position: kevin thief juan
+SCORE:-722|223|499:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-632|462|170:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:186|-750|564:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:368|394|-762:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:561|147|-708:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:491|-775|284:juan|kevin|thief
+
+seed score
+{'kevin': -4349, 'thief': 1378, 'juan': 2971}
+accumulated score
+{'kevin': -26010, 'thief': 8164, 'juan': 17846}
+
+Seed: 6
+starting position: kevin thief juan
+SCORE:-1060|390|670:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-909|585|324:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:-68|-716|784:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:83|491|-574:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:433|141|-574:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:360|-795|435:juan|kevin|thief
+
+seed score
+{'kevin': -4628, 'thief': 1305, 'juan': 3323}
+accumulated score
+{'kevin': -30638, 'thief': 9469, 'juan': 21169}
+
+Seed: 7
+starting position: kevin thief juan
+SCORE:-766|259|507:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-635|434|201:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:190|-748|558:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:386|331|-717:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:510|146|-656:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:408|-766|358:juan|kevin|thief
+
+seed score
+{'kevin': -4288, 'thief': 1540, 'juan': 2748}
+accumulated score
+{'kevin': -34926, 'thief': 11009, 'juan': 23917}
+
+Seed: 8
+starting position: kevin thief juan
+SCORE:-533|45|488:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-503|321|182:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:388|-964|576:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:505|228|-733:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:764|-97|-667:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:648|-1004|356:juan|kevin|thief
+
+seed score
+{'kevin': -4404, 'thief': 1379, 'juan': 3025}
+accumulated score
+{'kevin': -39330, 'thief': 12388, 'juan': 26942}
+
+Seed: 9
+starting position: kevin thief juan
+SCORE:-713|223|490:kevin|thief|juan
+starting position: kevin juan thief
+SCORE:-651|500|151:kevin|juan|thief
+starting position: thief kevin juan
+SCORE:184|-714|530:thief|kevin|juan
+starting position: thief juan kevin
+SCORE:362|450|-812:thief|juan|kevin
+starting position: juan thief kevin
+SCORE:619|33|-652:juan|thief|kevin
+starting position: juan kevin thief
+SCORE:547|-868|321:juan|kevin|thief
+
+seed score
+{'kevin': -4410, 'thief': 1274, 'juan': 3136}
+accumulated score
+{'kevin': -43740, 'thief': 13662, 'juan': 30078}
+

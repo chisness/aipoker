@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief electriccaviarracers agentsouth
+
+Seed: 0
+starting position: thief electriccaviarracers agentsouth
+SCORE:69|-142|73:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:51|-34|-17:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:183|-305|122:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:198|-76|-122:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:326|-158|-168:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:228|-178|-50:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -653, 'electriccaviarracers': 14, 'agentsouth': 639}
+accumulated score
+{'thief': -653, 'electriccaviarracers': 14, 'agentsouth': 639}
+
+Seed: 1
+starting position: thief electriccaviarracers agentsouth
+SCORE:-183|-14|197:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-289|211|78:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:-157|-103|260:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:-97|102|-5:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:104|-48|-56:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:-30|-58|88:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -694, 'electriccaviarracers': -150, 'agentsouth': 844}
+accumulated score
+{'thief': -1347, 'electriccaviarracers': -136, 'agentsouth': 1483}
+
+Seed: 2
+starting position: thief electriccaviarracers agentsouth
+SCORE:-244|186|58:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-212|256|-44:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:-96|11|85:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:-106|260|-154:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:87|79|-166:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:0|34|-34:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -731, 'electriccaviarracers': -15, 'agentsouth': 746}
+accumulated score
+{'thief': -2078, 'electriccaviarracers': -151, 'agentsouth': 2229}
+
+Seed: 3
+starting position: thief electriccaviarracers agentsouth
+SCORE:13|-74|61:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-132|135|-3:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:32|-222|190:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:135|18|-153:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:262|-80|-182:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:190|-192|2:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -868, 'electriccaviarracers': 12, 'agentsouth': 856}
+accumulated score
+{'thief': -2946, 'electriccaviarracers': -139, 'agentsouth': 3085}
+
+Seed: 4
+starting position: thief electriccaviarracers agentsouth
+SCORE:32|-89|57:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-144|179|-35:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:-31|-130|161:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:92|60|-152:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:139|82|-221:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:55|-102|47:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -717, 'electriccaviarracers': 66, 'agentsouth': 651}
+accumulated score
+{'thief': -3663, 'electriccaviarracers': -73, 'agentsouth': 3736}
+
+Seed: 5
+starting position: thief electriccaviarracers agentsouth
+SCORE:-63|-62|125:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-82|108|-26:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:-6|-235|241:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:54|6|-60:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:211|-75|-136:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:137|-105|-32:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -681, 'electriccaviarracers': -147, 'agentsouth': 828}
+accumulated score
+{'thief': -4344, 'electriccaviarracers': -220, 'agentsouth': 4564}
+
+Seed: 6
+starting position: thief electriccaviarracers agentsouth
+SCORE:-330|58|272:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-328|187|141:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:-203|-152|355:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:-92|105|-13:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:47|48|-95:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:-24|-136|160:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -1054, 'electriccaviarracers': 112, 'agentsouth': 942}
+accumulated score
+{'thief': -5398, 'electriccaviarracers': -108, 'agentsouth': 5506}
+
+Seed: 7
+starting position: thief electriccaviarracers agentsouth
+SCORE:-61|-71|132:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-91|100|-9:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:3|-108|105:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:3|52|-55:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:140|-82|-58:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:72|-168|96:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -541, 'electriccaviarracers': -60, 'agentsouth': 601}
+accumulated score
+{'thief': -5939, 'electriccaviarracers': -168, 'agentsouth': 6107}
+
+Seed: 8
+starting position: thief electriccaviarracers agentsouth
+SCORE:34|-153|119:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-50|28|22:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:105|-375|270:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:285|-110|-175:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:383|-233|-150:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:259|-299|40:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -1015, 'electriccaviarracers': 66, 'agentsouth': 949}
+accumulated score
+{'thief': -6954, 'electriccaviarracers': -102, 'agentsouth': 7056}
+
+Seed: 9
+starting position: thief electriccaviarracers agentsouth
+SCORE:-77|0|77:thief|electriccaviarracers|agentsouth
+starting position: thief agentsouth electriccaviarracers
+SCORE:-86|120|-34:thief|agentsouth|electriccaviarracers
+starting position: electriccaviarracers thief agentsouth
+SCORE:55|-212|157:electriccaviarracers|thief|agentsouth
+starting position: electriccaviarracers agentsouth thief
+SCORE:17|120|-137:electriccaviarracers|agentsouth|thief
+starting position: agentsouth electriccaviarracers thief
+SCORE:234|-9|-225:agentsouth|electriccaviarracers|thief
+starting position: agentsouth thief electriccaviarracers
+SCORE:107|-162|55:agentsouth|thief|electriccaviarracers
+
+seed score
+{'thief': -899, 'electriccaviarracers': 84, 'agentsouth': 815}
+accumulated score
+{'thief': -7853, 'electriccaviarracers': -18, 'agentsouth': 7871}
+

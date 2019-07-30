@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin thief
+
+Seed: 0
+starting position: newuak kevin thief
+SCORE:735|-1023|288:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:582|-207|-375:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-222|218|4:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-618|130|488:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:207|-554|347:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:563|376|-939:thief|newuak|kevin
+
+seed score
+{'newuak': 2746, 'kevin': -3731, 'thief': 985}
+accumulated score
+{'newuak': 2746, 'kevin': -3731, 'thief': 985}
+
+Seed: 1
+starting position: newuak kevin thief
+SCORE:485|-926|441:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:401|-14|-387:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-620|505|115:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-993|295|698:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:-143|-408|551:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:162|648|-810:thief|newuak|kevin
+
+seed score
+{'newuak': 3288, 'kevin': -4144, 'thief': 856}
+accumulated score
+{'newuak': 6034, 'kevin': -7875, 'thief': 1841}
+
+Seed: 2
+starting position: newuak kevin thief
+SCORE:447|-697|250:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:322|201|-523:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-564|627|-63:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-997|516|481:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:-122|-268|390:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:174|797|-971:thief|newuak|kevin
+
+seed score
+{'newuak': 3064, 'kevin': -4020, 'thief': 956}
+accumulated score
+{'newuak': 9098, 'kevin': -11895, 'thief': 2797}
+
+Seed: 3
+starting position: newuak kevin thief
+SCORE:733|-1009|276:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:540|-59|-481:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-292|334|-42:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-788|244|544:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:123|-579|456:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:443|489|-932:thief|newuak|kevin
+
+seed score
+{'newuak': 3096, 'kevin': -4081, 'thief': 985}
+accumulated score
+{'newuak': 12194, 'kevin': -15976, 'thief': 3782}
+
+Seed: 4
+starting position: newuak kevin thief
+SCORE:604|-840|236:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:415|-5|-410:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-344|385|-41:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-829|342|487:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:55|-510|455:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:388|518|-906:thief|newuak|kevin
+
+seed score
+{'newuak': 2864, 'kevin': -3839, 'thief': 975}
+accumulated score
+{'newuak': 15058, 'kevin': -19815, 'thief': 4757}
+
+Seed: 5
+starting position: newuak kevin thief
+SCORE:622|-942|320:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:480|-34|-446:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-368|347|21:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-873|235|638:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:11|-572|561:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:327|447|-774:thief|newuak|kevin
+
+seed score
+{'newuak': 3095, 'kevin': -3975, 'thief': 880}
+accumulated score
+{'newuak': 18153, 'kevin': -23790, 'thief': 5637}
+
+Seed: 6
+starting position: newuak kevin thief
+SCORE:420|-843|423:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:304|54|-358:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-566|411|155:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-1128|380|748:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:-215|-480|695:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:68|616|-684:thief|newuak|kevin
+
+seed score
+{'newuak': 3194, 'kevin': -4059, 'thief': 865}
+accumulated score
+{'newuak': 21347, 'kevin': -27849, 'thief': 6502}
+
+Seed: 7
+starting position: newuak kevin thief
+SCORE:527|-854|327:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:309|-19|-290:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-354|331|23:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-790|258|532:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:69|-470|401:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:362|477|-839:thief|newuak|kevin
+
+seed score
+{'newuak': 2577, 'kevin': -3597, 'thief': 1020}
+accumulated score
+{'newuak': 23924, 'kevin': -31446, 'thief': 7522}
+
+Seed: 8
+starting position: newuak kevin thief
+SCORE:770|-1123|353:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:700|-262|-438:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-339|321|18:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-677|55|622:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:201|-716|515:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:471|414|-885:thief|newuak|kevin
+
+seed score
+{'newuak': 3342, 'kevin': -4178, 'thief': 836}
+accumulated score
+{'newuak': 27266, 'kevin': -35624, 'thief': 8358}
+
+Seed: 9
+starting position: newuak kevin thief
+SCORE:667|-1016|349:newuak|kevin|thief
+starting position: newuak thief kevin
+SCORE:476|-52|-424:newuak|thief|kevin
+starting position: kevin newuak thief
+SCORE:-392|414|-22:kevin|newuak|thief
+starting position: kevin thief newuak
+SCORE:-776|238|538:kevin|thief|newuak
+starting position: thief kevin newuak
+SCORE:74|-498|424:thief|kevin|newuak
+starting position: thief newuak kevin
+SCORE:352|559|-911:thief|newuak|kevin
+
+seed score
+{'newuak': 3078, 'kevin': -4017, 'thief': 939}
+accumulated score
+{'newuak': 30344, 'kevin': -39641, 'thief': 9297}
+

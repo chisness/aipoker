@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak olduak agentsouth
+
+Seed: 0
+starting position: newuak olduak agentsouth
+SCORE:427|-593|166:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:371|108|-479:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-318|10|308:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-228|32|196:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:460|-661|201:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:305|52|-357:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1257, 'olduak': -2636, 'agentsouth': 1379}
+accumulated score
+{'newuak': 1257, 'olduak': -2636, 'agentsouth': 1379}
+
+Seed: 1
+starting position: newuak olduak agentsouth
+SCORE:97|-378|281:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:134|286|-420:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-591|213|378:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-475|195|280:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:205|-466|261:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:117|222|-339:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1207, 'olduak': -2669, 'agentsouth': 1462}
+accumulated score
+{'newuak': 2464, 'olduak': -5305, 'agentsouth': 2841}
+
+Seed: 2
+starting position: newuak olduak agentsouth
+SCORE:118|-250|132:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:120|443|-563:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-604|356|248:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-499|284|215:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:234|-365|131:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:28|368|-396:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1308, 'olduak': -2677, 'agentsouth': 1369}
+accumulated score
+{'newuak': 3772, 'olduak': -7982, 'agentsouth': 4210}
+
+Seed: 3
+starting position: newuak olduak agentsouth
+SCORE:295|-442|147:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:283|210|-493:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-433|139|294:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-276|94|182:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:361|-530|169:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:245|171|-416:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1239, 'olduak': -2590, 'agentsouth': 1351}
+accumulated score
+{'newuak': 5011, 'olduak': -10572, 'agentsouth': 5561}
+
+Seed: 4
+starting position: newuak olduak agentsouth
+SCORE:235|-374|139:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:270|312|-582:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-460|189|271:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-324|165|159:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:305|-508|203:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:183|235|-418:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1291, 'olduak': -2666, 'agentsouth': 1375}
+accumulated score
+{'newuak': 6302, 'olduak': -13238, 'agentsouth': 6936}
+
+Seed: 5
+starting position: newuak olduak agentsouth
+SCORE:238|-419|181:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:232|265|-497:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-478|168|310:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-318|141|177:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:332|-525|193:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:250|155|-405:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1163, 'olduak': -2642, 'agentsouth': 1479}
+accumulated score
+{'newuak': 7465, 'olduak': -15880, 'agentsouth': 8415}
+
+Seed: 6
+starting position: newuak olduak agentsouth
+SCORE:63|-333|270:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:85|319|-404:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-700|248|452:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-578|215|363:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:137|-513|376:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:37|257|-294:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1392, 'olduak': -2822, 'agentsouth': 1430}
+accumulated score
+{'newuak': 8857, 'olduak': -18702, 'agentsouth': 9845}
+
+Seed: 7
+starting position: newuak olduak agentsouth
+SCORE:259|-455|196:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:243|226|-469:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-467|145|322:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-379|136|243:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:333|-560|227:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:156|142|-298:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1259, 'olduak': -2628, 'agentsouth': 1369}
+accumulated score
+{'newuak': 10116, 'olduak': -21330, 'agentsouth': 11214}
+
+Seed: 8
+starting position: newuak olduak agentsouth
+SCORE:380|-578|198:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:349|92|-441:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-389|15|374:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-276|30|246:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:483|-663|180:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:321|8|-329:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1178, 'olduak': -2676, 'agentsouth': 1498}
+accumulated score
+{'newuak': 11294, 'olduak': -24006, 'agentsouth': 12712}
+
+Seed: 9
+starting position: newuak olduak agentsouth
+SCORE:261|-444|183:newuak|olduak|agentsouth
+starting position: newuak agentsouth olduak
+SCORE:282|234|-516:newuak|agentsouth|olduak
+starting position: olduak newuak agentsouth
+SCORE:-450|164|286:olduak|newuak|agentsouth
+starting position: olduak agentsouth newuak
+SCORE:-354|164|190:olduak|agentsouth|newuak
+starting position: agentsouth olduak newuak
+SCORE:326|-557|231:agentsouth|olduak|newuak
+starting position: agentsouth newuak olduak
+SCORE:234|159|-393:agentsouth|newuak|olduak
+
+seed score
+{'newuak': 1287, 'olduak': -2714, 'agentsouth': 1427}
+accumulated score
+{'newuak': 12581, 'olduak': -26720, 'agentsouth': 14139}
+

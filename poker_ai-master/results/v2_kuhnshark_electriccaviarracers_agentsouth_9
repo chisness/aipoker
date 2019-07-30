@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark electriccaviarracers agentsouth
+
+Seed: 0
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:142|-183|41:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:57|-23|-34:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:73|-181|108:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:182|-163|-19:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:277|-208|-69:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:160|-138|-22:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -208, 'electriccaviarracers': -192, 'agentsouth': 400}
+accumulated score
+{'kuhnshark': -208, 'electriccaviarracers': -192, 'agentsouth': 400}
+
+Seed: 1
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:-90|-15|105:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:-185|118|67:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:-164|-72|236:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:-124|24|100:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:79|-83|4:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:-54|-13|67:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -256, 'electriccaviarracers': -252, 'agentsouth': 508}
+accumulated score
+{'kuhnshark': -464, 'electriccaviarracers': -444, 'agentsouth': 908}
+
+Seed: 2
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:-100|117|-17:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:-160|293|-133:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:-167|80|87:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:-97|124|-27:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:58|77|-135:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:-56|134|-78:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -208, 'electriccaviarracers': -281, 'agentsouth': 489}
+accumulated score
+{'kuhnshark': -672, 'electriccaviarracers': -725, 'agentsouth': 1397}
+
+Seed: 3
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:84|-56|-28:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:17|94|-111:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:22|-156|134:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:88|-51|-37:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:227|-107|-120:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:120|-53|-67:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -265, 'electriccaviarracers': -231, 'agentsouth': 496}
+accumulated score
+{'kuhnshark': -937, 'electriccaviarracers': -956, 'agentsouth': 1893}
+
+Seed: 4
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:58|-43|-15:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:-10|172|-162:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:-47|-60|107:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:23|14|-37:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:189|-68|-121:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:31|-2|-29:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -172, 'electriccaviarracers': -326, 'agentsouth': 498}
+accumulated score
+{'kuhnshark': -1109, 'electriccaviarracers': -1282, 'agentsouth': 2391}
+
+Seed: 5
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:54|-76|22:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:-38|105|-67:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:-90|-87|177:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:41|-13|-28:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:195|-115|-80:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:73|-48|-25:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -227, 'electriccaviarracers': -332, 'agentsouth': 559}
+accumulated score
+{'kuhnshark': -1336, 'electriccaviarracers': -1614, 'agentsouth': 2950}
+
+Seed: 6
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:-142|11|131:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:-184|165|19:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:-219|-34|253:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:-95|31|64:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:0|-80|80:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:-126|26|100:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -190, 'electriccaviarracers': -264, 'agentsouth': 454}
+accumulated score
+{'kuhnshark': -1526, 'electriccaviarracers': -1878, 'agentsouth': 3404}
+
+Seed: 7
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:40|-87|47:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:-20|100|-80:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:27|-163|136:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:61|-74|13:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:139|-99|-40:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:56|-51|-5:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -221, 'electriccaviarracers': -183, 'agentsouth': 404}
+accumulated score
+{'kuhnshark': -1747, 'electriccaviarracers': -2061, 'agentsouth': 3808}
+
+Seed: 8
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:155|-196|41:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:83|-12|-71:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:61|-239|178:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:121|-130|9:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:301|-290|-11:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:170|-151|-19:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -154, 'electriccaviarracers': -394, 'agentsouth': 548}
+accumulated score
+{'kuhnshark': -1901, 'electriccaviarracers': -2455, 'agentsouth': 4356}
+
+Seed: 9
+starting position: kuhnshark electriccaviarracers agentsouth
+SCORE:45|-71|26:kuhnshark|electriccaviarracers|agentsouth
+starting position: kuhnshark agentsouth electriccaviarracers
+SCORE:-33|99|-66:kuhnshark|agentsouth|electriccaviarracers
+starting position: electriccaviarracers kuhnshark agentsouth
+SCORE:-40|-135|175:electriccaviarracers|kuhnshark|agentsouth
+starting position: electriccaviarracers agentsouth kuhnshark
+SCORE:-1|-8|9:electriccaviarracers|agentsouth|kuhnshark
+starting position: agentsouth electriccaviarracers kuhnshark
+SCORE:203|-139|-64:agentsouth|electriccaviarracers|kuhnshark
+starting position: agentsouth kuhnshark electriccaviarracers
+SCORE:82|-63|-19:agentsouth|kuhnshark|electriccaviarracers
+
+seed score
+{'kuhnshark': -241, 'electriccaviarracers': -336, 'agentsouth': 577}
+accumulated score
+{'kuhnshark': -2142, 'electriccaviarracers': -2791, 'agentsouth': 4933}
+

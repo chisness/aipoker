@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin thief efs
+
+Seed: 0
+starting position: kevin thief efs
+SCORE:-706|459|247:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-665|296|369:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:655|-1116|461:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:895|79|-974:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:700|168|-868:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:510|-1190|680:efs|kevin|thief
+
+seed score
+{'kevin': -5519, 'thief': 3226, 'efs': 2293}
+accumulated score
+{'kevin': -5519, 'thief': 3226, 'efs': 2293}
+
+Seed: 1
+starting position: kevin thief efs
+SCORE:-1068|635|433:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-968|467|501:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:262|-893|631:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:547|309|-856:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:347|384|-731:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:146|-943|797:efs|kevin|thief
+
+seed score
+{'kevin': -5459, 'thief': 3126, 'efs': 2333}
+accumulated score
+{'kevin': -10978, 'thief': 6352, 'efs': 4626}
+
+Seed: 2
+starting position: kevin thief efs
+SCORE:-1097|876|221:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-1047|713|334:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:245|-680|435:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:491|499|-990:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:322|607|-929:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:121|-721|600:efs|kevin|thief
+
+seed score
+{'kevin': -5464, 'thief': 3153, 'efs': 2311}
+accumulated score
+{'kevin': -16442, 'thief': 9505, 'efs': 6937}
+
+Seed: 3
+starting position: kevin thief efs
+SCORE:-846|610|236:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-790|416|374:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:538|-976|438:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:792|219|-1011:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:636|306|-942:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:420|-1033|613:efs|kevin|thief
+
+seed score
+{'kevin': -5598, 'thief': 3233, 'efs': 2365}
+accumulated score
+{'kevin': -22040, 'thief': 12738, 'efs': 9302}
+
+Seed: 4
+starting position: kevin thief efs
+SCORE:-905|700|205:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-805|527|278:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:480|-873|393:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:783|277|-1060:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:594|349|-943:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:379|-963|584:efs|kevin|thief
+
+seed score
+{'kevin': -5549, 'thief': 3174, 'efs': 2375}
+accumulated score
+{'kevin': -27589, 'thief': 15912, 'efs': 11677}
+
+Seed: 5
+starting position: kevin thief efs
+SCORE:-916|586|330:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-796|400|396:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:423|-929|506:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:708|220|-928:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:506|373|-879:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:311|-970|659:efs|kevin|thief
+
+seed score
+{'kevin': -5418, 'thief': 3145, 'efs': 2273}
+accumulated score
+{'kevin': -33007, 'thief': 19057, 'efs': 13950}
+
+Seed: 6
+starting position: kevin thief efs
+SCORE:-1182|741|441:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-1095|559|536:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:184|-840|656:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:457|315|-772:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:291|412|-703:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:72|-890|818:efs|kevin|thief
+
+seed score
+{'kevin': -5482, 'thief': 3148, 'efs': 2334}
+accumulated score
+{'kevin': -38489, 'thief': 22205, 'efs': 16284}
+
+Seed: 7
+starting position: kevin thief efs
+SCORE:-895|621|274:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-851|425|426:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:475|-984|509:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:708|226|-934:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:536|323|-859:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:336|-1034|698:efs|kevin|thief
+
+seed score
+{'kevin': -5557, 'thief': 3251, 'efs': 2306}
+accumulated score
+{'kevin': -44046, 'thief': 25456, 'efs': 18590}
+
+Seed: 8
+starting position: kevin thief efs
+SCORE:-726|364|362:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-651|209|442:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:595|-1145|550:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:919|-2|-917:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:732|95|-827:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:505|-1185|680:efs|kevin|thief
+
+seed score
+{'kevin': -5451, 'thief': 3095, 'efs': 2356}
+accumulated score
+{'kevin': -49497, 'thief': 28551, 'efs': 20946}
+
+Seed: 9
+starting position: kevin thief efs
+SCORE:-909|565|344:kevin|thief|efs
+starting position: kevin efs thief
+SCORE:-819|397|422:kevin|efs|thief
+starting position: thief kevin efs
+SCORE:429|-938|509:thief|kevin|efs
+starting position: thief efs kevin
+SCORE:727|207|-934:thief|efs|kevin
+starting position: efs thief kevin
+SCORE:557|307|-864:efs|thief|kevin
+starting position: efs kevin thief
+SCORE:350|-1015|665:efs|kevin|thief
+
+seed score
+{'kevin': -5479, 'thief': 3115, 'efs': 2364}
+accumulated score
+{'kevin': -54976, 'thief': 31666, 'efs': 23310}
+

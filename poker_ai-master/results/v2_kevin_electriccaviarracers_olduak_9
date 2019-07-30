@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin electriccaviarracers olduak
+
+Seed: 0
+starting position: kevin electriccaviarracers olduak
+SCORE:-220|145|75:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-320|68|252:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:454|-727|273:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:591|-171|-420:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:423|160|-583:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:181|-514|333:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2784, 'electriccaviarracers': 1935, 'olduak': 849}
+accumulated score
+{'kevin': -2784, 'electriccaviarracers': 1935, 'olduak': 849}
+
+Seed: 1
+starting position: kevin electriccaviarracers olduak
+SCORE:-469|350|119:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-793|304|489:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:280|-641|361:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:226|150|-376:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:139|335|-474:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:-34|-366|400:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3119, 'electriccaviarracers': 2080, 'olduak': 1039}
+accumulated score
+{'kevin': -5903, 'electriccaviarracers': 4015, 'olduak': 1888}
+
+Seed: 2
+starting position: kevin electriccaviarracers olduak
+SCORE:-510|491|19:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-640|437|203:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:147|-317|170:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:261|181|-442:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:90|503|-593:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:-83|-210|293:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2712, 'electriccaviarracers': 1898, 'olduak': 814}
+accumulated score
+{'kevin': -8615, 'electriccaviarracers': 5913, 'olduak': 2702}
+
+Seed: 3
+starting position: kevin electriccaviarracers olduak
+SCORE:-189|198|-9:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-449|183|266:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:426|-665|239:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:441|-7|-434:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:418|240|-658:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:139|-444|305:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2839, 'electriccaviarracers': 1876, 'olduak': 963}
+accumulated score
+{'kevin': -11454, 'electriccaviarracers': 7789, 'olduak': 3665}
+
+Seed: 4
+starting position: kevin electriccaviarracers olduak
+SCORE:-287|244|43:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-523|321|202:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:337|-525|188:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:361|25|-386:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:342|238|-580:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:59|-357|298:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2658, 'electriccaviarracers': 1680, 'olduak': 978}
+accumulated score
+{'kevin': -14112, 'electriccaviarracers': 9469, 'olduak': 4643}
+
+Seed: 5
+starting position: kevin electriccaviarracers olduak
+SCORE:-349|280|69:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-532|112|420:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:308|-624|316:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:324|102|-426:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:280|260|-540:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:70|-382|312:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2853, 'electriccaviarracers': 1904, 'olduak': 949}
+accumulated score
+{'kevin': -16965, 'electriccaviarracers': 11373, 'olduak': 5592}
+
+Seed: 6
+starting position: kevin electriccaviarracers olduak
+SCORE:-603|387|216:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-790|337|453:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:172|-513|341:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:176|79|-255:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:73|343|-416:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:-245|-382|627:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2959, 'electriccaviarracers': 2158, 'olduak': 801}
+accumulated score
+{'kevin': -19924, 'electriccaviarracers': 13531, 'olduak': 6393}
+
+Seed: 7
+starting position: kevin electriccaviarracers olduak
+SCORE:-303|195|108:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-580|202|378:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:370|-576|206:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:326|-67|-259:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:196|213|-409:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:29|-385|356:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2512, 'electriccaviarracers': 1838, 'olduak': 674}
+accumulated score
+{'kevin': -22436, 'electriccaviarracers': 15369, 'olduak': 7067}
+
+Seed: 8
+starting position: kevin electriccaviarracers olduak
+SCORE:-195|157|38:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-486|34|452:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:589|-869|280:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:623|-186|-437:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:354|220|-574:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:247|-642|395:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3203, 'electriccaviarracers': 2436, 'olduak': 767}
+accumulated score
+{'kevin': -25639, 'electriccaviarracers': 17805, 'olduak': 7834}
+
+Seed: 9
+starting position: kevin electriccaviarracers olduak
+SCORE:-346|350|-4:kevin|electriccaviarracers|olduak
+starting position: kevin olduak electriccaviarracers
+SCORE:-434|270|164:kevin|olduak|electriccaviarracers
+starting position: electriccaviarracers kevin olduak
+SCORE:304|-631|327:electriccaviarracers|kevin|olduak
+starting position: electriccaviarracers olduak kevin
+SCORE:394|21|-415:electriccaviarracers|olduak|kevin
+starting position: olduak electriccaviarracers kevin
+SCORE:347|195|-542:olduak|electriccaviarracers|kevin
+starting position: olduak kevin electriccaviarracers
+SCORE:158|-477|319:olduak|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2845, 'electriccaviarracers': 1726, 'olduak': 1119}
+accumulated score
+{'kevin': -28484, 'electriccaviarracers': 19531, 'olduak': 8953}
+

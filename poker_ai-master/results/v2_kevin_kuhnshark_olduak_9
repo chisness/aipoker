@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin kuhnshark olduak
+
+Seed: 0
+starting position: kevin kuhnshark olduak
+SCORE:-44|62|-18:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-397|-74|471:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:728|-789|61:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:455|-215|-240:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:309|364|-673:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:115|-358|243:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2501, 'kuhnshark': 2323, 'olduak': 178}
+accumulated score
+{'kevin': -2501, 'kuhnshark': 2323, 'olduak': 178}
+
+Seed: 1
+starting position: kevin kuhnshark olduak
+SCORE:-369|332|37:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-777|106|671:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:388|-657|269:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:189|-51|-138:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:59|620|-679:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:-121|-295|416:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2915, 'kuhnshark': 2616, 'olduak': 299}
+accumulated score
+{'kevin': -5416, 'kuhnshark': 4939, 'olduak': 477}
+
+Seed: 2
+starting position: kevin kuhnshark olduak
+SCORE:-406|455|-49:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-786|296|490:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:477|-466|-11:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:188|51|-239:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:-109|765|-656:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:-130|-79|209:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2632, 'kuhnshark': 2584, 'olduak': 48}
+accumulated score
+{'kevin': -8048, 'kuhnshark': 7523, 'olduak': 525}
+
+Seed: 3
+starting position: kevin kuhnshark olduak
+SCORE:-94|216|-122:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-502|-15|517:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:659|-769|110:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:407|-109|-298:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:245|506|-751:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:99|-365|266:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2779, 'kuhnshark': 2571, 'olduak': 208}
+accumulated score
+{'kevin': -10827, 'kuhnshark': 10094, 'olduak': 733}
+
+Seed: 4
+starting position: kevin kuhnshark olduak
+SCORE:-193|245|-52:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-644|110|534:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:587|-631|44:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:263|50|-313:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:150|538|-688:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:-27|-271|298:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2740, 'kuhnshark': 2465, 'olduak': 275}
+accumulated score
+{'kevin': -13567, 'kuhnshark': 12559, 'olduak': 1008}
+
+Seed: 5
+starting position: kevin kuhnshark olduak
+SCORE:-187|197|-10:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-561|-53|614:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:645|-709|64:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:299|12|-311:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:170|454|-624:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:11|-380|369:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2772, 'kuhnshark': 2578, 'olduak': 194}
+accumulated score
+{'kevin': -16339, 'kuhnshark': 15137, 'olduak': 1202}
+
+Seed: 6
+starting position: kevin kuhnshark olduak
+SCORE:-512|265|247:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-898|140|758:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:390|-570|180:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:165|-20|-145:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:-117|608|-491:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:-267|-291|558:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2907, 'kuhnshark': 2744, 'olduak': 163}
+accumulated score
+{'kevin': -19246, 'kuhnshark': 17881, 'olduak': 1365}
+
+Seed: 7
+starting position: kevin kuhnshark olduak
+SCORE:-141|181|-40:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-518|-30|548:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:502|-678|176:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:164|-43|-121:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:89|464|-553:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:-77|-201|278:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2212, 'kuhnshark': 2137, 'olduak': 75}
+accumulated score
+{'kevin': -21458, 'kuhnshark': 20018, 'olduak': 1440}
+
+Seed: 8
+starting position: kevin kuhnshark olduak
+SCORE:-90|151|-61:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-488|-142|630:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:816|-885|69:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:494|-229|-265:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:205|406|-611:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:217|-585|368:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2924, 'kuhnshark': 2865, 'olduak': 59}
+accumulated score
+{'kevin': -24382, 'kuhnshark': 22883, 'olduak': 1499}
+
+Seed: 9
+starting position: kevin kuhnshark olduak
+SCORE:-230|275|-45:kevin|kuhnshark|olduak
+starting position: kevin olduak kuhnshark
+SCORE:-579|44|535:kevin|olduak|kuhnshark
+starting position: kuhnshark kevin olduak
+SCORE:561|-726|165:kuhnshark|kevin|olduak
+starting position: kuhnshark olduak kevin
+SCORE:358|-87|-271:kuhnshark|olduak|kevin
+starting position: olduak kuhnshark kevin
+SCORE:132|560|-692:olduak|kuhnshark|kevin
+starting position: olduak kevin kuhnshark
+SCORE:28|-302|274:olduak|kevin|kuhnshark
+
+seed score
+{'kevin': -2800, 'kuhnshark': 2563, 'olduak': 237}
+accumulated score
+{'kevin': -27182, 'kuhnshark': 25446, 'olduak': 1736}
+

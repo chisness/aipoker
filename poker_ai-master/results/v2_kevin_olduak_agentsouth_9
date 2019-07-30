@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin olduak agentsouth
+
+Seed: 0
+starting position: kevin olduak agentsouth
+SCORE:-16|-151|167:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:20|81|-101:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:159|-332|173:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:336|34|-370:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:498|-346|-152:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:303|-450|147:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1300, 'olduak': 44, 'agentsouth': 1256}
+accumulated score
+{'kevin': -1300, 'olduak': 44, 'agentsouth': 1256}
+
+Seed: 1
+starting position: kevin olduak agentsouth
+SCORE:-418|150|268:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-392|358|34:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:-111|-261|372:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:-22|253|-231:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:197|-23|-174:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:162|-338|176:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1814, 'olduak': 204, 'agentsouth': 1610}
+accumulated score
+{'kevin': -3114, 'olduak': 248, 'agentsouth': 2866}
+
+Seed: 2
+starting position: kevin olduak agentsouth
+SCORE:-461|330|131:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-316|426|-110:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:-130|-109|239:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:-80|314|-234:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:183|133|-316:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:71|-95|24:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1531, 'olduak': 167, 'agentsouth': 1364}
+accumulated score
+{'kevin': -4645, 'olduak': 415, 'agentsouth': 4230}
+
+Seed: 3
+starting position: kevin olduak agentsouth
+SCORE:-152|-39|191:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-69|125|-56:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:63|-299|236:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:226|178|-404:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:340|-29|-311:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:274|-400|126:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1635, 'olduak': 291, 'agentsouth': 1344}
+accumulated score
+{'kevin': -6280, 'olduak': 706, 'agentsouth': 5574}
+
+Seed: 4
+starting position: kevin olduak agentsouth
+SCORE:-365|136|229:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-138|230|-92:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:-2|-234|236:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:222|116|-338:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:242|38|-280:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:162|-199|37:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1554, 'olduak': 339, 'agentsouth': 1215}
+accumulated score
+{'kevin': -7834, 'olduak': 1045, 'agentsouth': 6789}
+
+Seed: 5
+starting position: kevin olduak agentsouth
+SCORE:-319|47|272:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-234|198|36:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:-45|-255|300:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:65|117|-182:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:262|-19|-243:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:189|-352|163:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1585, 'olduak': 247, 'agentsouth': 1338}
+accumulated score
+{'kevin': -9419, 'olduak': 1292, 'agentsouth': 8127}
+
+Seed: 6
+starting position: kevin olduak agentsouth
+SCORE:-532|162|370:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-498|315|183:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:-295|-158|453:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:-106|127|-21:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:144|-37|-107:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:69|-311|242:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1627, 'olduak': 149, 'agentsouth': 1478}
+accumulated score
+{'kevin': -11046, 'olduak': 1441, 'agentsouth': 9605}
+
+Seed: 7
+starting position: kevin olduak agentsouth
+SCORE:-221|64|157:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-77|125|-48:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:-48|-208|256:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:108|51|-159:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:162|-46|-116:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:101|-221|120:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1002, 'olduak': 150, 'agentsouth': 852}
+accumulated score
+{'kevin': -12048, 'olduak': 1591, 'agentsouth': 10457}
+
+Seed: 8
+starting position: kevin olduak agentsouth
+SCORE:-161|-102|263:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-154|130|24:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:135|-482|347:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:248|43|-291:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:482|-259|-223:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:391|-536|145:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -1847, 'olduak': 191, 'agentsouth': 1656}
+accumulated score
+{'kevin': -13895, 'olduak': 1782, 'agentsouth': 12113}
+
+Seed: 9
+starting position: kevin olduak agentsouth
+SCORE:-285|44|241:kevin|olduak|agentsouth
+starting position: kevin agentsouth olduak
+SCORE:-280|259|21:kevin|agentsouth|olduak
+starting position: olduak kevin agentsouth
+SCORE:94|-349|255:olduak|kevin|agentsouth
+starting position: olduak agentsouth kevin
+SCORE:184|252|-436:olduak|agentsouth|kevin
+starting position: agentsouth olduak kevin
+SCORE:279|-42|-237:agentsouth|olduak|kevin
+starting position: agentsouth kevin olduak
+SCORE:249|-422|173:agentsouth|kevin|olduak
+
+seed score
+{'kevin': -2009, 'olduak': 474, 'agentsouth': 1535}
+accumulated score
+{'kevin': -15904, 'olduak': 2256, 'agentsouth': 13648}
+

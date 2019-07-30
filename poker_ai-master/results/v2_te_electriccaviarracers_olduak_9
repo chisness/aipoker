@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te electriccaviarracers olduak
+
+Seed: 0
+starting position: te electriccaviarracers olduak
+SCORE:376|-54|-322:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:363|-438|75:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:260|-52|-208:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:226|-498|272:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-74|-65|139:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-135|94|41:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1192, 'electriccaviarracers': 483, 'olduak': -1675}
+accumulated score
+{'te': 1192, 'electriccaviarracers': 483, 'olduak': -1675}
+
+Seed: 1
+starting position: te electriccaviarracers olduak
+SCORE:167|39|-206:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:38|-221|183:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:-10|179|-169:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:-90|-325|415:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-279|44|235:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-327|242|85:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1276, 'electriccaviarracers': 251, 'olduak': -1527}
+accumulated score
+{'te': 2468, 'electriccaviarracers': 734, 'olduak': -3202}
+
+Seed: 2
+starting position: te electriccaviarracers olduak
+SCORE:171|153|-324:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:59|-63|4:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:-32|329|-297:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:-11|-178|189:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-311|200|111:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-440|381|59:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1240, 'electriccaviarracers': 373, 'olduak': -1613}
+accumulated score
+{'te': 3708, 'electriccaviarracers': 1107, 'olduak': -4815}
+
+Seed: 3
+starting position: te electriccaviarracers olduak
+SCORE:352|-25|-327:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:266|-307|41:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:151|100|-251:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:113|-325|212:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-120|36|84:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-242|201|41:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1215, 'electriccaviarracers': 357, 'olduak': -1572}
+accumulated score
+{'te': 4923, 'electriccaviarracers': 1464, 'olduak': -6387}
+
+Seed: 4
+starting position: te electriccaviarracers olduak
+SCORE:283|102|-385:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:195|-219|24:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:107|200|-307:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:66|-294|228:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-156|44|112:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-237|305|-68:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1323, 'electriccaviarracers': 275, 'olduak': -1598}
+accumulated score
+{'te': 6246, 'electriccaviarracers': 1739, 'olduak': -7985}
+
+Seed: 5
+starting position: te electriccaviarracers olduak
+SCORE:355|-1|-354:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:168|-189|21:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:71|100|-171:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:74|-316|242:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-167|1|166:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-208|209|-1:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1240, 'electriccaviarracers': 165, 'olduak': -1405}
+accumulated score
+{'te': 7486, 'electriccaviarracers': 1904, 'olduak': -9390}
+
+Seed: 6
+starting position: te electriccaviarracers olduak
+SCORE:63|131|-194:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:-23|-142|165:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:-111|164|-53:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:-108|-295|403:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-440|179|261:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-436|300|136:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1168, 'electriccaviarracers': 392, 'olduak': -1560}
+accumulated score
+{'te': 8654, 'electriccaviarracers': 2296, 'olduak': -10950}
+
+Seed: 7
+starting position: te electriccaviarracers olduak
+SCORE:232|-27|-205:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:182|-251|69:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:142|80|-222:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:100|-347|247:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-183|64|119:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-268|233|35:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1093, 'electriccaviarracers': 383, 'olduak': -1476}
+accumulated score
+{'te': 9747, 'electriccaviarracers': 2679, 'olduak': -12426}
+
+Seed: 8
+starting position: te electriccaviarracers olduak
+SCORE:399|-87|-312:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:313|-395|82:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:281|-45|-236:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:204|-478|274:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:9|-171|162:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-111|51|60:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1154, 'electriccaviarracers': 369, 'olduak': -1523}
+accumulated score
+{'te': 10901, 'electriccaviarracers': 3048, 'olduak': -13949}
+
+Seed: 9
+starting position: te electriccaviarracers olduak
+SCORE:317|38|-355:te|electriccaviarracers|olduak
+starting position: te olduak electriccaviarracers
+SCORE:185|-263|78:te|olduak|electriccaviarracers
+starting position: electriccaviarracers te olduak
+SCORE:71|114|-185:electriccaviarracers|te|olduak
+starting position: electriccaviarracers olduak te
+SCORE:37|-327|290:electriccaviarracers|olduak|te
+starting position: olduak electriccaviarracers te
+SCORE:-164|-11|175:olduak|electriccaviarracers|te
+starting position: olduak te electriccaviarracers
+SCORE:-215|122|93:olduak|te|electriccaviarracers
+
+seed score
+{'te': 1203, 'electriccaviarracers': 306, 'olduak': -1509}
+accumulated score
+{'te': 12104, 'electriccaviarracers': 3354, 'olduak': -15458}
+

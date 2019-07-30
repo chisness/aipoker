@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: electriccaviarracers efs agentsouth
+
+Seed: 0
+starting position: electriccaviarracers efs agentsouth
+SCORE:105|-255|150:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:177|-71|-106:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:19|-170|151:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:48|16|-64:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:313|-234|-79:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:359|-213|-146:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -244, 'efs': -674, 'agentsouth': 918}
+accumulated score
+{'electriccaviarracers': -244, 'efs': -674, 'agentsouth': 918}
+
+Seed: 1
+starting position: electriccaviarracers efs agentsouth
+SCORE:-182|-115|297:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:-284|267|17:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:-173|-32|205:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:-157|182|-25:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:105|-98|-7:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:95|-82|-13:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -612, 'efs': -539, 'agentsouth': 1151}
+accumulated score
+{'electriccaviarracers': -856, 'efs': -1213, 'agentsouth': 2069}
+
+Seed: 2
+starting position: electriccaviarracers efs agentsouth
+SCORE:-198|43|155:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:-153|383|-230:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:-167|38|129:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:-122|282|-160:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:35|41|-76:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:87|81|-168:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -468, 'efs': -603, 'agentsouth': 1071}
+accumulated score
+{'electriccaviarracers': -1324, 'efs': -1816, 'agentsouth': 3140}
+
+Seed: 3
+starting position: electriccaviarracers efs agentsouth
+SCORE:9|-191|182:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:22|73|-95:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:5|-144|139:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:22|135|-157:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:241|-155|-86:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:239|-117|-122:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -473, 'efs': -536, 'agentsouth': 1009}
+accumulated score
+{'electriccaviarracers': -1797, 'efs': -2352, 'agentsouth': 4149}
+
+Seed: 4
+starting position: electriccaviarracers efs agentsouth
+SCORE:35|-179|144:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:-4|139|-135:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:-12|-85|97:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:-42|181|-139:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:170|-55|-115:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:199|-90|-109:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -398, 'efs': -532, 'agentsouth': 930}
+accumulated score
+{'electriccaviarracers': -2195, 'efs': -2884, 'agentsouth': 5079}
+
+Seed: 5
+starting position: electriccaviarracers efs agentsouth
+SCORE:-41|-239|280:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:-144|128|16:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:-71|-88|159:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:-56|133|-77:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:203|-91|-112:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:225|-140|-85:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -602, 'efs': -526, 'agentsouth': 1128}
+accumulated score
+{'electriccaviarracers': -2797, 'efs': -3410, 'agentsouth': 6207}
+
+Seed: 6
+starting position: electriccaviarracers efs agentsouth
+SCORE:-277|-80|357:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:-182|199|-17:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:-255|-35|290:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:-132|132|0:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:44|-118|74:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:13|-40|27:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -460, 'efs': -575, 'agentsouth': 1035}
+accumulated score
+{'electriccaviarracers': -3257, 'efs': -3985, 'agentsouth': 7242}
+
+Seed: 7
+starting position: electriccaviarracers efs agentsouth
+SCORE:-55|-135|190:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:-57|73|-16:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:-85|-117|202:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:-46|67|-21:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:156|-146|-10:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:95|-136|41:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -396, 'efs': -387, 'agentsouth': 783}
+accumulated score
+{'electriccaviarracers': -3653, 'efs': -4372, 'agentsouth': 8025}
+
+Seed: 8
+starting position: electriccaviarracers efs agentsouth
+SCORE:106|-288|182:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:113|16|-129:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:44|-225|181:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:1|79|-80:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:331|-276|-55:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:395|-287|-108:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -428, 'efs': -756, 'agentsouth': 1184}
+accumulated score
+{'electriccaviarracers': -4081, 'efs': -5128, 'agentsouth': 9209}
+
+Seed: 9
+starting position: electriccaviarracers efs agentsouth
+SCORE:-69|-151|220:electriccaviarracers|efs|agentsouth
+starting position: electriccaviarracers agentsouth efs
+SCORE:-39|46|-7:electriccaviarracers|agentsouth|efs
+starting position: efs electriccaviarracers agentsouth
+SCORE:-13|-120|133:efs|electriccaviarracers|agentsouth
+starting position: efs agentsouth electriccaviarracers
+SCORE:-108|209|-101:efs|agentsouth|electriccaviarracers
+starting position: agentsouth efs electriccaviarracers
+SCORE:184|-101|-83:agentsouth|efs|electriccaviarracers
+starting position: agentsouth electriccaviarracers efs
+SCORE:255|-172|-83:agentsouth|electriccaviarracers|efs
+
+seed score
+{'electriccaviarracers': -584, 'efs': -463, 'agentsouth': 1047}
+accumulated score
+{'electriccaviarracers': -4665, 'efs': -5591, 'agentsouth': 10256}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin electriccaviarracers juan
+
+Seed: 0
+starting position: kevin electriccaviarracers juan
+SCORE:-321|-82|403:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-308|25|283:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:527|-679|152:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:280|195|-475:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:404|97|-501:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:568|-674|106:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2958, 'electriccaviarracers': 1211, 'juan': 1747}
+accumulated score
+{'kevin': -2958, 'electriccaviarracers': 1211, 'juan': 1747}
+
+Seed: 1
+starting position: kevin electriccaviarracers juan
+SCORE:-626|139|487:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-601|218|383:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:212|-504|292:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:-25|400|-375:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:94|409|-503:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:312|-492|180:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3101, 'electriccaviarracers': 1298, 'juan': 1803}
+accumulated score
+{'kevin': -6059, 'electriccaviarracers': 2509, 'juan': 3550}
+
+Seed: 2
+starting position: kevin electriccaviarracers juan
+SCORE:-584|239|345:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-629|351|278:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:233|-398|165:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:29|503|-532:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:122|532|-654:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:280|-341|61:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3138, 'electriccaviarracers': 1372, 'juan': 1766}
+accumulated score
+{'kevin': -9197, 'electriccaviarracers': 3881, 'juan': 5316}
+
+Seed: 3
+starting position: kevin electriccaviarracers juan
+SCORE:-316|-57|373:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-390|48|342:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:454|-616|162:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:234|187|-421:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:277|263|-540:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:501|-547|46:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2830, 'electriccaviarracers': 1282, 'juan': 1548}
+accumulated score
+{'kevin': -12027, 'electriccaviarracers': 5163, 'juan': 6864}
+
+Seed: 4
+starting position: kevin electriccaviarracers juan
+SCORE:-367|21|346:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-390|102|288:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:363|-548|185:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:121|295|-416:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:200|300|-500:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:325|-410|85:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2631, 'electriccaviarracers': 1178, 'juan': 1453}
+accumulated score
+{'kevin': -14658, 'electriccaviarracers': 6341, 'juan': 8317}
+
+Seed: 5
+starting position: kevin electriccaviarracers juan
+SCORE:-398|64|334:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-490|139|351:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:359|-599|240:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:125|275|-400:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:220|261|-481:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:368|-467|99:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2835, 'electriccaviarracers': 1259, 'juan': 1576}
+accumulated score
+{'kevin': -17493, 'electriccaviarracers': 7600, 'juan': 9893}
+
+Seed: 6
+starting position: kevin electriccaviarracers juan
+SCORE:-713|122|591:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-733|240|493:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:144|-547|403:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:-28|342|-314:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:114|339|-453:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:220|-518|298:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3278, 'electriccaviarracers': 1368, 'juan': 1910}
+accumulated score
+{'kevin': -20771, 'electriccaviarracers': 8968, 'juan': 11803}
+
+Seed: 7
+starting position: kevin electriccaviarracers juan
+SCORE:-375|-26|401:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-503|72|431:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:252|-465|213:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:109|206|-315:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:158|237|-395:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:399|-544|145:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2597, 'electriccaviarracers': 1148, 'juan': 1449}
+accumulated score
+{'kevin': -23368, 'electriccaviarracers': 10116, 'juan': 13252}
+
+Seed: 8
+starting position: kevin electriccaviarracers juan
+SCORE:-323|-134|457:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-402|10|392:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:560|-824|264:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:368|137|-505:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:422|161|-583:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:565|-737|172:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -3374, 'electriccaviarracers': 1519, 'juan': 1855}
+accumulated score
+{'kevin': -26742, 'electriccaviarracers': 11635, 'juan': 15107}
+
+Seed: 9
+starting position: kevin electriccaviarracers juan
+SCORE:-434|83|351:kevin|electriccaviarracers|juan
+starting position: kevin juan electriccaviarracers
+SCORE:-465|144|321:kevin|juan|electriccaviarracers
+starting position: electriccaviarracers kevin juan
+SCORE:400|-593|193:electriccaviarracers|kevin|juan
+starting position: electriccaviarracers juan kevin
+SCORE:126|344|-470:electriccaviarracers|juan|kevin
+starting position: juan electriccaviarracers kevin
+SCORE:245|294|-539:juan|electriccaviarracers|kevin
+starting position: juan kevin electriccaviarracers
+SCORE:415|-476|61:juan|kevin|electriccaviarracers
+
+seed score
+{'kevin': -2977, 'electriccaviarracers': 1285, 'juan': 1692}
+accumulated score
+{'kevin': -29719, 'electriccaviarracers': 12920, 'juan': 16799}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: bayes efs juan
+
+Seed: 0
+starting position: bayes efs juan
+SCORE:221|-314|93:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:333|-32|-301:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-56|-86|142:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:38|-95|57:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:314|-379|65:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:279|-98|-181:juan|bayes|efs
+
+seed score
+{'bayes': 492, 'efs': -1193, 'juan': 701}
+accumulated score
+{'bayes': 492, 'efs': -1193, 'juan': 701}
+
+Seed: 1
+starting position: bayes efs juan
+SCORE:-81|-112|193:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:-71|171|-100:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-306|97|209:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-263|71|192:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:105|-298|193:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:-130|65|65:juan|bayes|efs
+
+seed score
+{'bayes': 395, 'efs': -1014, 'juan': 619}
+accumulated score
+{'bayes': 887, 'efs': -2207, 'juan': 1320}
+
+Seed: 2
+starting position: bayes efs juan
+SCORE:-91|29|62:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:5|341|-346:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-436|286|150:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-211|194|17:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:50|-107|57:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:-48|243|-195:juan|bayes|efs
+
+seed score
+{'bayes': 517, 'efs': -1266, 'juan': 749}
+accumulated score
+{'bayes': 1404, 'efs': -3473, 'juan': 2069}
+
+Seed: 3
+starting position: bayes efs juan
+SCORE:143|-193|50:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:199|63|-262:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-115|20|95:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-18|-32|50:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:237|-298|61:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:127|38|-165:juan|bayes|efs
+
+seed score
+{'bayes': 511, 'efs': -1051, 'juan': 540}
+accumulated score
+{'bayes': 1915, 'efs': -4524, 'juan': 2609}
+
+Seed: 4
+starting position: bayes efs juan
+SCORE:113|-109|-4:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:175|94|-269:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-214|70|144:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-52|58|-6:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:221|-255|34:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:70|81|-151:juan|bayes|efs
+
+seed score
+{'bayes': 467, 'efs': -1050, 'juan': 583}
+accumulated score
+{'bayes': 2382, 'efs': -5574, 'juan': 3192}
+
+Seed: 5
+starting position: bayes efs juan
+SCORE:78|-196|118:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:114|141|-255:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-197|49|148:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-44|-2|46:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:296|-426|130:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:5|12|-17:juan|bayes|efs
+
+seed score
+{'bayes': 429, 'efs': -1135, 'juan': 706}
+accumulated score
+{'bayes': 2811, 'efs': -6709, 'juan': 3898}
+
+Seed: 6
+starting position: bayes efs juan
+SCORE:-87|-112|199:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:-113|164|-51:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-467|144|323:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-274|104|170:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:37|-269|232:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:-80|106|-26:juan|bayes|efs
+
+seed score
+{'bayes': 452, 'efs': -1199, 'juan': 747}
+accumulated score
+{'bayes': 3263, 'efs': -7908, 'juan': 4645}
+
+Seed: 7
+starting position: bayes efs juan
+SCORE:89|-198|109:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:168|82|-250:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-251|51|200:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-49|-33|82:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:192|-293|101:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:64|2|-66:juan|bayes|efs
+
+seed score
+{'bayes': 493, 'efs': -1107, 'juan': 614}
+accumulated score
+{'bayes': 3756, 'efs': -9015, 'juan': 5259}
+
+Seed: 8
+starting position: bayes efs juan
+SCORE:277|-338|61:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:251|-37|-214:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-107|-145|252:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:48|-142|94:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:328|-472|144:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:253|-166|-87:juan|bayes|efs
+
+seed score
+{'bayes': 455, 'efs': -1170, 'juan': 715}
+accumulated score
+{'bayes': 4211, 'efs': -10185, 'juan': 5974}
+
+Seed: 9
+starting position: bayes efs juan
+SCORE:116|-182|66:bayes|efs|juan
+starting position: bayes juan efs
+SCORE:137|120|-257:bayes|juan|efs
+starting position: efs bayes juan
+SCORE:-223|18|205:efs|bayes|juan
+starting position: efs juan bayes
+SCORE:-68|7|61:efs|juan|bayes
+starting position: juan efs bayes
+SCORE:203|-317|114:juan|efs|bayes
+starting position: juan bayes efs
+SCORE:94|-20|-74:juan|bayes|efs
+
+seed score
+{'bayes': 426, 'efs': -1121, 'juan': 695}
+accumulated score
+{'bayes': 4637, 'efs': -11306, 'juan': 6669}
+

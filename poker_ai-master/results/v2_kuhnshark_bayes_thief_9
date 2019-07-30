@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark bayes thief
+
+Seed: 0
+starting position: kuhnshark bayes thief
+SCORE:198|-141|-57:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:642|-664|22:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:244|193|-437:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:233|-164|-69:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-262|-135|397:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:69|-87|18:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1274, 'bayes': 241, 'thief': -1515}
+accumulated score
+{'kuhnshark': 1274, 'bayes': 241, 'thief': -1515}
+
+Seed: 1
+starting position: kuhnshark bayes thief
+SCORE:-13|-4|17:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:290|-453|163:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:-100|440|-340:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:-80|34|46:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-513|39|474:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:-157|10|147:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1247, 'bayes': 165, 'thief': -1412}
+accumulated score
+{'kuhnshark': 2521, 'bayes': 406, 'thief': -2927}
+
+Seed: 2
+starting position: kuhnshark bayes thief
+SCORE:-123|208|-85:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:266|-228|-38:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:-93|522|-429:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:-67|79|-12:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-514|153|361:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:-206|187|19:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1201, 'bayes': 182, 'thief': -1383}
+accumulated score
+{'kuhnshark': 3722, 'bayes': 588, 'thief': -4310}
+
+Seed: 3
+starting position: kuhnshark bayes thief
+SCORE:83|-20|-63:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:479|-500|21:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:131|339|-470:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:159|-182|23:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-316|-55|371:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:35|-58|23:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1237, 'bayes': 259, 'thief': -1496}
+accumulated score
+{'kuhnshark': 4959, 'bayes': 847, 'thief': -5806}
+
+Seed: 4
+starting position: kuhnshark bayes thief
+SCORE:28|69|-97:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:372|-344|-28:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:97|388|-485:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:97|-93|-4:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-449|48|401:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:43|-40|-3:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1145, 'bayes': 280, 'thief': -1425}
+accumulated score
+{'kuhnshark': 6104, 'bayes': 1127, 'thief': -7231}
+
+Seed: 5
+starting position: kuhnshark bayes thief
+SCORE:32|7|-39:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:479|-506|27:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:72|381|-453:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:106|-111|5:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-423|2|421:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:6|-61|55:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1257, 'bayes': 269, 'thief': -1526}
+accumulated score
+{'kuhnshark': 7361, 'bayes': 1396, 'thief': -8757}
+
+Seed: 6
+starting position: kuhnshark bayes thief
+SCORE:-60|94|-34:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:216|-380|164:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:-157|445|-288:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:-141|-45|186:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-582|47|535:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:-206|36|170:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1358, 'bayes': 177, 'thief': -1535}
+accumulated score
+{'kuhnshark': 8719, 'bayes': 1573, 'thief': -10292}
+
+Seed: 7
+starting position: kuhnshark bayes thief
+SCORE:5|1|-6:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:388|-431|43:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:103|316|-419:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:100|-120|20:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-418|-5|423:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:8|-74|66:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1078, 'bayes': 308, 'thief': -1386}
+accumulated score
+{'kuhnshark': 9797, 'bayes': 1881, 'thief': -11678}
+
+Seed: 8
+starting position: kuhnshark bayes thief
+SCORE:187|-173|-14:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:533|-615|82:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:196|197|-393:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:227|-302|75:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-275|-213|488:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:75|-163|88:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1317, 'bayes': 207, 'thief': -1524}
+accumulated score
+{'kuhnshark': 11114, 'bayes': 2088, 'thief': -13202}
+
+Seed: 9
+starting position: kuhnshark bayes thief
+SCORE:84|-32|-52:kuhnshark|bayes|thief
+starting position: kuhnshark thief bayes
+SCORE:473|-525|52:kuhnshark|thief|bayes
+starting position: bayes kuhnshark thief
+SCORE:44|382|-426:bayes|kuhnshark|thief
+starting position: bayes thief kuhnshark
+SCORE:82|-77|-5:bayes|thief|kuhnshark
+starting position: thief bayes kuhnshark
+SCORE:-385|-28|413:thief|bayes|kuhnshark
+starting position: thief kuhnshark bayes
+SCORE:31|-58|27:thief|kuhnshark|bayes
+
+seed score
+{'kuhnshark': 1289, 'bayes': 145, 'thief': -1434}
+accumulated score
+{'kuhnshark': 12403, 'bayes': 2233, 'thief': -14636}
+

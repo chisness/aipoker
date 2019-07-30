@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te agentsouth juan
+
+Seed: 0
+starting position: te agentsouth juan
+SCORE:-65|-26|91:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-11|-59|70:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:210|-288|78:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:268|-53|-215:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:290|-83|-207:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:225|-352|127:juan|te|agentsouth
+
+seed score
+{'te': -1138, 'agentsouth': 566, 'juan': 572}
+accumulated score
+{'te': -1138, 'agentsouth': 566, 'juan': 572}
+
+Seed: 1
+starting position: te agentsouth juan
+SCORE:-313|166|147:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-291|200|91:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:-10|-172|182:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:88|68|-156:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:-5|86|-81:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:-21|-241|262:juan|te|agentsouth
+
+seed score
+{'te': -1254, 'agentsouth': 683, 'juan': 571}
+accumulated score
+{'te': -2392, 'agentsouth': 1249, 'juan': 1143}
+
+Seed: 2
+starting position: te agentsouth juan
+SCORE:-284|281|3:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-296|264|32:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:-36|-42|78:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:26|198|-224:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:-20|205|-185:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:-34|-66|100:juan|te|agentsouth
+
+seed score
+{'te': -1097, 'agentsouth': 608, 'juan': 489}
+accumulated score
+{'te': -3489, 'agentsouth': 1857, 'juan': 1632}
+
+Seed: 3
+starting position: te agentsouth juan
+SCORE:-130|97|33:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-77|53|24:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:118|-211|93:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:249|2|-251:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:177|-24|-153:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:185|-278|93:juan|te|agentsouth
+
+seed score
+{'te': -1100, 'agentsouth': 557, 'juan': 543}
+accumulated score
+{'te': -4589, 'agentsouth': 2414, 'juan': 2175}
+
+Seed: 4
+starting position: te agentsouth juan
+SCORE:-186|159|27:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-142|100|42:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:97|-156|59:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:181|51|-232:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:176|66|-242:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:127|-208|81:juan|te|agentsouth
+
+seed score
+{'te': -1166, 'agentsouth': 626, 'juan': 540}
+accumulated score
+{'te': -5755, 'agentsouth': 3040, 'juan': 2715}
+
+Seed: 5
+starting position: te agentsouth juan
+SCORE:-172|89|83:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-110|83|27:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:113|-226|113:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:201|22|-223:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:186|12|-198:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:102|-211|109:juan|te|agentsouth
+
+seed score
+{'te': -1140, 'agentsouth': 551, 'juan': 589}
+accumulated score
+{'te': -6895, 'agentsouth': 3591, 'juan': 3304}
+
+Seed: 6
+starting position: te agentsouth juan
+SCORE:-349|175|174:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-324|121|203:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:-93|-134|227:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:-17|117|-100:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:-35|78|-43:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:-61|-202|263:juan|te|agentsouth
+
+seed score
+{'te': -1152, 'agentsouth': 609, 'juan': 543}
+accumulated score
+{'te': -8047, 'agentsouth': 4200, 'juan': 3847}
+
+Seed: 7
+starting position: te agentsouth juan
+SCORE:-179|67|112:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-121|75|46:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:94|-220|126:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:145|54|-199:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:221|-18|-203:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:151|-300|149:juan|te|agentsouth
+
+seed score
+{'te': -1222, 'agentsouth': 483, 'juan': 739}
+accumulated score
+{'te': -9269, 'agentsouth': 4683, 'juan': 4586}
+
+Seed: 8
+starting position: te agentsouth juan
+SCORE:-38|-18|56:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:10|-112|102:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:253|-368|115:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:297|-145|-152:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:271|-118|-153:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:229|-422|193:juan|te|agentsouth
+
+seed score
+{'te': -1123, 'agentsouth': 709, 'juan': 414}
+accumulated score
+{'te': -10392, 'agentsouth': 5392, 'juan': 5000}
+
+Seed: 9
+starting position: te agentsouth juan
+SCORE:-177|132|45:te|agentsouth|juan
+starting position: te juan agentsouth
+SCORE:-100|41|59:te|juan|agentsouth
+starting position: agentsouth te juan
+SCORE:123|-213|90:agentsouth|te|juan
+starting position: agentsouth juan te
+SCORE:202|19|-221:agentsouth|juan|te
+starting position: juan agentsouth te
+SCORE:168|-17|-151:juan|agentsouth|te
+starting position: juan te agentsouth
+SCORE:118|-274|156:juan|te|agentsouth
+
+seed score
+{'te': -1136, 'agentsouth': 655, 'juan': 481}
+accumulated score
+{'te': -11528, 'agentsouth': 6047, 'juan': 5481}
+

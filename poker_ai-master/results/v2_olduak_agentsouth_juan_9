@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: olduak agentsouth juan
+
+Seed: 0
+starting position: olduak agentsouth juan
+SCORE:-153|46|107:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-262|-9|271:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:433|-602|169:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:356|17|-373:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:311|83|-394:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:396|-568|172:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2352, 'agentsouth': 1361, 'juan': 991}
+accumulated score
+{'olduak': -2352, 'agentsouth': 1361, 'juan': 991}
+
+Seed: 1
+starting position: olduak agentsouth juan
+SCORE:-466|256|210:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-521|212|309:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:209|-442|233:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:150|119|-269:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:96|235|-331:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:44|-354|310:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2383, 'agentsouth': 1469, 'juan': 914}
+accumulated score
+{'olduak': -4735, 'agentsouth': 2830, 'juan': 1905}
+
+Seed: 2
+starting position: olduak agentsouth juan
+SCORE:-462|402|60:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-522|243|279:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:163|-272|109:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:94|306|-400:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:34|460|-494:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:81|-234|153:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2384, 'agentsouth': 1551, 'juan': 833}
+accumulated score
+{'olduak': -7119, 'agentsouth': 4381, 'juan': 2738}
+
+Seed: 3
+starting position: olduak agentsouth juan
+SCORE:-271|144|127:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-331|75|256:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:335|-498|163:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:313|112|-425:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:262|205|-467:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:235|-408|173:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2400, 'agentsouth': 1426, 'juan': 974}
+accumulated score
+{'olduak': -9519, 'agentsouth': 5807, 'juan': 3712}
+
+Seed: 4
+starting position: olduak agentsouth juan
+SCORE:-386|257|129:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-399|146|253:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:246|-365|119:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:270|181|-451:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:200|262|-462:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:208|-341|133:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2404, 'agentsouth': 1421, 'juan': 983}
+accumulated score
+{'olduak': -11923, 'agentsouth': 7228, 'juan': 4695}
+
+Seed: 5
+starting position: olduak agentsouth juan
+SCORE:-302|126|176:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-366|98|268:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:285|-452|167:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:262|139|-401:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:157|231|-388:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:152|-388|236:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2297, 'agentsouth': 1408, 'juan': 889}
+accumulated score
+{'olduak': -14220, 'agentsouth': 8636, 'juan': 5584}
+
+Seed: 6
+starting position: olduak agentsouth juan
+SCORE:-515|241|274:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-644|226|418:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:123|-372|249:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:78|207|-285:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:13|269|-282:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:48|-347|299:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2445, 'agentsouth': 1428, 'juan': 1017}
+accumulated score
+{'olduak': -16665, 'agentsouth': 10064, 'juan': 6601}
+
+Seed: 7
+starting position: olduak agentsouth juan
+SCORE:-361|152|209:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-408|144|264:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:280|-448|168:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:162|167|-329:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:223|211|-434:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:215|-427|212:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2407, 'agentsouth': 1281, 'juan': 1126}
+accumulated score
+{'olduak': -19072, 'agentsouth': 11345, 'juan': 7727}
+
+Seed: 8
+starting position: olduak agentsouth juan
+SCORE:-229|58|171:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-304|-23|327:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:427|-635|208:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:408|-40|-368:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:288|84|-372:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:270|-567|297:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2475, 'agentsouth': 1601, 'juan': 874}
+accumulated score
+{'olduak': -21547, 'agentsouth': 12946, 'juan': 8601}
+
+Seed: 9
+starting position: olduak agentsouth juan
+SCORE:-329|211|118:olduak|agentsouth|juan
+starting position: olduak juan agentsouth
+SCORE:-414|121|293:olduak|juan|agentsouth
+starting position: agentsouth olduak juan
+SCORE:360|-493|133:agentsouth|olduak|juan
+starting position: agentsouth juan olduak
+SCORE:297|104|-401:agentsouth|juan|olduak
+starting position: juan agentsouth olduak
+SCORE:191|234|-425:juan|agentsouth|olduak
+starting position: juan olduak agentsouth
+SCORE:200|-448|248:juan|olduak|agentsouth
+
+seed score
+{'olduak': -2510, 'agentsouth': 1643, 'juan': 867}
+accumulated score
+{'olduak': -24057, 'agentsouth': 14589, 'juan': 9468}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin te
+
+Seed: 0
+starting position: newuak kevin te
+SCORE:610|-595|-15:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:190|131|-321:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-116|-165|281:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-237|-171|408:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:471|-439|-32:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:236|184|-420:te|newuak|kevin
+
+seed score
+{'newuak': 1195, 'kevin': -2128, 'te': 933}
+accumulated score
+{'newuak': 1195, 'kevin': -2128, 'te': 933}
+
+Seed: 1
+starting position: newuak kevin te
+SCORE:271|-434|163:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:-47|305|-258:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-517|97|420:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-520|46|474:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:167|-320|153:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:-57|450|-393:te|newuak|kevin
+
+seed score
+{'newuak': 1398, 'kevin': -2442, 'te': 1044}
+accumulated score
+{'newuak': 2593, 'kevin': -4570, 'te': 1977}
+
+Seed: 2
+starting position: newuak kevin te
+SCORE:282|-277|-5:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:-73|512|-439:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-448|180|268:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-539|188|351:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:143|-132|-11:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:-37|571|-534:te|newuak|kevin
+
+seed score
+{'newuak': 1300, 'kevin': -2369, 'te': 1069}
+accumulated score
+{'newuak': 3893, 'kevin': -6939, 'te': 3046}
+
+Seed: 3
+starting position: newuak kevin te
+SCORE:538|-586|48:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:134|219|-353:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-227|-57|284:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-369|-45|414:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:356|-389|33:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:153|315|-468:te|newuak|kevin
+
+seed score
+{'newuak': 1377, 'kevin': -2392, 'te': 1015}
+accumulated score
+{'newuak': 5270, 'kevin': -9331, 'te': 4061}
+
+Seed: 4
+starting position: newuak kevin te
+SCORE:436|-451|15:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:18|281|-299:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-211|-21|232:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-360|10|350:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:344|-365|21:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:66|400|-466:te|newuak|kevin
+
+seed score
+{'newuak': 1204, 'kevin': -2152, 'te': 948}
+accumulated score
+{'newuak': 6474, 'kevin': -11483, 'te': 5009}
+
+Seed: 5
+starting position: newuak kevin te
+SCORE:417|-520|103:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:66|322|-388:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-307|-46|353:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-374|6|368:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:309|-400|91:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:87|344|-431:te|newuak|kevin
+
+seed score
+{'newuak': 1240, 'kevin': -2420, 'te': 1180}
+accumulated score
+{'newuak': 7714, 'kevin': -13903, 'te': 6189}
+
+Seed: 6
+starting position: newuak kevin te
+SCORE:175|-396|221:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:-65|285|-220:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-502|8|494:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-562|-26|588:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:66|-324|258:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:-54|426|-372:te|newuak|kevin
+
+seed score
+{'newuak': 1390, 'kevin': -2376, 'te': 986}
+accumulated score
+{'newuak': 9104, 'kevin': -16279, 'te': 7175}
+
+Seed: 7
+starting position: newuak kevin te
+SCORE:358|-398|40:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:-70|258|-188:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-266|-77|343:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-381|3|378:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:355|-354|-1:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:-4|253|-249:te|newuak|kevin
+
+seed score
+{'newuak': 841, 'kevin': -1836, 'te': 995}
+accumulated score
+{'newuak': 9945, 'kevin': -18115, 'te': 8170}
+
+Seed: 8
+starting position: newuak kevin te
+SCORE:557|-698|141:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:234|94|-328:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-196|-72|268:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-282|-120|402:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:472|-565|93:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:257|248|-505:te|newuak|kevin
+
+seed score
+{'newuak': 1462, 'kevin': -2574, 'te': 1112}
+accumulated score
+{'newuak': 11407, 'kevin': -20689, 'te': 9282}
+
+Seed: 9
+starting position: newuak kevin te
+SCORE:402|-459|57:newuak|kevin|te
+starting position: newuak te kevin
+SCORE:75|214|-289:newuak|te|kevin
+starting position: kevin newuak te
+SCORE:-290|38|252:kevin|newuak|te
+starting position: kevin te newuak
+SCORE:-509|52|457:kevin|te|newuak
+starting position: te kevin newuak
+SCORE:410|-418|8:te|kevin|newuak
+starting position: te newuak kevin
+SCORE:141|324|-465:te|newuak|kevin
+
+seed score
+{'newuak': 1304, 'kevin': -2430, 'te': 1126}
+accumulated score
+{'newuak': 12711, 'kevin': -23119, 'te': 10408}
+

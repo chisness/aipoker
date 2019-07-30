@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark efs juan
+
+Seed: 0
+starting position: kuhnshark efs juan
+SCORE:400|-359|-41:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:179|-170|-9:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:202|-132|-70:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-59|-161|220:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:150|-151|1:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:212|44|-256:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 712, 'efs': -632, 'juan': -80}
+accumulated score
+{'kuhnshark': 712, 'efs': -632, 'juan': -80}
+
+Seed: 1
+starting position: kuhnshark efs juan
+SCORE:90|-181|91:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:-72|-6|78:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:-68|6|62:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-309|2|307:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:-33|-85|118:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:-163|185|-22:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 634, 'efs': -587, 'juan': -47}
+accumulated score
+{'kuhnshark': 1346, 'efs': -1219, 'juan': -127}
+
+Seed: 2
+starting position: kuhnshark efs juan
+SCORE:75|-85|10:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:-79|147|-68:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:-60|97|-37:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-247|113|134:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:-132|119|13:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:-94|336|-242:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 576, 'efs': -583, 'juan': 7}
+accumulated score
+{'kuhnshark': 1922, 'efs': -1802, 'juan': -120}
+
+Seed: 3
+starting position: kuhnshark efs juan
+SCORE:270|-248|-22:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:100|-48|-52:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:95|-52|-43:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-51|-112|163:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:80|-110|30:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:58|120|-178:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 631, 'efs': -544, 'juan': -87}
+accumulated score
+{'kuhnshark': 2553, 'efs': -2346, 'juan': -207}
+
+Seed: 4
+starting position: kuhnshark efs juan
+SCORE:206|-137|-69:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:7|-25|18:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:5|-22|17:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-139|-55|194:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:45|-35|-10:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:-14|191|-177:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 566, 'efs': -465, 'juan': -101}
+accumulated score
+{'kuhnshark': 3119, 'efs': -2811, 'juan': -308}
+
+Seed: 5
+starting position: kuhnshark efs juan
+SCORE:232|-280|48:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:45|-37|-8:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:106|-42|-64:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-109|-70|179:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:90|-170|80:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:-36|213|-177:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 707, 'efs': -638, 'juan': -69}
+accumulated score
+{'kuhnshark': 3826, 'efs': -3449, 'juan': -377}
+
+Seed: 6
+starting position: kuhnshark efs juan
+SCORE:92|-227|135:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:-120|55|65:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:-84|-33|117:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-297|-9|306:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:-99|-113|212:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:-139|239|-100:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 696, 'efs': -756, 'juan': 60}
+accumulated score
+{'kuhnshark': 4522, 'efs': -4205, 'juan': -317}
+
+Seed: 7
+starting position: kuhnshark efs juan
+SCORE:205|-257|52:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:-64|-69|133:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:63|-56|-7:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-172|-87|259:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:12|-37|25:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:-1|113|-112:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 482, 'efs': -382, 'juan': -100}
+accumulated score
+{'kuhnshark': 5004, 'efs': -4587, 'juan': -417}
+
+Seed: 8
+starting position: kuhnshark efs juan
+SCORE:426|-410|-16:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:190|-177|-13:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:74|-95|21:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-97|-195|292:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:196|-255|59:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:153|35|-188:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 907, 'efs': -889, 'juan': -18}
+accumulated score
+{'kuhnshark': 5911, 'efs': -5476, 'juan': -435}
+
+Seed: 9
+starting position: kuhnshark efs juan
+SCORE:257|-243|-14:kuhnshark|efs|juan
+starting position: kuhnshark juan efs
+SCORE:56|-32|-24:kuhnshark|juan|efs
+starting position: efs kuhnshark juan
+SCORE:-35|35|0:efs|kuhnshark|juan
+starting position: efs juan kuhnshark
+SCORE:-149|-42|191:efs|juan|kuhnshark
+starting position: juan efs kuhnshark
+SCORE:71|-114|43:juan|efs|kuhnshark
+starting position: juan kuhnshark efs
+SCORE:26|117|-143:juan|kuhnshark|efs
+
+seed score
+{'kuhnshark': 699, 'efs': -708, 'juan': 9}
+accumulated score
+{'kuhnshark': 6610, 'efs': -6184, 'juan': -426}
+

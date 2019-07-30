@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te bayes agentsouth
+
+Seed: 0
+starting position: te bayes agentsouth
+SCORE:25|-243|218:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:135|76|-211:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-57|-204|261:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:81|65|-146:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:410|-349|-61:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:377|-318|-59:agentsouth|te|bayes
+
+seed score
+{'te': -569, 'bayes': -838, 'agentsouth': 1407}
+accumulated score
+{'te': -569, 'bayes': -838, 'agentsouth': 1407}
+
+Seed: 1
+starting position: te bayes agentsouth
+SCORE:-207|-74|281:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:-144|254|-110:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-310|-36|346:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:-137|235|-98:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:155|-219|64:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:142|-211|69:agentsouth|te|bayes
+
+seed score
+{'te': -632, 'bayes': -781, 'agentsouth': 1413}
+accumulated score
+{'te': -1201, 'bayes': -1619, 'agentsouth': 2820}
+
+Seed: 2
+starting position: te bayes agentsouth
+SCORE:-263|108|155:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:-152|387|-235:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-305|109|196:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:-169|358|-189:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:130|-71|-59:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:122|-22|-100:agentsouth|te|bayes
+
+seed score
+{'te': -576, 'bayes': -772, 'agentsouth': 1348}
+accumulated score
+{'te': -1777, 'bayes': -2391, 'agentsouth': 4168}
+
+Seed: 3
+starting position: te bayes agentsouth
+SCORE:-69|-107|176:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:30|203|-233:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-114|-75|189:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:37|178|-215:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:318|-243|-75:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:301|-215|-86:agentsouth|te|bayes
+
+seed score
+{'te': -619, 'bayes': -746, 'agentsouth': 1365}
+accumulated score
+{'te': -2396, 'bayes': -3137, 'agentsouth': 5533}
+
+Seed: 4
+starting position: te bayes agentsouth
+SCORE:-100|-40|140:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:-9|269|-260:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-145|-24|169:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:7|193|-200:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:294|-192|-102:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:247|-144|-103:agentsouth|te|bayes
+
+seed score
+{'te': -579, 'bayes': -733, 'agentsouth': 1312}
+accumulated score
+{'te': -2975, 'bayes': -3870, 'agentsouth': 6845}
+
+Seed: 5
+starting position: te bayes agentsouth
+SCORE:-118|-83|201:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:10|214|-224:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-170|-70|240:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:22|173|-195:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:289|-223|-66:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:260|-204|-56:agentsouth|te|bayes
+
+seed score
+{'te': -643, 'bayes': -734, 'agentsouth': 1377}
+accumulated score
+{'te': -3618, 'bayes': -4604, 'agentsouth': 8222}
+
+Seed: 6
+starting position: te bayes agentsouth
+SCORE:-296|-24|320:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:-219|297|-78:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-348|-22|370:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:-220|255|-35:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:82|-167|85:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:64|-134|70:agentsouth|te|bayes
+
+seed score
+{'te': -621, 'bayes': -767, 'agentsouth': 1388}
+accumulated score
+{'te': -4239, 'bayes': -5371, 'agentsouth': 9610}
+
+Seed: 7
+starting position: te bayes agentsouth
+SCORE:-109|-106|215:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:-20|187|-167:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-171|-89|260:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:-18|163|-145:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:267|-259|-8:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:258|-242|-16:agentsouth|te|bayes
+
+seed score
+{'te': -613, 'bayes': -737, 'agentsouth': 1350}
+accumulated score
+{'te': -4852, 'bayes': -6108, 'agentsouth': 10960}
+
+Seed: 8
+starting position: te bayes agentsouth
+SCORE:3|-267|264:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:109|80|-189:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-34|-255|289:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:90|48|-138:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:431|-401|-30:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:367|-328|-39:agentsouth|te|bayes
+
+seed score
+{'te': -639, 'bayes': -840, 'agentsouth': 1479}
+accumulated score
+{'te': -5491, 'bayes': -6948, 'agentsouth': 12439}
+
+Seed: 9
+starting position: te bayes agentsouth
+SCORE:-112|-101|213:te|bayes|agentsouth
+starting position: te agentsouth bayes
+SCORE:-9|242|-233:te|agentsouth|bayes
+starting position: bayes te agentsouth
+SCORE:-157|-94|251:bayes|te|agentsouth
+starting position: bayes agentsouth te
+SCORE:7|162|-169:bayes|agentsouth|te
+starting position: agentsouth bayes te
+SCORE:315|-288|-27:agentsouth|bayes|te
+starting position: agentsouth te bayes
+SCORE:263|-223|-40:agentsouth|te|bayes
+
+seed score
+{'te': -634, 'bayes': -812, 'agentsouth': 1446}
+accumulated score
+{'te': -6125, 'bayes': -7760, 'agentsouth': 13885}
+

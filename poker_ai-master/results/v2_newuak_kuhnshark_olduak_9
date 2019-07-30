@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kuhnshark olduak
+
+Seed: 0
+starting position: newuak kuhnshark olduak
+SCORE:367|-41|-326:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:353|-460|107:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:260|-4|-256:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:278|-459|181:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-115|-11|126:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-123|33|90:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 1056, 'kuhnshark': 683, 'olduak': -1739}
+accumulated score
+{'newuak': 1056, 'kuhnshark': 683, 'olduak': -1739}
+
+Seed: 1
+starting position: newuak kuhnshark olduak
+SCORE:128|93|-221:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:60|-265|205:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:58|141|-199:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:35|-314|279:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-335|157|178:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-385|250|135:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 1036, 'kuhnshark': 683, 'olduak': -1719}
+accumulated score
+{'newuak': 2092, 'kuhnshark': 1366, 'olduak': -3458}
+
+Seed: 2
+starting position: newuak kuhnshark olduak
+SCORE:122|264|-386:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:27|-155|128:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:28|312|-340:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:41|-196|155:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-375|271|104:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-391|318|73:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 1038, 'kuhnshark': 805, 'olduak': -1843}
+accumulated score
+{'newuak': 3130, 'kuhnshark': 2171, 'olduak': -5301}
+
+Seed: 3
+starting position: newuak kuhnshark olduak
+SCORE:268|18|-286:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:201|-330|129:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:186|113|-299:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:193|-360|167:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-153|73|80:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-218|144|74:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 973, 'kuhnshark': 673, 'olduak': -1646}
+accumulated score
+{'newuak': 4103, 'kuhnshark': 2844, 'olduak': -6947}
+
+Seed: 4
+starting position: newuak kuhnshark olduak
+SCORE:241|95|-336:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:197|-309|112:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:141|162|-303:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:123|-280|157:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-233|138|95:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-259|170|89:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 1022, 'kuhnshark': 698, 'olduak': -1720}
+accumulated score
+{'newuak': 5125, 'kuhnshark': 3542, 'olduak': -8667}
+
+Seed: 5
+starting position: newuak kuhnshark olduak
+SCORE:218|99|-317:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:163|-294|131:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:163|112|-275:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:164|-315|151:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-204|107|97:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-225|149|76:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 890, 'kuhnshark': 740, 'olduak': -1630}
+accumulated score
+{'newuak': 6015, 'kuhnshark': 4282, 'olduak': -10297}
+
+Seed: 6
+starting position: newuak kuhnshark olduak
+SCORE:40|142|-182:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:-6|-262|268:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:-11|174|-163:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:-39|-305|344:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-454|155|299:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-443|188|255:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 1039, 'kuhnshark': 770, 'olduak': -1809}
+accumulated score
+{'newuak': 7054, 'kuhnshark': 5052, 'olduak': -12106}
+
+Seed: 7
+starting position: newuak kuhnshark olduak
+SCORE:201|63|-264:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:152|-299|147:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:118|68|-186:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:157|-369|212:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-262|92|170:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-296|155|141:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 958, 'kuhnshark': 718, 'olduak': -1676}
+accumulated score
+{'newuak': 8012, 'kuhnshark': 5770, 'olduak': -13782}
+
+Seed: 8
+starting position: newuak kuhnshark olduak
+SCORE:302|-45|-257:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:305|-449|144:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:298|-80|-218:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:270|-449|179:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-143|-36|179:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-173|-5|178:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 880, 'kuhnshark': 809, 'olduak': -1689}
+accumulated score
+{'newuak': 8892, 'kuhnshark': 6579, 'olduak': -15471}
+
+Seed: 9
+starting position: newuak kuhnshark olduak
+SCORE:221|25|-246:newuak|kuhnshark|olduak
+starting position: newuak olduak kuhnshark
+SCORE:176|-320|144:newuak|olduak|kuhnshark
+starting position: kuhnshark newuak olduak
+SCORE:176|65|-241:kuhnshark|newuak|olduak
+starting position: kuhnshark olduak newuak
+SCORE:150|-332|182:kuhnshark|olduak|newuak
+starting position: olduak kuhnshark newuak
+SCORE:-213|99|114:olduak|kuhnshark|newuak
+starting position: olduak newuak kuhnshark
+SCORE:-239|130|109:olduak|newuak|kuhnshark
+
+seed score
+{'newuak': 888, 'kuhnshark': 703, 'olduak': -1591}
+accumulated score
+{'newuak': 9780, 'kuhnshark': 7282, 'olduak': -17062}
+

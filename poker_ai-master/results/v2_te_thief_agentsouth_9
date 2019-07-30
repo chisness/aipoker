@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te thief agentsouth
+
+Seed: 0
+starting position: te thief agentsouth
+SCORE:229|-288|59:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:155|-52|-103:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:143|-214|71:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:89|-113|24:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:284|-202|-82:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:279|-57|-222:agentsouth|te|thief
+
+seed score
+{'te': 55, 'thief': -583, 'agentsouth': 528}
+accumulated score
+{'te': 55, 'thief': -583, 'agentsouth': 528}
+
+Seed: 1
+starting position: te thief agentsouth
+SCORE:-11|-168|179:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:-185|154|31:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:-254|27|227:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-361|195|166:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:50|-63|13:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:27|81|-108:agentsouth|te|thief
+
+seed score
+{'te': 91, 'thief': -923, 'agentsouth': 832}
+accumulated score
+{'te': 146, 'thief': -1506, 'agentsouth': 1360}
+
+Seed: 2
+starting position: te thief agentsouth
+SCORE:-59|46|13:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:-174|277|-103:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:-236|77|159:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-293|231|62:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:33|42|-75:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:47|229|-276:agentsouth|te|thief
+
+seed score
+{'te': 60, 'thief': -820, 'agentsouth': 760}
+accumulated score
+{'te': 206, 'thief': -2326, 'agentsouth': 2120}
+
+Seed: 3
+starting position: te thief agentsouth
+SCORE:198|-227|29:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:21|67|-88:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:-51|-57|108:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-70|18|52:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:254|-148|-106:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:180|41|-221:agentsouth|te|thief
+
+seed score
+{'te': 149, 'thief': -805, 'agentsouth': 656}
+accumulated score
+{'te': 355, 'thief': -3131, 'agentsouth': 2776}
+
+Seed: 4
+starting position: te thief agentsouth
+SCORE:199|-305|106:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:-50|103|-53:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:-32|-47|79:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-53|32|21:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:173|-75|-98:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:141|82|-223:agentsouth|te|thief
+
+seed score
+{'te': 107, 'thief': -741, 'agentsouth': 634}
+accumulated score
+{'te': 462, 'thief': -3872, 'agentsouth': 3410}
+
+Seed: 5
+starting position: te thief agentsouth
+SCORE:127|-256|129:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:2|36|-38:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:-23|-100|123:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-130|44|86:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:149|-125|-24:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:192|-3|-189:agentsouth|te|thief
+
+seed score
+{'te': 88, 'thief': -761, 'agentsouth': 673}
+accumulated score
+{'te': 550, 'thief': -4633, 'agentsouth': 4083}
+
+Seed: 6
+starting position: te thief agentsouth
+SCORE:-104|-137|241:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:-135|131|4:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:-247|-92|339:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-329|120|209:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:31|-132|101:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:-36|104|-68:agentsouth|te|thief
+
+seed score
+{'te': 83, 'thief': -909, 'agentsouth': 826}
+accumulated score
+{'te': 633, 'thief': -5542, 'agentsouth': 4909}
+
+Seed: 7
+starting position: te thief agentsouth
+SCORE:95|-187|92:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:-61|73|-12:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:42|-182|140:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-157|62|95:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:43|-28|-15:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:61|-10|-51:agentsouth|te|thief
+
+seed score
+{'te': -78, 'thief': -393, 'agentsouth': 471}
+accumulated score
+{'te': 555, 'thief': -5935, 'agentsouth': 5380}
+
+Seed: 8
+starting position: te thief agentsouth
+SCORE:260|-438|178:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:67|4|-71:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:25|-191|166:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-26|-73|99:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:325|-312|-13:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:281|-114|-167:agentsouth|te|thief
+
+seed score
+{'te': 108, 'thief': -989, 'agentsouth': 881}
+accumulated score
+{'te': 663, 'thief': -6924, 'agentsouth': 6261}
+
+Seed: 9
+starting position: te thief agentsouth
+SCORE:146|-247|101:te|thief|agentsouth
+starting position: te agentsouth thief
+SCORE:-16|137|-121:te|agentsouth|thief
+starting position: thief te agentsouth
+SCORE:-40|-88|128:thief|te|agentsouth
+starting position: thief agentsouth te
+SCORE:-137|106|31:thief|agentsouth|te
+starting position: agentsouth thief te
+SCORE:183|-129|-54:agentsouth|thief|te
+starting position: agentsouth te thief
+SCORE:180|6|-186:agentsouth|te|thief
+
+seed score
+{'te': 25, 'thief': -860, 'agentsouth': 835}
+accumulated score
+{'te': 688, 'thief': -7784, 'agentsouth': 7096}
+

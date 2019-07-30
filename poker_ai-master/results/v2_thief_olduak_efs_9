@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief olduak efs
+
+Seed: 0
+starting position: thief olduak efs
+SCORE:298|-361|63:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:200|-35|-165:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:74|-161|87:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:61|-102|41:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:393|-435|42:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:272|-110|-162:efs|thief|olduak
+
+seed score
+{'thief': 310, 'olduak': -988, 'efs': 678}
+accumulated score
+{'thief': 310, 'olduak': -988, 'efs': 678}
+
+Seed: 1
+starting position: thief olduak efs
+SCORE:-56|-145|201:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:-83|153|-70:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-291|-27|318:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-243|54|189:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:25|-137|112:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:-25|71|-46:efs|thief|olduak
+
+seed score
+{'thief': 206, 'olduak': -932, 'efs': 726}
+accumulated score
+{'thief': 516, 'olduak': -1920, 'efs': 1404}
+
+Seed: 2
+starting position: thief olduak efs
+SCORE:-88|112|-24:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:-127|370|-243:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-323|176|147:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-253|243|10:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:71|1|-72:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:-96|266|-170:efs|thief|olduak
+
+seed score
+{'thief': 165, 'olduak': -876, 'efs': 711}
+accumulated score
+{'thief': 681, 'olduak': -2796, 'efs': 2115}
+
+Seed: 3
+starting position: thief olduak efs
+SCORE:227|-240|13:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:101|73|-174:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-96|-53|149:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-11|7|4:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:256|-229|-27:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:121|0|-121:efs|thief|olduak
+
+seed score
+{'thief': 252, 'olduak': -871, 'efs': 619}
+accumulated score
+{'thief': 933, 'olduak': -3667, 'efs': 2734}
+
+Seed: 4
+starting position: thief olduak efs
+SCORE:200|-193|-7:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:72|178|-250:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-135|46|89:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-6|66|-60:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:208|-208|0:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:118|51|-169:efs|thief|olduak
+
+seed score
+{'thief': 309, 'olduak': -961, 'efs': 652}
+accumulated score
+{'thief': 1242, 'olduak': -4628, 'efs': 3386}
+
+Seed: 5
+starting position: thief olduak efs
+SCORE:149|-220|71:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:92|88|-180:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-141|-21|162:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-103|28|75:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:229|-221|-8:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:122|31|-153:efs|thief|olduak
+
+seed score
+{'thief': 318, 'olduak': -1018, 'efs': 700}
+accumulated score
+{'thief': 1560, 'olduak': -5646, 'efs': 4086}
+
+Seed: 6
+starting position: thief olduak efs
+SCORE:-96|-102|198:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:-212|177|35:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-358|46|312:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-273|83|190:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:46|-224|178:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:-87|128|-41:efs|thief|olduak
+
+seed score
+{'thief': 234, 'olduak': -963, 'efs': 729}
+accumulated score
+{'thief': 1794, 'olduak': -6609, 'efs': 4815}
+
+Seed: 7
+starting position: thief olduak efs
+SCORE:193|-245|52:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:46|132|-178:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-237|13|224:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-184|76|108:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:127|-293|166:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:114|34|-148:efs|thief|olduak
+
+seed score
+{'thief': 560, 'olduak': -1285, 'efs': 725}
+accumulated score
+{'thief': 2354, 'olduak': -7894, 'efs': 5540}
+
+Seed: 8
+starting position: thief olduak efs
+SCORE:171|-268|97:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:230|-88|-142:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:3|-237|234:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-7|-182|189:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:365|-325|-40:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:263|-171|-92:efs|thief|olduak
+
+seed score
+{'thief': 142, 'olduak': -831, 'efs': 689}
+accumulated score
+{'thief': 2496, 'olduak': -8725, 'efs': 6229}
+
+Seed: 9
+starting position: thief olduak efs
+SCORE:129|-128|-1:thief|olduak|efs
+starting position: thief efs olduak
+SCORE:78|19|-97:thief|efs|olduak
+starting position: olduak thief efs
+SCORE:-35|-90|125:olduak|thief|efs
+starting position: olduak efs thief
+SCORE:-85|-22|107:olduak|efs|thief
+starting position: efs olduak thief
+SCORE:240|-266|26:efs|olduak|thief
+starting position: efs thief olduak
+SCORE:124|-69|-55:efs|thief|olduak
+
+seed score
+{'thief': 181, 'olduak': -666, 'efs': 485}
+accumulated score
+{'thief': 2677, 'olduak': -9391, 'efs': 6714}
+

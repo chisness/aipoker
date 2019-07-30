@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin efs
+
+Seed: 0
+starting position: newuak kevin efs
+SCORE:732|-869|137:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:525|-307|-218:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:18|148|-166:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-495|-15|510:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:99|-394|295:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:386|369|-755:efs|newuak|kevin
+
+seed score
+{'newuak': 2579, 'kevin': -2713, 'efs': 134}
+accumulated score
+{'newuak': 2579, 'kevin': -2713, 'efs': 134}
+
+Seed: 1
+starting position: newuak kevin efs
+SCORE:464|-755|291:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:290|-109|-181:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-423|418|5:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-822|157|665:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:-267|-224|491:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:32|587|-619:efs|newuak|kevin
+
+seed score
+{'newuak': 2915, 'kevin': -3024, 'efs': 109}
+accumulated score
+{'newuak': 5494, 'kevin': -5737, 'efs': 243}
+
+Seed: 2
+starting position: newuak kevin efs
+SCORE:434|-528|94:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:247|68|-315:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-346|546|-200:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-878|367|511:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:-290|-36|326:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:20|740|-760:efs|newuak|kevin
+
+seed score
+{'newuak': 2804, 'kevin': -2863, 'efs': 59}
+accumulated score
+{'newuak': 8298, 'kevin': -8600, 'efs': 302}
+
+Seed: 3
+starting position: newuak kevin efs
+SCORE:685|-787|102:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:486|-197|-289:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-98|279|-181:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-676|96|580:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:2|-355|353:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:298|504|-802:efs|newuak|kevin
+
+seed score
+{'newuak': 2887, 'kevin': -3007, 'efs': 120}
+accumulated score
+{'newuak': 11185, 'kevin': -11607, 'efs': 422}
+
+Seed: 4
+starting position: newuak kevin efs
+SCORE:582|-660|78:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:352|-108|-244:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-93|308|-215:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-700|185|515:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:-23|-344|367:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:263|481|-744:efs|newuak|kevin
+
+seed score
+{'newuak': 2605, 'kevin': -2785, 'efs': 180}
+accumulated score
+{'newuak': 13790, 'kevin': -14392, 'efs': 602}
+
+Seed: 5
+starting position: newuak kevin efs
+SCORE:622|-789|167:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:431|-212|-219:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-159|273|-114:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-705|109|596:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:-120|-342|462:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:199|476|-675:efs|newuak|kevin
+
+seed score
+{'newuak': 2860, 'kevin': -2889, 'efs': 29}
+accumulated score
+{'newuak': 16650, 'kevin': -17281, 'efs': 631}
+
+Seed: 6
+starting position: newuak kevin efs
+SCORE:378|-676|298:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:277|-94|-183:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-381|345|36:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-1010|215|795:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:-326|-270|596:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:-32|491|-459:efs|newuak|kevin
+
+seed score
+{'newuak': 2882, 'kevin': -2979, 'efs': 97}
+accumulated score
+{'newuak': 19532, 'kevin': -20260, 'efs': 728}
+
+Seed: 7
+starting position: newuak kevin efs
+SCORE:519|-696|177:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:230|-169|-61:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-104|252|-148:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-659|108|551:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:-70|-286|356:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:223|435|-658:efs|newuak|kevin
+
+seed score
+{'newuak': 2343, 'kevin': -2464, 'efs': 121}
+accumulated score
+{'newuak': 21875, 'kevin': -22724, 'efs': 849}
+
+Seed: 8
+starting position: newuak kevin efs
+SCORE:754|-956|202:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:648|-421|-227:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-156|254|-98:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-521|-105|626:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:82|-505|423:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:368|375|-743:efs|newuak|kevin
+
+seed score
+{'newuak': 3080, 'kevin': -3108, 'efs': 28}
+accumulated score
+{'newuak': 24955, 'kevin': -25832, 'efs': 877}
+
+Seed: 9
+starting position: newuak kevin efs
+SCORE:608|-797|189:newuak|kevin|efs
+starting position: newuak efs kevin
+SCORE:426|-211|-215:newuak|efs|kevin
+starting position: kevin newuak efs
+SCORE:-274|359|-85:kevin|newuak|efs
+starting position: kevin efs newuak
+SCORE:-702|79|623:kevin|efs|newuak
+starting position: efs kevin newuak
+SCORE:-59|-284|343:efs|kevin|newuak
+starting position: efs newuak kevin
+SCORE:225|592|-817:efs|newuak|kevin
+
+seed score
+{'newuak': 2951, 'kevin': -3089, 'efs': 138}
+accumulated score
+{'newuak': 27906, 'kevin': -28921, 'efs': 1015}
+

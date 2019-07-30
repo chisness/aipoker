@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin te kuhnshark
+
+Seed: 0
+starting position: kevin te kuhnshark
+SCORE:-357|-51|408:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-112|-180|292:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:491|-451|-40:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:271|214|-485:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:184|113|-297:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:623|-619|-4:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2321, 'te': 1112, 'kuhnshark': 1209}
+accumulated score
+{'kevin': -2321, 'te': 1112, 'kuhnshark': 1209}
+
+Seed: 1
+starting position: kevin te kuhnshark
+SCORE:-614|85|529:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-524|69|455:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:210|-325|115:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:10|482|-492:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:-38|241|-203:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:300|-556|256:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2714, 'te': 1257, 'kuhnshark': 1457}
+accumulated score
+{'kevin': -5035, 'te': 2369, 'kuhnshark': 2666}
+
+Seed: 2
+starting position: kevin te kuhnshark
+SCORE:-566|256|310:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-468|159|309:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:247|-214|-33:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:47|601|-648:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:-83|536|-453:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:346|-439|93:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2788, 'te': 1488, 'kuhnshark': 1300}
+accumulated score
+{'kevin': -7823, 'te': 3857, 'kuhnshark': 3966}
+
+Seed: 3
+starting position: kevin te kuhnshark
+SCORE:-513|71|442:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-272|-80|352:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:377|-368|-9:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:179|364|-543:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:117|213|-330:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:533|-613|80:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2639, 'te': 1272, 'kuhnshark': 1367}
+accumulated score
+{'kevin': -10462, 'te': 5129, 'kuhnshark': 5333}
+
+Seed: 4
+starting position: kevin te kuhnshark
+SCORE:-493|26|467:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-232|-62|294:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:384|-383|-1:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:114|377|-491:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:-18|395|-377:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:412|-527|115:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2503, 'te': 1328, 'kuhnshark': 1175}
+accumulated score
+{'kevin': -12965, 'te': 6457, 'kuhnshark': 6508}
+
+Seed: 5
+starting position: kevin te kuhnshark
+SCORE:-504|40|464:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-321|-73|394:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:380|-463|83:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:158|397|-555:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:43|367|-410:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:495|-648|153:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2901, 'te': 1492, 'kuhnshark': 1409}
+accumulated score
+{'kevin': -15866, 'te': 7949, 'kuhnshark': 7917}
+
+Seed: 6
+starting position: kevin te kuhnshark
+SCORE:-740|142|598:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-529|0|529:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:210|-446|236:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:-14|450|-436:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:-66|320|-254:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:248|-503|255:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2908, 'te': 1442, 'kuhnshark': 1466}
+accumulated score
+{'kevin': -18774, 'te': 9391, 'kuhnshark': 9383}
+
+Seed: 7
+starting position: kevin te kuhnshark
+SCORE:-372|-24|396:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-268|-119|387:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:330|-318|-12:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:46|327|-373:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:-119|321|-202:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:432|-581|149:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2114, 'te': 1209, 'kuhnshark': 905}
+accumulated score
+{'kevin': -20888, 'te': 10600, 'kuhnshark': 10288}
+
+Seed: 8
+starting position: kevin te kuhnshark
+SCORE:-493|-20|513:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-199|-102|301:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:467|-532|65:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:237|235|-472:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:211|128|-339:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:640|-792|152:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2827, 'te': 1265, 'kuhnshark': 1562}
+accumulated score
+{'kevin': -23715, 'te': 11865, 'kuhnshark': 11850}
+
+Seed: 9
+starting position: kevin te kuhnshark
+SCORE:-578|132|446:kevin|te|kuhnshark
+starting position: kevin kuhnshark te
+SCORE:-362|19|343:kevin|kuhnshark|te
+starting position: te kevin kuhnshark
+SCORE:361|-356|-5:te|kevin|kuhnshark
+starting position: te kuhnshark kevin
+SCORE:173|418|-591:te|kuhnshark|kevin
+starting position: kuhnshark te kevin
+SCORE:46|305|-351:kuhnshark|te|kevin
+starting position: kuhnshark kevin te
+SCORE:463|-601|138:kuhnshark|kevin|te
+
+seed score
+{'kevin': -2839, 'te': 1452, 'kuhnshark': 1387}
+accumulated score
+{'kevin': -26554, 'te': 13317, 'kuhnshark': 13237}
+

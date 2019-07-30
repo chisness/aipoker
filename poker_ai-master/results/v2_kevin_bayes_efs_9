@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin bayes efs
+
+Seed: 0
+starting position: kevin bayes efs
+SCORE:-763|553|210:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-799|177|622:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:843|-1172|329:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:979|45|-1024:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:577|397|-974:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:465|-1214|749:efs|kevin|bayes
+
+seed score
+{'kevin': -5946, 'bayes': 4143, 'efs': 1803}
+accumulated score
+{'kevin': -5946, 'bayes': 4143, 'efs': 1803}
+
+Seed: 1
+starting position: kevin bayes efs
+SCORE:-1085|707|378:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-1069|344|725:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:451|-952|501:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:596|271|-867:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:239|611|-850:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:99|-967|868:efs|kevin|bayes
+
+seed score
+{'kevin': -5790, 'bayes': 3958, 'efs': 1832}
+accumulated score
+{'kevin': -11736, 'bayes': 8101, 'efs': 3635}
+
+Seed: 2
+starting position: kevin bayes efs
+SCORE:-1142|961|181:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-1129|581|548:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:501|-799|298:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:587|445|-1032:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:197|846|-1043:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:80|-778|698:efs|kevin|bayes
+
+seed score
+{'kevin': -5923, 'bayes': 4141, 'efs': 1782}
+accumulated score
+{'kevin': -17659, 'bayes': 12242, 'efs': 5417}
+
+Seed: 3
+starting position: kevin bayes efs
+SCORE:-874|680|194:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-893|291|602:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:723|-1042|319:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:856|192|-1048:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:496|555|-1051:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:360|-1077|717:efs|kevin|bayes
+
+seed score
+{'kevin': -5985, 'bayes': 4133, 'efs': 1852}
+accumulated score
+{'kevin': -23644, 'bayes': 16375, 'efs': 7269}
+
+Seed: 4
+starting position: kevin bayes efs
+SCORE:-923|766|157:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-942|387|555:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:680|-952|272:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:835|259|-1094:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:470|594|-1064:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:328|-1007|679:efs|kevin|bayes
+
+seed score
+{'kevin': -5982, 'bayes': 4109, 'efs': 1873}
+accumulated score
+{'kevin': -29626, 'bayes': 20484, 'efs': 9142}
+
+Seed: 5
+starting position: kevin bayes efs
+SCORE:-923|672|251:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-925|286|639:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:585|-956|371:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:777|197|-974:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:394|590|-984:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:263|-1008|745:efs|kevin|bayes
+
+seed score
+{'kevin': -5770, 'bayes': 4008, 'efs': 1762}
+accumulated score
+{'kevin': -35396, 'bayes': 24492, 'efs': 10904}
+
+Seed: 6
+starting position: kevin bayes efs
+SCORE:-1212|797|415:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-1178|417|761:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:386|-903|517:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:524|266|-790:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:169|665|-834:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:29|-917|888:efs|kevin|bayes
+
+seed score
+{'kevin': -5834, 'bayes': 4021, 'efs': 1813}
+accumulated score
+{'kevin': -41230, 'bayes': 28513, 'efs': 12717}
+
+Seed: 7
+starting position: kevin bayes efs
+SCORE:-912|680|232:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-939|310|629:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:694|-1058|364:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:781|186|-967:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:426|537|-963:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:295|-1076|781:efs|kevin|bayes
+
+seed score
+{'kevin': -5915, 'bayes': 4102, 'efs': 1813}
+accumulated score
+{'kevin': -47145, 'bayes': 32615, 'efs': 14530}
+
+Seed: 8
+starting position: kevin bayes efs
+SCORE:-769|470|299:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-739|78|661:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:815|-1222|407:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:975|-37|-938:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:583|341|-924:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:451|-1213|762:efs|kevin|bayes
+
+seed score
+{'kevin': -5805, 'bayes': 4024, 'efs': 1781}
+accumulated score
+{'kevin': -52950, 'bayes': 36639, 'efs': 16311}
+
+Seed: 9
+starting position: kevin bayes efs
+SCORE:-968|662|306:kevin|bayes|efs
+starting position: kevin efs bayes
+SCORE:-913|264|649:kevin|efs|bayes
+starting position: bayes kevin efs
+SCORE:634|-1014|380:bayes|kevin|efs
+starting position: bayes efs kevin
+SCORE:791|171|-962:bayes|efs|kevin
+starting position: efs bayes kevin
+SCORE:418|533|-951:efs|bayes|kevin
+starting position: efs kevin bayes
+SCORE:327|-1033|706:efs|kevin|bayes
+
+seed score
+{'kevin': -5841, 'bayes': 3975, 'efs': 1866}
+accumulated score
+{'kevin': -58791, 'bayes': 40614, 'efs': 18177}
+

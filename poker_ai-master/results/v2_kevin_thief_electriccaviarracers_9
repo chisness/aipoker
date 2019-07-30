@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin thief electriccaviarracers
+
+Seed: 0
+starting position: kevin thief electriccaviarracers
+SCORE:-734|130|604:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-416|149|267:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:396|-789|393:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:559|344|-903:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:569|-38|-531:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:772|-1074|302:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4447, 'thief': 1616, 'electriccaviarracers': 2831}
+accumulated score
+{'kevin': -4447, 'thief': 1616, 'electriccaviarracers': 2831}
+
+Seed: 1
+starting position: kevin thief electriccaviarracers
+SCORE:-1013|302|711:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-704|389|315:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:90|-567|477:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:230|542|-772:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:288|209|-497:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:414|-870|456:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4423, 'thief': 1602, 'electriccaviarracers': 2821}
+accumulated score
+{'kevin': -8870, 'thief': 3218, 'electriccaviarracers': 5652}
+
+Seed: 2
+starting position: kevin thief electriccaviarracers
+SCORE:-1085|522|563:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-750|593|157:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:29|-357|328:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:174|766|-940:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:310|410|-720:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:489|-742|253:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4594, 'thief': 1545, 'electriccaviarracers': 3049}
+accumulated score
+{'kevin': -13464, 'thief': 4763, 'electriccaviarracers': 8701}
+
+Seed: 3
+starting position: kevin thief electriccaviarracers
+SCORE:-869|237|632:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-393|230|163:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:348|-687|339:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:456|474|-930:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:499|120|-619:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:707|-975|268:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4473, 'thief': 1592, 'electriccaviarracers': 2881}
+accumulated score
+{'kevin': -17937, 'thief': 6355, 'electriccaviarracers': 11582}
+
+Seed: 4
+starting position: kevin thief electriccaviarracers
+SCORE:-840|323|517:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-440|310|130:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:263|-621|358:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:432|536|-968:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:357|210|-567:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:619|-847|228:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4283, 'thief': 1586, 'electriccaviarracers': 2697}
+accumulated score
+{'kevin': -22220, 'thief': 7941, 'electriccaviarracers': 14279}
+
+Seed: 5
+starting position: kevin thief electriccaviarracers
+SCORE:-900|259|641:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-544|359|185:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:217|-591|374:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:370|512|-882:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:431|216|-647:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:669|-962|293:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4526, 'thief': 1540, 'electriccaviarracers': 2986}
+accumulated score
+{'kevin': -26746, 'thief': 9481, 'electriccaviarracers': 17265}
+
+Seed: 6
+starting position: kevin thief electriccaviarracers
+SCORE:-1182|399|783:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-790|437|353:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:-45|-555|600:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:144|569|-713:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:222|246|-468:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:380|-863|483:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4571, 'thief': 1580, 'electriccaviarracers': 2991}
+accumulated score
+{'kevin': -31317, 'thief': 11061, 'electriccaviarracers': 20256}
+
+Seed: 7
+starting position: kevin thief electriccaviarracers
+SCORE:-847|254|593:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-496|242|254:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:290|-670|380:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:405|476|-881:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:379|120|-499:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:589|-928|339:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4321, 'thief': 1662, 'electriccaviarracers': 2659}
+accumulated score
+{'kevin': -35638, 'thief': 12723, 'electriccaviarracers': 22915}
+
+Seed: 8
+starting position: kevin thief electriccaviarracers
+SCORE:-711|55|656:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-428|143|285:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:433|-847|414:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:524|385|-909:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:626|-52|-574:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:843|-1221|378:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4690, 'thief': 1623, 'electriccaviarracers': 3067}
+accumulated score
+{'kevin': -40328, 'thief': 14346, 'electriccaviarracers': 25982}
+
+Seed: 9
+starting position: kevin thief electriccaviarracers
+SCORE:-852|240|612:kevin|thief|electriccaviarracers
+starting position: kevin electriccaviarracers thief
+SCORE:-531|333|198:kevin|electriccaviarracers|thief
+starting position: thief kevin electriccaviarracers
+SCORE:256|-628|372:thief|kevin|electriccaviarracers
+starting position: thief electriccaviarracers kevin
+SCORE:381|599|-980:thief|electriccaviarracers|kevin
+starting position: electriccaviarracers thief kevin
+SCORE:412|129|-541:electriccaviarracers|thief|kevin
+starting position: electriccaviarracers kevin thief
+SCORE:644|-968|324:electriccaviarracers|kevin|thief
+
+seed score
+{'kevin': -4500, 'thief': 1528, 'electriccaviarracers': 2972}
+accumulated score
+{'kevin': -44828, 'thief': 15874, 'electriccaviarracers': 28954}
+

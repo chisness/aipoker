@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kuhnshark olduak efs
+
+Seed: 0
+starting position: kuhnshark olduak efs
+SCORE:373|-158|-215:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:385|-390|5:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:239|17|-256:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:175|-327|152:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-53|-159|212:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:14|-30|16:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1109, 'olduak': 118, 'efs': -1227}
+accumulated score
+{'kuhnshark': 1109, 'olduak': 118, 'efs': -1227}
+
+Seed: 1
+starting position: kuhnshark olduak efs
+SCORE:48|-9|-39:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:144|-294|150:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:-34|230|-196:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:-33|-216|249:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-345|56|289:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-215|160|55:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1120, 'olduak': 185, 'efs': -1305}
+accumulated score
+{'kuhnshark': 2229, 'olduak': 303, 'efs': -2532}
+
+Seed: 2
+starting position: kuhnshark olduak efs
+SCORE:25|214|-239:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:82|-113|31:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:-66|382|-316:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:-140|-30|170:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-266|143|123:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-206|252|-46:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1034, 'olduak': 136, 'efs': -1170}
+accumulated score
+{'kuhnshark': 3263, 'olduak': 439, 'efs': -3702}
+
+Seed: 3
+starting position: kuhnshark olduak efs
+SCORE:237|-82|-155:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:323|-345|22:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:201|76|-277:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:48|-200|152:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-104|-50|154:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-29|89|-60:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1031, 'olduak': 79, 'efs': -1110}
+accumulated score
+{'kuhnshark': 4294, 'olduak': 518, 'efs': -4812}
+
+Seed: 4
+starting position: kuhnshark olduak efs
+SCORE:144|74|-218:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:197|-199|2:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:117|219|-336:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:34|-161|127:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-242|25|217:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-151|135|16:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1039, 'olduak': 268, 'efs': -1307}
+accumulated score
+{'kuhnshark': 5333, 'olduak': 786, 'efs': -6119}
+
+Seed: 5
+starting position: kuhnshark olduak efs
+SCORE:143|-26|-117:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:272|-422|150:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:113|167|-280:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:41|-213|172:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-213|-28|241:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-99|68|31:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1063, 'olduak': 281, 'efs': -1344}
+accumulated score
+{'kuhnshark': 6396, 'olduak': 1067, 'efs': -7463}
+
+Seed: 6
+starting position: kuhnshark olduak efs
+SCORE:22|-5|-17:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:129|-302|173:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:-144|304|-160:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:-260|-100|360:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-427|68|359:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-296|88|208:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1262, 'olduak': 40, 'efs': -1302}
+accumulated score
+{'kuhnshark': 7658, 'olduak': 1107, 'efs': -8765}
+
+Seed: 7
+starting position: kuhnshark olduak efs
+SCORE:50|27|-77:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:196|-307|111:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:31|175|-206:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:6|-195|189:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-176|-29|205:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-48|19|29:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 834, 'olduak': 175, 'efs': -1009}
+accumulated score
+{'kuhnshark': 8492, 'olduak': 1282, 'efs': -9774}
+
+Seed: 8
+starting position: kuhnshark olduak efs
+SCORE:329|-160|-169:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:393|-494|101:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:161|79|-240:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:185|-394|209:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-125|-132|257:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-17|27|-10:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 1294, 'olduak': 145, 'efs': -1439}
+accumulated score
+{'kuhnshark': 9786, 'olduak': 1427, 'efs': -11213}
+
+Seed: 9
+starting position: kuhnshark olduak efs
+SCORE:227|-59|-168:kuhnshark|olduak|efs
+starting position: kuhnshark efs olduak
+SCORE:162|-302|140:kuhnshark|efs|olduak
+starting position: olduak kuhnshark efs
+SCORE:126|119|-245:olduak|kuhnshark|efs
+starting position: olduak efs kuhnshark
+SCORE:23|-173|150:olduak|efs|kuhnshark
+starting position: efs olduak kuhnshark
+SCORE:-249|49|200:efs|olduak|kuhnshark
+starting position: efs kuhnshark olduak
+SCORE:-61|111|-50:efs|kuhnshark|olduak
+
+seed score
+{'kuhnshark': 969, 'olduak': 229, 'efs': -1198}
+accumulated score
+{'kuhnshark': 10755, 'olduak': 1656, 'efs': -12411}
+

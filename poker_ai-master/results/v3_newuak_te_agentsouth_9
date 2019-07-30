@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te agentsouth
+
+Seed: 0
+starting position: newuak te agentsouth
+SCORE:261|-367|106:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:331|-48|-283:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-79|2|77:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-24|-37|61:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:256|-388|132:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:259|-29|-230:agentsouth|newuak|te
+
+seed score
+{'newuak': 758, 'te': -1371, 'agentsouth': 613}
+accumulated score
+{'newuak': 758, 'te': -1371, 'agentsouth': 613}
+
+Seed: 1
+starting position: newuak te agentsouth
+SCORE:-32|-211|243:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:60|100|-160:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-345|180|165:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-315|129|186:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:5|-251|246:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:31|77|-108:agentsouth|newuak|te
+
+seed score
+{'newuak': 717, 'te': -1390, 'agentsouth': 673}
+accumulated score
+{'newuak': 1475, 'te': -2761, 'agentsouth': 1286}
+
+Seed: 2
+starting position: newuak te agentsouth
+SCORE:-20|-46|66:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:65|238|-303:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-349|285|64:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-349|276|73:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:-20|-123|143:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:0|261|-261:agentsouth|newuak|te
+
+seed score
+{'newuak': 807, 'te': -1431, 'agentsouth': 624}
+accumulated score
+{'newuak': 2282, 'te': -4192, 'agentsouth': 1910}
+
+Seed: 3
+starting position: newuak te agentsouth
+SCORE:179|-287|108:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:253|33|-286:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-174|88|86:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-123|70|53:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:187|-293|106:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:212|24|-236:agentsouth|newuak|te
+
+seed score
+{'newuak': 703, 'te': -1399, 'agentsouth': 696}
+accumulated score
+{'newuak': 2985, 'te': -5591, 'agentsouth': 2606}
+
+Seed: 4
+starting position: newuak te agentsouth
+SCORE:123|-220|97:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:244|92|-336:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-168|126|42:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-173|129|44:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:129|-241|112:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:157|107|-264:agentsouth|newuak|te
+
+seed score
+{'newuak': 756, 'te': -1402, 'agentsouth': 646}
+accumulated score
+{'newuak': 3741, 'te': -6993, 'agentsouth': 3252}
+
+Seed: 5
+starting position: newuak te agentsouth
+SCORE:135|-226|91:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:215|63|-278:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-176|70|106:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-177|93|84:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:126|-292|166:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:203|10|-213:agentsouth|newuak|te
+
+seed score
+{'newuak': 680, 'te': -1362, 'agentsouth': 682}
+accumulated score
+{'newuak': 4421, 'te': -8355, 'agentsouth': 3934}
+
+Seed: 6
+starting position: newuak te agentsouth
+SCORE:-43|-176|219:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:29|114|-143:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-406|180|226:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-363|140|223:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:-50|-217|267:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:-16|110|-94:agentsouth|newuak|te
+
+seed score
+{'newuak': 766, 'te': -1399, 'agentsouth': 633}
+accumulated score
+{'newuak': 5187, 'te': -9754, 'agentsouth': 4567}
+
+Seed: 7
+starting position: newuak te agentsouth
+SCORE:128|-260|132:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:216|35|-251:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-202|123|79:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-184|65|119:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:137|-300|163:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:125|78|-203:agentsouth|newuak|te
+
+seed score
+{'newuak': 827, 'te': -1400, 'agentsouth': 573}
+accumulated score
+{'newuak': 6014, 'te': -11154, 'agentsouth': 5140}
+
+Seed: 8
+starting position: newuak te agentsouth
+SCORE:226|-408|182:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:320|-88|-232:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-120|-5|125:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-57|-44|101:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:262|-454|192:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:265|-66|-199:agentsouth|newuak|te
+
+seed score
+{'newuak': 768, 'te': -1470, 'agentsouth': 702}
+accumulated score
+{'newuak': 6782, 'te': -12624, 'agentsouth': 5842}
+
+Seed: 9
+starting position: newuak te agentsouth
+SCORE:127|-256|129:newuak|te|agentsouth
+starting position: newuak agentsouth te
+SCORE:179|61|-240:newuak|agentsouth|te
+starting position: te newuak agentsouth
+SCORE:-226|124|102:te|newuak|agentsouth
+starting position: te agentsouth newuak
+SCORE:-202|107|95:te|agentsouth|newuak
+starting position: agentsouth te newuak
+SCORE:129|-301|172:agentsouth|te|newuak
+starting position: agentsouth newuak te
+SCORE:179|24|-203:agentsouth|newuak|te
+
+seed score
+{'newuak': 721, 'te': -1428, 'agentsouth': 707}
+accumulated score
+{'newuak': 7503, 'te': -14052, 'agentsouth': 6549}
+

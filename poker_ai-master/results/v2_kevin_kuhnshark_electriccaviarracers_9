@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin kuhnshark electriccaviarracers
+
+Seed: 0
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-78|-149|227:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-337|-100|437:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:692|-764|72:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:210|51|-261:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:279|282|-561:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:477|-471|-6:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2472, 'kuhnshark': 1466, 'electriccaviarracers': 1006}
+accumulated score
+{'kevin': -2472, 'kuhnshark': 1466, 'electriccaviarracers': 1006}
+
+Seed: 1
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-489|119|370:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-600|56|544:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:395|-512|117:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:-34|363|-329:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:-66|517|-451:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:168|-324|156:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2705, 'kuhnshark': 1697, 'electriccaviarracers': 1008}
+accumulated score
+{'kevin': -5177, 'kuhnshark': 3163, 'electriccaviarracers': 2014}
+
+Seed: 2
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-410|199|211:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-644|188|456:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:355|-394|39:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:-47|410|-363:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:-11|662|-651:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:149|-151|2:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2613, 'kuhnshark': 1627, 'electriccaviarracers': 986}
+accumulated score
+{'kevin': -7790, 'kuhnshark': 4790, 'electriccaviarracers': 3000}
+
+Seed: 3
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-209|-54|263:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-343|-94|437:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:580|-628|48:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:145|215|-360:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:165|402|-567:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:376|-426|50:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2533, 'kuhnshark': 1560, 'electriccaviarracers': 973}
+accumulated score
+{'kevin': -10323, 'kuhnshark': 6350, 'electriccaviarracers': 3973}
+
+Seed: 4
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-257|-14|271:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-462|-49|511:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:490|-502|12:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:30|269|-299:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:72|422|-494:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:287|-324|37:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2338, 'kuhnshark': 1476, 'electriccaviarracers': 862}
+accumulated score
+{'kevin': -12661, 'kuhnshark': 7826, 'electriccaviarracers': 4835}
+
+Seed: 5
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-234|-23|257:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-519|42|477:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:523|-591|68:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:114|190|-304:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:37|493|-530:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:274|-428|154:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2606, 'kuhnshark': 1738, 'electriccaviarracers': 868}
+accumulated score
+{'kevin': -15267, 'kuhnshark': 9564, 'electriccaviarracers': 5703}
+
+Seed: 6
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-523|28|495:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-705|56|649:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:277|-536|259:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:-23|280|-257:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:-68|505|-437:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:117|-366|249:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2824, 'kuhnshark': 1685, 'electriccaviarracers': 1139}
+accumulated score
+{'kevin': -18091, 'kuhnshark': 11249, 'electriccaviarracers': 6842}
+
+Seed: 7
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-258|-65|323:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-446|-50|496:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:471|-582|111:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:-63|144|-81:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:32|358|-390:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:151|-191|40:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -1948, 'kuhnshark': 1237, 'electriccaviarracers': 711}
+accumulated score
+{'kevin': -20039, 'kuhnshark': 12486, 'electriccaviarracers': 7553}
+
+Seed: 8
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-367|-51|418:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-419|-118|537:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:665|-759|94:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:268|85|-353:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:288|299|-587:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:461|-579|118:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -3064, 'kuhnshark': 1836, 'electriccaviarracers': 1228}
+accumulated score
+{'kevin': -23103, 'kuhnshark': 14322, 'electriccaviarracers': 8781}
+
+Seed: 9
+starting position: kevin kuhnshark electriccaviarracers
+SCORE:-251|53|198:kevin|kuhnshark|electriccaviarracers
+starting position: kevin electriccaviarracers kuhnshark
+SCORE:-495|0|495:kevin|electriccaviarracers|kuhnshark
+starting position: kuhnshark kevin electriccaviarracers
+SCORE:541|-596|55:kuhnshark|kevin|electriccaviarracers
+starting position: kuhnshark electriccaviarracers kevin
+SCORE:92|237|-329:kuhnshark|electriccaviarracers|kevin
+starting position: electriccaviarracers kuhnshark kevin
+SCORE:63|477|-540:electriccaviarracers|kuhnshark|kevin
+starting position: electriccaviarracers kevin kuhnshark
+SCORE:313|-355|42:electriccaviarracers|kevin|kuhnshark
+
+seed score
+{'kevin': -2566, 'kuhnshark': 1700, 'electriccaviarracers': 866}
+accumulated score
+{'kevin': -25669, 'kuhnshark': 16022, 'electriccaviarracers': 9647}
+

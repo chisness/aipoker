@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak bayes efs
+
+Seed: 0
+starting position: newuak bayes efs
+SCORE:187|-126|-61:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:484|-461|-23:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:234|97|-331:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:231|-208|-23:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-99|-173|272:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:96|-169|73:efs|newuak|bayes
+
+seed score
+{'newuak': 848, 'bayes': 216, 'efs': -1064}
+accumulated score
+{'newuak': 848, 'bayes': 216, 'efs': -1064}
+
+Seed: 1
+starting position: newuak bayes efs
+SCORE:-113|45|68:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:235|-311|76:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:-150|279|-129:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:-66|-69|135:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-389|-8|397:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:-194|13|181:efs|newuak|bayes
+
+seed score
+{'newuak': 946, 'bayes': 78, 'efs': -1024}
+accumulated score
+{'newuak': 1794, 'bayes': 294, 'efs': -2088}
+
+Seed: 2
+starting position: newuak bayes efs
+SCORE:-121|228|-107:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:199|-157|-42:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:-87|496|-409:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:-86|109|-23:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-433|182|251:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:-110|85|25:efs|newuak|bayes
+
+seed score
+{'newuak': 887, 'bayes': 220, 'efs': -1107}
+accumulated score
+{'newuak': 2681, 'bayes': 514, 'efs': -3195}
+
+Seed: 3
+starting position: newuak bayes efs
+SCORE:67|34|-101:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:416|-375|-41:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:96|261|-357:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:152|-147|-5:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-211|-85|296:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:16|-60|44:efs|newuak|bayes
+
+seed score
+{'newuak': 975, 'bayes': 200, 'efs': -1175}
+accumulated score
+{'newuak': 3656, 'bayes': 714, 'efs': -4370}
+
+Seed: 4
+starting position: newuak bayes efs
+SCORE:-16|99|-83:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:326|-250|-76:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:74|322|-396:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:134|-83|-51:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-276|-21|297:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:23|-35|12:efs|newuak|bayes
+
+seed score
+{'newuak': 843, 'bayes': 222, 'efs': -1065}
+accumulated score
+{'newuak': 4499, 'bayes': 936, 'efs': -5435}
+
+Seed: 5
+starting position: newuak bayes efs
+SCORE:-5|11|-6:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:380|-397|17:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:38|268|-306:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:93|-135|42:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-306|-22|328:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:27|-92|65:efs|newuak|bayes
+
+seed score
+{'newuak': 921, 'bayes': 202, 'efs': -1123}
+accumulated score
+{'newuak': 5420, 'bayes': 1138, 'efs': -6558}
+
+Seed: 6
+starting position: newuak bayes efs
+SCORE:-137|94|43:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:173|-290|117:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:-200|358|-158:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:-108|-81|189:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-434|9|425:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:-116|-70|186:efs|newuak|bayes
+
+seed score
+{'newuak': 938, 'bayes': 98, 'efs': -1036}
+accumulated score
+{'newuak': 6358, 'bayes': 1236, 'efs': -7594}
+
+Seed: 7
+starting position: newuak bayes efs
+SCORE:-100|6|94:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:398|-414|16:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:79|222|-301:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:91|-95|4:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-280|-55|335:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:27|-102|75:efs|newuak|bayes
+
+seed score
+{'newuak': 757, 'bayes': 212, 'efs': -969}
+accumulated score
+{'newuak': 7115, 'bayes': 1448, 'efs': -8563}
+
+Seed: 8
+starting position: newuak bayes efs
+SCORE:193|-174|-19:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:513|-540|27:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:146|146|-292:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:263|-283|20:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-153|-240|393:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:67|-139|72:efs|newuak|bayes
+
+seed score
+{'newuak': 1126, 'bayes': 94, 'efs': -1220}
+accumulated score
+{'newuak': 8241, 'bayes': 1542, 'efs': -9783}
+
+Seed: 9
+starting position: newuak bayes efs
+SCORE:79|-31|-48:newuak|bayes|efs
+starting position: newuak efs bayes
+SCORE:336|-344|8:newuak|efs|bayes
+starting position: bayes newuak efs
+SCORE:37|239|-276:bayes|newuak|efs
+starting position: bayes efs newuak
+SCORE:110|-111|1:bayes|efs|newuak
+starting position: efs bayes newuak
+SCORE:-256|-55|311:efs|bayes|newuak
+starting position: efs newuak bayes
+SCORE:-56|9|47:efs|newuak|bayes
+
+seed score
+{'newuak': 975, 'bayes': 116, 'efs': -1091}
+accumulated score
+{'newuak': 9216, 'bayes': 1658, 'efs': -10874}
+

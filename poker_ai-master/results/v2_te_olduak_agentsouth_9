@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te olduak agentsouth
+
+Seed: 0
+starting position: te olduak agentsouth
+SCORE:302|-581|279:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:261|253|-514:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-337|-85|422:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-222|114|108:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:624|-653|29:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:477|-42|-435:agentsouth|te|olduak
+
+seed score
+{'te': 573, 'olduak': -2742, 'agentsouth': 2169}
+accumulated score
+{'te': 573, 'olduak': -2742, 'agentsouth': 2169}
+
+Seed: 1
+starting position: te olduak agentsouth
+SCORE:46|-423|377:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:-10|454|-444:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-591|61|530:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-482|289|193:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:352|-550|198:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:225|116|-341:agentsouth|te|olduak
+
+seed score
+{'te': 604, 'olduak': -2831, 'agentsouth': 2227}
+accumulated score
+{'te': 1177, 'olduak': -5573, 'agentsouth': 4396}
+
+Seed: 2
+starting position: te olduak agentsouth
+SCORE:25|-299|274:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:-59|578|-519:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-633|206|427:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-565|466|99:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:339|-364|25:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:188|269|-457:agentsouth|te|olduak
+
+seed score
+{'te': 565, 'olduak': -2837, 'agentsouth': 2272}
+accumulated score
+{'te': 1742, 'olduak': -8410, 'agentsouth': 6668}
+
+Seed: 3
+starting position: te olduak agentsouth
+SCORE:247|-518|271:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:158|390|-548:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-443|13|430:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-352|222|130:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:522|-601|79:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:398|71|-469:agentsouth|te|olduak
+
+seed score
+{'te': 698, 'olduak': -2931, 'agentsouth': 2233}
+accumulated score
+{'te': 2440, 'olduak': -11341, 'agentsouth': 8901}
+
+Seed: 4
+starting position: te olduak agentsouth
+SCORE:173|-404|231:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:116|442|-558:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-490|93|397:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-356|284|72:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:504|-503|-1:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:347|97|-444:agentsouth|te|olduak
+
+seed score
+{'te': 550, 'olduak': -2755, 'agentsouth': 2205}
+accumulated score
+{'te': 2990, 'olduak': -14096, 'agentsouth': 11106}
+
+Seed: 5
+starting position: te olduak agentsouth
+SCORE:132|-458|326:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:113|439|-552:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-515|34|481:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-370|233|137:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:496|-501|5:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:381|50|-431:agentsouth|te|olduak
+
+seed score
+{'te': 471, 'olduak': -2827, 'agentsouth': 2356}
+accumulated score
+{'te': 3461, 'olduak': -16923, 'agentsouth': 13462}
+
+Seed: 6
+starting position: te olduak agentsouth
+SCORE:-30|-411|441:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:-95|492|-397:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-738|109|629:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-623|377|246:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:297|-507|210:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:178|136|-314:agentsouth|te|olduak
+
+seed score
+{'te': 576, 'olduak': -2990, 'agentsouth': 2414}
+accumulated score
+{'te': 4037, 'olduak': -19913, 'agentsouth': 15876}
+
+Seed: 7
+starting position: te olduak agentsouth
+SCORE:160|-473|313:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:90|356|-446:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-479|34|445:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-341|216|125:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:468|-617|149:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:273|35|-308:agentsouth|te|olduak
+
+seed score
+{'te': 593, 'olduak': -2664, 'agentsouth': 2071}
+accumulated score
+{'te': 4630, 'olduak': -22577, 'agentsouth': 17947}
+
+Seed: 8
+starting position: te olduak agentsouth
+SCORE:295|-658|363:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:253|285|-538:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-376|-121|497:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-258|116|142:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:632|-752|120:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:480|-70|-410:agentsouth|te|olduak
+
+seed score
+{'te': 619, 'olduak': -2992, 'agentsouth': 2373}
+accumulated score
+{'te': 5249, 'olduak': -25569, 'agentsouth': 20320}
+
+Seed: 9
+starting position: te olduak agentsouth
+SCORE:180|-496|316:te|olduak|agentsouth
+starting position: te agentsouth olduak
+SCORE:99|413|-512:te|agentsouth|olduak
+starting position: olduak te agentsouth
+SCORE:-478|17|461:olduak|te|agentsouth
+starting position: olduak agentsouth te
+SCORE:-406|299|107:olduak|agentsouth|te
+starting position: agentsouth olduak te
+SCORE:497|-590|93:agentsouth|olduak|te
+starting position: agentsouth te olduak
+SCORE:321|98|-419:agentsouth|te|olduak
+
+seed score
+{'te': 594, 'olduak': -2901, 'agentsouth': 2307}
+accumulated score
+{'te': 5843, 'olduak': -28470, 'agentsouth': 22627}
+

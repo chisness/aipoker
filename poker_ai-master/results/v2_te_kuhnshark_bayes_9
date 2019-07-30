@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te kuhnshark bayes
+
+Seed: 0
+starting position: te kuhnshark bayes
+SCORE:189|103|-292:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:66|-260|194:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:397|-268|-129:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:417|-420|3:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:43|58|-101:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-40|-161|201:bayes|te|kuhnshark
+
+seed score
+{'te': -272, 'kuhnshark': 1370, 'bayes': -1098}
+accumulated score
+{'te': -272, 'kuhnshark': 1370, 'bayes': -1098}
+
+Seed: 1
+starting position: te kuhnshark bayes
+SCORE:-66|218|-152:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-196|-108|304:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:137|-118|-19:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:171|-278|107:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-217|222|-5:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-342|14|328:bayes|te|kuhnshark
+
+seed score
+{'te': -264, 'kuhnshark': 1380, 'bayes': -1116}
+accumulated score
+{'te': -536, 'kuhnshark': 2750, 'bayes': -2214}
+
+Seed: 2
+starting position: te kuhnshark bayes
+SCORE:-93|396|-303:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-200|35|165:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:106|70|-176:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:131|-104|-27:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-215|349|-134:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-367|161|206:bayes|te|kuhnshark
+
+seed score
+{'te': -223, 'kuhnshark': 1353, 'bayes': -1130}
+accumulated score
+{'te': -759, 'kuhnshark': 4103, 'bayes': -3344}
+
+Seed: 3
+starting position: te kuhnshark bayes
+SCORE:108|183|-291:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-9|-133|142:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:308|-148|-160:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:338|-320|-18:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-41|168|-127:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-145|-36|181:bayes|te|kuhnshark
+
+seed score
+{'te': -230, 'kuhnshark': 1320, 'bayes': -1090}
+accumulated score
+{'te': -989, 'kuhnshark': 5423, 'bayes': -4434}
+
+Seed: 4
+starting position: te kuhnshark bayes
+SCORE:40|231|-271:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-41|-119|160:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:262|-96|-166:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:288|-228|-60:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-69|196|-127:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-176|14|162:bayes|te|kuhnshark
+
+seed score
+{'te': -270, 'kuhnshark': 1299, 'bayes': -1029}
+accumulated score
+{'te': -1259, 'kuhnshark': 6722, 'bayes': -5463}
+
+Seed: 5
+starting position: te kuhnshark bayes
+SCORE:56|188|-244:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-52|-149|201:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:266|-147|-119:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:281|-274|-7:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-35|178|-143:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-214|3|211:bayes|te|kuhnshark
+
+seed score
+{'te': -290, 'kuhnshark': 1325, 'bayes': -1035}
+accumulated score
+{'te': -1549, 'kuhnshark': 8047, 'bayes': -6498}
+
+Seed: 6
+starting position: te kuhnshark bayes
+SCORE:-146|282|-136:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-237|-111|348:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:68|-87|19:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:96|-217|121:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-263|235|28:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-404|44|360:bayes|te|kuhnshark
+
+seed score
+{'te': -277, 'kuhnshark': 1389, 'bayes': -1112}
+accumulated score
+{'te': -1826, 'kuhnshark': 9436, 'bayes': -7610}
+
+Seed: 7
+starting position: te kuhnshark bayes
+SCORE:58|172|-230:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-61|-172|233:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:229|-149|-80:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:262|-298|36:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-58|144|-86:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-205|-55|260:bayes|te|kuhnshark
+
+seed score
+{'te': -257, 'kuhnshark': 1300, 'bayes': -1043}
+accumulated score
+{'te': -2083, 'kuhnshark': 10736, 'bayes': -8653}
+
+Seed: 8
+starting position: te kuhnshark bayes
+SCORE:165|45|-210:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:74|-319|245:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:361|-279|-82:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:401|-453|52:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:39|40|-79:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-96|-179|275:bayes|te|kuhnshark
+
+seed score
+{'te': -246, 'kuhnshark': 1367, 'bayes': -1121}
+accumulated score
+{'te': -2329, 'kuhnshark': 12103, 'bayes': -9774}
+
+Seed: 9
+starting position: te kuhnshark bayes
+SCORE:72|158|-230:te|kuhnshark|bayes
+starting position: te bayes kuhnshark
+SCORE:-34|-179|213:te|bayes|kuhnshark
+starting position: kuhnshark te bayes
+SCORE:276|-151|-125:kuhnshark|te|bayes
+starting position: kuhnshark bayes te
+SCORE:291|-317|26:kuhnshark|bayes|te
+starting position: bayes kuhnshark te
+SCORE:-68|152|-84:bayes|kuhnshark|te
+starting position: bayes te kuhnshark
+SCORE:-192|-21|213:bayes|te|kuhnshark
+
+seed score
+{'te': -192, 'kuhnshark': 1303, 'bayes': -1111}
+accumulated score
+{'te': -2521, 'kuhnshark': 13406, 'bayes': -10885}
+

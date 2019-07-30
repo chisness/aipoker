@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: thief electriccaviarracers olduak
+
+Seed: 0
+starting position: thief electriccaviarracers olduak
+SCORE:3|107|-110:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:23|-122|99:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:356|-363|7:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:416|-213|-203:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:229|-34|-195:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:118|-264|146:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -999, 'electriccaviarracers': 1090, 'olduak': -91}
+accumulated score
+{'thief': -999, 'electriccaviarracers': 1090, 'olduak': -91}
+
+Seed: 1
+starting position: thief electriccaviarracers olduak
+SCORE:-268|213|55:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-323|75|248:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:-18|-126|144:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:158|-18|-140:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:-54|121|-67:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:-202|-102|304:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -1026, 'electriccaviarracers': 1026, 'olduak': 0}
+accumulated score
+{'thief': -2025, 'electriccaviarracers': 2116, 'olduak': -91}
+
+Seed: 2
+starting position: thief electriccaviarracers olduak
+SCORE:-286|388|-102:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-350|232|118:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:-16|-5|21:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:228|101|-329:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:-108|311|-203:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:-259|51|208:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -1122, 'electriccaviarracers': 1237, 'olduak': -115}
+accumulated score
+{'thief': -3147, 'electriccaviarracers': 3353, 'olduak': -206}
+
+Seed: 3
+starting position: thief electriccaviarracers olduak
+SCORE:-86|155|-69:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-5|-55|60:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:224|-242|18:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:371|-160|-211:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:145|53|-198:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:26|-183|157:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -925, 'electriccaviarracers': 1020, 'olduak': -95}
+accumulated score
+{'thief': -4072, 'electriccaviarracers': 4373, 'olduak': -301}
+
+Seed: 4
+starting position: thief electriccaviarracers olduak
+SCORE:-24|145|-121:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-177|61|116:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:172|-122|-50:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:228|22|-250:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:157|125|-282:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:-29|-185|214:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -1040, 'electriccaviarracers': 1000, 'olduak': 40}
+accumulated score
+{'thief': -5112, 'electriccaviarracers': 5373, 'olduak': -261}
+
+Seed: 5
+starting position: thief electriccaviarracers olduak
+SCORE:-159|189|-30:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-225|57|168:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:82|-213|131:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:176|-88|-88:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:174|35|-209:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:87|-225|138:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -1119, 'electriccaviarracers': 788, 'olduak': 331}
+accumulated score
+{'thief': -6231, 'electriccaviarracers': 6161, 'olduak': 70}
+
+Seed: 6
+starting position: thief electriccaviarracers olduak
+SCORE:-358|310|48:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-383|91|292:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:0|-190|190:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:31|48|-79:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:-102|121|-19:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:-248|-131|379:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -1160, 'electriccaviarracers': 1133, 'olduak': 27}
+accumulated score
+{'thief': -7391, 'electriccaviarracers': 7294, 'olduak': 97}
+
+Seed: 7
+starting position: thief electriccaviarracers olduak
+SCORE:-113|154|-41:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-90|-101|191:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:199|-206|7:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:139|-61|-78:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:33|3|-36:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:-66|-204|270:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -727, 'electriccaviarracers': 956, 'olduak': -229}
+accumulated score
+{'thief': -8118, 'electriccaviarracers': 8250, 'olduak': -132}
+
+Seed: 8
+starting position: thief electriccaviarracers olduak
+SCORE:-24|-20|44:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-92|-150|242:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:334|-443|109:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:569|-289|-280:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:249|-88|-161:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:129|-438|309:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -1438, 'electriccaviarracers': 1346, 'olduak': 92}
+accumulated score
+{'thief': -9556, 'electriccaviarracers': 9596, 'olduak': -40}
+
+Seed: 9
+starting position: thief electriccaviarracers olduak
+SCORE:-81|199|-118:thief|electriccaviarracers|olduak
+starting position: thief olduak electriccaviarracers
+SCORE:-95|61|34:thief|olduak|electriccaviarracers
+starting position: electriccaviarracers thief olduak
+SCORE:145|-207|62:electriccaviarracers|thief|olduak
+starting position: electriccaviarracers olduak thief
+SCORE:259|-71|-188:electriccaviarracers|olduak|thief
+starting position: olduak electriccaviarracers thief
+SCORE:109|99|-208:olduak|electriccaviarracers|thief
+starting position: olduak thief electriccaviarracers
+SCORE:-17|-241|258:olduak|thief|electriccaviarracers
+
+seed score
+{'thief': -1020, 'electriccaviarracers': 994, 'olduak': 26}
+accumulated score
+{'thief': -10576, 'electriccaviarracers': 10590, 'olduak': -14}
+

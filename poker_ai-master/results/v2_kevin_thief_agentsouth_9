@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin thief agentsouth
+
+Seed: 0
+starting position: kevin thief agentsouth
+SCORE:-332|181|151:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-250|77|173:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:428|-590|162:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:570|54|-624:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:434|-27|-407:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:362|-698|336:agentsouth|kevin|thief
+
+seed score
+{'kevin': -2901, 'thief': 1661, 'agentsouth': 1240}
+accumulated score
+{'kevin': -2901, 'thief': 1661, 'agentsouth': 1240}
+
+Seed: 1
+starting position: kevin thief agentsouth
+SCORE:-673|333|340:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-617|296|321:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:64|-441|377:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:199|262|-461:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:213|173|-386:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:145|-587|442:agentsouth|kevin|thief
+
+seed score
+{'kevin': -3165, 'thief': 1532, 'agentsouth': 1633}
+accumulated score
+{'kevin': -6066, 'thief': 3193, 'agentsouth': 2873}
+
+Seed: 2
+starting position: kevin thief agentsouth
+SCORE:-693|538|155:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-604|455|149:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:46|-281|235:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:178|390|-568:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:159|410|-569:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:91|-353|262:agentsouth|kevin|thief
+
+seed score
+{'kevin': -3068, 'thief': 1583, 'agentsouth': 1485}
+accumulated score
+{'kevin': -9134, 'thief': 4776, 'agentsouth': 4358}
+
+Seed: 3
+starting position: kevin thief agentsouth
+SCORE:-511|230|281:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-335|125|210:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:327|-578|251:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:436|182|-618:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:350|189|-539:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:334|-593|259:agentsouth|kevin|thief
+
+seed score
+{'kevin': -3174, 'thief': 1651, 'agentsouth': 1523}
+accumulated score
+{'kevin': -12308, 'thief': 6427, 'agentsouth': 5881}
+
+Seed: 4
+starting position: kevin thief agentsouth
+SCORE:-547|370|177:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-330|216|114:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:243|-512|269:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:416|180|-596:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:278|235|-513:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:228|-463|235:agentsouth|kevin|thief
+
+seed score
+{'kevin': -2961, 'thief': 1613, 'agentsouth': 1348}
+accumulated score
+{'kevin': -15269, 'thief': 8040, 'agentsouth': 7229}
+
+Seed: 5
+starting position: kevin thief agentsouth
+SCORE:-563|262|301:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-350|171|179:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:234|-598|364:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:382|187|-569:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:289|231|-520:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:269|-608|339:agentsouth|kevin|thief
+
+seed score
+{'kevin': -3208, 'thief': 1627, 'agentsouth': 1581}
+accumulated score
+{'kevin': -18477, 'thief': 9667, 'agentsouth': 8810}
+
+Seed: 6
+starting position: kevin thief agentsouth
+SCORE:-853|404|449:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-615|234|381:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:-63|-448|511:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:108|199|-307:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:156|216|-372:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:150|-579|429:agentsouth|kevin|thief
+
+seed score
+{'kevin': -3174, 'thief': 1475, 'agentsouth': 1699}
+accumulated score
+{'kevin': -21651, 'thief': 11142, 'agentsouth': 10509}
+
+Seed: 7
+starting position: kevin thief agentsouth
+SCORE:-502|302|200:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-422|175|247:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:248|-483|235:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:421|86|-507:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:172|185|-357:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:99|-449|350:agentsouth|kevin|thief
+
+seed score
+{'kevin': -2720, 'thief': 1753, 'agentsouth': 967}
+accumulated score
+{'kevin': -24371, 'thief': 12895, 'agentsouth': 11476}
+
+Seed: 8
+starting position: kevin thief agentsouth
+SCORE:-350|65|285:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-381|184|197:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:409|-721|312:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:500|100|-600:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:501|-85|-416:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:476|-827|351:agentsouth|kevin|thief
+
+seed score
+{'kevin': -3295, 'thief': 1437, 'agentsouth': 1858}
+accumulated score
+{'kevin': -27666, 'thief': 14332, 'agentsouth': 13334}
+
+Seed: 9
+starting position: kevin thief agentsouth
+SCORE:-491|254|237:kevin|thief|agentsouth
+starting position: kevin agentsouth thief
+SCORE:-466|253|213:kevin|agentsouth|thief
+starting position: thief kevin agentsouth
+SCORE:228|-508|280:thief|kevin|agentsouth
+starting position: thief agentsouth kevin
+SCORE:434|231|-665:thief|agentsouth|kevin
+starting position: agentsouth thief kevin
+SCORE:329|119|-448:agentsouth|thief|kevin
+starting position: agentsouth kevin thief
+SCORE:324|-681|357:agentsouth|kevin|thief
+
+seed score
+{'kevin': -3259, 'thief': 1605, 'agentsouth': 1654}
+accumulated score
+{'kevin': -30925, 'thief': 15937, 'agentsouth': 14988}
+

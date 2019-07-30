@@ -6,6 +6,7 @@ import collections
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from enum import Enum
 
 # class Poker:
 # 	def __init__(self, dealer_player = 1, players = 2):
@@ -44,7 +45,7 @@ class Kuhn:
 		print('Player 1 card: {}'.format(self.player1cards))
 
 	def game(self):
-		print('Action history: {}'.format(self.history))
+		print('\nAction history: {}'.format(self.history))
 		plays = len(self.history)
 		acting_player = (plays + self.dealer_player)%2
 		if len(self.history) >= 1:
@@ -53,7 +54,7 @@ class Kuhn:
 				profit = (self.pot - self.betsize) / 2
 				self.players[acting_player].profit += profit
 				self.players[1-acting_player].profit -= profit
-				print('End of game! Player {} wins pot of {} (profits of {})\n'.format(self.acting_player, self.pot, profit))
+				print('End of game! Player {} wins pot of {} (profits of {})\n'.format(acting_player, self.pot, profit))
 				return profit
 
 		if len(self.history) >= 2:
@@ -69,7 +70,7 @@ class Kuhn:
 					return -profit
 
 		#still going in round
-		print('\nPot size: {}'.format(self.pot))
+		print('Pot size: {}'.format(self.pot))
 		print('Player {} turn to act'.format(acting_player))
 		bet = self.players[acting_player].select_move(self.valid_bets())
 		if bet != 'f':
@@ -136,9 +137,52 @@ class Node:
 		
 		return avg_strategy
 
+# class CardEmbedding(nn.Module):
+# 	def __init__(self, dim):
+# 		super(CardEmbedding, self).__init__()
+# 		self.rank = nn.Embedding(13, dim)
+# 		self.suit = nn.Embedding(4, dim)
+# 		self.card = nn.Embedding(52, dim)
+
+# 	def forward(self, input):
+# 		B, num_cards = input.shape
+# 		x = input.view(-1)
+
+# 		valid = x.ge(0).float() #-1 means no card
+# 		x = x.clamp(min=0)
+
+# 		embs = self.card(x) + self.rank(x // 4) + self.suit(x % 4)
+# 		embs = embs * valid.unsqueeze(1) #zero out ' no card' embeddings
+
+# 		#sum across the cards in the hole/board
+# 		return embs.view(B, num_cards, -1).sum(1)
+
+
+class CardEmbedding(nn.Module):
+	def __init__(self, dim):
+		super(CardEmbedding, self).__init__()
+		self.card = nn.Embedding(3, dim)
+
+	def forward(self, input):
+		B, num_cards = input.shape
+		x = input.view(-1)
+
+		valid = x.ge(0).float() #-1 means no card
+		x = x.clamp(min=0)
+
+		embs = self.card(x)
+		embs = embs * valid.unsqueeze(1) #zero out ' no card' embeddings
+
+		#sum across the cards in the hole/board
+		return embs.view(B, num_cards, -1).sum(1)
+
 class DeepCFRNet(nn.Module):
 	def __init__(self, ncardtypes, nbets, nactions, dim = 128):
-		self.card1 = nn.Linear(dim * ncardtypes, dim)
+		super(DeepCFRNet, self).__init__()
+
+		#self.card_embeddings = nn.ModuleList([CardEmbedding(dim) for _ in range(ncardtypes)])
+
+		self.card1 = nn.Linear(1, dim)
 		self.card2 = nn.Linear(dim, dim)
 		self.card3 = nn.Linear(dim, dim)
 
@@ -153,28 +197,49 @@ class DeepCFRNet(nn.Module):
 
 	def forward(self, cards, bets):
 		#cards leduc is 1 preflop, 1 flop
-		#bets 
+		#bets N x nbet_feats
 
+		#card branch (embed hole, flop, and optionally turn/river)
+		# card_embs = []
+		# for embedding, card_group in zip(self.card_embeddings, cards):
+		# 	card_embs.append(embedding(card_group))
+		# card_embs = torch.cat(card_embs, dim=1)
+
+		#x = F.relu(self.card1(card_embs))
+		#print('PRE RELU', cards.shape)
+		#print('cards', cards)
 		x = F.relu(self.card1(cards))
 		x = F.relu(self.card2(x))
 		x = F.relu(self.card3(x))
 
+		#bet branch
+		bet_size = bets.clamp(0, 1e6)
 		bet_occurred = bets.ge(0) #bets that are >= 0
+		#print('bet size', bet_size)
+		#print('bet occ', bet_occurred)
 		bet_feats = torch.cat([bet_size, bet_occurred.float()], dim=1)
+		#print('bet feats', bet_feats)
 		y = F.relu(self.bet1(bet_feats))
 		y = F.relu(self.bet2(y) + y)
 
+		#combined trunk
+		#print('x', x)
+		#print('y', y)
+		#print('y0', y[0])
 		z = torch.cat([x, y], dim = 1)
 		z = F.relu(self.comb1(z))
 		z = F.relu(self.comb2(z) + z)
 		z = F.relu(self.comb3(z) + z)
-
-		z = normalize(z)
+		#print(z)
+		z_mean = z.mean()
+		z_std = z.std()
+		z = (z - z_mean) / z_std
 		return self.action_head(z)
 
 
 class KuhnCFR:
 	def __init__(self, iterations, decksize, buckets):
+		self.nbets = 3
 		self.iterations = iterations
 		self.decksize = decksize
 		self.cards = np.arange(decksize)
@@ -183,11 +248,36 @@ class KuhnCFR:
 		self.buckets = buckets
 		self.counter = 0
 		self.exploit = collections.defaultdict(float)
-		self.theta_0 = 0
-		self.theta_1 = 0
-		self.m_v0 = []
-		self.m_v1 = []
+
+		self.m_v = [[], []]
 		self.m_pi = []
+		
+		LR = 1e-2
+		self.batch_size = 100
+		self.val_nets = [DeepCFRNet(decksize, self.nbets, self.bet_options, dim=16), DeepCFRNet(decksize, self.nbets, self.bet_options, dim=16)]
+		self.val_net_optims = [torch.optim.Adam(self.val_nets[0].parameters(), lr = LR), torch.optim.Adam(self.val_nets[1].parameters(), lr = LR)]
+
+		self.strategynet = DeepCFRNet(decksize, self.nbets, self.bet_options, dim=16)
+		self.strategynet_optim = torch.optim.Adam(self.strategynet.parameters(), lr = LR)
+
+	def get_strategy(self, adv):
+		normalizing_sum = 0
+		strategy = np.zeros(self.bet_options)
+		adv = adv[0]
+		for a in range(self.bet_options):
+			if adv[a] > 0:
+				strategy[a] = adv[a]
+			else:
+				strategy[a] = 0
+			normalizing_sum += strategy[a]
+
+		for a in range(self.bet_options):
+			if normalizing_sum > 0:
+				strategy[a] /= normalizing_sum
+			else:
+				strategy[a] = 1.0/self.bet_options
+
+		return strategy
 
 	def cfr_iterations_chance(self):
 		util = 0
@@ -302,23 +392,74 @@ class KuhnCFR:
 		for i in sorted(self.nodes):
 			print(i, self.nodes[i].get_average_strategy())
 
-	def cfr_iterations_deep(self):
+	def cfr_iterations_deep(self, k = 100):
 		util = np.zeros(2)
 		for t in range(self.iterations): #start with the chance node sampling
 			random.shuffle(self.cards)
 			for i in range(2):
-				for k in range(10):
-					if i == 0:
-						util[i] += self.deep_cfr(self.cards[:2], '', 2, 0, i, self.theta_0, self.theta_1, self.m_v0, self.m_pi, t)
-					else: 
-						util[i] += self.deep_cfr(self.cards[:2], '', 2, 0, i, self.theta_0, self.theta_1, self.m_v1, self.m_pi, t)
+				for k in range(k):
+					util[i] += self.deep_cfr(self.cards[:2], [], 2, 0, i, self.m_v[i], self.m_pi, t)
 				#train theta_p from scratch on loss
-				#iterate over every infoset and every action
-		#train theta_pi on loss
-		#return theta_pi
+
+				self.val_nets[i] = DeepCFRNet(self.decksize, self.nbets, self.bet_options, dim=16)
+				curr_valnet = self.val_nets[i]
+				curr_memory = self.m_v[i]
+				curr_optim = self.val_net_optims[i]
+				loss = torch.nn.MSELoss()
+				
+#				for i in range(10000):
+				for i in range(5):
+					batch_loss_history = []
+					print(len(curr_memory))
+					for (n, mem) in enumerate(curr_memory):
+						infoset, timestep, regrets = mem
+						cards, history = infoset
+						bets = -torch.ones(self.nbets)
+						for (i, b) in enumerate(history):
+							bets[i] = b / (sum(history[:i]) + 2)
+						#print('training bets', bets)
+						valnet_out = curr_valnet.forward(torch.tensor([[cards]], dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
+						#print('training valnet out', valnet_out)
+						#print('training regrets', regrets)
+						batch_loss_history.append(timestep * loss(valnet_out, torch.tensor([regrets]).float()))
+						if n % self.batch_size == 0 and n > 0:
+							print(n)
+							#print('batch loss history', batch_loss_history)
+							batch_loss_history = torch.stack(batch_loss_history).mean()
+							curr_optim.zero_grad()
+							batch_loss_history.backward()
+							curr_optim.step()
+							batch_loss_history = []
+
+			#train theta_pi on loss
+			for i in range(5):
+				batch_loss_history = []
+				print(len(self.m_pi))
+				for (n, mem) in enumerate(self.m_pi):
+					infoset, timestep, action_probs = mem
+					cards, history = infoset
+					bets = -torch.ones(self.nbets)
+					for (i, b) in enumerate(history):
+						bets[i] = b / (sum(history[:i]) + 2)
+					strategynet_out = self.strategynet.forward(torch.tensor([[cards]], dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
+					batch_loss_history.append(timestep * loss(strategynet_out, torch.tensor([action_probs]).float()))
+					if n % self.batch_size == 0 and n>0:
+						print(n)
+						batch_loss_history = torch.stack(batch_loss_history).mean()
+						self.strategynet_optim.zero_grad()
+						batch_loss_history.backward()
+						self.strategynet_optim.step()
+						batch_loss_history = []
+		
+		bets = -torch.ones(self.nbets)
 		print('Average game value: {}'.format(util[0]/self.iterations))
-		# for i in sorted(self.nodes):
-		# 	print(i, self.nodes[i].get_average_strategy())
+		a1 = self.strategynet.forward(torch.tensor([[0]], dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
+		a2 = self.strategynet.forward(torch.tensor([[1]], dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
+		a3 = self.strategynet.forward(torch.tensor([[2]], dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
+		print(a1)
+		print(a2)
+		print(a3)
+		#return self.m_pi
 
 	def brf(self, player_card, history, player_iteration, opp_reach, buckets):
 		plays = len(history)
@@ -639,20 +780,20 @@ class KuhnCFR:
 			for a in range(num_actions):
 				self.nodes[infoset].strategy_sum[a] += strategy[a]
 			return util
-
-	def deep_cfr(self, cards, history, pot, nodes_touched, traversing_player, theta_0, theta_1, m_v, m_pi, t):
+	
+	def deep_cfr(self, cards, history, pot, nodes_touched, traversing_player, m_v, m_pi, t):
 		plays = len(history)
 		acting_player = plays % 2
 		opponent_player = 1 - acting_player
-		self.counter += 1
+		t += 1
 
 		if plays >= 2:
-			if history[-1] == 'f': #bet fold
+			if history[-1] == 0 and history[-2] == 1: #bet fold
 				if acting_player == traversing_player:
 					return 1
 				else:
 					return -1
-			if (history[-1] == history[-2] == 'k') or (history[-1] == 'c'): #check check or bet call, go to showdown
+			if (history[-1] == history[-2] == 0) or (history[-1] == history[-2] == 1): #check check or bet call, go to showdown
 				if acting_player == traversing_player:
 					if cards[acting_player] > cards[opponent_player]:
 						return pot/2 #profit
@@ -668,80 +809,92 @@ class KuhnCFR:
 		#print('infoset history: {}'.format(history))
 		num_actions = 2
 
-		
 		if self.buckets > 0:
 			bucket = int(cards[acting_player] * self.buckets/self.decksize)
 			infoset = str(bucket) + history
 
 		else:
-			infoset = str(cards[acting_player]) + history
+			#infoset = str(cards[acting_player]) + history
+			infoset = cards[acting_player], history
+			#print(cards[acting_player], history)
+			infoset_str = str(cards[acting_player]) + ''.join(str(history))
 
-		if infoset not in self.nodes:
-			self.nodes[infoset] = Node(num_actions)
+		if infoset_str not in self.nodes:
+			self.nodes[infoset_str] = Node(num_actions)
+
+		bets = -torch.ones(self.nbets)
+		for (i, b) in enumerate(history):
+			# bets should be a list of the proportion each bet is of the pot size
+			bets[i] = b / (sum(history[:i]) + 2)
 
 		nodes_touched += 1
 
-		#strategy = self.nodes[infoset].get_strategy()
+		#strategy = self.cfrnet.forward(torch.tensor([[[cards[traversing_player]]]]), torch.tensor(bets).float().unsqueeze(0))
+		#print('strategy', strategy)
+		#strategy = self.nodes[infoset].get_strategy()  
 		#should come from predicted advantages using regret matching with network for the acting player
 
 		if acting_player == traversing_player:
 			util = np.zeros(self.bet_options) #2 actions
 			node_util = 0
-
+			advantages = self.val_nets[acting_player].forward(torch.tensor([[cards[acting_player]]], dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
+			strategy = self.get_strategy(advantages)
 			for a in range(num_actions):
 				#print('a is: {}'.format(a))
-				if a == 0:
-					if len(history) != 0:
-						if history[-1] == 'b':
-							next_history = history + 'f'
-						elif history[-1] == 'k':
-							next_history = history + 'k'
-					else:
-						next_history = history + 'k'
-				elif a == 1:
-					if len(history) != 0:
-						if history[-1] == 'b':
-							next_history = history + 'c'
-						elif history[-1] == 'k':
-							next_history = history + 'b'
-					else:
-						next_history = history + 'b'
-					pot += 1
-				util[a] = self.deep_cfr(cards, next_history, pot, nodes_touched, traversing_player, theta_0, theta_1, m_v, m_pi, t)
+				next_history = history + [a]
+				pot += a
+				util[a] = self.deep_cfr(cards, next_history, pot, nodes_touched, traversing_player, m_v, m_pi, t)
 				node_util += strategy[a] * util[a]
 
 			action_advantages = np.zeros(num_actions)
 			for a in range(num_actions):
 				action_advantages[a] = util[a] - node_util
-			m_v.append([infoset, t, action_advantages])
+			m_v.append((infoset, t, action_advantages))
 			return node_util
 
 		else: #acting_player != traversing_player
+			advantages = self.val_nets[acting_player].forward(torch.tensor([[cards[acting_player]]],  dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
+			strategy = self.get_strategy(advantages)
 			action_probs = np.zeros(num_actions)
 			for a in range(num_actions):
 				#self.nodes[infoset].strategy_sum[a] += strategy[a]
 				action_probs[a] = strategy[a]
 				#insert infoset, t, strategies into strategy memory
-			m_pi.append([infoset, t, action_probs])
+			m_pi.append((infoset, t, action_probs))
 			util = 0
 			if random.random() < strategy[0]:
-				if len(history) != 0:
-					if history[-1] == 'b':
-						next_history = history + 'f'
-					elif history[-1] == 'k':
-						next_history = history + 'k'
-				else:
-					next_history = history + 'k'
+				next_history = history + [0]
 			else: 
-				if len(history) != 0:
-					if history[-1] == 'b':
-						next_history = history + 'c'
-					elif history[-1] == 'k':
-						next_history = history + 'b'
-				else:
-					next_history = history + 'b'
+				next_history = history + [1]
 				pot += 1
-			return self.deep_cfr(cards, next_history, pot, nodes_touched, traversing_player, theta_0, theta_1, m_v, m_pi, t)
+			return self.deep_cfr(cards, next_history, pot, nodes_touched, traversing_player, m_v, m_pi, t)
+
+
+class Action(Enum):
+	BET = 0
+	CALL = 1
+	FOLD = 2
+	RAISE = 3
+
+class History:
+	def __init__(self):
+		self.actions = []
+
+	def to_string(self):
+		return ''.join(self.actions)
+	
+	def call(self):
+		self.actions.append(Action.CALL)
+
+	def bet(self):
+		self.actions.append(Action.BET)
+
+	def fold(self):
+		self.actions.append(Action.FOLD)
+
+	# Raise is a keyword?
+	def rebet(self):
+		self.actions.append(Action.RAISE)
 
 
 class Kuhn3CFR:
@@ -1230,7 +1383,10 @@ class NLLeducCFR:
 		for i in sorted(self.nodes):
 			print(i, self.nodes[i].get_average_strategy())
 
-	def valid_bets(self, history, round, acting_stack):
+	def valid_bets(self, history, round, acting_player, acting_stack):
+		p0history = history[0::2]
+		p1history = history[1::2]
+
 # 		bet_options = ['f', 'k', 'c', 'b', 'r'] #fold check call bet raise
 		if round == 2:
 			if ['k', 'k'] in history:
@@ -1260,8 +1416,23 @@ class NLLeducCFR:
 			acting_player = 1 - (plays % 2)
 			opponent_player = 1 - acting_player
 
-
 		if plays >= 2:
+			p0sum = 0
+			p1sum = 0
+			p0history = history[0::2]
+			p1history = history[1::2]
+			for i in range(len(p0history)):
+				for j in range(len(p1history)):
+					p0sum += p0history[i]
+					p1sum += p1history[i]
+					if round == 1 and p0sum == p1sum:
+						round = 2
+					#5 10 5 bet raise call
+					#5 0 bet fold
+					#5 10 0 bet raise fold
+					#5 10 20 15 bet raise raise call 
+
+
 			if history[-2] > 0 and history[-1] == 0: #bet fold
 				return (pot-history[-2])/2
 			if (history[-1] == history[-2] == 0): #check check, go to showdown
@@ -1278,9 +1449,9 @@ class NLLeducCFR:
 					return -pot/2
 
 		if acting_player == 0:
-			actions = self.valid_bets(history, round, p0stack)
+			actions = self.valid_bets(history, round, 0, p0stack)
 		elif acting_player == 1:
-			actions = self.valid_bets(history, round, p1stack)
+			actions = self.valid_bets(history, round, 1, p1stack)
 		num_actions = len(actions)
 		infoset = np.concatenate((cards[acting_player], history))
 
@@ -1322,7 +1493,6 @@ class NLLeducCFR:
 				self.nodes[infoset].regret_sum[i] += p0 * regret
 
 		return node_util
-
 
 # class LimitLeduc:
 # 	def __init__(self, dealer_player = 0, players = [Human('p1'), Human('p2')], ante = 1):
@@ -1552,14 +1722,17 @@ class Player:
 	def __init__(self):
 		self.profit = 0
 
-# class RandomAgent(Player):
-# 	def select_move(self, game):
-# 		return random.choice(game.valid_bets())
+class RandomAgent(Player):
+	def select_move(self, betoptions):
+		return random.choice(betoptions)
 
 class Human(Player):
 	def select_move(self, betoptions):
 		print(betoptions)
-		move = int(input('Enter your bet: '))
+		move = input('Enter your bet: ')
+		print(type(move))
+		if isinstance(move, int):
+			print('int')
 		if move in betoptions:
 			return move
 		else:
@@ -1591,7 +1764,7 @@ class Human(Player):
 
 if __name__ == "__main__":
 	# p0 = Human()
-	# p1 = Human()
+	# p1 = RandomAgent()
 	# cards = [1,2,3]
 	# random.shuffle(cards)
 	# hands = 5
@@ -1601,13 +1774,19 @@ if __name__ == "__main__":
 	# 	p = Kuhn(players = [p0, p1], dealer_player = i%2, ante = 1, shuffled_deck = cards)
 	# 	p.game()
 	# 	print('PLAYER 0 PROFIT: {}'.format(p0.profit))
-	# 	print('PLAYER 1 PROFIT: {}'.format(p1.profit))
-	k = KuhnCFR(100000, 10, 0)
+	# 	print('PLAYER 1 PROFIT: {}\n'.format(p1.profit))
+
+	#k = KuhnCFR(100000, 10, 0)
 	#k.cfr_iterations_vanilla()
 
 	#k = LimitLeducCFR(100000, 3)
-	k.cfr_iterations_chance()
+	#k.cfr_iterations_chance()
 	#k.cfr_iterations_external()
 
-	#k = Kuhn3CFR(100000, 4)
-	#k.cfr_iterations_external()
+	# k = Kuhn3CFR(100000, 4)
+	# k.cfr_iterations_external()
+
+	k = KuhnCFR(100000, 3, 0)
+	#k.cfr_iterations_deep()
+	k.cfr_iterations_chance()
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin kuhnshark agentsouth
+
+Seed: 0
+starting position: kevin kuhnshark agentsouth
+SCORE:330|-241|-89:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-137|-186|323:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:582|-514|-68:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:130|-259|129:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:208|196|-404:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:126|-16|-110:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -612, 'kuhnshark': 880, 'agentsouth': -268}
+accumulated score
+{'kevin': -612, 'kuhnshark': 880, 'agentsouth': -268}
+
+Seed: 1
+starting position: kevin kuhnshark agentsouth
+SCORE:-46|13|33:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-549|77|472:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:255|-395|140:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:-84|-14|98:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:-66|387|-321:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:-20|-34|54:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -1247, 'kuhnshark': 1097, 'agentsouth': 150}
+accumulated score
+{'kevin': -1859, 'kuhnshark': 1977, 'agentsouth': -118}
+
+Seed: 2
+starting position: kevin kuhnshark agentsouth
+SCORE:-16|113|-97:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-414|151|263:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:273|-216|-57:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:-131|106|25:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:-110|518|-408:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:-127|213|-86:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -816, 'kuhnshark': 950, 'agentsouth': -134}
+accumulated score
+{'kevin': -2675, 'kuhnshark': 2927, 'agentsouth': -252}
+
+Seed: 3
+starting position: kevin kuhnshark agentsouth
+SCORE:157|-139|-18:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-254|-122|376:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:483|-476|-7:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:60|-111|51:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:116|323|-439:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:60|-8|-52:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -969, 'kuhnshark': 1051, 'agentsouth': -82}
+accumulated score
+{'kevin': -3644, 'kuhnshark': 3978, 'agentsouth': -334}
+
+Seed: 4
+starting position: kevin kuhnshark agentsouth
+SCORE:143|-103|-40:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-311|-63|374:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:348|-330|-18:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:-56|-134|190:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:17|356|-373:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:-7|55|-48:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -626, 'kuhnshark': 871, 'agentsouth': -245}
+accumulated score
+{'kevin': -4270, 'kuhnshark': 4849, 'agentsouth': -579}
+
+Seed: 5
+starting position: kevin kuhnshark agentsouth
+SCORE:68|-130|62:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-294|-97|391:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:431|-517|86:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:0|-82|82:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:70|355|-425:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:-5|-20|25:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -1106, 'kuhnshark': 1072, 'agentsouth': 34}
+accumulated score
+{'kevin': -5376, 'kuhnshark': 5921, 'agentsouth': -545}
+
+Seed: 6
+starting position: kevin kuhnshark agentsouth
+SCORE:-94|-54|148:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-514|-9|523:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:153|-345|192:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:-132|-49|181:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:-36|387|-351:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:-103|-71|174:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -1194, 'kuhnshark': 1051, 'agentsouth': 143}
+accumulated score
+{'kevin': -6570, 'kuhnshark': 6972, 'agentsouth': -402}
+
+Seed: 7
+starting position: kevin kuhnshark agentsouth
+SCORE:231|-161|-70:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-285|-106|391:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:381|-374|-7:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:-163|-148|311:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:-141|253|-112:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:-179|228|-49:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -1, 'kuhnshark': 652, 'agentsouth': -651}
+accumulated score
+{'kevin': -6571, 'kuhnshark': 7624, 'agentsouth': -1053}
+
+Seed: 8
+starting position: kevin kuhnshark agentsouth
+SCORE:122|-143|21:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-391|-94|485:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:603|-679|76:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:168|-155|-13:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:279|200|-479:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:123|-144|21:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -1584, 'kuhnshark': 1334, 'agentsouth': 250}
+accumulated score
+{'kevin': -8155, 'kuhnshark': 8958, 'agentsouth': -803}
+
+Seed: 9
+starting position: kevin kuhnshark agentsouth
+SCORE:62|-36|-26:kevin|kuhnshark|agentsouth
+starting position: kevin agentsouth kuhnshark
+SCORE:-373|-19|392:kevin|agentsouth|kuhnshark
+starting position: kuhnshark kevin agentsouth
+SCORE:398|-400|2:kuhnshark|kevin|agentsouth
+starting position: kuhnshark agentsouth kevin
+SCORE:8|-34|26:kuhnshark|agentsouth|kevin
+starting position: agentsouth kuhnshark kevin
+SCORE:63|339|-402:agentsouth|kuhnshark|kevin
+starting position: agentsouth kevin kuhnshark
+SCORE:-7|56|-49:agentsouth|kevin|kuhnshark
+
+seed score
+{'kevin': -1031, 'kuhnshark': 1052, 'agentsouth': -21}
+accumulated score
+{'kevin': -9186, 'kuhnshark': 10010, 'agentsouth': -824}
+

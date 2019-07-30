@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kuhnshark electriccaviarracers
+
+Seed: 0
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:156|-145|-11:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:78|-57|-21:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:153|-163|10:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:139|-196|57:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:174|-138|-36:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:128|-126|-2:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -34, 'kuhnshark': -14, 'electriccaviarracers': 48}
+accumulated score
+{'newuak': -34, 'kuhnshark': -14, 'electriccaviarracers': 48}
+
+Seed: 1
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:-44|8|36:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:-88|36|52:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:-127|-25|152:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:-117|27|90:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:-23|10|13:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:-93|42|51:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -12, 'kuhnshark': -123, 'electriccaviarracers': 135}
+accumulated score
+{'newuak': -46, 'kuhnshark': -137, 'electriccaviarracers': 183}
+
+Seed: 2
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:-76|142|-66:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:-158|226|-68:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:-117|149|-32:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:-114|128|-14:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:-90|160|-70:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:-112|188|-76:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': 19, 'kuhnshark': -73, 'electriccaviarracers': 54}
+accumulated score
+{'newuak': -27, 'kuhnshark': -210, 'electriccaviarracers': 237}
+
+Seed: 3
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:100|-72|-28:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:48|9|-57:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:64|-107|43:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:62|-94|32:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:133|-70|-63:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:67|-46|-21:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -36, 'kuhnshark': -94, 'electriccaviarracers': 130}
+accumulated score
+{'newuak': -63, 'kuhnshark': -304, 'electriccaviarracers': 367}
+
+Seed: 4
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:67|-14|-53:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:22|6|-28:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:40|-32|-8:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:11|-5|-6:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:38|4|-42:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:27|11|-38:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': 20, 'kuhnshark': -25, 'electriccaviarracers': 5}
+accumulated score
+{'newuak': -43, 'kuhnshark': -329, 'electriccaviarracers': 372}
+
+Seed: 5
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:25|-15|-10:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:-19|18|1:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:34|-65|31:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:81|-117|36:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:46|-15|-31:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:56|-53|-3:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -107, 'kuhnshark': 83, 'electriccaviarracers': 24}
+accumulated score
+{'newuak': -150, 'kuhnshark': -246, 'electriccaviarracers': 396}
+
+Seed: 6
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:-122|48|74:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:-187|75|112:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:-148|21|127:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:-102|-56|158:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:-73|46|27:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:-165|40|125:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -63, 'kuhnshark': 81, 'electriccaviarracers': -18}
+accumulated score
+{'newuak': -213, 'kuhnshark': -165, 'electriccaviarracers': 378}
+
+Seed: 7
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:61|-74|13:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:23|-29|6:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:-20|-52|72:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:38|-68|30:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:89|-58|-31:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:13|-53|40:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -22, 'kuhnshark': -68, 'electriccaviarracers': 90}
+accumulated score
+{'newuak': -235, 'kuhnshark': -233, 'electriccaviarracers': 468}
+
+Seed: 8
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:177|-166|-11:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:145|-185|40:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:146|-189|43:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:158|-203|45:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:219|-179|-40:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:132|-202|70:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -64, 'kuhnshark': 69, 'electriccaviarracers': -5}
+accumulated score
+{'newuak': -299, 'kuhnshark': -164, 'electriccaviarracers': 463}
+
+Seed: 9
+starting position: newuak kuhnshark electriccaviarracers
+SCORE:48|-62|14:newuak|kuhnshark|electriccaviarracers
+starting position: newuak electriccaviarracers kuhnshark
+SCORE:-12|-8|20:newuak|electriccaviarracers|kuhnshark
+starting position: kuhnshark newuak electriccaviarracers
+SCORE:27|-47|20:kuhnshark|newuak|electriccaviarracers
+starting position: kuhnshark electriccaviarracers newuak
+SCORE:69|-74|5:kuhnshark|electriccaviarracers|newuak
+starting position: electriccaviarracers kuhnshark newuak
+SCORE:91|-89|-2:electriccaviarracers|kuhnshark|newuak
+starting position: electriccaviarracers newuak kuhnshark
+SCORE:17|-33|16:electriccaviarracers|newuak|kuhnshark
+
+seed score
+{'newuak': -41, 'kuhnshark': -19, 'electriccaviarracers': 60}
+accumulated score
+{'newuak': -340, 'kuhnshark': -183, 'electriccaviarracers': 523}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak kevin agentsouth
+
+Seed: 0
+starting position: newuak kevin agentsouth
+SCORE:511|-431|-80:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:129|-221|92:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:313|-229|-84:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-57|-210|267:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:88|-14|-74:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:112|164|-276:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 768, 'kevin': -373, 'agentsouth': -395}
+accumulated score
+{'newuak': 768, 'kevin': -373, 'agentsouth': -395}
+
+Seed: 1
+starting position: newuak kevin agentsouth
+SCORE:194|-299|105:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:-82|-13|95:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:-71|36|35:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-437|32|405:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:-163|64|99:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:-103|403|-300:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 1055, 'kevin': -948, 'agentsouth': -107}
+accumulated score
+{'newuak': 1823, 'kevin': -1321, 'agentsouth': -502}
+
+Seed: 2
+starting position: newuak kevin agentsouth
+SCORE:227|-154|-73:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:-107|46|61:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:-24|109|-85:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-354|118|236:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:-185|243|-58:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:-161|535|-374:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 942, 'kevin': -602, 'agentsouth': -340}
+accumulated score
+{'newuak': 2765, 'kevin': -1923, 'agentsouth': -842}
+
+Seed: 3
+starting position: newuak kevin agentsouth
+SCORE:432|-348|-84:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:81|-87|6:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:168|-114|-54:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-196|-136|332:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:33|-19|-14:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:45|267|-312:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 984, 'kevin': -701, 'agentsouth': -283}
+accumulated score
+{'newuak': 3749, 'kevin': -2624, 'agentsouth': -1125}
+
+Seed: 4
+starting position: newuak kevin agentsouth
+SCORE:343|-265|-78:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:-42|-146|188:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:110|-65|-45:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-187|-88|275:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:-78|109|-31:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:-56|268|-212:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 748, 'kevin': -257, 'agentsouth': -491}
+accumulated score
+{'newuak': 4497, 'kevin': -2881, 'agentsouth': -1616}
+
+Seed: 5
+starting position: newuak kevin agentsouth
+SCORE:361|-374|13:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:11|-92|81:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:78|-106|28:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-218|-144|362:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:-42|-22|64:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:-19|336|-317:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 1028, 'kevin': -772, 'agentsouth': -256}
+accumulated score
+{'newuak': 5525, 'kevin': -3653, 'agentsouth': -1872}
+
+Seed: 6
+starting position: newuak kevin agentsouth
+SCORE:252|-396|144:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:-117|-36|153:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:-76|-33|109:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-441|-51|492:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:-149|-34|183:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:-154|304|-150:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 1081, 'kevin': -944, 'agentsouth': -137}
+accumulated score
+{'newuak': 6606, 'kevin': -4597, 'agentsouth': -2009}
+
+Seed: 7
+starting position: newuak kevin agentsouth
+SCORE:330|-296|-34:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:-139|-168|307:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:159|-135|-24:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-142|-192|334:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:-115|166|-51:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:-157|248|-91:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 587, 'kevin': 103, 'agentsouth': -690}
+accumulated score
+{'newuak': 7193, 'kevin': -4494, 'agentsouth': -2699}
+
+Seed: 8
+starting position: newuak kevin agentsouth
+SCORE:568|-597|29:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:203|-179|-24:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:99|-138|39:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-230|-169|399:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:112|-150|38:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:185|169|-354:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 1239, 'kevin': -1256, 'agentsouth': 17}
+accumulated score
+{'newuak': 8432, 'kevin': -5750, 'agentsouth': -2682}
+
+Seed: 9
+starting position: newuak kevin agentsouth
+SCORE:328|-276|-52:newuak|kevin|agentsouth
+starting position: newuak agentsouth kevin
+SCORE:37|-49|12:newuak|agentsouth|kevin
+starting position: kevin newuak agentsouth
+SCORE:102|-12|-90:kevin|newuak|agentsouth
+starting position: kevin agentsouth newuak
+SCORE:-269|-11|280:kevin|agentsouth|newuak
+starting position: agentsouth kevin newuak
+SCORE:-44|75|-31:agentsouth|kevin|newuak
+starting position: agentsouth newuak kevin
+SCORE:36|292|-328:agentsouth|newuak|kevin
+
+seed score
+{'newuak': 894, 'kevin': -684, 'agentsouth': -210}
+accumulated score
+{'newuak': 9326, 'kevin': -6434, 'agentsouth': -2892}
+

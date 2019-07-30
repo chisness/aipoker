@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: te olduak efs
+
+Seed: 0
+starting position: te olduak efs
+SCORE:456|-202|-254:te|olduak|efs
+starting position: te efs olduak
+SCORE:453|-382|-71:te|efs|olduak
+starting position: olduak te efs
+SCORE:158|112|-270:olduak|te|efs
+starting position: olduak efs te
+SCORE:128|-310|182:olduak|efs|te
+starting position: efs olduak te
+SCORE:28|-314|286:efs|olduak|te
+starting position: efs te olduak
+SCORE:19|78|-97:efs|te|olduak
+
+seed score
+{'te': 1567, 'olduak': -398, 'efs': -1169}
+accumulated score
+{'te': 1567, 'olduak': -398, 'efs': -1169}
+
+Seed: 1
+starting position: te olduak efs
+SCORE:125|-90|-35:te|olduak|efs
+starting position: te efs olduak
+SCORE:165|-189|24:te|efs|olduak
+starting position: olduak te efs
+SCORE:-245|386|-141:olduak|te|efs
+starting position: olduak efs te
+SCORE:-189|-197|386:olduak|efs|te
+starting position: efs olduak te
+SCORE:-345|-48|393:efs|olduak|te
+starting position: efs te olduak
+SCORE:-239|262|-23:efs|te|olduak
+
+seed score
+{'te': 1717, 'olduak': -571, 'efs': -1146}
+accumulated score
+{'te': 3284, 'olduak': -969, 'efs': -2315}
+
+Seed: 2
+starting position: te olduak efs
+SCORE:235|46|-281:te|olduak|efs
+starting position: te efs olduak
+SCORE:165|-23|-142:te|efs|olduak
+starting position: olduak te efs
+SCORE:-233|498|-265:olduak|te|efs
+starting position: olduak efs te
+SCORE:-181|-92|273:olduak|efs|te
+starting position: efs olduak te
+SCORE:-355|-5|360:efs|olduak|te
+starting position: efs te olduak
+SCORE:-317|390|-73:efs|te|olduak
+
+seed score
+{'te': 1921, 'olduak': -588, 'efs': -1333}
+accumulated score
+{'te': 5205, 'olduak': -1557, 'efs': -3648}
+
+Seed: 3
+starting position: te olduak efs
+SCORE:339|-154|-185:te|olduak|efs
+starting position: te efs olduak
+SCORE:407|-246|-161:te|efs|olduak
+starting position: olduak te efs
+SCORE:78|187|-265:olduak|te|efs
+starting position: olduak efs te
+SCORE:-38|-219|257:olduak|efs|te
+starting position: efs olduak te
+SCORE:-84|-181|265:efs|olduak|te
+starting position: efs te olduak
+SCORE:-101|244|-143:efs|te|olduak
+
+seed score
+{'te': 1699, 'olduak': -599, 'efs': -1100}
+accumulated score
+{'te': 6904, 'olduak': -2156, 'efs': -4748}
+
+Seed: 4
+starting position: te olduak efs
+SCORE:294|-97|-197:te|olduak|efs
+starting position: te efs olduak
+SCORE:323|-214|-109:te|efs|olduak
+starting position: olduak te efs
+SCORE:34|262|-296:olduak|te|efs
+starting position: olduak efs te
+SCORE:-42|-201|243:olduak|efs|te
+starting position: efs olduak te
+SCORE:-137|-110|247:efs|olduak|te
+starting position: efs te olduak
+SCORE:-104|270|-166:efs|te|olduak
+
+seed score
+{'te': 1639, 'olduak': -490, 'efs': -1149}
+accumulated score
+{'te': 8543, 'olduak': -2646, 'efs': -5897}
+
+Seed: 5
+starting position: te olduak efs
+SCORE:299|-185|-114:te|olduak|efs
+starting position: te efs olduak
+SCORE:309|-312|3:te|efs|olduak
+starting position: olduak te efs
+SCORE:-74|225|-151:olduak|te|efs
+starting position: olduak efs te
+SCORE:-56|-275|331:olduak|efs|te
+starting position: efs olduak te
+SCORE:-163|-97|260:efs|olduak|te
+starting position: efs te olduak
+SCORE:-161|215|-54:efs|te|olduak
+
+seed score
+{'te': 1639, 'olduak': -463, 'efs': -1176}
+accumulated score
+{'te': 10182, 'olduak': -3109, 'efs': -7073}
+
+Seed: 6
+starting position: te olduak efs
+SCORE:102|-25|-77:te|olduak|efs
+starting position: te efs olduak
+SCORE:167|-224|57:te|efs|olduak
+starting position: olduak te efs
+SCORE:-293|358|-65:olduak|te|efs
+starting position: olduak efs te
+SCORE:-360|-185|545:olduak|efs|te
+starting position: efs olduak te
+SCORE:-375|-52|427:efs|olduak|te
+starting position: efs te olduak
+SCORE:-323|158|165:efs|te|olduak
+
+seed score
+{'te': 1757, 'olduak': -508, 'efs': -1249}
+accumulated score
+{'te': 11939, 'olduak': -3617, 'efs': -8322}
+
+Seed: 7
+starting position: te olduak efs
+SCORE:203|-126|-77:te|olduak|efs
+starting position: te efs olduak
+SCORE:310|-238|-72:te|efs|olduak
+starting position: olduak te efs
+SCORE:-11|179|-168:olduak|te|efs
+starting position: olduak efs te
+SCORE:-81|-170|251:olduak|efs|te
+starting position: efs olduak te
+SCORE:-153|-166|319:efs|olduak|te
+starting position: efs te olduak
+SCORE:-137|226|-89:efs|te|olduak
+
+seed score
+{'te': 1488, 'olduak': -545, 'efs': -943}
+accumulated score
+{'te': 13427, 'olduak': -4162, 'efs': -9265}
+
+Seed: 8
+starting position: te olduak efs
+SCORE:463|-290|-173:te|olduak|efs
+starting position: te efs olduak
+SCORE:496|-460|-36:te|efs|olduak
+starting position: olduak te efs
+SCORE:21|128|-149:olduak|te|efs
+starting position: olduak efs te
+SCORE:58|-389|331:olduak|efs|te
+starting position: efs olduak te
+SCORE:-1|-355|356:efs|olduak|te
+starting position: efs te olduak
+SCORE:-40|125|-85:efs|te|olduak
+
+seed score
+{'te': 1899, 'olduak': -687, 'efs': -1212}
+accumulated score
+{'te': 15326, 'olduak': -4849, 'efs': -10477}
+
+Seed: 9
+starting position: te olduak efs
+SCORE:383|-207|-176:te|olduak|efs
+starting position: te efs olduak
+SCORE:304|-243|-61:te|efs|olduak
+starting position: olduak te efs
+SCORE:-54|235|-181:olduak|te|efs
+starting position: olduak efs te
+SCORE:-117|-165|282:olduak|efs|te
+starting position: efs olduak te
+SCORE:-142|-62|204:efs|olduak|te
+starting position: efs te olduak
+SCORE:-172|282|-110:efs|te|olduak
+
+seed score
+{'te': 1690, 'olduak': -611, 'efs': -1079}
+accumulated score
+{'te': 17016, 'olduak': -5460, 'efs': -11556}
+

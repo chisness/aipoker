@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin bayes thief
+
+Seed: 0
+starting position: kevin bayes thief
+SCORE:-761|483|278:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-823|200|623:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:866|-1210|344:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:917|75|-992:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:600|414|-1014:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:525|-1181|656:thief|kevin|bayes
+
+seed score
+{'kevin': -5981, 'bayes': 3959, 'thief': 2022}
+accumulated score
+{'kevin': -5981, 'bayes': 3959, 'thief': 2022}
+
+Seed: 1
+starting position: kevin bayes thief
+SCORE:-1064|660|404:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-1097|360|737:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:486|-993|507:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:554|288|-842:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:281|623|-904:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:159|-978|819:thief|kevin|bayes
+
+seed score
+{'kevin': -5878, 'bayes': 3879, 'thief': 1999}
+accumulated score
+{'kevin': -11859, 'bayes': 7838, 'thief': 4021}
+
+Seed: 2
+starting position: kevin bayes thief
+SCORE:-1120|907|213:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-1155|596|559:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:503|-802|299:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:544|480|-1024:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:240|833|-1073:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:126|-759|633:thief|kevin|bayes
+
+seed score
+{'kevin': -5933, 'bayes': 3979, 'thief': 1954}
+accumulated score
+{'kevin': -17792, 'bayes': 11817, 'thief': 5975}
+
+Seed: 3
+starting position: kevin bayes thief
+SCORE:-845|605|240:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-900|287|613:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:732|-1076|344:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:792|200|-992:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:519|556|-1075:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:389|-1043|654:thief|kevin|bayes
+
+seed score
+{'kevin': -5931, 'bayes': 3952, 'thief': 1979}
+accumulated score
+{'kevin': -23723, 'bayes': 15769, 'thief': 7954}
+
+Seed: 4
+starting position: kevin bayes thief
+SCORE:-897|688|209:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-948|375|573:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:681|-999|318:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:754|293|-1047:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:481|613|-1094:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:345|-969|624:thief|kevin|bayes
+
+seed score
+{'kevin': -5954, 'bayes': 3933, 'thief': 2021}
+accumulated score
+{'kevin': -29677, 'bayes': 19702, 'thief': 9975}
+
+Seed: 5
+starting position: kevin bayes thief
+SCORE:-860|595|265:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-945|321|624:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:664|-1023|359:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:708|247|-955:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:421|599|-1020:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:335|-1014|679:thief|kevin|bayes
+
+seed score
+{'kevin': -5817, 'bayes': 3869, 'thief': 1948}
+accumulated score
+{'kevin': -35494, 'bayes': 23571, 'thief': 11923}
+
+Seed: 6
+starting position: kevin bayes thief
+SCORE:-1179|745|434:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-1224|441|783:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:412|-951|539:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:464|344|-808:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:189|660|-849:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:63|-888|825:thief|kevin|bayes
+
+seed score
+{'kevin': -5899, 'bayes': 3889, 'thief': 2010}
+accumulated score
+{'kevin': -41393, 'bayes': 27460, 'thief': 13933}
+
+Seed: 7
+starting position: kevin bayes thief
+SCORE:-925|617|308:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-959|324|635:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:701|-1102|401:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:737|209|-946:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:452|566|-1018:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:365|-1080|715:thief|kevin|bayes
+
+seed score
+{'kevin': -6030, 'bayes': 3971, 'thief': 2059}
+accumulated score
+{'kevin': -47423, 'bayes': 31431, 'thief': 15992}
+
+Seed: 8
+starting position: kevin bayes thief
+SCORE:-736|405|331:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-789|89|700:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:824|-1259|435:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:906|20|-926:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:577|360|-937:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:477|-1210|733:thief|kevin|bayes
+
+seed score
+{'kevin': -5857, 'bayes': 3928, 'thief': 1929}
+accumulated score
+{'kevin': -53280, 'bayes': 35359, 'thief': 17921}
+
+Seed: 9
+starting position: kevin bayes thief
+SCORE:-917|599|318:kevin|bayes|thief
+starting position: kevin thief bayes
+SCORE:-929|283|646:kevin|thief|bayes
+starting position: bayes kevin thief
+SCORE:668|-1049|381:bayes|kevin|thief
+starting position: bayes thief kevin
+SCORE:759|184|-943:bayes|thief|kevin
+starting position: thief bayes kevin
+SCORE:416|553|-969:thief|bayes|kevin
+starting position: thief kevin bayes
+SCORE:329|-996|667:thief|kevin|bayes
+
+seed score
+{'kevin': -5803, 'bayes': 3892, 'thief': 1911}
+accumulated score
+{'kevin': -59083, 'bayes': 39251, 'thief': 19832}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: kevin kuhnshark bayes
+
+Seed: 0
+starting position: kevin kuhnshark bayes
+SCORE:-211|-181|392:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-789|246|543:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:775|-1176|401:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:180|190|-370:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:648|372|-1020:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:584|-548|-36:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4114, 'kuhnshark': 1653, 'bayes': 2461}
+accumulated score
+{'kevin': -4114, 'kuhnshark': 1653, 'bayes': 2461}
+
+Seed: 1
+starting position: kevin kuhnshark bayes
+SCORE:-555|57|498:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-1034|391|643:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:446|-972|526:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:-32|356|-324:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:276|590|-866:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:260|-385|125:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4136, 'kuhnshark': 1829, 'bayes': 2307}
+accumulated score
+{'kevin': -8250, 'kuhnshark': 3482, 'bayes': 4768}
+
+Seed: 2
+starting position: kevin kuhnshark bayes
+SCORE:-501|153|348:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-1090|614|476:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:484|-832|348:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:-88|586|-498:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:288|734|-1022:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:272|-232|-40:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4175, 'kuhnshark': 1719, 'bayes': 2456}
+accumulated score
+{'kevin': -12425, 'kuhnshark': 5201, 'bayes': 7224}
+
+Seed: 3
+starting position: kevin kuhnshark bayes
+SCORE:-297|-81|378:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-871|348|523:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:691|-1066|375:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:108|339|-447:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:525|497|-1022:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:518|-514|-4:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4217, 'kuhnshark': 1734, 'bayes': 2483}
+accumulated score
+{'kevin': -16642, 'kuhnshark': 6935, 'bayes': 9707}
+
+Seed: 4
+starting position: kevin kuhnshark bayes
+SCORE:-288|-59|347:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-988|413|575:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:528|-873|345:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:-15|425|-410:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:504|509|-1013:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:471|-476|5:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4048, 'kuhnshark': 1543, 'bayes': 2505}
+accumulated score
+{'kevin': -20690, 'kuhnshark': 8478, 'bayes': 12212}
+
+Seed: 5
+starting position: kevin kuhnshark bayes
+SCORE:-326|-71|397:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-942|351|591:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:627|-1035|408:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:46|376|-422:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:452|537|-989:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:432|-507|75:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4221, 'kuhnshark': 1805, 'bayes': 2416}
+accumulated score
+{'kevin': -24911, 'kuhnshark': 10283, 'bayes': 14628}
+
+Seed: 6
+starting position: kevin kuhnshark bayes
+SCORE:-528|-2|530:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-1205|464|741:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:380|-928|548:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:-71|441|-370:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:205|577|-782:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:209|-446|237:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4259, 'kuhnshark': 1862, 'bayes': 2397}
+accumulated score
+{'kevin': -29170, 'kuhnshark': 12145, 'bayes': 17025}
+
+Seed: 7
+starting position: kevin kuhnshark bayes
+SCORE:-304|-106|410:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-905|350|555:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:588|-1027|439:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:-111|346|-235:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:488|471|-959:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:482|-476|-6:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -3906, 'kuhnshark': 1391, 'bayes': 2515}
+accumulated score
+{'kevin': -33076, 'kuhnshark': 13536, 'bayes': 19540}
+
+Seed: 8
+starting position: kevin kuhnshark bayes
+SCORE:-325|-95|420:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-828|139|689:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:774|-1235|461:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:221|161|-382:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:611|402|-1013:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:584|-657|73:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4440, 'kuhnshark': 2064, 'bayes': 2376}
+accumulated score
+{'kevin': -37516, 'kuhnshark': 15600, 'bayes': 21916}
+
+Seed: 9
+starting position: kevin kuhnshark bayes
+SCORE:-412|6|406:kevin|kuhnshark|bayes
+starting position: kevin bayes kuhnshark
+SCORE:-936|358|578:kevin|bayes|kuhnshark
+starting position: kuhnshark kevin bayes
+SCORE:629|-1016|387:kuhnshark|kevin|bayes
+starting position: kuhnshark bayes kevin
+SCORE:67|293|-360:kuhnshark|bayes|kevin
+starting position: bayes kuhnshark kevin
+SCORE:463|579|-1042:bayes|kuhnshark|kevin
+starting position: bayes kevin kuhnshark
+SCORE:428|-430|2:bayes|kevin|kuhnshark
+
+seed score
+{'kevin': -4196, 'kuhnshark': 1861, 'bayes': 2335}
+accumulated score
+{'kevin': -41712, 'kuhnshark': 17461, 'bayes': 24251}
+

@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak bayes thief
+
+Seed: 0
+starting position: newuak bayes thief
+SCORE:193|-105|-88:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:559|-568|9:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:221|129|-350:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:246|-256|10:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-116|-169|285:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:137|-174|37:thief|newuak|bayes
+
+seed score
+{'newuak': 1002, 'bayes': 239, 'thief': -1241}
+accumulated score
+{'newuak': 1002, 'bayes': 239, 'thief': -1241}
+
+Seed: 1
+starting position: newuak bayes thief
+SCORE:-64|22|42:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:290|-407|117:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:-101|408|-307:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:-57|-70|127:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-448|3|445:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:-238|84|154:thief|newuak|bayes
+
+seed score
+{'newuak': 1290, 'bayes': 138, 'thief': -1428}
+accumulated score
+{'newuak': 2292, 'bayes': 377, 'thief': -2669}
+
+Seed: 2
+starting position: newuak bayes thief
+SCORE:-53|230|-177:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:266|-226|-40:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:-115|528|-413:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:-76|103|-27:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-488|160|328:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:-251|223|28:thief|newuak|bayes
+
+seed score
+{'newuak': 1265, 'bayes': 187, 'thief': -1452}
+accumulated score
+{'newuak': 3557, 'bayes': 564, 'thief': -4121}
+
+Seed: 3
+starting position: newuak bayes thief
+SCORE:122|23|-145:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:516|-493|-23:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:91|236|-327:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:177|-168|-9:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-301|-45|346:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:-39|9|30:thief|newuak|bayes
+
+seed score
+{'newuak': 1220, 'bayes': 253, 'thief': -1473}
+accumulated score
+{'newuak': 4777, 'bayes': 817, 'thief': -5594}
+
+Seed: 4
+starting position: newuak bayes thief
+SCORE:60|67|-127:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:392|-360|-32:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:80|339|-419:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:131|-89|-42:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-351|-6|357:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:27|-23|-4:thief|newuak|bayes
+
+seed score
+{'newuak': 1083, 'bayes': 236, 'thief': -1319}
+accumulated score
+{'newuak': 5860, 'bayes': 1053, 'thief': -6913}
+
+Seed: 5
+starting position: newuak bayes thief
+SCORE:70|28|-98:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:403|-386|-17:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:64|371|-435:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:97|-170|73:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-356|-46|402:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:-19|-57|76:thief|newuak|bayes
+
+seed score
+{'newuak': 1262, 'bayes': 202, 'thief': -1464}
+accumulated score
+{'newuak': 7122, 'bayes': 1255, 'thief': -8377}
+
+Seed: 6
+starting position: newuak bayes thief
+SCORE:-92|129|-37:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:216|-329|113:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:-176|397|-221:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:-126|-90|216:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-584|24|560:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:-230|58|172:thief|newuak|bayes
+
+seed score
+{'newuak': 1355, 'bayes': 136, 'thief': -1491}
+accumulated score
+{'newuak': 8477, 'bayes': 1391, 'thief': -9868}
+
+Seed: 7
+starting position: newuak bayes thief
+SCORE:-51|18|33:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:400|-437|37:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:72|296|-368:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:111|-125|14:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-296|-63|359:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:35|-68|33:thief|newuak|bayes
+
+seed score
+{'newuak': 950, 'bayes': 208, 'thief': -1158}
+accumulated score
+{'newuak': 9427, 'bayes': 1599, 'thief': -11026}
+
+Seed: 8
+starting position: newuak bayes thief
+SCORE:198|-176|-22:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:558|-621|63:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:158|229|-387:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:231|-322|91:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-196|-228|424:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:-17|-62|79:thief|newuak|bayes
+
+seed score
+{'newuak': 1438, 'bayes': 127, 'thief': -1565}
+accumulated score
+{'newuak': 10865, 'bayes': 1726, 'thief': -12591}
+
+Seed: 9
+starting position: newuak bayes thief
+SCORE:55|-25|-30:newuak|bayes|thief
+starting position: newuak thief bayes
+SCORE:459|-469|10:newuak|thief|bayes
+starting position: bayes newuak thief
+SCORE:48|378|-426:bayes|newuak|thief
+starting position: bayes thief newuak
+SCORE:108|-76|-32:bayes|thief|newuak
+starting position: thief bayes newuak
+SCORE:-321|-41|362:thief|bayes|newuak
+starting position: thief newuak bayes
+SCORE:-22|-19|41:thief|newuak|bayes
+
+seed score
+{'newuak': 1203, 'bayes': 141, 'thief': -1344}
+accumulated score
+{'newuak': 12068, 'bayes': 1867, 'thief': -13935}
+
