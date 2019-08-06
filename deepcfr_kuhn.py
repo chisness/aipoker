@@ -54,7 +54,7 @@ class KuhnCFR:
 		self.m_v = [[], []]
 		self.m_pi = []
 
-		self.batch_size = 10
+		self.batch_size = 20
 		self.val_nets = [DeepCFRNet(decksize, self.nbets, self.bet_options, dim=8), DeepCFRNet(decksize, self.nbets, self.bet_options, dim=8)]
 		self.val_net_optims = [torch.optim.Adam(self.val_nets[0].parameters(), lr = LR), torch.optim.Adam(self.val_nets[1].parameters(), lr = LR)]
 
@@ -80,7 +80,7 @@ class KuhnCFR:
 
 		return strategy
 
-	def cfr_iterations_deep(self, k = 10):
+	def cfr_iterations_deep(self, k = 20):
 		util = np.zeros(2)
 		for t in range(1, self.iterations + 1): 
 			for i in range(2):
@@ -95,7 +95,7 @@ class KuhnCFR:
 				loss = torch.nn.MSELoss()
 				
 				print("VALUE NETWORK TRAINING FOR PLAYER {}".format(i))
-				for s in range(4): #sgd iterations
+				for s in range(8): #sgd iterations
 					batch_loss_history = []
 					print('sgd iteration: {}'.format(s))
 					for (n, mem) in enumerate(curr_memory):
@@ -215,5 +215,5 @@ class KuhnCFR:
 
 
 if __name__ == "__main__":
-	k = KuhnCFR(1000, 3)
+	k = KuhnCFR(500, 3)
 	k.cfr_iterations_deep()
