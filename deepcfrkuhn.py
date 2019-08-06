@@ -10,11 +10,11 @@ import torch.nn.functional as F
 EPS = 0.0001
 LR = 1e-2
 
-class Node:
-	def __init__(self, num_actions):
-		self.regret_sum = np.zeros(num_actions)
-		self.strategy = np.zeros(num_actions)
-		self.num_actions = num_actions
+# class Node:
+# 	def __init__(self, num_actions):
+# 		self.regret_sum = np.zeros(num_actions)
+# 		self.strategy = np.zeros(num_actions)
+# 		self.num_actions = num_actions
 
 # class CardEmbedding(nn.Module):
 # 	def __init__(self, dim):
@@ -37,23 +37,23 @@ class Node:
 # 		return embs.view(B, num_cards, -1).sum(1)
 
 
-class CardEmbedding(nn.Module):
-	def __init__(self, dim):
-		super(CardEmbedding, self).__init__()
-		self.card = nn.Embedding(3, dim)
+# class CardEmbedding(nn.Module):
+# 	def __init__(self, dim):
+# 		super(CardEmbedding, self).__init__()
+# 		self.card = nn.Embedding(3, dim)
 
-	def forward(self, input):
-		B, num_cards = input.shape
-		x = input.view(-1)
+# 	def forward(self, input):
+# 		B, num_cards = input.shape
+# 		x = input.view(-1)
 
-		valid = x.ge(0).float() #-1 means no card
-		x = x.clamp(min=0)
+# 		valid = x.ge(0).float() #-1 means no card
+# 		x = x.clamp(min=0)
 
-		embs = self.card(x)
-		embs = embs * valid.unsqueeze(1) #zero out ' no card' embeddings
+# 		embs = self.card(x)
+# 		embs = embs * valid.unsqueeze(1) #zero out ' no card' embeddings
 
-		#sum across the cards in the hole/board
-		return embs.view(B, num_cards, -1).sum(1)
+# 		#sum across the cards in the hole/board
+# 		return embs.view(B, num_cards, -1).sum(1)
 
 class DeepCFRNet(nn.Module):
 	def __init__(self, ncardtypes, nbets, nactions, dim = 128):
@@ -174,35 +174,35 @@ class KuhnCFR:
 			# best_hand_opp_bet_valnetwork0 = []
 			
 			# worst_hand_opp_bet_valnetwork0.append(self.val_nets[0].forward(torch.tensor([[cards]], dtype=torch.float), torch.tensor(bets).float().unsqueeze(0)))
-			print('THIS IS T IN THE ITERATIONS LOOP: ', t)
-			if t>0 and t%10 == 0:
-				for (infoset, _, action_probs, _) in self.m_pi:
-					card, bet_history = infoset
-					if len(bet_history) == 1 and bet_history[0] == 1 and card == 0:
-						worst_hand_opp_bet.append(action_probs[0])
-					elif len(bet_history) == 1 and bet_history[0] == 1 and card == 2:
-						best_hand_opp_bet.append(action_probs[1])
-					elif len(bet_history) == 0 and card == 1:
-						middle_hand_act_first.append(action_probs[0])
+			# print('THIS IS T IN THE ITERATIONS LOOP: ', t)
+			# if t>0 and t%10 == 0:
+			# 	for (infoset, _, action_probs, _) in self.m_pi:
+			# 		card, bet_history = infoset
+			# 		if len(bet_history) == 1 and bet_history[0] == 1 and card == 0:
+			# 			worst_hand_opp_bet.append(action_probs[0])
+			# 		elif len(bet_history) == 1 and bet_history[0] == 1 and card == 2:
+			# 			best_hand_opp_bet.append(action_probs[1])
+			# 		elif len(bet_history) == 0 and card == 1:
+			# 			middle_hand_act_first.append(action_probs[0])
 
-				print('LOSSES', losses)
+				# print('LOSSES', losses)
 
-				plt.subplot(211)
-				plt.scatter(np.arange(len(worst_hand_opp_bet)), worst_hand_opp_bet, label = 'worst hand opp bet')
-				plt.legend()
+				# plt.subplot(211)
+				# plt.scatter(np.arange(len(worst_hand_opp_bet)), worst_hand_opp_bet, label = 'worst hand opp bet')
+				# plt.legend()
 
-				plt.subplot(221)
-				plt.scatter(np.arange(len(best_hand_opp_bet)), best_hand_opp_bet, label = 'best hand opp bet')
-				plt.legend()
+				# plt.subplot(221)
+				# plt.scatter(np.arange(len(best_hand_opp_bet)), best_hand_opp_bet, label = 'best hand opp bet')
+				# plt.legend()
 
-				plt.subplot(222)
-				plt.scatter(np.arange(len(middle_hand_act_first)), middle_hand_act_first, label = 'middle hand act first')
-				plt.legend()
+				# plt.subplot(222)
+				# plt.scatter(np.arange(len(middle_hand_act_first)), middle_hand_act_first, label = 'middle hand act first')
+				# plt.legend()
 
-				plt.subplot(212)
-				plt.plot(np.arange(len(losses)), losses, label = 'losses')
-				plt.legend()
-				plt.show()
+				# plt.subplot(212)
+				# plt.plot(np.arange(len(losses)), losses, label = 'losses')
+				# plt.legend()
+				# plt.show()
 			for i in range(2):
 				for k2 in range(k):
 					random.shuffle(self.cards)
@@ -236,7 +236,7 @@ class KuhnCFR:
 				
 #				for i in range(10000):
 				print("VALUE NETWORK TRAINING FOR PLAYER {}".format(i))
-				for s in range(10): #sgd iterations
+				for s in range(4): #sgd iterations
 					batch_loss_history = []
 					#print(len(curr_memory))
 					print('sgd iteration: {}'.format(s))
@@ -256,7 +256,7 @@ class KuhnCFR:
 						# print('valnet_out: ', valnet_out)
 						# print('regrets: ', regrets)
 
-						stone = loss(valnet_out, torch.tensor([regrets]).float()) #* timestep
+						# stone = loss(valnet_out, torch.tensor([regrets]).float()) #* timestep
 						# print('appended to batch loss history: ', stone)
 						# if np.isnan(stone.detach()):
 						# 	print("Stone is nan")
@@ -265,7 +265,7 @@ class KuhnCFR:
 						# 	exit(1)
 
 						# print('Batch loss appending to history: ', stone)
-						batch_loss_history.append(stone)
+						batch_loss_history.append(loss(valnet_out, torch.tensor([regrets]).float()))
 						if n % self.batch_size == 0 and n > 0:
 							#print(n)
 							#print('batch loss history', batch_loss_history)
@@ -333,7 +333,7 @@ class KuhnCFR:
 					return 1
 				else:
 					return -1
-			if (history[-1] == history[-2] == 0) or (history[-1] == history[-2] == 1): #check check or bet call, go to showdown
+			if (history[-1] == 0 and history[-2] == 0) or (history[-1] == 1 and history[-2] == 1): #check check or bet call, go to showdown
 				if acting_player == traversing_player:
 					if cards[acting_player] > cards[opponent_player]:
 						return pot/2 #profit
@@ -349,10 +349,10 @@ class KuhnCFR:
 		#print('infoset history: {}'.format(history))
 		num_actions = 2
 		infoset = cards[acting_player], history
-		infoset_str = str(cards[acting_player]) + ''.join(str(history))
+		# infoset_str = str(cards[acting_player]) + ''.join(str(history))
 
-		if infoset_str not in self.nodes:
-			self.nodes[infoset_str] = Node(num_actions)
+		# if infoset_str not in self.nodes:
+		# 	self.nodes[infoset_str] = Node(num_actions)
 
 		bets = -torch.ones(self.nbets)
 		for (i, b) in enumerate(history):
@@ -368,11 +368,11 @@ class KuhnCFR:
 			
 			
 			strategy = self.get_strategy(advantages)
-			# print('TRAVERSING PLAYER')
-			# print('acting player cards: ', cards[acting_player])
-			# print('bet history: ', bets)
-			# print('advantages: ', advantages)
-			# print('strategy: ', strategy)
+			print('TRAVERSING PLAYER')
+			print('acting player cards: ', cards[acting_player])
+			print('bet history: ', bets)
+			print('advantages: ', advantages)
+			print('strategy: ', strategy)
 			for a in range(num_actions):
 				#print('a is: {}'.format(a))
 				next_history = history + [a]
@@ -383,28 +383,28 @@ class KuhnCFR:
 			action_advantages = np.zeros(num_actions)
 			for a in range(num_actions):
 				action_advantages[a] = util[a] - node_util
-			#print("in deep cfr", t)
-			print('************************')
-			print('infoset of situation: ', infoset)
-			print('action advantages from valnet: ', advantages)
-			print('action advantages when acting player == traversing player: ', action_advantages)
+			# #print("in deep cfr", t)
+			# print('************************')
+			# print('infoset of situation: ', infoset)
+			# print('action advantages from valnet: ', advantages)
+			# print('action advantages when acting player == traversing player: ', action_advantages)
 			self.m_v[traversing_player].append((infoset, t, action_advantages))
 			return node_util
 
 		else: #acting_player != traversing_player
 			advantages = self.val_nets[acting_player].forward(torch.tensor([[cards[acting_player]]],  dtype=torch.float), torch.tensor(bets).float().unsqueeze(0))
 			strategy = self.get_strategy(advantages)
-			# print('NON-TRAVERSING PLAYER')
-			# print('acting player cards: ', cards[acting_player])
-			# print('bet history: ', bets)
-			# print('advantages: ', advantages)
-			# print('strategy: ', strategy)
-			action_probs = np.zeros(num_actions)
-			for a in range(num_actions):
-				#self.nodes[infoset].strategy_sum[a] += strategy[a]
-				action_probs[a] = strategy[a]
+			print('NON-TRAVERSING PLAYER')
+			print('acting player cards: ', cards[acting_player])
+			print('bet history: ', bets)
+			print('advantages: ', advantages)
+			print('strategy: ', strategy)
+			# action_probs = np.zeros(num_actions)
+			# for a in range(num_actions):
+			# 	#self.nodes[infoset].strategy_sum[a] += strategy[a]
+			# 	action_probs[a] = strategy[a]
 				#insert infoset, t, strategies into strategy memory
-			self.m_pi.append((infoset, t, action_probs, acting_player))
+			self.m_pi.append((infoset, t, strategy, acting_player))
 			# print('ITERATION: ', t)
 			# print('M_PI: ', self.m_pi)
 			util = 0
@@ -417,5 +417,5 @@ class KuhnCFR:
 
 
 if __name__ == "__main__":
-	k = KuhnCFR(100, 3, 0)
+	k = KuhnCFR(1000, 3, 0)
 	k.cfr_iterations_deep()
