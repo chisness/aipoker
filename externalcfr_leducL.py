@@ -57,11 +57,8 @@ class LeducCFR:
 					random.shuffle(self.cards)
 					util[i] += self.external_cfr(self.cards[:3], [[], []], 0, 2, 0, i, t)
 		print('Average game value: {}'.format(util[0]/(self.iterations)))
-		
-		with open('leducnlstrat.txt', 'w+') as f:
-			for i in sorted(self.nodes):
-				f.write('{}, {}\n'.format(i, self.nodes[i].get_average_strategy()))
-		# print(i, self.nodes[i].get_average_strategy())
+		for i in sorted(self.nodes):
+			print(i, self.nodes[i].get_average_strategy())
 
 	def winning_hand(self, cards):
 		if cards[0] == cards[2]:
@@ -76,58 +73,23 @@ class LeducCFR:
 			return -1
 
 	def valid_bets(self, history, rd, acting_player):
-		if acting_player == 0:
-			acting_stack = int(19 - (np.sum(history[0][0::2]) + np.sum(history[1][0::2])))
-		elif acting_player == 1:
-			acting_stack = int(19 - (np.sum(history[0][1::2]) + np.sum(history[1][1::2])))
-
-
-		# print('VALID BETS CHECK HISTORY', history)
-		# print('VALID BETS CHECK ROUND', rd)
-		# print('VALID BETS CHECK ACTING STACK', acting_stack)
+		betsize = (rd+1)*2
 		curr_history = history[rd]
 
-
 		if len(history[rd]) == 0:
-			# print('CASE LEN 0', [*np.arange(acting_stack+1)])
-			return [*np.arange(acting_stack+1)]
+			return [0, betsize]
 
 		elif len(history[rd]) == 1:
-			min_raise = curr_history[0]*2
-			call_amount = curr_history[0]
-			if min_raise > acting_stack:
-				if history[rd] == [acting_stack]:
-					# print('CASE LEN 1', [0, acting_stack])
-					return [0, acting_stack]
-				else:
-					# print('CASE LEN 1', [0, call_amount, acting_stack])
-					return [0, call_amount, acting_stack]
+			if curr_history[0] == betsize:
+				return [0, betsize, betsize*2]
 			else:
-				if history[rd] == [0]:
-					# print('CASE LEN 1', [*np.arange(min_raise, acting_stack+1)])
-					return [*np.arange(min_raise, acting_stack+1)]
-				else:
-					# print('CASE LEN 1', [0, call_amount, *np.arange(min_raise, acting_stack+1)])
-					return [0, call_amount, *np.arange(min_raise, acting_stack+1)]
+				return [0, betsize]
 
 		elif len(history[rd]) == 2:
-			min_raise = 2*(curr_history[1] - curr_history[0])
-			call_amount = curr_history[1] - curr_history[0]
-			if min_raise > acting_stack:
-				if call_amount == acting_stack:
-					# print('CASE LEN 2', [0, acting_stack])
-					return [0, acting_stack]
-				else:
-					# print('CASE LEN 2', [0, call_amount, acting_stack])
-					return [0, call_amount, acting_stack]
-			else:
-				# print('CASE LEN 2', [0, call_amount, *np.arange(min_raise, acting_stack+1)])
-				return [0, call_amount, *np.arange(min_raise, acting_stack+1)]
+			return [0, betsize, betsize*2]
 
 		elif len(history[rd]) == 3:
-			call_amount = np.abs(curr_history[1] - curr_history[2] - curr_history[0])
-			# print('CASE LEN 3', [0, call_amount])
-			return [0, call_amount] #final bet (4 maximum per rd)
+			return [0, betsize]
 
 	def external_cfr(self, cards, history, rd, pot, nodes_touched, traversing_player, t):
 		if t % 1000 == 0 and t>0:
@@ -235,7 +197,7 @@ class LeducCFR:
 			return util
 
 if __name__ == "__main__":
-	k = LeducCFR(1000000, 3, 20)
+	k = LeducCFR(10000, 3, 20)
 	k.cfr_iterations_external()
 	# for i in range(20):
 	# 	print(k.valid_bets([[i],[]], 0, 19))
