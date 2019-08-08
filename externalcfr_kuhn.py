@@ -115,9 +115,16 @@ class KuhnCFR:
 				node_util += strategy[a] * util[a]
 
 			action_advantages = np.zeros(self.bet_options)
+			stone = np.zeros(self.bet_options)
 			for a in range(self.bet_options):
 				regret = util[a] - node_util
 				self.nodes[infoset].regret_sum[a] += regret
+				stone[a] = regret
+			print('****************')
+			print('CARDS: ', cards[acting_player])
+			print('BETS: ', history)
+			print('SUM ADVANTAGES (REGRETS): ', self.nodes[infoset].regret_sum)
+			print('INSTANT ADVANTAGES (REGRETS): ', stone)
 			#self.m_v[traversing_player].append((infoset, t, action_advantages))
 			return node_util
 

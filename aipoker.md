@@ -978,27 +978,6 @@ These values are then propagated up the tree so from Player 1's perspective, the
 
 So why not just use this procedure for poker? Backward induction works well for perfect information games. These are games like tic-tac-toe, checkers, and chess, where all players can see all information in the game (although games like chess are too large to solve just using this procedure). Whereas poker has imperfect information due to the hidden private cards. 
 
-Game theoretic techniques robust against all opponents 
-
-performance against libratus capped out at 30k hands 
-
-behavioral strategy \sigma_i distribution over actions for each information set, utility of strategy profile is esxpected value, e-nash equilibrium is so that each player can gain at most e by deviating 
-
-lossless vs lossy abstraction 
-abstracting in games is nonmonotonic (Waugh et al AAMAS 09)
-deep cfr as alternative to absttraction, fnunction approximation form of CFR using deep neural networks  (abstraction can miss strategic nuances, some abstraction is often manual or domain specific
-collect samples on many traversals, add samples to a buffer, train new neural network to predict regrets, use that neural network to pick actions in the next iteration 
-measured in action abstraction of HUNLE 10^15 nodes and 10^12 infosets, beats card abstraction with 10^5 infosets but loses to card abstraction with 10^7 infosets, more training and larger buffer improve performance (they used 1 GPU)
-
-linear cfr show that by having 3 options reward 0, 1, -1m takes CFR+ 471.4k iterations to pick middle action 100% profability, much faster with linear CFR
-
-cannot combine linear cfr and cfr+, discounted cfr multiplies positive by t^alpha/(t^alpha + 1), beta for negative, a = 1.5 and b = 0 outperforms CFR+
-
-can't solve subgames indpeendently in imperfect info games
-blueprint for whole game, strategy for subgame give opponent choice of blueprint or subgame model and want to solve for our subgame strategy so that opponent isnt better off choosing subgame model for any private type sh emay have --> safe
-allow opponent to get back in the subgame the sgifts she has given so far --> unsafe 
-can apply recurisvely, include action that opponent made instead of just using a default abstraction 
-
 
 With perfect information, each player knows exactly what node/state he is in in the game tree. In imperfect information games, as we showed earlier, players have information sets that are equivalent states based on information known to that player, but are actually different true states of the game. For example, see the nodes connected by red lines below that represent Player 2 in Kuhn Poker with card Q facing either a bet or pass action from Player 1. 
 
@@ -1098,9 +1077,9 @@ CFR is an iterative algorithm that converges to a Nash equilibrium strategy. It 
 
 At each information set, we store values for the sum of the regrets for each action and the sum of the strategies for each action. 
 
-The algorithm uses regret matching to play strategies at each information set in proportion to the regrets from that information set. Using regret matching over all available actions at in information set 
+The algorithm uses regret matching to play strategies at each information set in proportion to the sum of regrets from that information set. Using regret matching means playing actions more frequently that would have done better if we had chosen those over our strategy at the node. 
 
-Zinkevich et al (2007) showed that the overall regret of the game is bounded by the sum of the regrets from each information set. 
+Zinkevich et al (2007) showed that the overall regret of the game is bounded by the sum of the regrets from each information set and that the average strategy over all of the strategies computed over the iterations converges to Nash equilibirium. 
 
 ### The Algorithm 
 
@@ -1116,6 +1095,7 @@ The regrets are used for regret-matching to select the strategy during the next 
 The strategies are averaged at the end of all iterations since that is what converges to the equilibrium strategy. 
 
 **Main CFR Function**
+
 1. Check if the game is over. If so, return the value at the end from the perspective of the traversing player. 
 2. 
 
@@ -1132,7 +1112,9 @@ There are some similarities between the regret matching algorithm and Q-learning
 What about advantage and A2C?
 
 ### Monte Carlo CFR Variations
-CFR can be improved by sampling paths of the game tree rather than traversing over the entire tree in each iteration. Two common sampling methods are:
+CFR can be improved by sampling paths of the game tree rather than traversing over the entire tree in each iteration. The benefit is that each iteration is much faster and therefore updates to the regret and strategy values happen faster and are then used not only by the nodes touched in that iteration, but also in nodes that share the same information set. 
+
+Two common sampling methods are:
 
 1. External Sampling: Sampling all nodes external to the traversing player. Both players swap being the traverser and the sampling is the chance nodes and the non-traversing player nodes, while all actions from the traversing player are traversed. 
 2. Chance Sampling: Sampling the chance node (i.e., the random deal of the cards) and then exploring the entirety of the tree given that deal of cards
@@ -1143,10 +1125,28 @@ CFR can be improved by sampling paths of the game tree rather than traversing ov
 
 **Exploitability comparisons** 
 
-### CFR Step by Step
-External sampling CFR detailed code and walk through (how values change over many iterations)
+Game theoretic techniques robust against all opponents 
 
-### Python External Sampling Kuhn Poker Implementation
+performance against libratus capped out at 30k hands 
+
+behavioral strategy \sigma_i distribution over actions for each information set, utility of strategy profile is esxpected value, e-nash equilibrium is so that each player can gain at most e by deviating 
+
+lossless vs lossy abstraction 
+abstracting in games is nonmonotonic (Waugh et al AAMAS 09)
+
+measured in action abstraction of HUNLE 10^15 nodes and 10^12 infosets, beats card abstraction with 10^5 infosets but loses to card abstraction with 10^7 infosets, more training and larger buffer improve performance (they used 1 GPU)
+
+
+
+can't solve subgames indpeendently in imperfect info games
+blueprint for whole game, strategy for subgame give opponent choice of blueprint or subgame model and want to solve for our subgame strategy so that opponent isnt better off choosing subgame model for any private type sh emay have --> safe
+allow opponent to get back in the subgame the sgifts she has given so far --> unsafe 
+can apply recurisvely, include action that opponent made instead of just using a default abstraction 
+
+### CFR Step by Step
+External and/or chance sampling CFR detailed code and walk through (how values change over many iterations)
+
+### Python External/Chance Sampling Kuhn Poker Implementation
 Ideally connect to ACPC server
 
 ### Kuhn Poker Results
@@ -1160,7 +1160,7 @@ Interpretability
 
 "Learning" to bluff
 
-### Python External Sampling Leduc Poker Implementation
+### Python External/Chance Sampling Leduc Poker Implementation
 
 ### Leduc Poker Results
 
@@ -1197,7 +1197,7 @@ Results of 1 player abstracted and 1 not
 
 ### Agent vs. Human 
 
-## 10. CFR Advances
+## 10. CFR/Solving Advances
 ### Pure CFR 
 
 ### CFR+
@@ -1216,6 +1216,9 @@ Safe and unsafe
 ### Depth-Limited Solving
 
 ### Linear and Discounted CFR
+linear cfr show that by having 3 options reward 0, 1, -1m takes CFR+ 471.4k iterations to pick middle action 100% profability, much faster with linear CFR
+
+cannot combine linear cfr and cfr+, discounted cfr multiplies positive by t^alpha/(t^alpha + 1), beta for negative, a = 1.5 and b = 0 outperforms CFR+
 
 
 ## 12. Major Poker Agents
@@ -1227,6 +1230,10 @@ Safe and unsafe
 
 ## 12. Deep Learning and Poker
 ### Deep CFR
+deep cfr as alternative to absttraction, fnunction approximation form of CFR using deep neural networks  (abstraction can miss strategic nuances, some abstraction is often manual or domain specific
+collect samples on many traversals, add samples to a buffer, train new neural network to predict regrets, use that neural network to pick actions in the next iteration 
+
+### Python Implementation on No Limit Leduc
 
 ## 13. AI vs. Humans -- What Can Humans Learn?
 Examples from Brokos book

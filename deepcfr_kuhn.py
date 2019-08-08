@@ -8,6 +8,31 @@ import torch.nn.functional as F
 EPS = 0.0001
 LR = 1e-2
 
+
+class Node:
+	def __init__(self, num_actions):
+		self.regret_sum = np.zeros(num_actions)
+		self.strategy = np.zeros(num_actions)
+		self.strategy_sum = np.zeros(num_actions)
+		self.num_actions = num_actions
+
+	def get_strategy(self):
+		normalizing_sum = 0
+		for a in range(self.num_actions):
+			if self.regret_sum[a] > 0:
+				self.strategy[a] = self.regret_sum[a]
+			else:
+				self.strategy[a] = 0
+			normalizing_sum += self.strategy[a]
+
+		for a in range(self.num_actions):
+			if normalizing_sum > 0:
+				self.strategy[a] /= normalizing_sum
+			else:
+				self.strategy[a] = 1.0/self.num_actions
+
+		return self.strategy
+
 class DeepCFRNet(nn.Module):
 	def __init__(self, ncardtypes, nbets, nactions, dim = 128):
 		super(DeepCFRNet, self).__init__()
@@ -50,6 +75,7 @@ class KuhnCFR:
 		self.decksize = decksize
 		self.cards = np.arange(decksize)
 		self.bet_options = 2
+		self.nodes = {}
 
 		self.m_v = [[], []]
 		self.m_pi = []
@@ -88,7 +114,7 @@ class KuhnCFR:
 					random.shuffle(self.cards)
 					util[i] += self.deep_cfr(self.cards[:2], [], 2, 0, i, t)
 
-				self.val_nets[i] = DeepCFRNet(self.decksize, self.nbets, self.bet_options, dim=8)
+				#self.val_nets[i] = DeepCFRNet(self.decksize, self.nbets, self.bet_options, dim=8)
 				curr_valnet = self.val_nets[i]
 				curr_memory = self.m_v[i]
 				curr_optim = self.val_net_optims[i]
@@ -184,11 +210,16 @@ class KuhnCFR:
 
 		nodes_touched += 1
 
+		infoset_str = str(cards[acting_player]) + str(history)
+		if infoset_str not in self.nodes:
+			self.nodes[infoset_str] = Node(self.bet_options)
+		strategy = self.nodes[infoset_str].get_strategy()
+
 		if acting_player == traversing_player:
 			util = np.zeros(self.bet_options) #2 actions
 			node_util = 0
-			advantages = self.val_nets[acting_player].forward(torch.tensor([[cards[acting_player]]], dtype=torch.float), bets.unsqueeze(0))
-			strategy = self.get_strategy(advantages)
+			#advantages = self.val_nets[acting_player].forward(torch.tensor([[cards[acting_player]]], dtype=torch.float), bets.unsqueeze(0))
+			#strategy = self.get_strategy(advantages)
 			for a in range(self.bet_options):
 				next_history = history + [a]
 				pot += a
@@ -198,12 +229,15 @@ class KuhnCFR:
 			action_advantages = np.zeros(self.bet_options)
 			for a in range(self.bet_options):
 				action_advantages[a] = util[a] - node_util
+				regret = util[a] - node_util
+				self.nodes[infoset_str].regret_sum[a] += regret
+
 			self.m_v[traversing_player].append((infoset, t, action_advantages))
 			return node_util
 
 		else: #acting_player != traversing_player
-			advantages = self.val_nets[acting_player].forward(torch.tensor([[cards[acting_player]]],  dtype=torch.float), bets.unsqueeze(0))
-			strategy = self.get_strategy(advantages)
+			#advantages = self.val_nets[acting_player].forward(torch.tensor([[cards[acting_player]]],  dtype=torch.float), bets.unsqueeze(0))
+			#strategy = self.get_strategy(advantages)
 			self.m_pi.append((infoset, t, strategy, acting_player))
 			util = 0
 			if random.random() < strategy[0]:
@@ -211,7 +245,10 @@ class KuhnCFR:
 			else: 
 				next_history = history + [1]
 				pot += 1
-			return self.deep_cfr(cards, next_history, pot, nodes_touched, traversing_player, t)
+			util = self.deep_cfr(cards, next_history, pot, nodes_touched, traversing_player, t)
+			for a in range(self.bet_options):
+				self.nodes[infoset_str].strategy_sum[a] += strategy[a]
+			return util
 
 
 if __name__ == "__main__":
