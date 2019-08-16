@@ -101,35 +101,50 @@ class LeducCFR:
 		# print('PLAYS', plays)
 
 		if plays >= 2:
-			p0total = np.sum(history[rd][0::2])
-			p1total = np.sum(history[rd][1::2])
+			p0total_cr = np.sum(history[rd][0::2])
+			p1total_cr = np.sum(history[rd][1::2])
+			p0total = np.sum(history[0][0::2]) + np.sum(history[1][0::2])
+			p1total = np.sum(history[0][1::2]) + np.sum(history[1][1::2])
 			# print('P0 TOTAL', p0total)
 			# print('P1 TOTAL', p1total)
 			# print('ROUND BEG', rd)
-				
-			if p0total == p1total:
-				if rd == 0 and p0total != 19:
+			print('************')
+			print('HISTORY: ', history)
+			print('CARDS: ', cards)
+			print('POT: ', pot)
+			print('TRAVERSING PLAYER: ', traversing_player)
+			if p0total_cr == p1total_cr:
+				if rd == 0 and p0total_cr != 19:
 					rd = 1
 					# print('ROUND TO 1')
 				else:
 					# print('SHOWDOWN RETURN')
 					winner = self.winning_hand(cards)
+					print('WINNER: ', winner)
 					if winner == -1:
+						print('UTIL: ', 0)
 						return 0
 					elif traversing_player == winner:
+						print('UTIL: ', pot/2)
 						return pot/2
 					elif traversing_player != winner:
+						print('UTIL: ', -pot/2)
 						return -pot/2
 
 			elif history[rd][-1] == 0: #previous player folded
 				# print('FOLD RETURN')
+				print('WINNER: ', acting_player)
 				if acting_player == 0 and acting_player == traversing_player:
+					print('UTIL: ', p1total + 1)
 					return p1total+1
 				elif acting_player == 0 and acting_player != traversing_player:
+					print('UTIL: ', -(p1total + 1))
 					return -(p1total +1)
 				elif acting_player == 1 and acting_player == traversing_player:
+					print('UTIL: ', p0total + 1)
 					return p0total+1
 				elif acting_player == 1 and acting_player != traversing_player:
+					print('UTIL: ', -(p0total +1))
 					return -(p0total +1)
 		# print('ROUND AFTER', rd)
 		if rd == 0:
@@ -197,7 +212,7 @@ class LeducCFR:
 			return util
 
 if __name__ == "__main__":
-	k = LeducCFR(10000, 3, 20)
+	k = LeducCFR(100000, 3, 20)
 	k.cfr_iterations_external()
 	# for i in range(20):
 	# 	print(k.valid_bets([[i],[]], 0, 19))
