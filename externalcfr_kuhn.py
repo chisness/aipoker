@@ -144,5 +144,5 @@ class KuhnCFR:
 			return util
 
 if __name__ == "__main__":
-	k = KuhnCFR(10000, 3)
+	k = KuhnCFR(10000, 10)
 	k.cfr_iterations_external()

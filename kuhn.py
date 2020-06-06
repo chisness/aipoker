@@ -2022,7 +2022,7 @@ if __name__ == "__main__":
 	# k.cfr_iterations_external()
 
 	k = KuhnCFR(10000, 3, 0)
-	k.cfr_iterations_deep()
+	k.cfr_iterations_chance()
 	#k.cfr_iterations_chance()
 	#k.cfr_iterations_external2()
 
