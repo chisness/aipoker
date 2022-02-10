@@ -1,192 +1,89 @@
-Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak te thief
+Running tests, seeds: 0 to 9, numb of hands: 100, players: newuak te thief
 
 Seed: 0
 starting position: newuak te thief
-SCORE:135|-108|-27:newuak|te|thief
 starting position: newuak thief te
-SCORE:411|-273|-138:newuak|thief|te
 starting position: te newuak thief
-SCORE:162|78|-240:te|newuak|thief
 starting position: te thief newuak
-SCORE:277|-239|-38:te|thief|newuak
 starting position: thief te newuak
-SCORE:-1|-239|240:thief|te|newuak
 starting position: thief newuak te
-SCORE:71|-158|87:thief|newuak|te
 
 seed score
-{'newuak': 668, 'te': 41, 'thief': -709}
+{}
 accumulated score
-{'newuak': 668, 'te': 41, 'thief': -709}
+{}
 
 Seed: 1
 starting position: newuak te thief
-SCORE:-104|124|-20:newuak|te|thief
 starting position: newuak thief te
-SCORE:176|-258|82:newuak|thief|te
 starting position: te newuak thief
-SCORE:-158|271|-113:te|newuak|thief
 starting position: te thief newuak
-SCORE:74|-136|62:te|thief|newuak
 starting position: thief te newuak
-SCORE:-403|11|392:thief|te|newuak
 starting position: thief newuak te
-SCORE:-293|77|216:thief|newuak|te
 
 seed score
-{'newuak': 874, 'te': 349, 'thief': -1223}
+{}
 accumulated score
-{'newuak': 1542, 'te': 390, 'thief': -1932}
+{}
 
 Seed: 2
 starting position: newuak te thief
-SCORE:-51|269|-218:newuak|te|thief
 starting position: newuak thief te
-SCORE:151|-54|-97:newuak|thief|te
 starting position: te newuak thief
-SCORE:-136|396|-260:te|newuak|thief
 starting position: te thief newuak
-SCORE:-13|48|-35:te|thief|newuak
 starting position: thief te newuak
-SCORE:-318|98|220:thief|te|newuak
 starting position: thief newuak te
-SCORE:-266|225|41:thief|newuak|te
 
 seed score
-{'newuak': 906, 'te': 162, 'thief': -1068}
+{}
 accumulated score
-{'newuak': 2448, 'te': 552, 'thief': -3000}
+{}
 
 Seed: 3
 starting position: newuak te thief
-SCORE:122|67|-189:newuak|te|thief
 starting position: newuak thief te
-SCORE:358|-321|-37:newuak|thief|te
 starting position: te newuak thief
-SCORE:16|197|-213:te|newuak|thief
 starting position: te thief newuak
-SCORE:148|-184|36:te|thief|newuak
 starting position: thief te newuak
-SCORE:-166|-103|269:thief|te|newuak
 starting position: thief newuak te
-SCORE:-31|-72|103:thief|newuak|te
 
 seed score
-{'newuak': 910, 'te': 194, 'thief': -1104}
+{}
 accumulated score
-{'newuak': 3358, 'te': 746, 'thief': -4104}
+{}
 
 Seed: 4
 starting position: newuak te thief
-SCORE:71|137|-208:newuak|te|thief
 starting position: newuak thief te
-SCORE:281|-198|-83:newuak|thief|te
 starting position: te newuak thief
-SCORE:-62|262|-200:te|newuak|thief
 starting position: te thief newuak
-SCORE:137|-158|21:te|thief|newuak
 starting position: thief te newuak
-SCORE:-158|-55|213:thief|te|newuak
 starting position: thief newuak te
-SCORE:-49|-34|83:thief|newuak|te
 
 seed score
-{'newuak': 814, 'te': 157, 'thief': -971}
+{}
 accumulated score
-{'newuak': 4172, 'te': 903, 'thief': -5075}
+{}
 
 Seed: 5
 starting position: newuak te thief
-SCORE:28|105|-133:newuak|te|thief
 starting position: newuak thief te
-SCORE:270|-258|-12:newuak|thief|te
 starting position: te newuak thief
-SCORE:23|222|-245:te|newuak|thief
 starting position: te thief newuak
-SCORE:117|-185|68:te|thief|newuak
 starting position: thief te newuak
-SCORE:-188|-106|294:thief|te|newuak
 starting position: thief newuak te
-SCORE:-37|-64|101:thief|newuak|te
 
 seed score
-{'newuak': 818, 'te': 228, 'thief': -1046}
+{}
 accumulated score
-{'newuak': 4990, 'te': 1131, 'thief': -6121}
+{}
 
 Seed: 6
 starting position: newuak te thief
-SCORE:-97|147|-50:newuak|te|thief
 starting position: newuak thief te
-SCORE:110|-187|77:newuak|thief|te
 starting position: te newuak thief
-SCORE:-187|288|-101:te|newuak|thief
 starting position: te thief newuak
-SCORE:-31|-137|168:te|thief|newuak
 starting position: thief te newuak
-SCORE:-379|-42|421:thief|te|newuak
 starting position: thief newuak te
-SCORE:-363|44|319:thief|newuak|te
 
 seed score
-{'newuak': 934, 'te': 283, 'thief': -1217}
-accumulated score
-{'newuak': 5924, 'te': 1414, 'thief': -7338}
-
-Seed: 7
-starting position: newuak te thief
-SCORE:40|52|-92:newuak|te|thief
-starting position: newuak thief te
-SCORE:262|-223|-39:newuak|thief|te
-starting position: te newuak thief
-SCORE:-12|176|-164:te|newuak|thief
-starting position: te thief newuak
-SCORE:119|-100|-19:te|thief|newuak
-starting position: thief te newuak
-SCORE:-211|-115|326:thief|te|newuak
-starting position: thief newuak te
-SCORE:-54|-70|124:thief|newuak|te
-
-seed score
-{'newuak': 715, 'te': 129, 'thief': -844}
-accumulated score
-{'newuak': 6639, 'te': 1543, 'thief': -8182}
-
-Seed: 8
-starting position: newuak te thief
-SCORE:169|-54|-115:newuak|te|thief
-starting position: newuak thief te
-SCORE:509|-503|-6:newuak|thief|te
-starting position: te newuak thief
-SCORE:89|88|-177:te|newuak|thief
-starting position: te thief newuak
-SCORE:342|-404|62:te|thief|newuak
-starting position: thief te newuak
-SCORE:-77|-232|309:thief|te|newuak
-starting position: thief newuak te
-SCORE:14|-143|129:thief|newuak|te
-
-seed score
-{'newuak': 994, 'te': 268, 'thief': -1262}
-accumulated score
-{'newuak': 7633, 'te': 1811, 'thief': -9444}
-
-Seed: 9
-starting position: newuak te thief
-SCORE:78|61|-139:newuak|te|thief
-starting position: newuak thief te
-SCORE:324|-289|-35:newuak|thief|te
-starting position: te newuak thief
-SCORE:-28|221|-193:te|newuak|thief
-starting position: te thief newuak
-SCORE:215|-148|-67:te|thief|newuak
-starting position: thief te newuak
-SCORE:-200|-62|262:thief|te|newuak
-starting position: thief newuak te
-SCORE:-46|-35|81:thief|newuak|te
-
-seed score
-{'newuak': 783, 'te': 232, 'thief': -1015}
-accumulated score
-{'newuak': 8416, 'te': 2043, 'thief': -10459}
-

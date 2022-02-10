@@ -412,10 +412,11 @@ class RPS:
 			# p1_strategy_noneg = p1.get_strategy_noneg()
 			# p1_move_noneg = np.random.choice(ACTIONS, p=p1_strategy_noneg)
 
-			#p2_strategy = p2.get_strategy()
+			p2_strategy = p2.get_strategy()
 			#p2_strategy = p2.get_strategy(p2_move, result)#, epsilon = 0.25)
-			#p2_strategy = p2.get_strategy()#p2.get_strategy(counter)#last_moves[1])#(counter)#last_moves[1])
-			p2_strategy = p2.get_strategy()#(counter)#last_moves[1])
+			#p2_strategy = p2.get_strategy()
+			#p2.get_strategy(counter)#last_moves[1])#(counter)#last_moves[1])
+			#p2_strategy = p2.get_strategy()#(counter)#last_moves[1])
 			if p2_strategy == -1:
 				print('Quit game')
 				break
@@ -542,7 +543,7 @@ if __name__ == "__main__":
 	#p2 = RPSExploitPlayer()
 	#p2 = Yoni()
 	game = RPS(p1, p2)
-	game.play_games(num_games = 10000)
+	game.play_games(num_games = 100000)
 
 	#vs opponent
 	#fixed opponent changes strategy

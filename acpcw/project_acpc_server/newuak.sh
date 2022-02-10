@@ -1,0 +1,1 @@
+python2 ../kuhn3p/players/UltimateAIKuhn/connect_to_dealer.py $1 $2

@@ -1,0 +1,100 @@
+KNOWN BUGS/TODO:
+
+7:Extend RemoteMachine to Windows
+
+To make RemoteMachine work for Linux, quotes were removed
+from around ssh '<commands>'
+They will probably have to be put back in on a Windows
+machine.
+
+11: close AlienClient without logging out.
+
+This does not cause a TimeoutException, so the session keeps running, leaving machines
+on the server. Maybe after a day they would be wiped. Should be tested.
+
+12: Synchronization error in AlienNode.internalLoad (with machineWarrant).
+
+Cleaning machine:ca.ualberta.cs.poker.free.alien.AlienMachine@109a4c
+Cleaning machine:127.0.0.1 ../../expansion/expansion1/ WINDOWS
+Exception in thread "main" java.util.ConcurrentModificationException
+        at java.util.AbstractList$Itr.checkForComodification(Unknown Source)
+        at java.util.AbstractList$Itr.next(Unknown Source)
+        at ca.ualberta.cs.poker.free.alien.AlienNode.internalLoad(AlienNode.java:178)
+        at ca.ualberta.cs.poker.free.alien.AlienNode.load(AlienNode.java:166)
+        at ca.ualberta.cs.poker.free.tournament.Forge.runTournament(Forge.java:179)
+        at ca.ualberta.cs.poker.free.alien.AlienNode.main(AlienNode.java:351)
+
+
+NOTE:Has not occurred since maz put in the print statements to locate the place
+where the error had occurred.
+
+16: (Alien) Client does not receive error message correctly if match has unknown bot.
+
+
+
+FIXED BUGS:
+1:Need to cleanly exit from Forge.runTournament()
+
+LocalMachine.clean() was not terminating all StreamConnect
+threads because some of them were not added to loose threads.
+
+At present, running localprofile.prf on steele-lk would generate
+this bug if it re-occurred.
+
+2:Need to be able to interface to a PA bot with a java command line.
+Handled by RemoteMachine and LocalMachine.
+
+4:Need to fix RemoteMachine
+
+RemoteMachine had issues because Linux did not respond well
+to single quotes surrounding the arguments: in fact, they
+appeared unnecessary.
+
+8:Implement ringseat.Permutation,ringseat.RingPolicy
+
+9:Implement tournament.RingSeries
+
+10:Implement e-mailing of results in alien.
+
+An alternative to the current technique would be to
+simply maintain a list of the started matches locally,
+and when they are all completed, e-mail them to the client.
+At present, the "meaning" of various alien bots and machines
+does not make much sense. Moreover, if an alien machine
+CRASHES it can take a very long time for the matches to terminate
+releasing the lock.
+
+5:Add NoLimit server
+
+Instead, RingServer handles no-limit
+
+6:Add Ring server
+RingServer handles ring and no-limit games
+
+3:Suppress javadoc errors in compileWithMeerkat.bat.
+
+This was partially handled by adding meerkat-docs, but meerkat-docs
+needs to be added to the release.
+
+13: Create results file on timeout from PokerServer.
+
+Doublecheck to make sure that this is done. Might be related to Error 12.
+This works fine now.
+
+14: Handle "timeouts" on startup.
+
+Perhaps the easiest way is to just declare the match a draw on a startup timeout.
+
+15: Handle NullPointerException if match is cancelled externally.
+
+ca.ualberta.cs.poker.free.server.TimeoutException: Player timed out:0:receive
+ca.ualberta.cs.poker.free.server.TimeoutException: Player timed out:0:send
+Exception in thread "Thread-8" java.lang.NullPointerException
+        at ca.ualberta.cs.poker.free.server.PokerServer.adjustBankrolls(PokerSer
+ver.java:432)
+        at ca.ualberta.cs.poker.free.server.PokerServer.playHand(PokerServer.jav
+a:370)
+        at ca.ualberta.cs.poker.free.server.PokerServer.run(PokerServer.java:243
+)
+        at java.lang.Thread.run(Unknown Source)
+This is now fixed.

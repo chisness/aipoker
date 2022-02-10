@@ -1,0 +1,4 @@
+#!/bin/bash
+# $1 - The ip address of the dealer
+# $2 - The port assigned to this player
+python connect_to_dealer.py $1 $2

@@ -1,0 +1,1 @@
+magick.exe mogrify -resize 150x229 -path 150x229/ *.png *.jpg

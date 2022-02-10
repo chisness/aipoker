@@ -1,192 +1,132 @@
-Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak bayes juan
+Running tests, seeds: 0 to 9, numb of hands: 100, players: newuak bayes juan
 
 Seed: 0
 starting position: newuak bayes juan
-SCORE:217|-358|141:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:336|-14|-322:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-121|35|86:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-34|-8|42:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:281|-452|171:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:338|-119|-219:juan|newuak|bayes
 
 seed score
-{'newuak': 682, 'bayes': -1506, 'juan': 824}
+{}
 accumulated score
-{'newuak': 682, 'bayes': -1506, 'juan': 824}
+{}
 
 Seed: 1
 starting position: newuak bayes juan
-SCORE:-25|-222|247:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:96|123|-219:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-433|260|173:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-329|226|103:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:45|-328|283:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:41|49|-90:juan|newuak|bayes
 
 seed score
-{'newuak': 766, 'bayes': -1621, 'juan': 855}
+{}
 accumulated score
-{'newuak': 1448, 'bayes': -3127, 'juan': 1679}
+{}
 
 Seed: 2
 starting position: newuak bayes juan
-SCORE:-59|-44|103:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:82|274|-356:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-424|353|71:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-323|293|30:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:67|-171|104:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:43|209|-252:juan|newuak|bayes
 
 seed score
-{'newuak': 719, 'bayes': -1570, 'juan': 851}
+{}
 accumulated score
-{'newuak': 2167, 'bayes': -4697, 'juan': 2530}
+{}
 
 Seed: 3
 starting position: newuak bayes juan
-SCORE:138|-249|111:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:262|99|-361:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-225|134|91:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-134|103|31:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:194|-347|153:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:262|-26|-236:juan|newuak|bayes
 
 seed score
-{'newuak': 692, 'bayes': -1552, 'juan': 860}
+{}
 accumulated score
-{'newuak': 2859, 'bayes': -6249, 'juan': 3390}
+{}
 
 Seed: 4
 starting position: newuak bayes juan
-SCORE:110|-199|89:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:268|99|-367:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-255|169|86:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-151|122|29:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:159|-315|156:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:198|69|-267:juan|newuak|bayes
 
 seed score
-{'newuak': 801, 'bayes': -1554, 'juan': 753}
+{}
 accumulated score
-{'newuak': 3660, 'bayes': -7803, 'juan': 4143}
+{}
 
 Seed: 5
 starting position: newuak bayes juan
-SCORE:93|-261|168:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:292|31|-323:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-283|172|111:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-173|133|40:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:126|-351|225:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:214|4|-218:juan|newuak|bayes
 
 seed score
-{'newuak': 826, 'bayes': -1609, 'juan': 783}
+{}
 accumulated score
-{'newuak': 4486, 'bayes': -9412, 'juan': 4926}
+{}
 
 Seed: 6
 starting position: newuak bayes juan
-SCORE:-11|-195|206:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:69|162|-231:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-465|228|237:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-381|166|215:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:-72|-272|344:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:-19|109|-90:juan|newuak|bayes
 
 seed score
-{'newuak': 954, 'bayes': -1634, 'juan': 680}
+{}
 accumulated score
-{'newuak': 5440, 'bayes': -11046, 'juan': 5606}
+{}
 
 Seed: 7
 starting position: newuak bayes juan
-SCORE:80|-250|170:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:196|91|-287:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-279|112|167:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-171|113|58:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:130|-370|240:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:201|11|-212:juan|newuak|bayes
 
 seed score
-{'newuak': 697, 'bayes': -1569, 'juan': 872}
+{}
 accumulated score
-{'newuak': 6137, 'bayes': -12615, 'juan': 6478}
+{}
 
 Seed: 8
 starting position: newuak bayes juan
-SCORE:212|-420|208:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:320|-37|-283:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-149|19|130:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-60|-52|112:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:320|-546|226:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:290|-132|-158:juan|newuak|bayes
 
 seed score
-{'newuak': 757, 'bayes': -1616, 'juan': 859}
+{}
 accumulated score
-{'newuak': 6894, 'bayes': -14231, 'juan': 7337}
+{}
 
 Seed: 9
 starting position: newuak bayes juan
-SCORE:101|-286|185:newuak|bayes|juan
 starting position: newuak juan bayes
-SCORE:228|82|-310:newuak|juan|bayes
 starting position: bayes newuak juan
-SCORE:-278|158|120:bayes|newuak|juan
 starting position: bayes juan newuak
-SCORE:-157|106|51:bayes|juan|newuak
 starting position: juan bayes newuak
-SCORE:112|-388|276:juan|bayes|newuak
 starting position: juan newuak bayes
-SCORE:203|0|-203:juan|newuak|bayes
 
 seed score
-{'newuak': 814, 'bayes': -1622, 'juan': 808}
+{}
 accumulated score
-{'newuak': 7708, 'bayes': -15853, 'juan': 8145}
+{}
 

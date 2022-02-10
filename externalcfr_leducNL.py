@@ -61,7 +61,7 @@ class LeducCFR:
 		with open('leducnlstrat.txt', 'w+') as f:
 			for i in sorted(self.nodes):
 				f.write('{}, {}\n'.format(i, self.nodes[i].get_average_strategy()))
-		# print(i, self.nodes[i].get_average_strategy())
+				print(i, self.nodes[i].get_average_strategy())
 
 	def winning_hand(self, cards):
 		if cards[0] == cards[2]:
@@ -235,7 +235,7 @@ class LeducCFR:
 			return util
 
 if __name__ == "__main__":
-	k = LeducCFR(1000000, 3, 20)
+	k = LeducCFR(1000, 3, 20)
 	k.cfr_iterations_external()
 	# for i in range(20):
 	# 	print(k.valid_bets([[i],[]], 0, 19))

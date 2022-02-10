@@ -1,0 +1,15 @@
+WE want kevin to: 
+
+WIN WIN WIN HAHAHAHAHHAHA
+
+The best way to go, is to make Kevin always bet if he has an ACE
+
+Always fold if he has a Jack
+
+Bet with 2/3 probability if he has a King 
+Bet with 1/3 probability if he has a Queen 
+
+
+And then implement the appropriate calling and checking for when you can't bet. 
+
+Use the BLUFFER as a reference. 

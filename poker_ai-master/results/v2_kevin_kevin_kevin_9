@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 10, players: kevin kevin kevin
+
+Seed: 0
+starting position: kevin kevin kevin
+SCORE:4|-7|3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-7|3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-7|3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-7|3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-7|3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-7|3:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 1
+starting position: kevin kevin kevin
+SCORE:-1|-9|10:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|-9|10:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|-9|10:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|-9|10:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|-9|10:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|-9|10:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 2
+starting position: kevin kevin kevin
+SCORE:-3|-4|7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|-4|7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|-4|7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|-4|7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|-4|7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|-4|7:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 3
+starting position: kevin kevin kevin
+SCORE:11|-4|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:11|-4|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:11|-4|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:11|-4|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:11|-4|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:11|-4|-7:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 4
+starting position: kevin kevin kevin
+SCORE:-3|4|-1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|4|-1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|4|-1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|4|-1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|4|-1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-3|4|-1:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 5
+starting position: kevin kevin kevin
+SCORE:-1|8|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|8|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|8|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|8|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|8|-7:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:-1|8|-7:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 6
+starting position: kevin kevin kevin
+SCORE:0|-1|1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:0|-1|1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:0|-1|1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:0|-1|1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:0|-1|1:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:0|-1|1:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 7
+starting position: kevin kevin kevin
+SCORE:9|-6|-3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:9|-6|-3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:9|-6|-3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:9|-6|-3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:9|-6|-3:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:9|-6|-3:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 8
+starting position: kevin kevin kevin
+SCORE:4|-19|15:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-19|15:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-19|15:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-19|15:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-19|15:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:4|-19|15:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+
+Seed: 9
+starting position: kevin kevin kevin
+SCORE:2|-6|4:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:2|-6|4:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:2|-6|4:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:2|-6|4:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:2|-6|4:kevin|kevin|kevin
+starting position: kevin kevin kevin
+SCORE:2|-6|4:kevin|kevin|kevin
+
+seed score
+{'kevin': 0}
+accumulated score
+{'kevin': 0}
+

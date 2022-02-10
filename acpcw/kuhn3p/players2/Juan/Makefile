@@ -1,0 +1,12 @@
+CC = gcc -std=c99
+CFLAGS = -O3 -Wall
+
+PROGRAMS = agent_player game rng net 
+
+all: $(PROGRAMS)
+
+clean:
+	rm -f $(PROGRAMS)
+
+agent_player: agent_player.c game.c game.h evalHandTables rng.c rng.h net.c net.h
+	$(CC) $(CFLAGS) -o $@ agent_player.c game.c rng.c net.c

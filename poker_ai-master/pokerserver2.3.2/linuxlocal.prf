@@ -1,0 +1,27 @@
+# Comments are indicated with a pound sign(#)
+# Machines are specified first, one per line.
+# RemoteMachine <IP> <username> <expansionLocation> [WINDOWS|LINUX]
+# LocalMachine <IP> <expansionLocation> [WINDOWS|LINUX]
+# NOTE: In general, there are issues with using local machines,
+# namely that the server cannot tell which player is which
+# when they connect.
+LocalMachine 127.0.0.1 /usr/abee8/cshome/chsmith/newpoker/trunk/expansion/expansion1/ LINUX
+LocalMachine 127.0.0.1 /usr/abee8/cshome/chsmith/newpoker/trunk/expansion/expansion2/ LINUX
+
+# Then, tournaments are specified
+# Currently, only one tournament is supported.
+BEGIN_TOURNAMENT
+# The following is a HeadsUpLimitRoundRobin tournament header line.
+# It must be specified on one line.
+# The format is:
+# HeadsUpLimitRoundRobin <winnerdetermination> <name> <cardFileRoot> <numDuplicateHands> <IP>
+HeadsUpLimitRoundRobin INSTANTRUNOFFBANKROLL limittest limittest 1 127.0.0.1
+
+# Finally, bots for the tournament are listed
+# BotTarFile <name> <tarfilelocation> <locationintarfile> <(WINDOWS|LINUX)> <(WINDOWS|LOCALWINDOWS|LINUX|LOCALLINUX) 
+BotTarFile Random1 /usr/abee8/cshome/chsmith/newpoker/trunk/bots/randomclient.tar randomclient/ LINUX LOCALLINUX
+BotTarFile Random2 /usr/abee8/cshome/chsmith/newpoker/trunk/bots/randomclient.tar randomclient/ LINUX LOCALLINUX
+END_TOURNAMENT
+
+
+

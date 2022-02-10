@@ -1,0 +1,10 @@
+2017-12-14 20:50:15.722786: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+Using TensorFlow backend.
+Traceback (most recent call last):
+  File "player.py", line 29, in <module>
+    line = sock.recv(4096)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7fc129f02940>>
+Traceback (most recent call last):
+  File "/disk/celeste/lclhome/fyusu003/anaconda3/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 696, in __del__
+TypeError: 'NoneType' object is not callable

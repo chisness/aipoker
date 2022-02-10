@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak thief juan
+
+Seed: 0
+starting position: newuak thief juan
+SCORE:421|-416|-5:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:182|-121|-61:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:42|-138|96:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-88|-82|170:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:175|-189|14:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:195|102|-297:juan|newuak|thief
+
+seed score
+{'newuak': 751, 'thief': -1009, 'juan': 258}
+accumulated score
+{'newuak': 751, 'thief': -1009, 'juan': 258}
+
+Seed: 1
+starting position: newuak thief juan
+SCORE:132|-195|63:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:-16|45|-29:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:-212|92|120:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-360|61|299:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:-103|-70|173:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:-11|221|-210:juan|newuak|thief
+
+seed score
+{'newuak': 901, 'thief': -1076, 'juan': 175}
+accumulated score
+{'newuak': 1652, 'thief': -2085, 'juan': 433}
+
+Seed: 2
+starting position: newuak thief juan
+SCORE:101|-82|-19:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:-13|200|-187:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:-219|205|14:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-385|221|164:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:-81|90|-9:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:-72|401|-329:juan|newuak|thief
+
+seed score
+{'newuak': 849, 'thief': -1112, 'juan': 263}
+accumulated score
+{'newuak': 2501, 'thief': -3197, 'juan': 696}
+
+Seed: 3
+starting position: newuak thief juan
+SCORE:310|-387|77:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:93|-52|-41:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:9|-64|55:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-146|-83|229:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:83|-109|26:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:138|171|-309:juan|newuak|thief
+
+seed score
+{'newuak': 765, 'thief': -983, 'juan': 218}
+accumulated score
+{'newuak': 3266, 'thief': -4180, 'juan': 914}
+
+Seed: 4
+starting position: newuak thief juan
+SCORE:212|-208|-4:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:55|3|-58:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:13|36|-49:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-141|-28|169:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:-4|-11|15:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:-9|278|-269:juan|newuak|thief
+
+seed score
+{'newuak': 765, 'thief': -674, 'juan': -91}
+accumulated score
+{'newuak': 4031, 'thief': -4854, 'juan': 823}
+
+Seed: 5
+starting position: newuak thief juan
+SCORE:279|-335|56:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:108|-80|-28:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:-116|15|101:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-277|31|246:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:56|-182|126:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:69|201|-270:juan|newuak|thief
+
+seed score
+{'newuak': 975, 'thief': -1208, 'juan': 233}
+accumulated score
+{'newuak': 5006, 'thief': -6062, 'juan': 1056}
+
+Seed: 6
+starting position: newuak thief juan
+SCORE:73|-292|219:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:-54|47|7:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:-275|28|247:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-418|28|390:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:-81|-161|242:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:-96|244|-148:juan|newuak|thief
+
+seed score
+{'newuak': 923, 'thief': -1287, 'juan': 364}
+accumulated score
+{'newuak': 5929, 'thief': -7349, 'juan': 1420}
+
+Seed: 7
+starting position: newuak thief juan
+SCORE:167|-217|50:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:2|-31|29:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:-78|2|76:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-171|-62|233:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:56|-72|16:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:17|202|-219:juan|newuak|thief
+
+seed score
+{'newuak': 622, 'thief': -728, 'juan': 106}
+accumulated score
+{'newuak': 6551, 'thief': -8077, 'juan': 1526}
+
+Seed: 8
+starting position: newuak thief juan
+SCORE:489|-589|100:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:178|-114|-64:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:62|-84|22:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-61|-225|286:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:231|-269|38:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:164|33|-197:juan|newuak|thief
+
+seed score
+{'newuak': 940, 'thief': -1118, 'juan': 178}
+accumulated score
+{'newuak': 7491, 'thief': -9195, 'juan': 1704}
+
+Seed: 9
+starting position: newuak thief juan
+SCORE:303|-342|39:newuak|thief|juan
+starting position: newuak juan thief
+SCORE:148|-60|-88:newuak|juan|thief
+starting position: thief newuak juan
+SCORE:-11|-7|18:thief|newuak|juan
+starting position: thief juan newuak
+SCORE:-202|-16|218:thief|juan|newuak
+starting position: juan thief newuak
+SCORE:88|-69|-19:juan|thief|newuak
+starting position: juan newuak thief
+SCORE:47|204|-251:juan|newuak|thief
+
+seed score
+{'newuak': 847, 'thief': -963, 'juan': 116}
+accumulated score
+{'newuak': 8338, 'thief': -10158, 'juan': 1820}
+

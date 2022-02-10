@@ -64,7 +64,7 @@ class NegamaxAgent:
 				for i in game_state.available_moves():
 					clone_state = copy.deepcopy(game_state)
 					clone_state.make_move(i) #makes move and switches to next player
-					_, val = self.minimax(clone_state)
+					_, val = self.negamax(clone_state)
 					val *= -1 
 					if val > best_val:
 						best_move = i
@@ -110,7 +110,7 @@ class MCTSNode:
 
 
 class MCTSAgent:
-	def __init__(self, num_rounds = 10000, temperature = 2):
+	def __init__(self, num_rounds = 5, temperature = 2):
 		self.num_rounds = num_rounds
 		self.temperature = temperature
 
@@ -152,17 +152,17 @@ class MCTSAgent:
 			#simulation -- complete a random playout from the newly expanded node
 			gs_temp = copy.deepcopy(node.game_state)
 			while gs_temp.check_result() is None:
-				print('simulation')
+				# print('simulation')
 				gs_temp.make_move(random.choice(gs_temp.available_moves()))
-				print(gs_temp)
+				# print(gs_temp)
 
 			# while gs.available_moves() != []:
 			# 	gs.make_move(random.choice(gs.available_moves()))
 
 			#backpropagation -- update all nodes from the selection to leaf stage
 			while node is not None:
-				print('backprop')
-				print(gs_temp.check_result())
+				# print('backprop')
+				# print(gs_temp.check_result())
 				node.update(gs_temp.check_result())
 				node = node.parent
 
@@ -199,18 +199,21 @@ class RandomAgent:
 		return random.choice(game_state.available_moves())
 
 if __name__ == "__main__":
-	#ttt = Tictactoe([0,0,-1,0,0,0,1,-1,1])
-	ttt = Tictactoe()
+	ttt = Tictactoe([0,0,-1,0,0,0,1,-1,1])
+	#ttt = Tictactoe()
 	#ttt = Tictactoe([1,0,0,-1,0,0,1,0,-1])
 	#ttt = Tictactoe([1,0,0,0,0,0,0,0,0])
 	#ttt = Tictactoe([1,-1,1,1,-1,-1,0,1,0],-1)
 	#ttt = Tictactoe([-1,1,-1,-1,1,1,0,-1,0])
 	#ttt = Tictactoe([0,0,-1,1,0,0,0,0,0],-1)
 	#ttt = Tictactoe([1,0,0,0,0,0,0,0,-1])
-	print(ttt)
-	#mms = MinimaxAgent()
-	#h = HumanAgent()
-	mctsa = MCTSAgent(num_rounds = 1000)
+	# print(ttt)
+	#mms = NegamaxAgent()
+	player1 = RandomAgent()
+	player2 = HumanAgent()
+	# r = RandomAgent()
+	# h = HumanAgent()
+	mctsa = MCTSAgent(num_rounds = 5)
 	print(mctsa.select_move(ttt))
 	#print(mms.minimax(ttt))
 	#agent = MinimaxAgent()
@@ -222,12 +225,13 @@ if __name__ == "__main__":
 	# 	print('move', moves)
 	# 	print('acting player', ttt.acting_player)
 	# 	if moves % 2 == 0:
-	# 		print(ttt.board)
-	# 		move, _ = mms.minimax(ttt)
+	# 		move, _ = mms.negamax(ttt)
 	# 		print('minimax move', move)
+	# 		# move = player1.select_move(ttt)
 	# 	else:
-	# 		move = h.select_move(ttt)
+	# 		move = player2.select_move(ttt)
 	# 	ttt.make_move(move)
+	# 	print('MAKE MOVE')
 	# 	if ttt.check_result() == 0:
 	# 		print('Draw game')
 	# 		break

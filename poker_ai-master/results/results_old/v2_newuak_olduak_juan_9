@@ -1,0 +1,192 @@
+Running tests, seeds: 0 to 9, numb of hands: 3000, players: newuak olduak juan
+
+Seed: 0
+starting position: newuak olduak juan
+SCORE:385|-493|108:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:307|-11|-296:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-126|-10|136:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-92|-16|108:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:301|-479|178:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:239|22|-261:juan|newuak|olduak
+
+seed score
+{'newuak': 990, 'olduak': -1747, 'juan': 757}
+accumulated score
+{'newuak': 990, 'olduak': -1747, 'juan': 757}
+
+Seed: 1
+starting position: newuak olduak juan
+SCORE:107|-285|178:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:109|165|-274:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-418|202|216:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-376|188|188:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:40|-319|279:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:40|139|-179:juan|newuak|olduak
+
+seed score
+{'newuak': 1024, 'olduak': -1851, 'juan': 827}
+accumulated score
+{'newuak': 2014, 'olduak': -3598, 'juan': 1584}
+
+Seed: 2
+starting position: newuak olduak juan
+SCORE:92|-149|57:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:39|372|-411:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-432|334|98:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-392|262|130:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:92|-190|98:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:30|353|-383:juan|newuak|olduak
+
+seed score
+{'newuak': 1046, 'olduak': -1957, 'juan': 911}
+accumulated score
+{'newuak': 3060, 'olduak': -5555, 'juan': 2495}
+
+Seed: 3
+starting position: newuak olduak juan
+SCORE:243|-351|108:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:280|74|-354:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-230|103|127:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-227|58|169:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:242|-394|152:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:178|120|-298:juan|newuak|olduak
+
+seed score
+{'newuak': 1067, 'olduak': -1854, 'juan': 787}
+accumulated score
+{'newuak': 4127, 'olduak': -7409, 'juan': 3282}
+
+Seed: 4
+starting position: newuak olduak juan
+SCORE:163|-267|104:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:196|158|-354:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-321|221|100:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-183|122|61:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:196|-365|169:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:160|165|-325:juan|newuak|olduak
+
+seed score
+{'newuak': 975, 'olduak': -1815, 'juan': 840}
+accumulated score
+{'newuak': 5102, 'olduak': -9224, 'juan': 4122}
+
+Seed: 5
+starting position: newuak olduak juan
+SCORE:203|-276|73:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:250|70|-320:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-285|57|228:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-194|32|162:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:211|-410|199:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:163|88|-251:juan|newuak|olduak
+
+seed score
+{'newuak': 959, 'olduak': -1736, 'juan': 777}
+accumulated score
+{'newuak': 6061, 'olduak': -10960, 'juan': 4899}
+
+Seed: 6
+starting position: newuak olduak juan
+SCORE:29|-281|252:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:-21|224|-203:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-477|143|334:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-528|177|351:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:14|-303|289:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:-56|202|-146:juan|newuak|olduak
+
+seed score
+{'newuak': 993, 'olduak': -1938, 'juan': 945}
+accumulated score
+{'newuak': 7054, 'olduak': -12898, 'juan': 5844}
+
+Seed: 7
+starting position: newuak olduak juan
+SCORE:179|-290|111:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:131|115|-246:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-278|115|163:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-228|63|165:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:193|-383|190:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:169|133|-302:juan|newuak|olduak
+
+seed score
+{'newuak': 913, 'olduak': -1727, 'juan': 814}
+accumulated score
+{'newuak': 7967, 'olduak': -14625, 'juan': 6658}
+
+Seed: 8
+starting position: newuak olduak juan
+SCORE:380|-467|87:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:392|-51|-341:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-210|-13|223:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-183|-34|217:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:319|-486|167:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:220|-3|-217:juan|newuak|olduak
+
+seed score
+{'newuak': 1140, 'olduak': -1904, 'juan': 764}
+accumulated score
+{'newuak': 9107, 'olduak': -16529, 'juan': 7422}
+
+Seed: 9
+starting position: newuak olduak juan
+SCORE:191|-293|102:newuak|olduak|juan
+starting position: newuak juan olduak
+SCORE:200|125|-325:newuak|juan|olduak
+starting position: olduak newuak juan
+SCORE:-279|159|120:olduak|newuak|juan
+starting position: olduak juan newuak
+SCORE:-242|74|168:olduak|juan|newuak
+starting position: juan olduak newuak
+SCORE:188|-371|183:juan|olduak|newuak
+starting position: juan newuak olduak
+SCORE:171|89|-260:juan|newuak|olduak
+
+seed score
+{'newuak': 990, 'olduak': -1770, 'juan': 780}
+accumulated score
+{'newuak': 10097, 'olduak': -18299, 'juan': 8202}
+

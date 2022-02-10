@@ -1,0 +1,6 @@
+2017-12-14 20:46:01.693998: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+Using TensorFlow backend.
+Traceback (most recent call last):
+  File "player.py", line 83, in <module>
+    sock.send(line + b':' + moves[1].encode() + b'\r\n')
+BrokenPipeError: [Errno 32] Broken pipe

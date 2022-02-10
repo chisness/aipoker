@@ -1,0 +1,11 @@
+Group:
+Juan Lopez - 4702042
+
+To compile:
+
+Use make 
+
+Add the following entry to the MakeFile
+
+agent_player: game.c game.h evalHandTables rng.c rng.h agent_player.c net.c net.h
+	$(CC) $(CFLAGS) -o $@ game.c rng.c agent_player.c net.c

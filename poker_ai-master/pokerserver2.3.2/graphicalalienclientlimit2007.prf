@@ -1,0 +1,49 @@
+# This file is to be read on the client side.
+# Comments are indicated with a pound sign(#)
+
+BEGIN_MACHINES
+# Machines are specified, one per line.
+# RemoteMachine <IP> <username> <expansionLocation> [WINDOWS|LINUX]
+# LocalMachine <IP> <expansionLocation> [WINDOWS|LINUX]
+LocalMachine 127.0.0.1 expansion\expansion3\ WINDOWS
+LocalMachine 127.0.0.1 expansion\expansion4\ WINDOWS
+END_MACHINES
+
+BEGIN_BOTS
+BotTarFile RandomClient bots\randomclient.jar randomclient\ WINDOWS LOCALWINDOWS
+END_BOTS
+
+
+#USERNAME:ALICE
+#PASSWORD:SNEAKY
+
+SERVERIP:129.128.184.10
+PORT:7000
+
+BEGIN_MATCHES
+END_MATCHES
+
+BEGIN_OPPONENTS
+DumboLimitOnline1
+DumboLimitEq1
+LeRenardLimit1
+GomelLimit1
+GomelLimit2
+GS3Limit1
+PokeMinnLimit1
+PokeMinnLimit2
+IanBotLimit1
+QuickLimit1
+UNCCLimit1
+MonashBPPLimit1
+DumboLimitEq2
+DumboLimitOnline2
+Hyperborean07LimitOnline1
+Hyperborean07LimitEq1
+Hyperborean07LimitOnline2
+MilanoLimitEq1
+MilanoLimitOnline1
+END_OPPONENTS
+
+
+

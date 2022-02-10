@@ -1,0 +1,20 @@
+The meerkat-api.jar is copyright by BioTools, Inc. 
+(used with permission for this competition), and is freely
+downloadable from their website at:
+
+http://www.poker-academy.com/community.php
+
+The remainder of this code will be released into the public domain soon. 
+We welcome feedback from competitors as to what particular way it should be released!
+
+
+
+smtp.jar and  mailapi.jar are from the JavaMail API from http://java.sun.com/products/javamail/
+The source code for the JavaMail API Reference Implementation is now available under the CDDL open source license, as a part of Project GlassFish See the mail module page at GlassFish (https://glassfish.dev.java.net/) for more details. 
+
+A copy of the CDDL open source license can be found here: https://glassfish.dev.java.net/public/CDDLv1.0.html and This page (http://wiki.java.net/bin/view/Projects/GlassFishCodeDependencies) contains details about the components in GlassFish and the licenses under which they are covered.
+
+
+
+activation.jar is the JavaBeans Activation Framework from http://java.sun.com/products/javabeans/jaf/index.jsp
+Sun provides a royalty-free reference implementation of the JAF software in binary form that you can use to develop JAF technology-enabled applications for any platform that supports vesion 1.4 or later of the Java 2 Platform, Standard Edition (J2SE).

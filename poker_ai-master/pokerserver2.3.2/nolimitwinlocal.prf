@@ -1,0 +1,27 @@
+# Comments are indicated with a pound sign(#)
+# Machines are specified first, one per line.
+# RemoteMachine <IP> <username> <expansionLocation> [WINDOWS|LINUX]
+# LocalMachine <IP> <expansionLocation> [WINDOWS|LINUX]
+# NOTE: In general, there are issues with using local machines,
+# namely that the server cannot tell which player is which
+# when they connect.
+LocalMachine 127.0.0.1 expansion\expansion1\ WINDOWS
+LocalMachine 127.0.0.1 expansion\expansion2\ WINDOWS
+
+# Then, tournaments are specified
+# Currently, only one tournament is supported.
+BEGIN_TOURNAMENT
+# The following is a HeadsUpNoLimitRoundRobin tournament header line.
+# It must be specified on one line.
+# The format is:
+# HeadsUpNoLimitRoundRobin <winnerdetermination> <name> <cardFileRoot> <numDuplicateHands> <IP>
+HeadsUpNoLimitRoundRobin INSTANTRUNOFFSERIES nolimittest nolimittest 1 127.0.0.1
+
+# Finally, bots for the tournament are listed
+# BotTarFile <name> <tarfilelocation> <locationintarfile> (WINDOWS|LINUX)+
+BotTarFile NoLimitRandom1 bots\nolimitrandomclient.jar nolimitrandomclient\ WINDOWS LOCALWINDOWS
+BotTarFile NoLimitRandom2 bots\nolimitrandomclient.jar nolimitrandomclient\ WINDOWS LOCALWINDOWS
+END_TOURNAMENT
+
+
+

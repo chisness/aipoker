@@ -1,0 +1,444 @@
+Epoch 1/50
+
+  32/2400 [..............................] - ETA: 9s - loss: 2.7628 - dense_2_loss: 1.3903 - dense_3_loss: 1.3725 - dense_2_acc: 0.1875 - dense_3_acc: 0.5000
+ 608/2400 [======>.......................] - ETA: 0s - loss: 2.6335 - dense_2_loss: 1.3180 - dense_3_loss: 1.3155 - dense_2_acc: 0.3388 - dense_3_acc: 0.3734
+1152/2400 [=============>................] - ETA: 0s - loss: 2.5549 - dense_2_loss: 1.2782 - dense_3_loss: 1.2767 - dense_2_acc: 0.3568 - dense_3_acc: 0.3655
+1632/2400 [===================>..........] - ETA: 0s - loss: 2.5006 - dense_2_loss: 1.2510 - dense_3_loss: 1.2496 - dense_2_acc: 0.3487 - dense_3_acc: 0.3578
+2144/2400 [=========================>....] - ETA: 0s - loss: 2.4540 - dense_2_loss: 1.2275 - dense_3_loss: 1.2265 - dense_2_acc: 0.3503 - dense_3_acc: 0.3554
+2400/2400 [==============================] - 0s 149us/step - loss: 2.4355 - dense_2_loss: 1.2187 - dense_3_loss: 1.2168 - dense_2_acc: 0.3463 - dense_3_acc: 0.3550
+Epoch 2/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2844 - dense_2_loss: 1.1336 - dense_3_loss: 1.1508 - dense_2_acc: 0.4375 - dense_3_acc: 0.2188
+ 512/2400 [=====>........................] - ETA: 0s - loss: 2.2553 - dense_2_loss: 1.1257 - dense_3_loss: 1.1296 - dense_2_acc: 0.3770 - dense_3_acc: 0.3457
+ 992/2400 [===========>..................] - ETA: 0s - loss: 2.2517 - dense_2_loss: 1.1248 - dense_3_loss: 1.1269 - dense_2_acc: 0.3690 - dense_3_acc: 0.3427
+1504/2400 [=================>............] - ETA: 0s - loss: 2.2451 - dense_2_loss: 1.1231 - dense_3_loss: 1.1220 - dense_2_acc: 0.3664 - dense_3_acc: 0.3457
+2016/2400 [========================>.....] - ETA: 0s - loss: 2.2372 - dense_2_loss: 1.1192 - dense_3_loss: 1.1181 - dense_2_acc: 0.3690 - dense_3_acc: 0.3502
+2400/2400 [==============================] - 0s 101us/step - loss: 2.2325 - dense_2_loss: 1.1176 - dense_3_loss: 1.1148 - dense_2_acc: 0.3738 - dense_3_acc: 0.3504
+Epoch 3/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1478 - dense_2_loss: 1.0951 - dense_3_loss: 1.0527 - dense_2_acc: 0.3438 - dense_3_acc: 0.4375
+ 576/2400 [======>.......................] - ETA: 0s - loss: 2.1836 - dense_2_loss: 1.0948 - dense_3_loss: 1.0889 - dense_2_acc: 0.3837 - dense_3_acc: 0.3837
+1088/2400 [============>.................] - ETA: 0s - loss: 2.1916 - dense_2_loss: 1.0980 - dense_3_loss: 1.0936 - dense_2_acc: 0.3796 - dense_3_acc: 0.3934
+1568/2400 [==================>...........] - ETA: 0s - loss: 2.1950 - dense_2_loss: 1.1008 - dense_3_loss: 1.0942 - dense_2_acc: 0.3750 - dense_3_acc: 0.3795
+2048/2400 [========================>.....] - ETA: 0s - loss: 2.1885 - dense_2_loss: 1.0955 - dense_3_loss: 1.0930 - dense_2_acc: 0.3848 - dense_3_acc: 0.3818
+2400/2400 [==============================] - 0s 103us/step - loss: 2.1901 - dense_2_loss: 1.0970 - dense_3_loss: 1.0931 - dense_2_acc: 0.3792 - dense_3_acc: 0.3821
+Epoch 4/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1393 - dense_2_loss: 1.0542 - dense_3_loss: 1.0851 - dense_2_acc: 0.3750 - dense_3_acc: 0.4062
+ 544/2400 [=====>........................] - ETA: 0s - loss: 2.1849 - dense_2_loss: 1.0950 - dense_3_loss: 1.0899 - dense_2_acc: 0.3695 - dense_3_acc: 0.3897
+1056/2400 [============>.................] - ETA: 0s - loss: 2.1864 - dense_2_loss: 1.0940 - dense_3_loss: 1.0923 - dense_2_acc: 0.3750 - dense_3_acc: 0.3854
+1568/2400 [==================>...........] - ETA: 0s - loss: 2.1755 - dense_2_loss: 1.0878 - dense_3_loss: 1.0877 - dense_2_acc: 0.3960 - dense_3_acc: 0.3890
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1712 - dense_2_loss: 1.0877 - dense_3_loss: 1.0835 - dense_2_acc: 0.3976 - dense_3_acc: 0.3962
+2400/2400 [==============================] - 0s 100us/step - loss: 2.1719 - dense_2_loss: 1.0874 - dense_3_loss: 1.0845 - dense_2_acc: 0.3971 - dense_3_acc: 0.3954
+Epoch 5/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1928 - dense_2_loss: 1.1254 - dense_3_loss: 1.0674 - dense_2_acc: 0.2500 - dense_3_acc: 0.3750
+ 544/2400 [=====>........................] - ETA: 0s - loss: 2.1360 - dense_2_loss: 1.0722 - dense_3_loss: 1.0638 - dense_2_acc: 0.4081 - dense_3_acc: 0.4210
+1056/2400 [============>.................] - ETA: 0s - loss: 2.1367 - dense_2_loss: 1.0704 - dense_3_loss: 1.0663 - dense_2_acc: 0.4195 - dense_3_acc: 0.4186
+1568/2400 [==================>...........] - ETA: 0s - loss: 2.1514 - dense_2_loss: 1.0751 - dense_3_loss: 1.0763 - dense_2_acc: 0.4120 - dense_3_acc: 0.4069
+2048/2400 [========================>.....] - ETA: 0s - loss: 2.1543 - dense_2_loss: 1.0757 - dense_3_loss: 1.0786 - dense_2_acc: 0.4209 - dense_3_acc: 0.4009
+2400/2400 [==============================] - 0s 103us/step - loss: 2.1510 - dense_2_loss: 1.0754 - dense_3_loss: 1.0756 - dense_2_acc: 0.4196 - dense_3_acc: 0.4058
+Epoch 6/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2131 - dense_2_loss: 1.1488 - dense_3_loss: 1.0643 - dense_2_acc: 0.3438 - dense_3_acc: 0.3750
+ 384/2400 [===>..........................] - ETA: 0s - loss: 2.1714 - dense_2_loss: 1.0751 - dense_3_loss: 1.0963 - dense_2_acc: 0.4115 - dense_3_acc: 0.3646
+ 800/2400 [=========>....................] - ETA: 0s - loss: 2.1642 - dense_2_loss: 1.0801 - dense_3_loss: 1.0841 - dense_2_acc: 0.3987 - dense_3_acc: 0.3912
+1216/2400 [==============>...............] - ETA: 0s - loss: 2.1670 - dense_2_loss: 1.0844 - dense_3_loss: 1.0826 - dense_2_acc: 0.3857 - dense_3_acc: 0.3947
+1632/2400 [===================>..........] - ETA: 0s - loss: 2.1616 - dense_2_loss: 1.0818 - dense_3_loss: 1.0798 - dense_2_acc: 0.3958 - dense_3_acc: 0.3971
+2048/2400 [========================>.....] - ETA: 0s - loss: 2.1531 - dense_2_loss: 1.0768 - dense_3_loss: 1.0763 - dense_2_acc: 0.4028 - dense_3_acc: 0.3989
+2400/2400 [==============================] - 0s 127us/step - loss: 2.1490 - dense_2_loss: 1.0747 - dense_3_loss: 1.0743 - dense_2_acc: 0.4071 - dense_3_acc: 0.4021
+Epoch 7/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1991 - dense_2_loss: 1.0825 - dense_3_loss: 1.1166 - dense_2_acc: 0.4375 - dense_3_acc: 0.5000
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.0972 - dense_2_loss: 1.0490 - dense_3_loss: 1.0482 - dense_2_acc: 0.4286 - dense_3_acc: 0.4598
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1287 - dense_2_loss: 1.0622 - dense_3_loss: 1.0665 - dense_2_acc: 0.4271 - dense_3_acc: 0.4317
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1349 - dense_2_loss: 1.0697 - dense_3_loss: 1.0652 - dense_2_acc: 0.4203 - dense_3_acc: 0.4227
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1428 - dense_2_loss: 1.0754 - dense_3_loss: 1.0674 - dense_2_acc: 0.4068 - dense_3_acc: 0.4151
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1434 - dense_2_loss: 1.0741 - dense_3_loss: 1.0693 - dense_2_acc: 0.4062 - dense_3_acc: 0.4119
+2400/2400 [==============================] - 0s 127us/step - loss: 2.1430 - dense_2_loss: 1.0735 - dense_3_loss: 1.0696 - dense_2_acc: 0.4054 - dense_3_acc: 0.4117
+Epoch 8/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0491 - dense_2_loss: 1.0277 - dense_3_loss: 1.0214 - dense_2_acc: 0.3750 - dense_3_acc: 0.5000
+ 480/2400 [=====>........................] - ETA: 0s - loss: 2.1471 - dense_2_loss: 1.0719 - dense_3_loss: 1.0752 - dense_2_acc: 0.3979 - dense_3_acc: 0.4208
+ 928/2400 [==========>...................] - ETA: 0s - loss: 2.1356 - dense_2_loss: 1.0724 - dense_3_loss: 1.0632 - dense_2_acc: 0.4030 - dense_3_acc: 0.4310
+1376/2400 [================>.............] - ETA: 0s - loss: 2.1410 - dense_2_loss: 1.0731 - dense_3_loss: 1.0679 - dense_2_acc: 0.4019 - dense_3_acc: 0.4186
+1792/2400 [=====================>........] - ETA: 0s - loss: 2.1389 - dense_2_loss: 1.0726 - dense_3_loss: 1.0663 - dense_2_acc: 0.3996 - dense_3_acc: 0.4085
+2208/2400 [==========================>...] - ETA: 0s - loss: 2.1393 - dense_2_loss: 1.0753 - dense_3_loss: 1.0640 - dense_2_acc: 0.4013 - dense_3_acc: 0.4139
+2400/2400 [==============================] - 0s 120us/step - loss: 2.1424 - dense_2_loss: 1.0757 - dense_3_loss: 1.0667 - dense_2_acc: 0.4008 - dense_3_acc: 0.4138
+Epoch 9/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2129 - dense_2_loss: 1.1041 - dense_3_loss: 1.1088 - dense_2_acc: 0.3438 - dense_3_acc: 0.3438
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1405 - dense_2_loss: 1.0715 - dense_3_loss: 1.0690 - dense_2_acc: 0.4062 - dense_3_acc: 0.4018
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1418 - dense_2_loss: 1.0691 - dense_3_loss: 1.0727 - dense_2_acc: 0.4129 - dense_3_acc: 0.3984
+1344/2400 [===============>..............] - ETA: 0s - loss: 2.1376 - dense_2_loss: 1.0644 - dense_3_loss: 1.0732 - dense_2_acc: 0.4144 - dense_3_acc: 0.4048
+1792/2400 [=====================>........] - ETA: 0s - loss: 2.1399 - dense_2_loss: 1.0683 - dense_3_loss: 1.0716 - dense_2_acc: 0.4102 - dense_3_acc: 0.4079
+2240/2400 [===========================>..] - ETA: 0s - loss: 2.1373 - dense_2_loss: 1.0684 - dense_3_loss: 1.0689 - dense_2_acc: 0.4134 - dense_3_acc: 0.4076
+2400/2400 [==============================] - 0s 119us/step - loss: 2.1359 - dense_2_loss: 1.0673 - dense_3_loss: 1.0686 - dense_2_acc: 0.4117 - dense_3_acc: 0.4058
+Epoch 10/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0951 - dense_2_loss: 1.0303 - dense_3_loss: 1.0649 - dense_2_acc: 0.4688 - dense_3_acc: 0.4375
+ 480/2400 [=====>........................] - ETA: 0s - loss: 2.1452 - dense_2_loss: 1.0672 - dense_3_loss: 1.0780 - dense_2_acc: 0.4313 - dense_3_acc: 0.4000
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1642 - dense_2_loss: 1.0822 - dense_3_loss: 1.0820 - dense_2_acc: 0.4085 - dense_3_acc: 0.3951
+1344/2400 [===============>..............] - ETA: 0s - loss: 2.1558 - dense_2_loss: 1.0773 - dense_3_loss: 1.0785 - dense_2_acc: 0.4048 - dense_3_acc: 0.4018
+1824/2400 [=====================>........] - ETA: 0s - loss: 2.1432 - dense_2_loss: 1.0726 - dense_3_loss: 1.0706 - dense_2_acc: 0.4150 - dense_3_acc: 0.4150
+2272/2400 [===========================>..] - ETA: 0s - loss: 2.1398 - dense_2_loss: 1.0709 - dense_3_loss: 1.0689 - dense_2_acc: 0.4168 - dense_3_acc: 0.4124
+2400/2400 [==============================] - 0s 115us/step - loss: 2.1380 - dense_2_loss: 1.0706 - dense_3_loss: 1.0674 - dense_2_acc: 0.4171 - dense_3_acc: 0.4104
+Epoch 11/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1322 - dense_2_loss: 1.0474 - dense_3_loss: 1.0848 - dense_2_acc: 0.4688 - dense_3_acc: 0.3125
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1111 - dense_2_loss: 1.0675 - dense_3_loss: 1.0435 - dense_2_acc: 0.4107 - dense_3_acc: 0.4107
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1205 - dense_2_loss: 1.0648 - dense_3_loss: 1.0557 - dense_2_acc: 0.4109 - dense_3_acc: 0.4120
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1249 - dense_2_loss: 1.0642 - dense_3_loss: 1.0607 - dense_2_acc: 0.4125 - dense_3_acc: 0.4078
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1339 - dense_2_loss: 1.0695 - dense_3_loss: 1.0644 - dense_2_acc: 0.4021 - dense_3_acc: 0.4163
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1334 - dense_2_loss: 1.0707 - dense_3_loss: 1.0627 - dense_2_acc: 0.4034 - dense_3_acc: 0.4143
+2400/2400 [==============================] - 0s 125us/step - loss: 2.1331 - dense_2_loss: 1.0687 - dense_3_loss: 1.0644 - dense_2_acc: 0.4071 - dense_3_acc: 0.4138
+Epoch 12/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0875 - dense_2_loss: 1.0373 - dense_3_loss: 1.0502 - dense_2_acc: 0.4062 - dense_3_acc: 0.3438
+ 480/2400 [=====>........................] - ETA: 0s - loss: 2.1746 - dense_2_loss: 1.0880 - dense_3_loss: 1.0866 - dense_2_acc: 0.3979 - dense_3_acc: 0.3771
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1470 - dense_2_loss: 1.0732 - dense_3_loss: 1.0739 - dense_2_acc: 0.4051 - dense_3_acc: 0.4141
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1435 - dense_2_loss: 1.0704 - dense_3_loss: 1.0731 - dense_2_acc: 0.4101 - dense_3_acc: 0.4169
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1389 - dense_2_loss: 1.0735 - dense_3_loss: 1.0654 - dense_2_acc: 0.4097 - dense_3_acc: 0.4207
+2176/2400 [==========================>...] - ETA: 0s - loss: 2.1408 - dense_2_loss: 1.0743 - dense_3_loss: 1.0664 - dense_2_acc: 0.4072 - dense_3_acc: 0.4187
+2400/2400 [==============================] - 0s 120us/step - loss: 2.1368 - dense_2_loss: 1.0713 - dense_3_loss: 1.0655 - dense_2_acc: 0.4138 - dense_3_acc: 0.4183
+Epoch 13/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2959 - dense_2_loss: 1.1766 - dense_3_loss: 1.1193 - dense_2_acc: 0.2812 - dense_3_acc: 0.4688
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1290 - dense_2_loss: 1.0699 - dense_3_loss: 1.0591 - dense_2_acc: 0.3973 - dense_3_acc: 0.4353
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1336 - dense_2_loss: 1.0722 - dense_3_loss: 1.0615 - dense_2_acc: 0.4062 - dense_3_acc: 0.4248
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1319 - dense_2_loss: 1.0696 - dense_3_loss: 1.0623 - dense_2_acc: 0.4078 - dense_3_acc: 0.4227
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1312 - dense_2_loss: 1.0700 - dense_3_loss: 1.0612 - dense_2_acc: 0.4074 - dense_3_acc: 0.4167
+2144/2400 [=========================>....] - ETA: 0s - loss: 2.1334 - dense_2_loss: 1.0688 - dense_3_loss: 1.0646 - dense_2_acc: 0.4123 - dense_3_acc: 0.4095
+2400/2400 [==============================] - 0s 123us/step - loss: 2.1334 - dense_2_loss: 1.0705 - dense_3_loss: 1.0630 - dense_2_acc: 0.4071 - dense_3_acc: 0.4142
+Epoch 14/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1534 - dense_2_loss: 1.0884 - dense_3_loss: 1.0650 - dense_2_acc: 0.3750 - dense_3_acc: 0.3125
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1216 - dense_2_loss: 1.0706 - dense_3_loss: 1.0511 - dense_2_acc: 0.4018 - dense_3_acc: 0.4219
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1137 - dense_2_loss: 1.0596 - dense_3_loss: 1.0542 - dense_2_acc: 0.4144 - dense_3_acc: 0.4144
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1206 - dense_2_loss: 1.0648 - dense_3_loss: 1.0557 - dense_2_acc: 0.4085 - dense_3_acc: 0.4162
+1760/2400 [=====================>........] - ETA: 0s - loss: 2.1206 - dense_2_loss: 1.0624 - dense_3_loss: 1.0583 - dense_2_acc: 0.4131 - dense_3_acc: 0.4114
+2208/2400 [==========================>...] - ETA: 0s - loss: 2.1307 - dense_2_loss: 1.0671 - dense_3_loss: 1.0636 - dense_2_acc: 0.4085 - dense_3_acc: 0.4108
+2400/2400 [==============================] - 0s 120us/step - loss: 2.1323 - dense_2_loss: 1.0701 - dense_3_loss: 1.0622 - dense_2_acc: 0.4054 - dense_3_acc: 0.4179
+Epoch 15/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0327 - dense_2_loss: 1.0092 - dense_3_loss: 1.0235 - dense_2_acc: 0.5312 - dense_3_acc: 0.4688
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1236 - dense_2_loss: 1.0539 - dense_3_loss: 1.0697 - dense_2_acc: 0.4308 - dense_3_acc: 0.4353
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1195 - dense_2_loss: 1.0578 - dense_3_loss: 1.0617 - dense_2_acc: 0.4306 - dense_3_acc: 0.4259
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1122 - dense_2_loss: 1.0525 - dense_3_loss: 1.0597 - dense_2_acc: 0.4383 - dense_3_acc: 0.4180
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1199 - dense_2_loss: 1.0596 - dense_3_loss: 1.0603 - dense_2_acc: 0.4269 - dense_3_acc: 0.4192
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1284 - dense_2_loss: 1.0659 - dense_3_loss: 1.0625 - dense_2_acc: 0.4157 - dense_3_acc: 0.4110
+2400/2400 [==============================] - 0s 124us/step - loss: 2.1292 - dense_2_loss: 1.0666 - dense_3_loss: 1.0626 - dense_2_acc: 0.4158 - dense_3_acc: 0.4175
+Epoch 16/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1232 - dense_2_loss: 1.0494 - dense_3_loss: 1.0737 - dense_2_acc: 0.5000 - dense_3_acc: 0.3750
+ 480/2400 [=====>........................] - ETA: 0s - loss: 2.1362 - dense_2_loss: 1.0655 - dense_3_loss: 1.0707 - dense_2_acc: 0.4271 - dense_3_acc: 0.4083
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1382 - dense_2_loss: 1.0647 - dense_3_loss: 1.0735 - dense_2_acc: 0.4219 - dense_3_acc: 0.4141
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1280 - dense_2_loss: 1.0633 - dense_3_loss: 1.0647 - dense_2_acc: 0.4273 - dense_3_acc: 0.4289
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1350 - dense_2_loss: 1.0658 - dense_3_loss: 1.0692 - dense_2_acc: 0.4161 - dense_3_acc: 0.4184
+2144/2400 [=========================>....] - ETA: 0s - loss: 2.1304 - dense_2_loss: 1.0633 - dense_3_loss: 1.0671 - dense_2_acc: 0.4188 - dense_3_acc: 0.4184
+2400/2400 [==============================] - 0s 122us/step - loss: 2.1298 - dense_2_loss: 1.0641 - dense_3_loss: 1.0657 - dense_2_acc: 0.4188 - dense_3_acc: 0.4183
+Epoch 17/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2123 - dense_2_loss: 1.1167 - dense_3_loss: 1.0956 - dense_2_acc: 0.4688 - dense_3_acc: 0.3750
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1062 - dense_2_loss: 1.0478 - dense_3_loss: 1.0584 - dense_2_acc: 0.4554 - dense_3_acc: 0.3996
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1162 - dense_2_loss: 1.0552 - dense_3_loss: 1.0610 - dense_2_acc: 0.4306 - dense_3_acc: 0.3981
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1260 - dense_2_loss: 1.0659 - dense_3_loss: 1.0601 - dense_2_acc: 0.4133 - dense_3_acc: 0.4023
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1268 - dense_2_loss: 1.0642 - dense_3_loss: 1.0627 - dense_2_acc: 0.4139 - dense_3_acc: 0.4086
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1273 - dense_2_loss: 1.0644 - dense_3_loss: 1.0629 - dense_2_acc: 0.4176 - dense_3_acc: 0.4086
+2400/2400 [==============================] - 0s 126us/step - loss: 2.1266 - dense_2_loss: 1.0643 - dense_3_loss: 1.0623 - dense_2_acc: 0.4192 - dense_3_acc: 0.4075
+Epoch 18/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0336 - dense_2_loss: 1.0049 - dense_3_loss: 1.0287 - dense_2_acc: 0.4375 - dense_3_acc: 0.3750
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1233 - dense_2_loss: 1.0624 - dense_3_loss: 1.0609 - dense_2_acc: 0.3996 - dense_3_acc: 0.4219
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1140 - dense_2_loss: 1.0644 - dense_3_loss: 1.0496 - dense_2_acc: 0.4236 - dense_3_acc: 0.4236
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1189 - dense_2_loss: 1.0669 - dense_3_loss: 1.0520 - dense_2_acc: 0.4188 - dense_3_acc: 0.4180
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1245 - dense_2_loss: 1.0682 - dense_3_loss: 1.0563 - dense_2_acc: 0.4121 - dense_3_acc: 0.4110
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1201 - dense_2_loss: 1.0633 - dense_3_loss: 1.0568 - dense_2_acc: 0.4238 - dense_3_acc: 0.4091
+2400/2400 [==============================] - 0s 122us/step - loss: 2.1228 - dense_2_loss: 1.0614 - dense_3_loss: 1.0614 - dense_2_acc: 0.4225 - dense_3_acc: 0.4071
+Epoch 19/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1525 - dense_2_loss: 1.1040 - dense_3_loss: 1.0485 - dense_2_acc: 0.3750 - dense_3_acc: 0.4062
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1164 - dense_2_loss: 1.0582 - dense_3_loss: 1.0581 - dense_2_acc: 0.4018 - dense_3_acc: 0.4219
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1193 - dense_2_loss: 1.0614 - dense_3_loss: 1.0579 - dense_2_acc: 0.4096 - dense_3_acc: 0.4141
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1185 - dense_2_loss: 1.0592 - dense_3_loss: 1.0593 - dense_2_acc: 0.4184 - dense_3_acc: 0.4154
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1195 - dense_2_loss: 1.0585 - dense_3_loss: 1.0610 - dense_2_acc: 0.4161 - dense_3_acc: 0.4178
+2144/2400 [=========================>....] - ETA: 0s - loss: 2.1195 - dense_2_loss: 1.0606 - dense_3_loss: 1.0589 - dense_2_acc: 0.4156 - dense_3_acc: 0.4193
+2400/2400 [==============================] - 0s 123us/step - loss: 2.1233 - dense_2_loss: 1.0630 - dense_3_loss: 1.0603 - dense_2_acc: 0.4133 - dense_3_acc: 0.4183
+Epoch 20/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0853 - dense_2_loss: 1.0298 - dense_3_loss: 1.0555 - dense_2_acc: 0.5625 - dense_3_acc: 0.5000
+ 416/2400 [====>.........................] - ETA: 0s - loss: 2.1639 - dense_2_loss: 1.0756 - dense_3_loss: 1.0883 - dense_2_acc: 0.4038 - dense_3_acc: 0.3942
+ 832/2400 [=========>....................] - ETA: 0s - loss: 2.1430 - dense_2_loss: 1.0678 - dense_3_loss: 1.0752 - dense_2_acc: 0.4123 - dense_3_acc: 0.4062
+1248/2400 [==============>...............] - ETA: 0s - loss: 2.1415 - dense_2_loss: 1.0691 - dense_3_loss: 1.0724 - dense_2_acc: 0.4119 - dense_3_acc: 0.4022
+1664/2400 [===================>..........] - ETA: 0s - loss: 2.1385 - dense_2_loss: 1.0675 - dense_3_loss: 1.0710 - dense_2_acc: 0.4093 - dense_3_acc: 0.4075
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1384 - dense_2_loss: 1.0669 - dense_3_loss: 1.0716 - dense_2_acc: 0.4120 - dense_3_acc: 0.4091
+2400/2400 [==============================] - 0s 125us/step - loss: 2.1331 - dense_2_loss: 1.0648 - dense_3_loss: 1.0683 - dense_2_acc: 0.4154 - dense_3_acc: 0.4121
+Epoch 21/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1047 - dense_2_loss: 1.0792 - dense_3_loss: 1.0256 - dense_2_acc: 0.3125 - dense_3_acc: 0.4375
+ 480/2400 [=====>........................] - ETA: 0s - loss: 2.0722 - dense_2_loss: 1.0438 - dense_3_loss: 1.0284 - dense_2_acc: 0.4375 - dense_3_acc: 0.4708
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1028 - dense_2_loss: 1.0495 - dense_3_loss: 1.0533 - dense_2_acc: 0.4397 - dense_3_acc: 0.4252
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1144 - dense_2_loss: 1.0529 - dense_3_loss: 1.0615 - dense_2_acc: 0.4352 - dense_3_acc: 0.4177
+1760/2400 [=====================>........] - ETA: 0s - loss: 2.1166 - dense_2_loss: 1.0548 - dense_3_loss: 1.0618 - dense_2_acc: 0.4324 - dense_3_acc: 0.4170
+2208/2400 [==========================>...] - ETA: 0s - loss: 2.1224 - dense_2_loss: 1.0589 - dense_3_loss: 1.0635 - dense_2_acc: 0.4230 - dense_3_acc: 0.4158
+2400/2400 [==============================] - 0s 124us/step - loss: 2.1219 - dense_2_loss: 1.0597 - dense_3_loss: 1.0622 - dense_2_acc: 0.4204 - dense_3_acc: 0.4129
+Epoch 22/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1188 - dense_2_loss: 1.0425 - dense_3_loss: 1.0763 - dense_2_acc: 0.4688 - dense_3_acc: 0.4688
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.0963 - dense_2_loss: 1.0402 - dense_3_loss: 1.0561 - dense_2_acc: 0.4509 - dense_3_acc: 0.4107
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1289 - dense_2_loss: 1.0585 - dense_3_loss: 1.0704 - dense_2_acc: 0.4259 - dense_3_acc: 0.4039
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1109 - dense_2_loss: 1.0569 - dense_3_loss: 1.0539 - dense_2_acc: 0.4322 - dense_3_acc: 0.4306
+1760/2400 [=====================>........] - ETA: 0s - loss: 2.1141 - dense_2_loss: 1.0578 - dense_3_loss: 1.0563 - dense_2_acc: 0.4261 - dense_3_acc: 0.4295
+2208/2400 [==========================>...] - ETA: 0s - loss: 2.1198 - dense_2_loss: 1.0611 - dense_3_loss: 1.0587 - dense_2_acc: 0.4221 - dense_3_acc: 0.4212
+2400/2400 [==============================] - 0s 120us/step - loss: 2.1196 - dense_2_loss: 1.0612 - dense_3_loss: 1.0584 - dense_2_acc: 0.4204 - dense_3_acc: 0.4200
+Epoch 23/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2173 - dense_2_loss: 1.1213 - dense_3_loss: 1.0960 - dense_2_acc: 0.3125 - dense_3_acc: 0.3438
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1780 - dense_2_loss: 1.0799 - dense_3_loss: 1.0981 - dense_2_acc: 0.4196 - dense_3_acc: 0.4107
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1599 - dense_2_loss: 1.0734 - dense_3_loss: 1.0865 - dense_2_acc: 0.4085 - dense_3_acc: 0.3951
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1560 - dense_2_loss: 1.0750 - dense_3_loss: 1.0810 - dense_2_acc: 0.4139 - dense_3_acc: 0.4032
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1365 - dense_2_loss: 1.0672 - dense_3_loss: 1.0693 - dense_2_acc: 0.4210 - dense_3_acc: 0.4110
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1334 - dense_2_loss: 1.0656 - dense_3_loss: 1.0678 - dense_2_acc: 0.4214 - dense_3_acc: 0.4077
+2400/2400 [==============================] - 0s 127us/step - loss: 2.1262 - dense_2_loss: 1.0635 - dense_3_loss: 1.0627 - dense_2_acc: 0.4254 - dense_3_acc: 0.4154
+Epoch 24/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0694 - dense_2_loss: 0.9595 - dense_3_loss: 1.1100 - dense_2_acc: 0.5000 - dense_3_acc: 0.3438
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1138 - dense_2_loss: 1.0582 - dense_3_loss: 1.0556 - dense_2_acc: 0.4330 - dense_3_acc: 0.4330
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1225 - dense_2_loss: 1.0562 - dense_3_loss: 1.0663 - dense_2_acc: 0.4236 - dense_3_acc: 0.4317
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1205 - dense_2_loss: 1.0590 - dense_3_loss: 1.0615 - dense_2_acc: 0.4281 - dense_3_acc: 0.4273
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1102 - dense_2_loss: 1.0569 - dense_3_loss: 1.0532 - dense_2_acc: 0.4233 - dense_3_acc: 0.4340
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1202 - dense_2_loss: 1.0643 - dense_3_loss: 1.0559 - dense_2_acc: 0.4152 - dense_3_acc: 0.4323
+2400/2400 [==============================] - 0s 126us/step - loss: 2.1235 - dense_2_loss: 1.0653 - dense_3_loss: 1.0582 - dense_2_acc: 0.4154 - dense_3_acc: 0.4288
+Epoch 25/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.3959 - dense_2_loss: 1.1452 - dense_3_loss: 1.2507 - dense_2_acc: 0.3750 - dense_3_acc: 0.4062
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1397 - dense_2_loss: 1.0742 - dense_3_loss: 1.0655 - dense_2_acc: 0.4174 - dense_3_acc: 0.4241
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1325 - dense_2_loss: 1.0641 - dense_3_loss: 1.0684 - dense_2_acc: 0.4375 - dense_3_acc: 0.4097
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1339 - dense_2_loss: 1.0683 - dense_3_loss: 1.0656 - dense_2_acc: 0.4192 - dense_3_acc: 0.4055
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1357 - dense_2_loss: 1.0680 - dense_3_loss: 1.0678 - dense_2_acc: 0.4138 - dense_3_acc: 0.4016
+2144/2400 [=========================>....] - ETA: 0s - loss: 2.1283 - dense_2_loss: 1.0657 - dense_3_loss: 1.0626 - dense_2_acc: 0.4156 - dense_3_acc: 0.4142
+2400/2400 [==============================] - 0s 123us/step - loss: 2.1246 - dense_2_loss: 1.0619 - dense_3_loss: 1.0627 - dense_2_acc: 0.4200 - dense_3_acc: 0.4154
+Epoch 26/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2762 - dense_2_loss: 1.1640 - dense_3_loss: 1.1122 - dense_2_acc: 0.3438 - dense_3_acc: 0.3438
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1346 - dense_2_loss: 1.0649 - dense_3_loss: 1.0697 - dense_2_acc: 0.4263 - dense_3_acc: 0.4152
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1233 - dense_2_loss: 1.0602 - dense_3_loss: 1.0631 - dense_2_acc: 0.4185 - dense_3_acc: 0.4174
+1344/2400 [===============>..............] - ETA: 0s - loss: 2.1140 - dense_2_loss: 1.0539 - dense_3_loss: 1.0601 - dense_2_acc: 0.4241 - dense_3_acc: 0.4234
+1760/2400 [=====================>........] - ETA: 0s - loss: 2.1147 - dense_2_loss: 1.0579 - dense_3_loss: 1.0568 - dense_2_acc: 0.4199 - dense_3_acc: 0.4278
+2176/2400 [==========================>...] - ETA: 0s - loss: 2.1187 - dense_2_loss: 1.0600 - dense_3_loss: 1.0587 - dense_2_acc: 0.4168 - dense_3_acc: 0.4260
+2400/2400 [==============================] - 0s 122us/step - loss: 2.1201 - dense_2_loss: 1.0600 - dense_3_loss: 1.0601 - dense_2_acc: 0.4179 - dense_3_acc: 0.4254
+Epoch 27/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2544 - dense_2_loss: 1.0961 - dense_3_loss: 1.1583 - dense_2_acc: 0.3438 - dense_3_acc: 0.2188
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1037 - dense_2_loss: 1.0490 - dense_3_loss: 1.0547 - dense_2_acc: 0.4241 - dense_3_acc: 0.4152
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1052 - dense_2_loss: 1.0506 - dense_3_loss: 1.0546 - dense_2_acc: 0.4330 - dense_3_acc: 0.4152
+1344/2400 [===============>..............] - ETA: 0s - loss: 2.1106 - dense_2_loss: 1.0569 - dense_3_loss: 1.0537 - dense_2_acc: 0.4249 - dense_3_acc: 0.4167
+1792/2400 [=====================>........] - ETA: 0s - loss: 2.1190 - dense_2_loss: 1.0583 - dense_3_loss: 1.0606 - dense_2_acc: 0.4213 - dense_3_acc: 0.4180
+2240/2400 [===========================>..] - ETA: 0s - loss: 2.1230 - dense_2_loss: 1.0605 - dense_3_loss: 1.0625 - dense_2_acc: 0.4161 - dense_3_acc: 0.4112
+2400/2400 [==============================] - 0s 118us/step - loss: 2.1194 - dense_2_loss: 1.0590 - dense_3_loss: 1.0604 - dense_2_acc: 0.4183 - dense_3_acc: 0.4138
+Epoch 28/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0858 - dense_2_loss: 1.0263 - dense_3_loss: 1.0596 - dense_2_acc: 0.3750 - dense_3_acc: 0.4688
+ 544/2400 [=====>........................] - ETA: 0s - loss: 2.1127 - dense_2_loss: 1.0521 - dense_3_loss: 1.0606 - dense_2_acc: 0.4154 - dense_3_acc: 0.4173
+1024/2400 [===========>..................] - ETA: 0s - loss: 2.1258 - dense_2_loss: 1.0607 - dense_3_loss: 1.0651 - dense_2_acc: 0.4092 - dense_3_acc: 0.4150
+1504/2400 [=================>............] - ETA: 0s - loss: 2.1234 - dense_2_loss: 1.0619 - dense_3_loss: 1.0615 - dense_2_acc: 0.4102 - dense_3_acc: 0.4169
+1984/2400 [=======================>......] - ETA: 0s - loss: 2.1265 - dense_2_loss: 1.0646 - dense_3_loss: 1.0618 - dense_2_acc: 0.4108 - dense_3_acc: 0.4158
+2400/2400 [==============================] - 0s 106us/step - loss: 2.1229 - dense_2_loss: 1.0642 - dense_3_loss: 1.0588 - dense_2_acc: 0.4142 - dense_3_acc: 0.4204
+Epoch 29/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0637 - dense_2_loss: 1.0223 - dense_3_loss: 1.0414 - dense_2_acc: 0.4688 - dense_3_acc: 0.4062
+ 480/2400 [=====>........................] - ETA: 0s - loss: 2.0967 - dense_2_loss: 1.0395 - dense_3_loss: 1.0573 - dense_2_acc: 0.4417 - dense_3_acc: 0.3937
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1198 - dense_2_loss: 1.0518 - dense_3_loss: 1.0680 - dense_2_acc: 0.4342 - dense_3_acc: 0.3828
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1168 - dense_2_loss: 1.0582 - dense_3_loss: 1.0586 - dense_2_acc: 0.4345 - dense_3_acc: 0.4047
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1099 - dense_2_loss: 1.0523 - dense_3_loss: 1.0576 - dense_2_acc: 0.4265 - dense_3_acc: 0.4138
+2144/2400 [=========================>....] - ETA: 0s - loss: 2.1169 - dense_2_loss: 1.0554 - dense_3_loss: 1.0615 - dense_2_acc: 0.4254 - dense_3_acc: 0.4142
+2400/2400 [==============================] - 0s 125us/step - loss: 2.1197 - dense_2_loss: 1.0594 - dense_3_loss: 1.0603 - dense_2_acc: 0.4200 - dense_3_acc: 0.4179
+Epoch 30/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1910 - dense_2_loss: 1.1085 - dense_3_loss: 1.0825 - dense_2_acc: 0.3750 - dense_3_acc: 0.4688
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1132 - dense_2_loss: 1.0639 - dense_3_loss: 1.0493 - dense_2_acc: 0.4129 - dense_3_acc: 0.4375
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1310 - dense_2_loss: 1.0733 - dense_3_loss: 1.0577 - dense_2_acc: 0.3877 - dense_3_acc: 0.4352
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1206 - dense_2_loss: 1.0616 - dense_3_loss: 1.0590 - dense_2_acc: 0.4094 - dense_3_acc: 0.4141
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1170 - dense_2_loss: 1.0589 - dense_3_loss: 1.0581 - dense_2_acc: 0.4155 - dense_3_acc: 0.4190
+2176/2400 [==========================>...] - ETA: 0s - loss: 2.1243 - dense_2_loss: 1.0614 - dense_3_loss: 1.0629 - dense_2_acc: 0.4099 - dense_3_acc: 0.4090
+2400/2400 [==============================] - 0s 122us/step - loss: 2.1178 - dense_2_loss: 1.0586 - dense_3_loss: 1.0592 - dense_2_acc: 0.4158 - dense_3_acc: 0.4129
+Epoch 31/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2522 - dense_2_loss: 1.1550 - dense_3_loss: 1.0972 - dense_2_acc: 0.3438 - dense_3_acc: 0.3750
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1332 - dense_2_loss: 1.0652 - dense_3_loss: 1.0679 - dense_2_acc: 0.4286 - dense_3_acc: 0.3973
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1386 - dense_2_loss: 1.0693 - dense_3_loss: 1.0693 - dense_2_acc: 0.4208 - dense_3_acc: 0.4007
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1256 - dense_2_loss: 1.0614 - dense_3_loss: 1.0642 - dense_2_acc: 0.4230 - dense_3_acc: 0.3994
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1176 - dense_2_loss: 1.0587 - dense_3_loss: 1.0588 - dense_2_acc: 0.4271 - dense_3_acc: 0.4103
+2176/2400 [==========================>...] - ETA: 0s - loss: 2.1143 - dense_2_loss: 1.0542 - dense_3_loss: 1.0602 - dense_2_acc: 0.4361 - dense_3_acc: 0.4081
+2400/2400 [==============================] - 0s 120us/step - loss: 2.1189 - dense_2_loss: 1.0574 - dense_3_loss: 1.0615 - dense_2_acc: 0.4283 - dense_3_acc: 0.4079
+Epoch 32/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0530 - dense_2_loss: 1.0584 - dense_3_loss: 0.9946 - dense_2_acc: 0.4062 - dense_3_acc: 0.5312
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1314 - dense_2_loss: 1.0821 - dense_3_loss: 1.0493 - dense_2_acc: 0.3973 - dense_3_acc: 0.4754
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1154 - dense_2_loss: 1.0655 - dense_3_loss: 1.0498 - dense_2_acc: 0.4213 - dense_3_acc: 0.4421
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1180 - dense_2_loss: 1.0648 - dense_3_loss: 1.0533 - dense_2_acc: 0.4219 - dense_3_acc: 0.4336
+1664/2400 [===================>..........] - ETA: 0s - loss: 2.1296 - dense_2_loss: 1.0716 - dense_3_loss: 1.0580 - dense_2_acc: 0.4093 - dense_3_acc: 0.4237
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1247 - dense_2_loss: 1.0648 - dense_3_loss: 1.0599 - dense_2_acc: 0.4173 - dense_3_acc: 0.4188
+2400/2400 [==============================] - 0s 128us/step - loss: 2.1246 - dense_2_loss: 1.0654 - dense_3_loss: 1.0592 - dense_2_acc: 0.4154 - dense_3_acc: 0.4204
+Epoch 33/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0358 - dense_2_loss: 1.0584 - dense_3_loss: 0.9774 - dense_2_acc: 0.5000 - dense_3_acc: 0.5625
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1183 - dense_2_loss: 1.0620 - dense_3_loss: 1.0563 - dense_2_acc: 0.4509 - dense_3_acc: 0.4330
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1016 - dense_2_loss: 1.0451 - dense_3_loss: 1.0565 - dense_2_acc: 0.4537 - dense_3_acc: 0.4213
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1144 - dense_2_loss: 1.0530 - dense_3_loss: 1.0614 - dense_2_acc: 0.4422 - dense_3_acc: 0.4133
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1056 - dense_2_loss: 1.0499 - dense_3_loss: 1.0557 - dense_2_acc: 0.4393 - dense_3_acc: 0.4169
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1154 - dense_2_loss: 1.0580 - dense_3_loss: 1.0574 - dense_2_acc: 0.4236 - dense_3_acc: 0.4173
+2400/2400 [==============================] - 0s 129us/step - loss: 2.1222 - dense_2_loss: 1.0619 - dense_3_loss: 1.0604 - dense_2_acc: 0.4196 - dense_3_acc: 0.4154
+Epoch 34/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1847 - dense_2_loss: 1.1328 - dense_3_loss: 1.0519 - dense_2_acc: 0.3750 - dense_3_acc: 0.2812
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1174 - dense_2_loss: 1.0545 - dense_3_loss: 1.0629 - dense_2_acc: 0.4420 - dense_3_acc: 0.4174
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1237 - dense_2_loss: 1.0586 - dense_3_loss: 1.0652 - dense_2_acc: 0.4340 - dense_3_acc: 0.4016
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1314 - dense_2_loss: 1.0658 - dense_3_loss: 1.0656 - dense_2_acc: 0.4180 - dense_3_acc: 0.4070
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1242 - dense_2_loss: 1.0612 - dense_3_loss: 1.0630 - dense_2_acc: 0.4169 - dense_3_acc: 0.4074
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1167 - dense_2_loss: 1.0588 - dense_3_loss: 1.0579 - dense_2_acc: 0.4214 - dense_3_acc: 0.4105
+2400/2400 [==============================] - 0s 128us/step - loss: 2.1179 - dense_2_loss: 1.0594 - dense_3_loss: 1.0585 - dense_2_acc: 0.4179 - dense_3_acc: 0.4104
+Epoch 35/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2659 - dense_2_loss: 1.1150 - dense_3_loss: 1.1509 - dense_2_acc: 0.3750 - dense_3_acc: 0.2188
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1180 - dense_2_loss: 1.0619 - dense_3_loss: 1.0561 - dense_2_acc: 0.4174 - dense_3_acc: 0.4129
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1243 - dense_2_loss: 1.0641 - dense_3_loss: 1.0601 - dense_2_acc: 0.4259 - dense_3_acc: 0.4190
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1203 - dense_2_loss: 1.0619 - dense_3_loss: 1.0584 - dense_2_acc: 0.4297 - dense_3_acc: 0.4180
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1196 - dense_2_loss: 1.0609 - dense_3_loss: 1.0587 - dense_2_acc: 0.4222 - dense_3_acc: 0.4216
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1285 - dense_2_loss: 1.0659 - dense_3_loss: 1.0626 - dense_2_acc: 0.4152 - dense_3_acc: 0.4200
+2400/2400 [==============================] - 0s 126us/step - loss: 2.1194 - dense_2_loss: 1.0598 - dense_3_loss: 1.0597 - dense_2_acc: 0.4175 - dense_3_acc: 0.4213
+Epoch 36/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0229 - dense_2_loss: 1.0092 - dense_3_loss: 1.0137 - dense_2_acc: 0.5312 - dense_3_acc: 0.3750
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1194 - dense_2_loss: 1.0608 - dense_3_loss: 1.0585 - dense_2_acc: 0.4174 - dense_3_acc: 0.4241
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1187 - dense_2_loss: 1.0595 - dense_3_loss: 1.0592 - dense_2_acc: 0.4086 - dense_3_acc: 0.4201
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1199 - dense_2_loss: 1.0612 - dense_3_loss: 1.0587 - dense_2_acc: 0.4086 - dense_3_acc: 0.4125
+1664/2400 [===================>..........] - ETA: 0s - loss: 2.1185 - dense_2_loss: 1.0567 - dense_3_loss: 1.0618 - dense_2_acc: 0.4225 - dense_3_acc: 0.4117
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1159 - dense_2_loss: 1.0563 - dense_3_loss: 1.0597 - dense_2_acc: 0.4231 - dense_3_acc: 0.4173
+2400/2400 [==============================] - 0s 128us/step - loss: 2.1156 - dense_2_loss: 1.0587 - dense_3_loss: 1.0569 - dense_2_acc: 0.4163 - dense_3_acc: 0.4200
+Epoch 37/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1544 - dense_2_loss: 1.0865 - dense_3_loss: 1.0679 - dense_2_acc: 0.3438 - dense_3_acc: 0.4062
+ 416/2400 [====>.........................] - ETA: 0s - loss: 2.1110 - dense_2_loss: 1.0674 - dense_3_loss: 1.0436 - dense_2_acc: 0.4062 - dense_3_acc: 0.4471
+ 832/2400 [=========>....................] - ETA: 0s - loss: 2.1075 - dense_2_loss: 1.0575 - dense_3_loss: 1.0500 - dense_2_acc: 0.4123 - dense_3_acc: 0.4375
+1248/2400 [==============>...............] - ETA: 0s - loss: 2.1095 - dense_2_loss: 1.0505 - dense_3_loss: 1.0590 - dense_2_acc: 0.4231 - dense_3_acc: 0.4191
+1664/2400 [===================>..........] - ETA: 0s - loss: 2.1099 - dense_2_loss: 1.0512 - dense_3_loss: 1.0587 - dense_2_acc: 0.4285 - dense_3_acc: 0.4129
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1136 - dense_2_loss: 1.0568 - dense_3_loss: 1.0568 - dense_2_acc: 0.4288 - dense_3_acc: 0.4163
+2400/2400 [==============================] - 0s 127us/step - loss: 2.1148 - dense_2_loss: 1.0563 - dense_3_loss: 1.0585 - dense_2_acc: 0.4283 - dense_3_acc: 0.4175
+Epoch 38/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1179 - dense_2_loss: 1.0912 - dense_3_loss: 1.0267 - dense_2_acc: 0.3750 - dense_3_acc: 0.4688
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1217 - dense_2_loss: 1.0700 - dense_3_loss: 1.0517 - dense_2_acc: 0.3884 - dense_3_acc: 0.4174
+ 832/2400 [=========>....................] - ETA: 0s - loss: 2.1286 - dense_2_loss: 1.0622 - dense_3_loss: 1.0664 - dense_2_acc: 0.4026 - dense_3_acc: 0.4135
+1248/2400 [==============>...............] - ETA: 0s - loss: 2.0999 - dense_2_loss: 1.0531 - dense_3_loss: 1.0468 - dense_2_acc: 0.4231 - dense_3_acc: 0.4423
+1632/2400 [===================>..........] - ETA: 0s - loss: 2.1082 - dense_2_loss: 1.0575 - dense_3_loss: 1.0507 - dense_2_acc: 0.4179 - dense_3_acc: 0.4320
+2048/2400 [========================>.....] - ETA: 0s - loss: 2.1179 - dense_2_loss: 1.0597 - dense_3_loss: 1.0582 - dense_2_acc: 0.4248 - dense_3_acc: 0.4185
+2400/2400 [==============================] - 0s 129us/step - loss: 2.1162 - dense_2_loss: 1.0594 - dense_3_loss: 1.0569 - dense_2_acc: 0.4217 - dense_3_acc: 0.4263
+Epoch 39/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1532 - dense_2_loss: 1.0490 - dense_3_loss: 1.1042 - dense_2_acc: 0.3438 - dense_3_acc: 0.2500
+ 480/2400 [=====>........................] - ETA: 0s - loss: 2.1037 - dense_2_loss: 1.0508 - dense_3_loss: 1.0530 - dense_2_acc: 0.4313 - dense_3_acc: 0.4146
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1098 - dense_2_loss: 1.0454 - dense_3_loss: 1.0644 - dense_2_acc: 0.4342 - dense_3_acc: 0.4163
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1221 - dense_2_loss: 1.0601 - dense_3_loss: 1.0620 - dense_2_acc: 0.4230 - dense_3_acc: 0.4108
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1303 - dense_2_loss: 1.0663 - dense_3_loss: 1.0640 - dense_2_acc: 0.4126 - dense_3_acc: 0.4074
+2176/2400 [==========================>...] - ETA: 0s - loss: 2.1260 - dense_2_loss: 1.0646 - dense_3_loss: 1.0614 - dense_2_acc: 0.4145 - dense_3_acc: 0.4131
+2400/2400 [==============================] - 0s 122us/step - loss: 2.1257 - dense_2_loss: 1.0649 - dense_3_loss: 1.0608 - dense_2_acc: 0.4133 - dense_3_acc: 0.4150
+Epoch 40/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2140 - dense_2_loss: 1.0828 - dense_3_loss: 1.1312 - dense_2_acc: 0.3438 - dense_3_acc: 0.2500
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1252 - dense_2_loss: 1.0637 - dense_3_loss: 1.0615 - dense_2_acc: 0.4107 - dense_3_acc: 0.4152
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1346 - dense_2_loss: 1.0634 - dense_3_loss: 1.0712 - dense_2_acc: 0.4074 - dense_3_acc: 0.4016
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1232 - dense_2_loss: 1.0592 - dense_3_loss: 1.0639 - dense_2_acc: 0.4109 - dense_3_acc: 0.4188
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1186 - dense_2_loss: 1.0556 - dense_3_loss: 1.0630 - dense_2_acc: 0.4157 - dense_3_acc: 0.4180
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1110 - dense_2_loss: 1.0556 - dense_3_loss: 1.0554 - dense_2_acc: 0.4214 - dense_3_acc: 0.4290
+2400/2400 [==============================] - 0s 124us/step - loss: 2.1143 - dense_2_loss: 1.0573 - dense_3_loss: 1.0571 - dense_2_acc: 0.4192 - dense_3_acc: 0.4246
+Epoch 41/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2342 - dense_2_loss: 1.1235 - dense_3_loss: 1.1107 - dense_2_acc: 0.2500 - dense_3_acc: 0.4375
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1102 - dense_2_loss: 1.0451 - dense_3_loss: 1.0651 - dense_2_acc: 0.4442 - dense_3_acc: 0.4040
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.0873 - dense_2_loss: 1.0390 - dense_3_loss: 1.0482 - dense_2_acc: 0.4618 - dense_3_acc: 0.4340
+1312/2400 [===============>..............] - ETA: 0s - loss: 2.1063 - dense_2_loss: 1.0500 - dense_3_loss: 1.0563 - dense_2_acc: 0.4611 - dense_3_acc: 0.4352
+1728/2400 [====================>.........] - ETA: 0s - loss: 2.1047 - dense_2_loss: 1.0529 - dense_3_loss: 1.0518 - dense_2_acc: 0.4497 - dense_3_acc: 0.4346
+2144/2400 [=========================>....] - ETA: 0s - loss: 2.1122 - dense_2_loss: 1.0545 - dense_3_loss: 1.0578 - dense_2_acc: 0.4431 - dense_3_acc: 0.4249
+2400/2400 [==============================] - 0s 122us/step - loss: 2.1152 - dense_2_loss: 1.0571 - dense_3_loss: 1.0581 - dense_2_acc: 0.4400 - dense_3_acc: 0.4225
+Epoch 42/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.2320 - dense_2_loss: 1.1212 - dense_3_loss: 1.1108 - dense_2_acc: 0.3125 - dense_3_acc: 0.4062
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1420 - dense_2_loss: 1.0753 - dense_3_loss: 1.0667 - dense_2_acc: 0.3817 - dense_3_acc: 0.4129
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1421 - dense_2_loss: 1.0706 - dense_3_loss: 1.0714 - dense_2_acc: 0.4051 - dense_3_acc: 0.4178
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1309 - dense_2_loss: 1.0681 - dense_3_loss: 1.0627 - dense_2_acc: 0.4039 - dense_3_acc: 0.4219
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1244 - dense_2_loss: 1.0623 - dense_3_loss: 1.0621 - dense_2_acc: 0.4175 - dense_3_acc: 0.4257
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1214 - dense_2_loss: 1.0608 - dense_3_loss: 1.0606 - dense_2_acc: 0.4181 - dense_3_acc: 0.4233
+2400/2400 [==============================] - 0s 123us/step - loss: 2.1127 - dense_2_loss: 1.0568 - dense_3_loss: 1.0559 - dense_2_acc: 0.4229 - dense_3_acc: 0.4242
+Epoch 43/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1223 - dense_2_loss: 1.1102 - dense_3_loss: 1.0121 - dense_2_acc: 0.3125 - dense_3_acc: 0.5625
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1248 - dense_2_loss: 1.0703 - dense_3_loss: 1.0545 - dense_2_acc: 0.3929 - dense_3_acc: 0.4442
+ 896/2400 [==========>...................] - ETA: 0s - loss: 2.1228 - dense_2_loss: 1.0693 - dense_3_loss: 1.0535 - dense_2_acc: 0.4051 - dense_3_acc: 0.4330
+1344/2400 [===============>..............] - ETA: 0s - loss: 2.1241 - dense_2_loss: 1.0694 - dense_3_loss: 1.0547 - dense_2_acc: 0.4115 - dense_3_acc: 0.4308
+1760/2400 [=====================>........] - ETA: 0s - loss: 2.1207 - dense_2_loss: 1.0665 - dense_3_loss: 1.0542 - dense_2_acc: 0.4119 - dense_3_acc: 0.4318
+2176/2400 [==========================>...] - ETA: 0s - loss: 2.1152 - dense_2_loss: 1.0600 - dense_3_loss: 1.0552 - dense_2_acc: 0.4150 - dense_3_acc: 0.4361
+2400/2400 [==============================] - 0s 122us/step - loss: 2.1149 - dense_2_loss: 1.0599 - dense_3_loss: 1.0551 - dense_2_acc: 0.4108 - dense_3_acc: 0.4367
+Epoch 44/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0171 - dense_2_loss: 0.9767 - dense_3_loss: 1.0403 - dense_2_acc: 0.5625 - dense_3_acc: 0.4375
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1056 - dense_2_loss: 1.0472 - dense_3_loss: 1.0584 - dense_2_acc: 0.4263 - dense_3_acc: 0.3996
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1284 - dense_2_loss: 1.0619 - dense_3_loss: 1.0664 - dense_2_acc: 0.4178 - dense_3_acc: 0.4062
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1158 - dense_2_loss: 1.0610 - dense_3_loss: 1.0548 - dense_2_acc: 0.4164 - dense_3_acc: 0.4148
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1262 - dense_2_loss: 1.0651 - dense_3_loss: 1.0610 - dense_2_acc: 0.4192 - dense_3_acc: 0.4139
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1251 - dense_2_loss: 1.0629 - dense_3_loss: 1.0621 - dense_2_acc: 0.4214 - dense_3_acc: 0.4167
+2400/2400 [==============================] - 0s 125us/step - loss: 2.1208 - dense_2_loss: 1.0614 - dense_3_loss: 1.0594 - dense_2_acc: 0.4254 - dense_3_acc: 0.4192
+Epoch 45/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0248 - dense_2_loss: 1.0443 - dense_3_loss: 0.9804 - dense_2_acc: 0.5000 - dense_3_acc: 0.5312
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1151 - dense_2_loss: 1.0587 - dense_3_loss: 1.0564 - dense_2_acc: 0.4174 - dense_3_acc: 0.4129
+ 832/2400 [=========>....................] - ETA: 0s - loss: 2.1176 - dense_2_loss: 1.0614 - dense_3_loss: 1.0562 - dense_2_acc: 0.3990 - dense_3_acc: 0.4219
+1248/2400 [==============>...............] - ETA: 0s - loss: 2.1275 - dense_2_loss: 1.0589 - dense_3_loss: 1.0686 - dense_2_acc: 0.4119 - dense_3_acc: 0.4038
+1664/2400 [===================>..........] - ETA: 0s - loss: 2.1227 - dense_2_loss: 1.0618 - dense_3_loss: 1.0609 - dense_2_acc: 0.4147 - dense_3_acc: 0.4111
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1194 - dense_2_loss: 1.0591 - dense_3_loss: 1.0602 - dense_2_acc: 0.4197 - dense_3_acc: 0.4135
+2400/2400 [==============================] - 0s 127us/step - loss: 2.1169 - dense_2_loss: 1.0587 - dense_3_loss: 1.0583 - dense_2_acc: 0.4204 - dense_3_acc: 0.4142
+Epoch 46/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1442 - dense_2_loss: 1.0281 - dense_3_loss: 1.1161 - dense_2_acc: 0.3438 - dense_3_acc: 0.3438
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.0784 - dense_2_loss: 1.0436 - dense_3_loss: 1.0349 - dense_2_acc: 0.4442 - dense_3_acc: 0.4554
+ 832/2400 [=========>....................] - ETA: 0s - loss: 2.0918 - dense_2_loss: 1.0512 - dense_3_loss: 1.0407 - dense_2_acc: 0.4363 - dense_3_acc: 0.4519
+1248/2400 [==============>...............] - ETA: 0s - loss: 2.0992 - dense_2_loss: 1.0473 - dense_3_loss: 1.0519 - dense_2_acc: 0.4375 - dense_3_acc: 0.4407
+1664/2400 [===================>..........] - ETA: 0s - loss: 2.1000 - dense_2_loss: 1.0494 - dense_3_loss: 1.0506 - dense_2_acc: 0.4423 - dense_3_acc: 0.4423
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1077 - dense_2_loss: 1.0527 - dense_3_loss: 1.0550 - dense_2_acc: 0.4361 - dense_3_acc: 0.4394
+2400/2400 [==============================] - 0s 128us/step - loss: 2.1140 - dense_2_loss: 1.0580 - dense_3_loss: 1.0560 - dense_2_acc: 0.4279 - dense_3_acc: 0.4346
+Epoch 47/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1190 - dense_2_loss: 1.0499 - dense_3_loss: 1.0690 - dense_2_acc: 0.4688 - dense_3_acc: 0.4688
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1172 - dense_2_loss: 1.0677 - dense_3_loss: 1.0495 - dense_2_acc: 0.4018 - dense_3_acc: 0.4576
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1048 - dense_2_loss: 1.0555 - dense_3_loss: 1.0492 - dense_2_acc: 0.4086 - dense_3_acc: 0.4468
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.0932 - dense_2_loss: 1.0476 - dense_3_loss: 1.0456 - dense_2_acc: 0.4211 - dense_3_acc: 0.4484
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1073 - dense_2_loss: 1.0566 - dense_3_loss: 1.0507 - dense_2_acc: 0.4216 - dense_3_acc: 0.4399
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1105 - dense_2_loss: 1.0596 - dense_3_loss: 1.0509 - dense_2_acc: 0.4223 - dense_3_acc: 0.4370
+2400/2400 [==============================] - 0s 127us/step - loss: 2.1163 - dense_2_loss: 1.0604 - dense_3_loss: 1.0559 - dense_2_acc: 0.4242 - dense_3_acc: 0.4288
+Epoch 48/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.1329 - dense_2_loss: 1.1313 - dense_3_loss: 1.0016 - dense_2_acc: 0.3750 - dense_3_acc: 0.5312
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1148 - dense_2_loss: 1.0533 - dense_3_loss: 1.0615 - dense_2_acc: 0.4263 - dense_3_acc: 0.4174
+ 832/2400 [=========>....................] - ETA: 0s - loss: 2.0990 - dense_2_loss: 1.0538 - dense_3_loss: 1.0452 - dense_2_acc: 0.4375 - dense_3_acc: 0.4411
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1127 - dense_2_loss: 1.0582 - dense_3_loss: 1.0545 - dense_2_acc: 0.4297 - dense_3_acc: 0.4273
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1071 - dense_2_loss: 1.0556 - dense_3_loss: 1.0515 - dense_2_acc: 0.4322 - dense_3_acc: 0.4251
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1122 - dense_2_loss: 1.0561 - dense_3_loss: 1.0560 - dense_2_acc: 0.4266 - dense_3_acc: 0.4143
+2400/2400 [==============================] - 0s 125us/step - loss: 2.1128 - dense_2_loss: 1.0558 - dense_3_loss: 1.0570 - dense_2_acc: 0.4267 - dense_3_acc: 0.4121
+Epoch 49/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0872 - dense_2_loss: 1.0502 - dense_3_loss: 1.0370 - dense_2_acc: 0.3750 - dense_3_acc: 0.5938
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.0907 - dense_2_loss: 1.0463 - dense_3_loss: 1.0444 - dense_2_acc: 0.4241 - dense_3_acc: 0.4509
+ 832/2400 [=========>....................] - ETA: 0s - loss: 2.0879 - dense_2_loss: 1.0444 - dense_3_loss: 1.0435 - dense_2_acc: 0.4423 - dense_3_acc: 0.4495
+1248/2400 [==============>...............] - ETA: 0s - loss: 2.0964 - dense_2_loss: 1.0494 - dense_3_loss: 1.0471 - dense_2_acc: 0.4303 - dense_3_acc: 0.4487
+1664/2400 [===================>..........] - ETA: 0s - loss: 2.0963 - dense_2_loss: 1.0485 - dense_3_loss: 1.0478 - dense_2_acc: 0.4303 - dense_3_acc: 0.4417
+2080/2400 [=========================>....] - ETA: 0s - loss: 2.1051 - dense_2_loss: 1.0524 - dense_3_loss: 1.0527 - dense_2_acc: 0.4303 - dense_3_acc: 0.4337
+2400/2400 [==============================] - 0s 127us/step - loss: 2.1093 - dense_2_loss: 1.0561 - dense_3_loss: 1.0532 - dense_2_acc: 0.4283 - dense_3_acc: 0.4333
+Epoch 50/50
+
+  32/2400 [..............................] - ETA: 0s - loss: 2.0113 - dense_2_loss: 1.0650 - dense_3_loss: 0.9463 - dense_2_acc: 0.4062 - dense_3_acc: 0.5000
+ 448/2400 [====>.........................] - ETA: 0s - loss: 2.1214 - dense_2_loss: 1.0562 - dense_3_loss: 1.0652 - dense_2_acc: 0.4174 - dense_3_acc: 0.4375
+ 864/2400 [=========>....................] - ETA: 0s - loss: 2.1088 - dense_2_loss: 1.0509 - dense_3_loss: 1.0579 - dense_2_acc: 0.4178 - dense_3_acc: 0.4317
+1280/2400 [===============>..............] - ETA: 0s - loss: 2.1054 - dense_2_loss: 1.0512 - dense_3_loss: 1.0542 - dense_2_acc: 0.4250 - dense_3_acc: 0.4172
+1696/2400 [====================>.........] - ETA: 0s - loss: 2.1121 - dense_2_loss: 1.0539 - dense_3_loss: 1.0582 - dense_2_acc: 0.4328 - dense_3_acc: 0.4080
+2112/2400 [=========================>....] - ETA: 0s - loss: 2.1161 - dense_2_loss: 1.0589 - dense_3_loss: 1.0572 - dense_2_acc: 0.4223 - dense_3_acc: 0.4081
+2400/2400 [==============================] - 0s 126us/step - loss: 2.1155 - dense_2_loss: 1.0586 - dense_3_loss: 1.0569 - dense_2_acc: 0.4213 - dense_3_acc: 0.4104

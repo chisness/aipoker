@@ -1,192 +1,132 @@
-Running tests, seeds: 0 to 9, numb of hands: 3000, players: olduak efs juan
+Running tests, seeds: 0 to 9, numb of hands: 10, players: olduak efs juan
 
 Seed: 0
 starting position: olduak efs juan
-SCORE:99|-364|265:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:280|-133|-147:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:88|-136|48:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:3|61|-64:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:253|-308|55:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:493|-333|-160:juan|olduak|efs
 
 seed score
-{'olduak': -99, 'efs': -888, 'juan': 987}
+{}
 accumulated score
-{'olduak': -99, 'efs': -888, 'juan': 987}
+{}
 
 Seed: 1
 starting position: olduak efs juan
-SCORE:-218|-163|381:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:-98|76|22:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-216|71|145:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-252|292|-40:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:-31|-190|221:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:74|-39|-35:juan|olduak|efs
 
 seed score
-{'olduak': -103, 'efs': -834, 'juan': 937}
+{}
 accumulated score
-{'olduak': -202, 'efs': -1722, 'juan': 1924}
+{}
 
 Seed: 2
 starting position: olduak efs juan
-SCORE:-243|-23|266:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:-55|269|-214:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-271|308|-37:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-327|416|-89:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:-11|36|-25:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:178|6|-184:juan|olduak|efs
 
 seed score
-{'olduak': -98, 'efs': -983, 'juan': 1081}
+{}
 accumulated score
-{'olduak': -300, 'efs': -2705, 'juan': 3005}
+{}
 
 Seed: 3
 starting position: olduak efs juan
-SCORE:-10|-233|243:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:153|22|-175:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-23|25|-2:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-99|133|-34:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:180|-257|77:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:337|-107|-230:juan|olduak|efs
 
 seed score
-{'olduak': 104, 'efs': -1017, 'juan': 913}
+{}
 accumulated score
-{'olduak': -196, 'efs': -3722, 'juan': 3918}
+{}
 
 Seed: 4
 starting position: olduak efs juan
-SCORE:-80|-131|211:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:102|81|-183:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-66|45|21:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-114|213|-99:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:82|-198|116:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:251|2|-253:juan|olduak|efs
 
 seed score
-{'olduak': 86, 'efs': -945, 'juan': 859}
+{}
 accumulated score
-{'olduak': -110, 'efs': -4667, 'juan': 4777}
+{}
 
 Seed: 5
 starting position: olduak efs juan
-SCORE:-78|-287|365:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:96|35|-131:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-79|-52|131:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-146|200|-54:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:106|-222|116:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:186|-72|-114:juan|olduak|efs
 
 seed score
-{'olduak': -44, 'efs': -979, 'juan': 1023}
+{}
 accumulated score
-{'olduak': -154, 'efs': -5646, 'juan': 5800}
+{}
 
 Seed: 6
 starting position: olduak efs juan
-SCORE:-268|-145|413:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:-176|182|-6:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-330|156|174:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-315|280|35:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:-11|-152|163:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:147|-55|-92:juan|olduak|efs
 
 seed score
-{'olduak': -145, 'efs': -1040, 'juan': 1185}
+{}
 accumulated score
-{'olduak': -299, 'efs': -6686, 'juan': 6985}
+{}
 
 Seed: 7
 starting position: olduak efs juan
-SCORE:-105|-176|281:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:85|49|-134:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-171|61|110:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-137|169|-32:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:174|-198|24:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:250|-138|-112:juan|olduak|efs
 
 seed score
-{'olduak': -105, 'efs': -928, 'juan': 1033}
+{}
 accumulated score
-{'olduak': -404, 'efs': -7614, 'juan': 8018}
+{}
 
 Seed: 8
 starting position: olduak efs juan
-SCORE:164|-425|261:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:122|-9|-113:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:35|-125|90:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:17|75|-92:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:310|-453|143:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:437|-239|-198:juan|olduak|efs
 
 seed score
-{'olduak': -27, 'efs': -1137, 'juan': 1164}
+{}
 accumulated score
-{'olduak': -431, 'efs': -8751, 'juan': 9182}
+{}
 
 Seed: 9
 starting position: olduak efs juan
-SCORE:-15|-245|260:olduak|efs|juan
 starting position: olduak juan efs
-SCORE:144|16|-160:olduak|juan|efs
 starting position: efs olduak juan
-SCORE:-57|0|57:efs|olduak|juan
 starting position: efs juan olduak
-SCORE:-112|198|-86:efs|juan|olduak
 starting position: juan efs olduak
-SCORE:107|-213|106:juan|efs|olduak
 starting position: juan olduak efs
-SCORE:286|-138|-148:juan|olduak|efs
 
 seed score
-{'olduak': 11, 'efs': -935, 'juan': 924}
+{}
 accumulated score
-{'olduak': -420, 'efs': -9686, 'juan': 10106}
+{}
 

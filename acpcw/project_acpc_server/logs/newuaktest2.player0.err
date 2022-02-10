@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "../kuhn3p/players/Thief/kuhn3p-master/connect_to_dealer.py", line 20, in <module>
+    line = sockin.readline().strip()
+  File "/Users/maxchiswick/opt/miniconda3/envs/py2/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt

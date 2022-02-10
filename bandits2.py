@@ -136,7 +136,7 @@ if __name__ == "__main__":
 				avg_regrete010[j,i] = b.average_regret()
 
 		for i in range(runs):
-			b = Bandits(10, e=0.1, n=n)
+			b = Bandits(10, e=0.5, n=n)
 			#b.initial_pulls()
 			for j in range(timesteps):
 				b.pull()

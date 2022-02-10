@@ -18,6 +18,7 @@ class Node:
 		self.strategy_curr = []
 		self.strategy_avg = []
 		self.counter = 0
+		self.opp_prob = 1
 
 	def get_strategy(self):
 		normalizing_sum = 0
@@ -65,7 +66,7 @@ class KuhnCFR:
 			for i in range(2):
 				# for k2 in range(k):
 				random.shuffle(self.cards)
-				util[i] += self.external_cfr(self.cards[:2], [], 2, 0, i, t)
+				util[i] += self.external_cfr(self.cards[:2], [], 2, 0, i, t, 1)
 		# print('Average game value: {}'.format(util[0]/(self.iterations * k)))
 		util_diffs = {}
 		count_nodes = 0
@@ -74,7 +75,7 @@ class KuhnCFR:
 		# 	infoset = str(i[0]) + str(i[1:])
 		# 	print('card[history]', '[strategy]')
 			util_avg1 = self.nodes[i].util_sum/self.nodes[i].util_counter
-			print(i, self.nodes[i].get_average_strategy(), util_avg1)
+			print(i, self.nodes[i].get_average_strategy(), util_avg1)#, self.nodes[i].opp_prob)
 			util_max = -10000
 			util_min = 10000
 			for a in range(self.bet_options):
@@ -91,6 +92,9 @@ class KuhnCFR:
 		print('Selecting poker scenario...')
 		#print('len', len(self.nodes))
 		print(util_diffs)
+		# for i in sorted(self.nodes):
+		# 	for j in util_diffs:
+		# 		print(i, j)
 		util_diffs = {k: v for k, v in sorted(util_diffs.items(), key=lambda item: item[1])} #sorted
 		#print(util_diffs)
 		#n = random.choice(sorted(self.nodes)) #Random, but we want to do this based on importance
@@ -110,19 +114,123 @@ class KuhnCFR:
 		#for node index in reversed(range())
 			#print(node_index)
 			n = sorted(self.nodes)[node_index]
-			print('Your cards and action history: ', n)
+			#print('Your cards and action history: ', n)
+			card_player = int(n[0])
+			if card_player == 0:
+				print(f'Your card is: J')
+			elif card_player == 1:
+				print(f'Your card is: Q')
+			elif card_player == 2:
+				print(f'Your card is: K')
+			curr_history = n[2:-1].split()
+			if len(curr_history) > 1:
+				curr_history[0] = curr_history[0][0]
+			c_history = []
+			#print(f'The action history so far has been (Pass is 0 and Bet is 1) : {curr_history}')
+			for action in curr_history:
+				#print(action)
+				c_history.append(int(action))
+				#print(c_history)
+			print(f'The action history so far has been (Pass is 0 and Bet is 1) : {c_history}')
 			user_estimates = np.zeros(self.bet_options)
+			option_1 = '(1) < 20%'
+			option_1_max = 0.2
+			option_2 = '(2) 20-40%'
+			option_2_max = 0.4
+			option_3 = '(3) 40-60%'
+			option_3_max = 0.6
+			option_4 = '(4) 60-80%'
+			option_4_max = 0.8
+			option_5 = '(5) 80-100%'
+			option_5_max = 1
 			for i in range(self.bet_options):
-				print(f'What percent would you take action {i}?')
+				print(f'How often would you take action {i}? Select the corresponding number\n')
+				print(option_1, '\n')
+				print(option_2, '\n')
+				print(option_3, '\n')
+				print(option_4, '\n')
+				print(option_5, '\n')
 				user_estimates[i] = input()
 			utils = {}
 			for i in range(self.bet_options):
-				print(f'Your play for action {i}: {user_estimates[i]}')
+				#print(f'Your play for action {i}: {user_estimates[i]}')
 				utils[a] = self.nodes[n].util_sum/self.nodes[n].util_counter
-				print(f'Game theory optimal play for action {i}: {self.nodes[n].get_average_strategy()[i]} has expected utility {utils[a]}')
+				strat = self.nodes[n].get_average_strategy()[i]
+				print(f'Game theory optimal % to play action {i}: {strat}') 
+				print(f'This has has expected utility: {utils[a][i]}')
+				if strat < option_1_max and user_estimates[i] == 1:
+					print('You chose the best strategy!')
+				elif strat < option_2_max and strat > option_1_max and strat >=user_estimates[i] == 2:
+					print('You chose the best strategy!')
+				elif strat < option_3_max and strat > option_2_max and user_estimates[i] == 3:
+					print('You chose the best strategy!')
+				elif strat < option_4_max and strat > option_3_max and user_estimates[i] == 4:
+					print('You chose the best strategy!')
+				elif strat < option_5_max and strat > option_4_max and user_estimates[i] == 5:
+					print('You chose the best strategy!')
+			print(f'The game theory optimal strategy is [Pass, Bet]: {self.nodes[n].get_average_strategy()}')
+				
+			c_counter = 0
+			for our_action in range(self.bet_options):
+				#print(c_history)
+				if c_counter == 1:
+					c_history = c_history[:-1]
+				c_history.append(our_action)
+				c_counter = 1
+				#print(c_history)
+				our_c = int(n[0])
+				if our_c == 0:
+					for c_card in [1,2]:
+						infoset_opp = str(c_card) + str(c_history)
+						if infoset_opp not in self.nodes:
+							print(f'top {infoset_opp}')
+							print(f'After our action {our_action}, the hand is over so no opponent response')
+							break
+						else: 
+							opp_strat = self.nodes[infoset_opp].get_average_strategy()
+							print(f'Opponent GTO response to action {our_action} with card {c_card} is Pass {opp_strat[0]}, Bet {opp_strat[1]}')
+				elif our_c == 1:
+					for c_card in [0,2]:
+						infoset_opp = str(c_card) + str(c_history)
+						if infoset_opp not in self.nodes:
+							print(f'mid {infoset_opp}')
+							print(f'After our action {our_action}, the hand is over so no opponent response')
+							break
+						else: 
+							opp_strat = self.nodes[infoset_opp].get_average_strategy()
+							print(f'Opponent GTO response to action {our_action} with card {c_card} is Pass {opp_strat[0]}, Bet {opp_strat[1]}')
+
+				elif our_c == 2:
+					for c_card in [0, 1]:
+						infoset_opp = str(c_card) + str(c_history)
+						if infoset_opp not in self.nodes:
+							print(f'bottom {infoset_opp}')
+							print(f'After our action {our_action}, the hand is over so no opponent response')
+							break
+						else: 
+							opp_strat = self.nodes[infoset_opp].get_average_strategy()
+							print(f'Opponent GTO response to action {our_action} with card {c_card} is Pass {opp_strat[0]}, Bet {opp_strat[1]}')
+			
+
+			fig, ax1 = plt.subplots()
+			ax1.set_title('Expected utilities for different bet options')
+			ax1.set_xlabel('Bet options')
+			ax1.set_ylabel('Utility')
+			ax1.bar(range(self.bet_options), utils[a])
+			ax1.set_xticks(range(self.bet_options))
+
+			# ax2.set_title('Expected opponent response to ')
+			# ax2.set_xlabel('Bet options')
+			# ax2.set_ylabel('Utility')
+			# ax2.bar(range(self.bet_options), utils[a])
+			# ax2.set_xticks(range(self.bet_options))
+			plt.show()
+
 			fig, ax1 = plt.subplots()
 			#ax1 = fig.add_subplot(221)
 			l = range(self.nodes[n].counter)
+			player_card = n[0]
+			current_history = n[1]
 			#print('l', l)
 			#print('current strategy', self.nodes[n].strategy_curr)
 			#print('avg strategy', self.nodes[n].strategy_avg)
@@ -149,7 +257,7 @@ class KuhnCFR:
 			else:
 				count_wl += 1
 
-	def external_cfr(self, cards, history, pot, nodes_touched, traversing_player, t):
+	def external_cfr(self, cards, history, pot, nodes_touched, traversing_player, t, pr):
 		print('THIS IS ITERATION', t)
 		plays = len(history)
 		acting_player = plays % 2
@@ -177,6 +285,7 @@ class KuhnCFR:
 		if infoset not in self.nodes:
 			self.nodes[infoset] = Node(self.bet_options)
 
+		self.nodes[infoset].opp_prob *= pr
 		self.nodes[infoset].counter += 1
 		self.nodes[infoset].strategy_curr.append(np.array(self.nodes[infoset].get_strategy()[:]))
 		self.nodes[infoset].strategy_avg.append(self.nodes[infoset].get_average_strategy()[:])
@@ -196,7 +305,7 @@ class KuhnCFR:
 			for a in range(self.bet_options):
 				next_history = history + [a]
 				pot += a
-				util[a] = self.external_cfr(cards, next_history, pot, nodes_touched, traversing_player, t)
+				util[a] = self.external_cfr(cards, next_history, pot, nodes_touched, traversing_player, t, pr)
 				node_util += strategy[a] * util[a]
 
 			action_advantages = np.zeros(self.bet_options)
@@ -224,15 +333,17 @@ class KuhnCFR:
 			util = 0
 			if random.random() < strategy[0]:
 				next_history = history + [0]
+				pr = pr * strategy[0]
 			else: 
 				next_history = history + [1]
+				pr = pr * strategy[1]
 				pot += 1
-			util = self.external_cfr(cards, next_history, pot, nodes_touched, traversing_player, t)
+			util = self.external_cfr(cards, next_history, pot, nodes_touched, traversing_player, t, pr)
 			for a in range(self.bet_options):
 				self.nodes[infoset].strategy_sum[a] += strategy[a]
 				#self.nodes[infoset].strategy_hist[a].append(strategy[a])
 			return util
 
 if __name__ == "__main__":
-	k = KuhnCFR(10000, 3)
+	k = KuhnCFR(100000, 10)
 	k.cfr_iterations_external()

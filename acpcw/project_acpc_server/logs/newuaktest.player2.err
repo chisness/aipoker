@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "../kuhn3p/players/UltimateAIKuhn/connect_to_dealer.py", line 4, in <module>
+    import kuhn3p.players.Chump
+  File "/Users/maxchiswick/ml/aipoker/acpcw/kuhn3p/players/UltimateAIKuhn/kuhn3p/players/__init__.py", line 3, in <module>
+    from .Ultimate_ai_khun import UltimateAiKhun
+  File "/Users/maxchiswick/ml/aipoker/acpcw/kuhn3p/players/UltimateAIKuhn/kuhn3p/players/Ultimate_ai_khun.py", line 10, in <module>
+    import pandas as pd
+ImportError: No module named pandas

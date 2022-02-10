@@ -48,19 +48,20 @@ class KuhnCFR:
 		self.bet_options = 2
 		self.nodes = {}
 
-	def cfr_iterations_external(self, k = 10):
+	def cfr_iterations_external(self):
 		util = np.zeros(2)
 		for t in range(1, self.iterations + 1): 
 			for i in range(2):
-				for k2 in range(k):
-					random.shuffle(self.cards)
-					util[i] += self.external_cfr(self.cards[:2], [], 2, 0, i, t)
-		print('Average game value: {}'.format(util[0]/(self.iterations * k)))
+				random.shuffle(self.cards)
+				util[i] += self.external_cfr(self.cards[:2], [], 2, 0, i, t)
+				print(i, util[i])
+		print('Average game value: {}'.format(util[0]/(self.iterations)))
 		for i in sorted(self.nodes):
 			print(i, self.nodes[i].get_average_strategy())
 
 	def external_cfr(self, cards, history, pot, nodes_touched, traversing_player, t):
 		print('THIS IS ITERATION', t)
+		print(cards, history, pot)
 		plays = len(history)
 		acting_player = plays % 2
 		opponent_player = 1 - acting_player
@@ -119,5 +120,5 @@ class KuhnCFR:
 			return util
 
 if __name__ == "__main__":
-	k = KuhnCFR(100000, 3)
+	k = KuhnCFR(100000, 10)
 	k.cfr_iterations_external()
